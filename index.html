@@ -1,0 +1,730 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vocabulary</title>
+<style>
+body { font-family: Arial, "Noto Sans", sans-serif; margin:0; }
+#top { padding:12px 18px; border-bottom:1px solid #aaa; }
+button,input { font-size:14px; margin-right:8px; }
+#card { min-height:100px; padding:24px 7vw 8px; font-size:38px;
+        line-height:1.4; white-space:pre-wrap; }
+#stats { padding:8px 7vw; font-family:monospace; font-size:20px;
+         font-weight:bold; white-space:pre-wrap; }
+#lists { padding:6px 7vw 42px; font-family:monospace; font-size:20px;
+         line-height:1.45; white-space:pre-wrap; }
+#feedback { padding:4px 7vw; min-height:1.2em; font-weight:bold; }
+#help { position:fixed; left:0; right:0; bottom:0; padding:6px 7vw;
+        border-top:1px solid #ccc; background:white; font-size:13px; }
+#status { display:block; margin-top:7px; }
+
+#confirmOverlay {
+  display:none; position:fixed; inset:0; background:rgba(0,0,0,0.25);
+  align-items:center; justify-content:center; z-index:1000;
+}
+#confirmBox {
+  background:white; border:1px solid #777; padding:20px 24px;
+  min-width:390px; box-shadow:0 4px 18px rgba(0,0,0,0.25);
+}
+#confirmMessage { margin-bottom:18px; font-size:16px; }
+#confirmButtons { text-align:right; }
+#confirmButtons button { min-width:90px; margin-left:8px; }
+#phoneControls{display:none;padding:8px 4vw;gap:8px} #phoneControls button{flex:1;min-height:58px;font-size:19px;margin:0} #importButton,#exportButton{display:none}@media(max-width:700px),(pointer:coarse){#dirButton{display:none}#importButton,#exportButton{display:inline-block}#phoneControls{display:flex}#card{padding:18px 5vw 4px;font-size:34px}#stats,#lists{padding-left:5vw;font-size:18px}#confirmBox{min-width:0;width:82vw}}
+
+@media (max-width:700px), (pointer:coarse) {
+  #top { padding:10px 4vw 8px; }
+  #dirButton, #languageLabel, #languageSelect, #saveButton { display:none; }
+  #importButton, #exportButton {
+    display:block; width:100%; min-height:54px; margin:0 0 9px 0;
+    font-size:20px; font-weight:bold;
+  }
+  #top > label:not(#languageLabel) {
+    display:block; font-size:18px; margin:5px 0 8px;
+  }
+  #inverseBox { width:22px; height:22px; vertical-align:middle; }
+  #resetButton {
+    display:block; width:100%; min-height:48px; margin:0 0 7px 0;
+    font-size:18px;
+  }
+  #status { margin-top:8px; font-size:16px; line-height:1.3; }
+}
+</style>
+</head>
+<body>
+<div id="top">
+<button id="dirButton">Choose vocabulary directory</button>
+<button id="importButton">Choose vocabulary file</button>
+<button id="exportButton" disabled>Export backup</button>
+<input id="phoneFileInput" type="file" accept=".txt,text/plain" style="display:none">
+&nbsp;&nbsp;
+<label id="languageLabel" for="languageSelect">Vocabulary:</label>
+<select id="languageSelect" disabled>
+  <option value="">-- choose --</option>
+</select>
+<label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
+<button id="saveButton" disabled>Save</button>
+<button id="resetButton" disabled>Reset</button>
+<div id="status">Choose the directory containing files such as chinese_0.txt ... chinese_5.txt.</div>
+</div>
+<div id="card"></div>
+<div id="phoneControls"><button id="wrongButton">← Wrong</button><button id="revealButton">Reveal ↓</button><button id="rightButton">Right →</button></div>
+
+<div id="feedback"></div>
+<div id="stats"></div>
+<div id="lists"></div>
+
+<div id="confirmOverlay">
+  <div id="confirmBox">
+    <div id="confirmMessage"></div>
+    <div id="confirmButtons">
+      <button id="confirmSave">Save</button>
+      <button id="confirmDontSave">Don't save</button>
+      <button id="confirmGoBack">Go back</button>
+    </div>
+  </div>
+</div>
+
+<script>
+"use strict";
+const NLISTS=6;
+let words=[], lists=Array.from({length:NLISTS},()=>[]);
+let current=null, revealLevel=0, inputName="vocabulary.txt";
+let dirty=false;
+let rememberedHandle=null;
+let currentLanguage="";
+const card=document.getElementById("card");
+const status=document.getElementById("status");
+const listDisplay=document.getElementById("lists");
+const feedback=document.getElementById("feedback");
+const statsDisplay=document.getElementById("stats");
+let numRight=0, numWrong=0, initialProgress=0;
+const dirButton=document.getElementById("dirButton");
+const languageSelect=document.getElementById("languageSelect");
+const saveButton=document.getElementById("saveButton");
+const resetButton=document.getElementById("resetButton");
+const inverseBox=document.getElementById("inverseBox");
+const importButton=document.getElementById("importButton"), exportButton=document.getElementById("exportButton"), phoneFileInput=document.getElementById("phoneFileInput"), wrongButton=document.getElementById("wrongButton"), revealButton=document.getElementById("revealButton"), rightButton=document.getElementById("rightButton");
+const phoneMode=matchMedia("(max-width:700px),(pointer:coarse)").matches;
+
+function setDirty(value) {
+  dirty=value;
+  if (dirty) {
+    saveButton.textContent="Save *";
+  } else {
+    saveButton.textContent="Save";
+  }
+}
+
+/*
+ * Ask what to do with unsaved changes before switching vocabulary
+ * or directory.
+ *
+ * Returns true if it is OK to continue, false if the switch is cancelled.
+ */
+function askSaveChoice(message) {
+  return new Promise(resolve=>{
+    const overlay=document.getElementById("confirmOverlay");
+    const msg=document.getElementById("confirmMessage");
+    const save=document.getElementById("confirmSave");
+    const dont=document.getElementById("confirmDontSave");
+    const back=document.getElementById("confirmGoBack");
+
+    msg.textContent=message;
+    overlay.style.display="flex";
+
+    function finish(answer) {
+      overlay.style.display="none";
+      save.onclick=null;
+      dont.onclick=null;
+      back.onclick=null;
+      resolve(answer);
+    }
+
+    save.onclick=()=>finish("save");
+    dont.onclick=()=>finish("dont-save");
+    back.onclick=()=>finish("go-back");
+  });
+}
+
+function askResetChoice() {
+  return new Promise(resolve=>{
+    const overlay=document.getElementById("confirmOverlay");
+    const msg=document.getElementById("confirmMessage");
+    const yes=document.getElementById("confirmSave");
+    const cancel=document.getElementById("confirmDontSave");
+    const extra=document.getElementById("confirmGoBack");
+    msg.textContent="Reset lists?";
+    yes.textContent="Yes";
+    cancel.textContent="Cancel";
+    extra.style.display="none";
+    overlay.style.display="flex";
+    function finish(answer) {
+      overlay.style.display="none";
+      yes.textContent="Save";
+      cancel.textContent="Don't save";
+      extra.style.display="";
+      yes.onclick=null; cancel.onclick=null;
+      resolve(answer);
+    }
+    yes.onclick=()=>finish(true);
+    cancel.onclick=()=>finish(false);
+  });
+}
+
+async function protectUnsavedChanges() {
+  if (!dirty) return true;
+
+  const answer=await askSaveChoice(
+      "Save the present vocabulary before changing?");
+
+  if(answer==="save")
+    return await saveCurrentVocabulary();
+
+  if(answer==="dont-save")
+    return true;
+
+  return false;
+}
+
+
+function parseLine(line) {
+  line=line.trim();
+  if(!line) return null;
+  const p=line.split(":").map(s=>s.trim());
+  if(p.length<2) return {front:line,middle:null,back:""};
+  if(p.length===2) return {front:p[0],middle:null,back:p[1]};
+  return {front:p[0],middle:p[1],back:p.slice(2).join(" : ")};
+}
+function loadText(text) {
+  words=text.split(/\r?\n/).map(parseLine).filter(Boolean);
+  lists=Array.from({length:NLISTS},()=>[]);
+  words.forEach((w,i)=>lists[0].push(i));
+  chooseWord(); updateLists();
+  status.textContent=words.length+" words loaded.";
+}
+function chooseList() {
+  /*
+   * Weight individual WORDS, not whole lists.
+   *
+   * Previously each non-empty list as a whole had weight
+   * 32,16,8,4,2,1.  Thus a list containing one word could be selected
+   * just as often as a list containing 200 words.  That caused the same
+   * small collection of words to recur constantly.
+   *
+   * Now every word in list 0 has weight 32, every word in list 1 has
+   * weight 16, etc.  Hence, within a level, all words have equal chance.
+   */
+  const weights=[32,16,8,4,2,1];
+  let total=0;
+
+  for(let i=0;i<NLISTS;i++)
+    total += weights[i] * lists[i].length;
+
+  if(!total) return -1;
+
+  let r=Math.random()*total;
+
+  for(let i=0;i<NLISTS;i++) {
+    const block=weights[i]*lists[i].length;
+    if(r < block) return i;
+    r -= block;
+  }
+
+  return NLISTS-1;
+}
+function chooseWord() {
+  const oldWord = current ? current.word : -1;
+  const l = chooseList();
+
+  if (l < 0) {
+    current = null;
+    card.textContent = "";
+    return;
+  }
+
+  let p = Math.floor(Math.random() * lists[l].length);
+
+  /*
+   * Never show the same word twice in succession if there is any
+   * alternative word available in the selected list.
+   */
+  if (lists[l].length > 1 && lists[l][p] === oldWord) {
+    const offset = 1 + Math.floor(Math.random() * (lists[l].length - 1));
+    p = (p + offset) % lists[l].length;
+  }
+
+  current = {list:l, pos:p, word:lists[l][p]};
+  revealLevel=0;
+  showCard();
+}
+function showCard() {
+  if(!current)return;
+  const w=words[current.word];
+  const inverse=inverseBox.checked;
+  let s;
+
+  if(!inverse) {
+    /* Normal direction:
+     *   Czech -> English
+     *   Chinese -> pinyin -> English
+     */
+    s=w.front;
+
+    if(w.middle!==null) {
+      if(revealLevel>=1) s+=" : "+w.middle;
+      if(revealLevel>=2) s+=" : "+w.back;
+    } else if(revealLevel>=1) {
+      s+=" : "+w.back;
+    }
+  } else {
+    /* Inverse direction:
+     *   English -> Czech
+     *
+     * For a three-field Chinese entry, start with English, then reveal
+     * pinyin, then the Chinese characters.
+     */
+    s=w.back;
+
+    if(w.middle!==null) {
+      if(revealLevel>=1) s+=" : "+w.middle;
+      if(revealLevel>=2) s+=" : "+w.front;
+    } else if(revealLevel>=1) {
+      s+=" : "+w.front;
+    }
+  }
+
+  card.textContent=s;
+}
+function reveal() {
+  if(!current)return;
+  revealLevel=Math.min(words[current.word].middle!==null?2:1,
+                       revealLevel+1);
+  showCard();
+}
+function hide(){revealLevel=0;showCard();}
+function moveWord(delta) {
+  if(!current)return;
+
+  const old=current.list;
+
+  /*
+   * As in the C version, RIGHT counts as known and LEFT as wrong,
+   * even when the word is already at the end level.
+   */
+  if(delta>0) numRight++;
+  if(delta<0) numWrong++;
+
+  const neu=Math.max(0,Math.min(NLISTS-1,old+delta));
+  if(neu!==old) {
+    const wi=current.word;
+    lists[old].splice(current.pos,1);
+    lists[neu].push(wi);
+  }
+
+  setDirty(true);
+  chooseWord();
+  updateLists();
+  savePhoneState();
+}
+function progressScore() {
+  let progress=0;
+  for(let i=0;i<NLISTS;i++)
+    progress += lists[i].length * i;
+  return progress;
+}
+
+function resetStatistics() {
+  numRight=0;
+  numWrong=0;
+  initialProgress=progressScore();
+  updateStatus();
+}
+
+function updateStatus() {
+  const total=words.length;
+  const attempts=numRight+numWrong;
+  const progress=progressScore();
+
+  const percent = attempts ? 100.0*numRight/attempts : 0.0;
+
+  /*
+   * Progress achieved toward having every word in list 5.
+   * Thus 0% means all words are in list 0, and 100% means
+   * all words are in list 5.
+   */
+  const maxProgress=(NLISTS-1)*total;
+  const achieved = maxProgress ?
+      100.0*progress/maxProgress : 0.0;
+
+  const effectiveness = attempts ?
+      100.0*(progress-initialProgress)/attempts : 0.0;
+
+  statsDisplay.textContent =
+    "# wrong : "+numWrong+"\n"+
+    "# right : "+numRight+"\n"+
+    "% right : "+percent.toFixed(2)+"%\n"+
+    "effective : "+effectiveness.toFixed(2)+"%\n"+
+    "Progress : "+achieved.toFixed(2)+"%";
+}
+
+function updateLists() {
+  listDisplay.textContent=lists.map((x,i)=>
+    "List "+i+": "+x.length).join("\n");
+  updateStatus();
+}
+let dirHandle = null;
+
+function phoneDB(){return new Promise((ok,no)=>{const r=indexedDB.open("vocab-phone",1);r.onupgradeneeded=()=>{if(!r.result.objectStoreNames.contains("states"))r.result.createObjectStore("states")};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
+async function savePhoneState(){if(!phoneMode||!currentLanguage||!words.length)return;try{const db=await phoneDB(),tx=db.transaction("states","readwrite");tx.objectStore("states").put({words,lists,inverse:inverseBox.checked},currentLanguage);await new Promise((a,b)=>{tx.oncomplete=a;tx.onerror=()=>b(tx.error)});db.close();localStorage.setItem("vocab-phone-last",currentLanguage)}catch(e){}}
+async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=d.lists;currentLanguage=name;inverseBox.checked=!!d.inverse;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=numWrong=0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";return true}catch(e){return false}}
+function downloadText(n,t){const u=URL.createObjectURL(new Blob([t],{type:"text/plain;charset=utf-8"})),a=document.createElement("a");a.href=u;a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
+async function exportPhoneVocabulary(){for(let l=0;l<NLISTS;l++){const a=[];for(const wi of lists[l]){const w=words[wi];a.push(w.middle!==null?w.front+" : "+w.middle+" : "+w.back:w.front+" : "+w.back)}downloadText(currentLanguage+"_"+l+".txt",a.join("\n")+(a.length?"\n":""));await new Promise(r=>setTimeout(r,150))}feedback.textContent="<files exported>";setTimeout(()=>feedback.textContent="",2500)}
+async function findLanguages() {
+  const languages = new Set();
+
+  /*
+   * If the directory contains, for example,
+   *
+   *    chinese_0.txt
+   *    chinese_1.txt
+   *       ...
+   *    chinese_5.txt
+   *
+   * then "chinese" is offered in the Vocabulary menu.
+   */
+  for await (const [name, handle] of dirHandle.entries()) {
+    if (handle.kind !== "file") continue;
+
+    const m = name.match(/^(.*)_([0-5])\.txt$/);
+    if (m)
+      languages.add(m[1]);
+  }
+
+  const select = document.getElementById("languageSelect");
+  select.innerHTML = '<option value="">-- choose --</option>';
+
+  for (const language of Array.from(languages).sort()) {
+    const opt = document.createElement("option");
+    opt.value = language;
+    opt.textContent = language;
+    select.appendChild(opt);
+  }
+
+  select.disabled = languages.size === 0;
+  document.getElementById("saveButton").disabled = true;
+
+  words = [];
+  lists = Array.from({length:NLISTS},()=>[]);
+  current = null;
+  card.textContent = "";
+  updateLists();
+
+  if (languages.size === 0)
+    status.textContent =
+      "No files named <language>_0.txt ... <language>_5.txt were found.";
+  else
+    status.textContent =
+      "Choose a vocabulary from the menu.";
+}
+
+async function loadLanguage(language) {
+  words=[];
+  lists=Array.from({length:NLISTS},()=>[]);
+
+  for (let level=0; level<NLISTS; ++level) {
+    const name = language + "_" + level + ".txt";
+
+    try {
+      const fh = await dirHandle.getFileHandle(name);
+      const file = await fh.getFile();
+      const text = await file.text();
+      const ws = text.split(/\r?\n/).map(parseLine).filter(Boolean);
+
+      for (const w of ws) {
+        const i=words.length;
+        words.push(w);
+        lists[level].push(i);
+      }
+    } catch (e) {
+      /* A missing level file is simply treated as an empty level. */
+    }
+  }
+
+  currentLanguage=language;
+  localStorage.setItem("vocab-language", language);
+
+  chooseWord();
+  initialProgress=progressScore();
+  numRight=0;
+  numWrong=0;
+  setDirty(false);
+  updateLists();
+  status.textContent =
+      words.length + " words loaded from " + language + "_0.txt ... " +
+      language + "_5.txt";
+}
+
+
+async function rememberDirectory(handle) {
+  /*
+   * FileSystemHandle objects can be stored in IndexedDB.  This lets Chrome
+   * or Edge remember the chosen directory between page visits.  The browser
+   * may still require one click to renew permission after a browser restart.
+   */
+  localStorage.setItem("vocab-directory-name", handle.name || "previous directory");
+
+  return new Promise((resolve,reject)=>{
+    const req=indexedDB.open("vocab-browser",1);
+    req.onupgradeneeded=()=>{
+      if(!req.result.objectStoreNames.contains("settings"))
+        req.result.createObjectStore("settings");
+    };
+    req.onerror=()=>reject(req.error);
+    req.onsuccess=()=>{
+      const db=req.result;
+      const tx=db.transaction("settings","readwrite");
+      tx.objectStore("settings").put(handle,"directory");
+      tx.oncomplete=()=>{db.close();resolve();};
+      tx.onerror=()=>reject(tx.error);
+    };
+  });
+}
+
+async function recalledDirectory() {
+  return new Promise((resolve,reject)=>{
+    const req=indexedDB.open("vocab-browser",1);
+    req.onupgradeneeded=()=>{
+      if(!req.result.objectStoreNames.contains("settings"))
+        req.result.createObjectStore("settings");
+    };
+    req.onerror=()=>reject(req.error);
+    req.onsuccess=()=>{
+      const db=req.result;
+      const tx=db.transaction("settings","readonly");
+      const get=tx.objectStore("settings").get("directory");
+      get.onsuccess=()=>{const h=get.result;db.close();resolve(h||null);};
+      get.onerror=()=>{db.close();reject(get.error);};
+    };
+  });
+}
+
+async function tryRestoreDirectory() {
+  try {
+    const h=await recalledDirectory();
+    if(!h) return;
+
+    rememberedHandle=h;
+    const rememberedLanguage=localStorage.getItem("vocab-language") || "";
+    const dirName=localStorage.getItem("vocab-directory-name") ||
+                  h.name || "previous directory";
+
+    const permission=await h.queryPermission({mode:"readwrite"});
+
+    if(permission==="granted") {
+      dirHandle=h;
+      await findLanguages();
+
+      if(rememberedLanguage &&
+         Array.from(languageSelect.options).some(o=>o.value===rememberedLanguage)) {
+        languageSelect.value=rememberedLanguage;
+        await loadLanguage(rememberedLanguage);
+        saveButton.disabled=false;
+        resetButton.disabled=false;
+        status.textContent =
+          "Restored " + dirName + " / " + rememberedLanguage + ".";
+      } else {
+        status.textContent =
+          "Restored directory " + dirName + ". Choose a vocabulary.";
+      }
+    } else {
+      dirButton.textContent="Reopen " + dirName;
+      status.textContent =
+        "Previous directory " + dirName +
+        " remembered. Click the button to reopen it.";
+    }
+  } catch(e) {
+    /* Persistence is helpful but must never prevent normal use. */
+  }
+}
+
+dirButton.addEventListener("click", async ()=>{
+  if (!window.showDirectoryPicker) {
+    status.textContent =
+      "This browser does not support direct directory access. Use Chrome or Edge.";
+    return;
+  }
+
+  if(!(await protectUnsavedChanges()))
+    return;
+
+  try {
+    /*
+     * If a previous directory is remembered, try that first.  requestPermission
+     * is allowed here because this code is running in response to a user click.
+     */
+    if(rememberedHandle && dirHandle !== rememberedHandle) {
+      const permission=await rememberedHandle.requestPermission({mode:"readwrite"});
+      if(permission==="granted") {
+        dirHandle=rememberedHandle;
+        await findLanguages();
+
+        const rememberedLanguage=localStorage.getItem("vocab-language") || "";
+        if(rememberedLanguage &&
+           Array.from(languageSelect.options).some(o=>o.value===rememberedLanguage)) {
+          languageSelect.value=rememberedLanguage;
+          await loadLanguage(rememberedLanguage);
+          saveButton.disabled=false;
+          resetButton.disabled=false;
+        }
+
+        dirButton.textContent="Choose vocabulary directory";
+        return;
+      }
+    }
+
+    const pickerOptions = {mode:"readwrite"};
+    if (dirHandle)
+      pickerOptions.startIn = dirHandle;
+    else if (rememberedHandle)
+      pickerOptions.startIn = rememberedHandle;
+
+    const h=await window.showDirectoryPicker(pickerOptions);
+    dirHandle=h;
+    rememberedHandle=h;
+    await rememberDirectory(h);
+    await findLanguages();
+    dirButton.textContent="Choose vocabulary directory";
+  } catch (e) {
+    if (e.name !== "AbortError")
+      status.textContent = "Could not open directory: " + e;
+  }
+});
+
+languageSelect.addEventListener("change", async e=>{
+  const language=e.target.value;
+
+  if(!dirHandle || !language) {
+    saveButton.disabled=true;
+    resetButton.disabled=true;
+    return;
+  }
+
+  if(!(await protectUnsavedChanges())) {
+    languageSelect.value=currentLanguage;
+    return;
+  }
+
+  await loadLanguage(language);
+  saveButton.disabled=false;
+  resetButton.disabled=false;
+});
+
+async function saveCurrentVocabulary() {
+  if(!words.length || !dirHandle || !currentLanguage)
+    return false;
+
+  const language=currentLanguage;
+
+  try {
+    for(let l=0;l<NLISTS;l++) {
+      const lines=[];
+
+      for(const wi of lists[l]) {
+        const w=words[wi];
+        lines.push(w.middle!==null ?
+          w.front+" : "+w.middle+" : "+w.back :
+          w.front+" : "+w.back);
+      }
+
+      const fh=await dirHandle.getFileHandle(language+"_"+l+".txt",
+                                             {create:true});
+      const writable=await fh.createWritable();
+      await writable.write(lines.join("\n")+(lines.length?"\n":""));
+      await writable.close();
+    }
+
+    setDirty(false);
+    status.textContent =
+      "Saved " + language + "_0.txt through " + language + "_5.txt in place.";
+    feedback.textContent="<files saved>";
+    setTimeout(()=>{ feedback.textContent=""; }, 2500);
+    return true;
+  } catch(e) {
+    status.textContent="Could not save files: "+e;
+    feedback.textContent="<save failed>";
+    return false;
+  }
+}
+
+saveButton.addEventListener("click", async ()=>{
+  await saveCurrentVocabulary();
+});
+
+
+
+
+inverseBox.addEventListener("change", ()=>{
+  localStorage.setItem("vocab-inverse", inverseBox.checked ? "1" : "0");
+  revealLevel=0;
+  showCard();
+});
+
+resetButton.addEventListener("click", async ()=>{
+  if(!words.length) return;
+
+  const answer=await askResetChoice();
+  if(!answer) return;
+
+  /*
+   * Put every word back into list 0, preserving the current word order
+   * as far as possible.
+   */
+  const allWords=[];
+  for(let l=0; l<NLISTS; ++l)
+    for(const wi of lists[l])
+      allWords.push(wi);
+
+  lists=Array.from({length:NLISTS},()=>[]);
+  lists[0]=allWords;
+
+  current=null;
+  revealLevel=0;
+  numRight=0;
+  numWrong=0;
+  initialProgress=0;
+  setDirty(true);
+
+  chooseWord();
+  updateLists();
+  savePhoneState();
+
+  feedback.textContent="<lists reset>";
+  setTimeout(()=>{ feedback.textContent=""; },2500);
+});
+
+wrongButton.onclick=()=>moveWord(-1); revealButton.onclick=reveal; rightButton.onclick=()=>moveWord(1);
+importButton.onclick=()=>phoneFileInput.click(); exportButton.onclick=exportPhoneVocabulary;
+phoneFileInput.onchange=async()=>{const f=phoneFileInput.files[0];if(!f)return;const text=await f.text();currentLanguage=f.name.replace(/\.txt$/i,"").replace(/_[0-5]$/,"")||"vocabulary";words=text.split(/\r?\n/).map(parseLine).filter(Boolean);lists=Array.from({length:NLISTS},()=>[]);words.forEach((w,i)=>lists[0].push(i));current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=numWrong=0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent=words.length+" words imported as "+currentLanguage+".";await savePhoneState();phoneFileInput.value=""};
+document.addEventListener("keydown",e=>{
+  if(!current)return;
+  if(e.key==="ArrowDown"){e.preventDefault();reveal();}
+  else if(e.key==="ArrowUp"){e.preventDefault();hide();}
+  else if(e.key==="ArrowRight"){e.preventDefault();moveWord(1);}
+  else if(e.key==="ArrowLeft"){e.preventDefault();moveWord(-1);}
+  else if(e.key===" "){e.preventDefault();chooseWord();}
+});
+window.addEventListener("beforeunload", e=>{
+  if(dirty) {
+    e.preventDefault();
+    e.returnValue="";
+  }
+});
+
+inverseBox.checked=(localStorage.getItem("vocab-inverse")==="1");
+if(phoneMode){const last=localStorage.getItem("vocab-phone-last");if(last)loadPhoneState(last);else status.textContent="Import a vocabulary text file to begin.";}else tryRestoreDirectory();
+</script>
+<div id="help">↓ reveal &nbsp; ↑ hide &nbsp; → promote &nbsp;
+← demote &nbsp; Space = next word</div>
+</body>
+</html>
