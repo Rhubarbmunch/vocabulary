@@ -50,6 +50,14 @@ button,input { font-size:14px; margin-right:8px; }
   #status { margin-top:8px; font-size:16px; line-height:1.3; }
 }
 </style>
+
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Vocabulary">
+<link rel="apple-touch-icon" href="vocabulary-icon-180.png">
+
 </head>
 <body>
 <div id="top">
@@ -723,6 +731,13 @@ window.addEventListener("beforeunload", e=>{
 
 inverseBox.checked=(localStorage.getItem("vocab-inverse")==="1");
 if(phoneMode){const last=localStorage.getItem("vocab-phone-last");if(last)loadPhoneState(last);else status.textContent="Import a vocabulary text file to begin.";}else tryRestoreDirectory();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./service-worker.js").catch(() => {});
+  });
+}
+
 </script>
 <div id="help">↓ reveal &nbsp; ↑ hide &nbsp; → promote &nbsp;
 ← demote &nbsp; Space = next word</div>
