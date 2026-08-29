@@ -1,0 +1,913 @@
+deštník : umbrella
+peněženka : wallet
+kabelka : handbag
+batoh : backpack
+kufr : suitcase
+ručník : towel
+mýdlo : soap
+kartáček : brush, toothbrush
+hřeben : comb
+zrcadlo : mirror
+hodinky : watch
+budík : alarm clock
+lampa : lamp
+žárovka : light bulb
+lednice : refrigerator
+mrazák : freezer
+pračka : washing machine
+myčka : dishwasher
+sporák : cooker, stove
+trouba : oven
+hrnec : pot
+pánev : frying pan
+talíř : plate
+miska : bowl
+hrnek : mug
+šálek : cup
+lžíce : spoon
+lžička : teaspoon
+vidlička : fork
+nůž : knife
+ubrousek : napkin
+koš : basket, bin
+odpad : waste, rubbish
+zásuvka : drawer, electrical socket
+skříň : cupboard, wardrobe
+police : shelf
+koberec : carpet
+záclona : curtain
+závěs : curtain, hanging
+schody : stairs
+výtah : lift, elevator
+chodba : corridor
+balkon : balcony
+sklep : cellar
+půda : attic, soil
+garáž : garage
+plot : fence
+brána : gate
+dvůr : courtyard
+soused : neighbour
+sousedka : female neighbour
+nájem : rent
+nájemník : tenant
+majitel : owner
+stěhování : moving house
+nábytek : furniture
+spotřebič : appliance
+prádlo : laundry, linen
+tričko : T-shirt
+svetr : jumper, sweater
+bunda : jacket
+kraťasy : shorts
+ponožka : sock
+holínka : rubber boot
+rukavice : glove
+čepice : cap
+šála : scarf
+pásek : belt
+kapsa : pocket
+knoflík : button
+zip : zip, zipper
+velikost : size
+prsten : ring
+náhrdelník : necklace
+brýle : glasses
+sluneční brýle : sunglasses
+barva : colour
+přímo : directly
+modrý : blue
+zelený : green
+žlutý : yellow
+bílý : white
+černý : black
+šedý : grey
+určitě : certainly
+oranžový : orange
+růžový : pink
+fialový : purple
+světlý : light, bright
+tmavý : dark
+společně : jointly, together
+pomeranč : orange
+citron : lemon
+banán : banana
+jahoda : strawberry
+třešeň : cherry
+švestka : plum
+broskev : peach
+meloun : melon
+brambora : potato
+rajče : tomato
+okurka : cucumber
+cibule : onion
+česnek : garlic
+zelí : cabbage
+salát : lettuce, salad
+hrách : peas
+fazole : beans
+houba : mushroom
+mouka : flour
+cukr : sugar
+sůl : salt
+pepř : pepper
+olej : oil
+ocet : vinegar
+máslo : butter
+vzájemně : mutually
+rýže : rice
+těstoviny : pasta
+polévka : soup
+omáčka : sauce
+koláč : cake, pie
+sušenka : biscuit
+čokoláda : chocolate
+zmrzlina : ice cream
+oběd : lunch
+večeře : dinner
+samostatně : independently
+žízeň : thirst
+chuť : taste, appetite
+recept : recipe
+jídelní lístek : menu
+účet : bill, account
+spropitné : tip, gratuity
+objednávka : order
+zákazník : customer
+číšník : waiter
+servírka : waitress
+kuchař : cook
+nádobí : dishes, crockery
+vařit : to cook
+péct : to bake, roast
+smažit : to fry
+krájet : to cut, slice
+míchat : to mix, stir
+nalít : to pour
+ochutnat : to taste
+objednat : to order
+hladový : hungry
+žíznivý : thirsty
+sladký : sweet
+slaný : salty
+hořký : bitter
+chutný : tasty
+čerstvý : fresh
+syrový : raw
+obličej : face
+čelo : forehead
+obočí : eyebrow
+řasa : eyelash
+tvář : cheek, face
+ústa : mouth
+ret : lip
+respektive : respectively, or rather
+ucho : ear
+krk : neck, throat
+rameno : shoulder
+paže : arm
+loket : elbow
+zápěstí : wrist
+dlaň : palm
+prst : finger
+palec : thumb
+nehet : nail
+břicho : belly
+záda : back
+pas : waist
+kyčel : hip
+stehno : thigh
+koleno : knee
+kotník : ankle
+pata : heel
+chodidlo : sole of foot
+kůže : skin
+kost : bone
+sval : muscle
+mozek : brain
+plíce : lungs
+žaludek : stomach
+játra : liver
+horečka : fever
+rýma : cold, runny nose
+kašel : cough
+bolest : pain
+rána : wound
+úraz : injury
+léčba : treatment
+vyšetření : examination
+zdravý : healthy
+bolet : to hurt
+kašlat : to cough
+kýchat : to sneeze
+dýchat : to breathe
+uzdravit se : to recover
+léčit : to treat, cure
+měřit : to measure
+spánek : sleep
+únava : tiredness
+odpočinek : rest
+procházka : walk
+běh : running
+plavání : swimming
+cvičení : exercise
+fotbal : football
+tenis : tennis
+lyžování : skiing
+výlet : excursion, trip
+dovolená : holiday, vacation
+cestující : passenger, traveller
+turista : tourist
+zavazadlo : luggage
+letenka : air ticket
+nástupiště : platform
+zastávka : stop
+letiště : airport
+přístav : harbour, port
+silnice : road
+dálnice : motorway
+křižovatka : crossroads, intersection
+semafor : traffic light
+chodník : pavement, footpath
+zatáčka : bend, turn
+směr : direction
+rychlost : speed
+vzdálenost : distance
+benzín : petrol
+palivo : fuel
+motor : engine
+pneumatika : tyre
+řidič : driver
+cestovat : to travel
+řídit : to drive, manage
+nastoupit : to get on, board
+vystoupit : to get off
+odjet : to leave by vehicle
+přijet : to arrive by vehicle
+dorazit : to arrive, reach
+zpozdit se : to be late
+zastavit : to stop
+odbočit : to turn off
+přejít : to cross, go over
+překročit : to cross, exceed
+navštívit : to visit
+ubytovat se : to find accommodation, check in
+rezervovat : to reserve
+mapa : map
+sever : north
+jih : south
+východ : east
+západ : west
+okolí : surroundings
+krajina : landscape, countryside
+údolí : valley
+vrchol : summit
+svah : slope
+skála : rock, cliff
+jeskyně : cave
+potok : stream
+břeh : bank, shore
+pobřeží : coast
+patrně : apparently, probably
+louka : meadow
+rostlina : plant
+větev : branch
+spíše : rather
+kořen : root
+semeno : seed
+úroda : harvest, crop
+příroda : nature
+životní prostředí : environment
+sucho : drought
+povodeň : flood
+bouře : storm
+blesk : lightning
+hrom : thunder
+mlha : fog
+mráz : frost
+teplota : temperature
+stín : shade, shadow
+vlhkost : humidity
+pršet : to rain
+sněžit : to snow
+foukat : to blow
+mrznout : to freeze
+tát : to melt
+růst : to grow
+kvést : to bloom
+koza : goat
+slepice : hen
+kohout : rooster
+kachna : duck
+husa : goose
+králík : rabbit
+krysa : rat
+veverka : squirrel
+jelen : deer
+liška : fox
+vlk : wolf
+medvěd : bear
+tygr : tiger
+opice : monkey
+had : snake
+žába : frog
+hmyz : insect
+včela : bee
+moucha : fly
+komár : mosquito
+motýl : butterfly
+pavouk : spider
+šnek : snail
+křídlo : wing
+ocas : tail
+srst : fur
+zobák : beak
+hlasitý : loud
+tichý : quiet
+hladký : smooth
+drsný : rough
+tupý : blunt
+tlustý : thick, fat
+tenký : thin
+široký : wide
+úzký : narrow
+hluboký : deep
+mělký : shallow
+lehký : light, easy
+prázdný : empty
+plný : full
+mokrý : wet
+suchý : dry
+drahý : expensive, dear
+levný : cheap
+blízký : near, close
+vzdálený : distant
+stejný : same
+odlišný : different
+obyčejný : ordinary
+zvláštní : strange, special
+hlavní : main
+vedlejší : secondary
+správný : correct
+nesprávný : incorrect
+pravdivý : true
+sotva : hardly
+přesný : exact, accurate
+přibližný : approximate
+nutný : necessary
+nemožný : impossible
+vhodný : suitable
+nevhodný : unsuitable
+bezpečný : safe
+nebezpečný : dangerous
+volný : free, loose
+obsazený : occupied
+otevřený : open
+zavřený : closed
+připravený : ready
+opatrný : careful
+zvědavý : curious
+statečný : brave
+líný : lazy
+chytrý : clever
+hloupý : stupid
+zdvořilý : polite
+hrubý : rude, rough
+laskavý : kind
+příjemný : pleasant
+nepříjemný : unpleasant
+spokojený : satisfied
+nespokojený : dissatisfied
+překvapený : surprised
+rozzlobený : angry
+vyděšený : frightened
+legrační : funny
+zajímavý : interesting
+nudný : boring
+užitečný : useful
+zbytečný : useless
+běžný : common, usual
+vzácný : rare
+vynikající : excellent
+hrozný : terrible
+nádherný : splendid, beautiful
+přestat : to stop, cease
+pokračovat : to continue
+pokusit se : to attempt
+dokázat : to manage, prove
+podařit se : to succeed
+selhat : to fail
+rozhodnout se : to decide
+vybrat : to choose, select
+zvolit : to choose, elect
+změnit : to change
+zlepšit : to improve
+zvýšit : to increase, raise
+snížit : to decrease, lower
+zvětšit : to enlarge
+zmenšit : to reduce, make smaller
+přidat : to add
+rozdělit : to divide
+spojit : to join
+oddělit : to separate
+porovnat : to compare
+počítat : to count, calculate
+vypočítat : to calculate
+změřit : to measure
+vážit : to weigh
+vážit si : to appreciate, respect
+nepřímo : indirectly
+fungovat : to function, work
+opravit : to repair, correct
+rozbít : to break
+stavět : to build
+dokonce : even
+vytvořit : to create
+vyrobit : to manufacture
+zničit : to destroy
+chránit : to protect
+zachránit : to save, rescue
+získat : to obtain, gain
+dosáhnout : to achieve, reach
+držet : to hold
+pustit : to let go, release
+tlačit : to push, press
+táhnout : to pull
+hodit : to throw
+chytit : to catch
+spadnout : to fall
+zvednout : to lift, raise
+položit : to put, lay
+přinést : to bring
+odnést : to carry away
+poslat : to send
+dostat : to get, receive
+přijmout : to accept, receive
+odmítnout : to refuse, reject
+nabídnout : to offer
+půjčit : to lend
+vrátit : to return
+vydělat : to earn
+utratit : to spend money
+šetřit : to save, economize
+patřit : to belong
+vlastnit : to own
+sdílet : to share
+setkat se : to meet
+seznámit se : to become acquainted
+pozvat : to invite
+souhlasit : to agree
+nesouhlasit : to disagree
+hádat se : to argue
+omluvit se : to apologize
+odpustit : to forgive
+slíbit : to promise
+dovolit : to allow
+zakázat : to forbid
+žádat : to ask, request
+požádat : to request, ask
+nabízet : to offer
+radit : to advise
+varovat : to warn
+vysvětlit : to explain
+popsat : to describe
+vyprávět : to narrate, tell
+zmínit : to mention
+oznámit : to announce
+tvrdit : to claim
+přiznat : to admit
+popřít : to deny
+dokazovat : to prove, demonstrate
+přeložit : to translate
+vyslovit : to pronounce
+opakovat : to repeat
+procvičovat : to practise
+pochopit : to understand, grasp
+uvědomit si : to realize
+představit si : to imagine
+vzpomínat : to remember, reminisce
+vzpomínka : memory, recollection
+zapamatovat si : to memorize, remember
+pochybovat : to doubt
+předem : in advance
+doufat : to hope
+očekávat : to expect
+předpokládat : to assume, suppose
+hádat : to guess
+zdát se : to seem
+záležet : to depend, matter
+okolnost : circumstance
+předpoklad : assumption, prerequisite
+příčina : cause
+důsledek : consequence
+následek : consequence, result
+účinek : effect
+vliv : influence
+dopad : impact
+výsledek : result
+průběh : course, progress
+postup : procedure, progress
+přístup : approach, access, attitude
+způsob : way, manner
+prostředek : means, resource
+účel : purpose
+záměr : intention, plan
+cíl : goal, target
+smysl : sense, meaning, purpose
+význam : meaning, significance
+souvislost : connection, context
+vztah : relationship
+vazba : link, bond
+rozdíl : difference
+podobnost : similarity
+shoda : agreement, match
+rozpor : contradiction, conflict
+spor : dispute
+pochybnost : doubt
+jistota : certainty
+nejistota : uncertainty
+pravděpodobnost : probability
+možnost : possibility
+příležitost : opportunity
+schopnost : ability
+dovednost : skill
+znalost : knowledge
+zkušenost : experience
+zvyk : habit, custom
+vlastnost : property, characteristic
+rys : feature, trait
+znak : sign, characteristic
+jev : phenomenon
+událost : event
+případ : case
+situace : situation
+stav : state, condition
+podmínka : condition
+požadavek : requirement, demand
+potřeba : need
+nedostatek : lack, shortage, defect
+přebytek : surplus
+výhoda : advantage
+nevýhoda : disadvantage
+překážka : obstacle
+obtíž : difficulty
+potíž : trouble, difficulty
+řešení : solution
+návrh : proposal, design
+rozhodnutí : decision
+volba : choice
+výběr : selection
+změna : change
+vývoj : development
+pokrok : progress
+úpadek : decline
+pokles : decline, fall
+zvýšení : increase
+snížení : reduction
+rozšíření : expansion, extension
+omezení : restriction, limitation
+rozsah : extent, range
+míra : degree, rate, measure
+úroveň : level
+hodnota : value
+množství : quantity
+počet : number, count
+podíl : share, proportion
+poměr : ratio, relation
+průměr : average, diameter
+většina : majority
+menšina : minority
+celek : whole
+část : part
+zbytek : remainder, rest
+výjimka : exception
+pravidlo : rule
+zásada : principle
+povinnost : duty, obligation
+závazek : commitment, obligation
+odpovědnost : responsibility
+vina : guilt, fault
+omyl : error, misconception
+riziko : risk
+hrozba : threat
+ochrana : protection
+bezpečnost : safety, security
+úsilí : effort
+snaha : effort, attempt
+úspěch : success
+neúspěch : failure
+prospěch : benefit
+škoda : damage, pity
+ztráta : loss
+zisk : profit, gain
+náklad : cost, load
+výdaj : expense
+příjem : income, receipt
+dluh : debt
+majetek : property, assets
+bohatství : wealth
+chudoba : poverty
+nabídka : offer, supply
+poptávka : demand
+výroba : production
+spotřeba : consumption
+zboží : goods
+služba : service
+podnik : enterprise, business
+podnikání : business, entrepreneurship
+zaměstnání : employment, occupation
+zaměstnanec : employee
+zaměstnavatel : employer
+mzda : wage
+plat : salary
+důchod : pension
+daň : tax
+smlouva : contract
+dohoda : agreement
+podpis : signature
+doklad : document, proof
+průkaz : identity card, pass
+povolení : permission, permit
+zákaz : prohibition, ban
+příkaz : command, order
+řízení : management, proceedings, driving
+správa : administration, management
+úřad : office, authority
+úředník : official, clerk
+vláda : government
+stát : state
+obec : municipality
+kraj : region
+společnost : society, company
+veřejnost : public
+občan : citizen
+obyvatel : inhabitant
+obyvatelstvo : population
+národ : nation
+národnost : nationality
+volby : election
+hlas : voice, vote
+strana : side, political party
+dodatečně : subsequently, additionally
+svoboda : freedom
+rovnost : equality
+spravedlnost : justice
+soud : court
+soudce : judge
+trest : punishment
+zločin : crime
+pachatel : offender, perpetrator
+oběť : victim, sacrifice
+důkaz : evidence, proof
+svědek : witness
+vězení : prison
+válka : war
+mír : peace
+armáda : army
+voják : soldier
+zbraň : weapon
+útok : attack
+obrana : defence
+vítězství : victory
+porážka : defeat
+věda : science
+výzkum : research
+pokus : experiment, attempt
+objev : discovery
+vynález : invention
+teorie : theory
+údaj : datum, piece of information
+data : data
+informace : information
+poznatek : finding, piece of knowledge
+metoda : method
+model : model
+systém : system
+proces : process
+struktura : structure
+funkce : function
+rovnice : equation
+číslo : number
+bod : point
+čára : line
+plocha : surface, area
+úhel : angle
+kruh : circle
+čtverec : square
+rozměr : dimension
+délka : length
+šířka : width
+výška : height
+hloubka : depth
+hmotnost : mass, weight
+síla : force, strength
+energie : energy
+výkon : performance, power
+tlak : pressure
+teplo : heat
+zvuk : sound
+pohyb : movement
+poloha : position
+prostor : space
+hmota : matter
+látka : substance
+částice : particle
+buňka : cell
+tkáň : tissue
+organismus : organism
+druh : species, kind
+prostředí : environment
+technika : technology, technique
+zařízení : device, equipment, facility
+přístroj : instrument, device
+nástroj : tool, instrument
+stroj : machine
+součást : component
+materiál : material
+kov : metal
+dřevo : wood
+sklo : glass
+plast : plastic
+ocel : steel
+železo : iron
+měď : copper
+drát : wire
+šroub : screw
+hřebík : nail
+kladivo : hammer
+baterie : battery
+proud : current, stream
+napětí : voltage, tension
+síť : network, net
+soubor : file, set
+program : program
+počítač : computer
+obrazovka : screen
+klávesnice : keyboard
+tiskárna : printer
+paměť : memory
+záznam : record
+tabulka : table
+řádek : row, line
+sloupec : column
+vstup : input, entrance
+výstup : output, exit
+přenos : transmission, transfer
+spojení : connection
+signál : signal
+výpočet : calculation
+výraz : expression
+proměnná : variable
+přesnost : accuracy, precision
+měření : measurement
+vzdělání : education
+výuka : teaching, instruction
+učení : learning
+známka : grade, mark, stamp
+zkouška : examination, test
+úkol : task, homework
+pouze : only
+obor : field, discipline
+lekce : lesson
+přednáška : lecture
+seminář : seminar
+výklad : explanation, interpretation
+poznámka : note, remark
+odstavec : paragraph
+kapitola : chapter
+nadpis : heading, title
+obsah : content
+seznam : list
+překlad : translation
+výslovnost : pronunciation
+pravopis : spelling, orthography
+gramatika : grammar
+slovní zásoba : vocabulary
+pojem : concept
+definice : definition
+výrok : statement
+tvrzení : assertion, claim
+názor : opinion
+argument : argument
+závěr : conclusion
+diskuse : discussion
+rozhovor : conversation, interview
+zpráva : message, report, news
+oznámení : announcement
+rada : advice, council
+žádost : request, application
+stížnost : complaint
+omluva : apology
+souhlas : agreement, consent
+nesouhlas : disagreement
+slib : promise
+pozvání : invitation
+setkání : meeting, encounter
+návštěva : visit
+provést : to carry out, perform
+uskutečnit : to carry out, realize
+vzniknout : to arise, originate
+zaniknout : to cease to exist
+nastat : to occur, arise
+probíhat : to take place, proceed
+trvat : to last
+zůstat : to remain
+dosud : so far, until now
+zatím : meanwhile, so far
+nedávno : recently
+dříve : earlier, formerly
+později : later
+náhle : suddenly
+postupně : gradually
+zároveň : at the same time
+současně : simultaneously
+především : above all, primarily
+zejména : especially
+obvykle : usually
+zpravidla : as a rule, usually
+výjimečně : exceptionally, rarely
+vůbec : at all
+pravděpodobně : probably
+možná : perhaps, maybe
+zřejmě : apparently, evidently
+údajně : allegedly
+přibližně : approximately
+téměř : almost
+naprosto : absolutely
+zcela : completely
+částečně : partly
+dostatečně : sufficiently
+příliš : too, excessively
+alespoň : at least
+nejméně : at least
+nejvýše : at most
+navíc : moreover, additionally
+kromě : besides, except
+kvůli : because of
+díky : thanks to
+během : during
+podle : according to
+ohledně : regarding
+navzdory : despite
+přesto : nevertheless
+proto : therefore
+tudíž : thus, therefore
+nicméně : nevertheless
+ovšem : however, of course
+zatímco : while, whereas
+ačkoli : although
+přestože : although
+pokud : if, provided that
+jestliže : if
+jakmile : as soon as
+dokud : until, as long as
+aniž : without, without doing
+aby : so that, in order that
+kdyby : if, if only
+neboť : for, because
+čili : that is, or rather
+tedy : thus, so
+zub : tooth
+postavit : to build, put up
+předmět : subject, object
+zhoršit : to worsen
+list : leaf, sheet
+nepravdivý : false
+hnědý : brown
+pláž : beach
+skutečně : really, actually
+jogurt : yoghurt
+hlad : hunger
+jablko : apple
+červený : red
+použít : to use
+věřit : to believe
+politika : politics, policy
+snídaně : breakfast
+zkusit : to try
+ostrý : sharp
+tvrdý : hard
+právě : just, precisely
+měkký : soft
+zubní pasta : toothpaste
+smetana : cream
+vážný : serious
+mrkev : carrot
+doporučit : to recommend
+osamělý : lonely
+myš : mouse
+například : for example
+podivný : strange
+lev : lion
+hranice : boundary, border
+ubrat : to subtract, reduce
+jízdenka : ticket
+světlo : light
+hruška : pear
+znamenat : to mean
+půjčit si : to borrow
+nebezpečí : danger
+kyselý : sour
+hruď : chest
+možný : possible
+sklenice : glass

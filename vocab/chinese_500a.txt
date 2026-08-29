@@ -1,0 +1,292 @@
+南 : nán : south
+同时 : tóngshí : at the same time
+左 : zuǒ : left
+右 : yòu : right
+前 : qián : front, before
+后 : hòu : back, after
+上 : shàng : above, on
+下 : xià : below, down
+外 : wài : outside
+旁边 : pángbiān : beside
+中间 : zhōngjiān : middle
+附近 : fùjìn : nearby
+这里 : zhèlǐ : here
+那里 : nàlǐ : there
+出租车 : chūzūchē : taxi
+地铁 : dìtiě : underground, subway
+车站 : chēzhàn : station
+火车站 : huǒchēzhàn : railway station
+票 : piào : ticket
+旅行 : lǚxíng : travel, journey
+旅游 : lǚyóu : to travel, tourism
+行李 : xíngli : luggage
+护照 : hùzhào : passport
+旅馆 : lǚguǎn : hotel, inn
+预订 : yùdìng : to reserve, book
+开车 : kāichē : to drive
+骑 : qí : to ride
+停 : tíng : to stop
+路口 : lùkǒu : intersection
+桥 : qiáo : bridge
+街 : jiē : street
+公园 : gōngyuán : park
+村 : cūn : village
+农村 : nóngcūn : countryside
+世界 : shìjiè : world
+社会 : shèhuì : society
+文化 : wénhuà : culture
+历史 : lìshǐ : history
+语言 : yǔyán : language
+英语 : Yīngyǔ : English language
+外国 : wàiguó : foreign country
+外国人 : wàiguórén : foreigner
+人民 : rénmín : people
+政府 : zhèngfǔ : government
+法律 : fǎlǜ : law
+大学 : dàxué : university
+中学 : zhōngxué : secondary school
+小学 : xiǎoxué : primary school
+教室 : jiàoshì : classroom
+作业 : zuòyè : homework
+科学 : kēxué : science
+技术 : jìshù : technology, technique
+研究 : yánjiū : research; to research
+实验 : shíyàn : experiment
+数字 : shùzì : number, digit
+点 : diǎn : point, dot, o'clock
+二 : èr : two
+三 : sān : three
+七 : qī : seven
+九 : jiǔ : nine
+十 : shí : ten
+千 : qiān : thousand
+万 : wàn : ten thousand
+第一 : dì-yī : first
+第二 : dì-èr : second
+半 : bàn : half
+次 : cì : time, occurrence
+个 : gè : general measure word
+张 : zhāng : measure word for flat objects
+只 : zhī : measure word for animals, one of a pair
+件 : jiàn : measure word for matters, clothes
+位 : wèi : polite measure word for people
+为什么 : wèishénme : why
+怎么 : zěnme : how
+怎么样 : zěnmeyàng : how, what about
+多少 : duōshao : how much, how many
+几 : jǐ : how many, several
+哪个 : nǎge : which one
+这 : zhè : this
+那 : nà : that
+那些 : nàxiē : those
+例如 : lìrú : for example
+她 : tā : she, her
+我们 : wǒmen : we, us
+自己 : zìjǐ : oneself
+大家 : dàjiā : everyone
+别人 : biérén : other people
+每 : měi : every
+都 : dōu : all, both
+也 : yě : also
+只 : zhǐ : only
+很 : hěn : very
+太 : tài : too, very
+更 : gèng : more, even more
+最 : zuì : most
+比较 : bǐjiào : comparatively; to compare
+一起 : yìqǐ : together
+一个人 : yí ge rén : alone, one person
+所以 : suǒyǐ : therefore, so
+但是 : dànshì : but
+虽然 : suīrán : although
+或者 : huòzhě : or
+还是 : háishi : or, still
+和 : hé : and, with
+跟 : gēn : with, and; to follow
+对 : duì : correct; towards
+错 : cuò : wrong
+在 : zài : at, in; to be at
+从 : cóng : from
+到 : dào : to, until
+向 : xiàng : towards
+往 : wǎng : towards
+离 : lí : away from
+比 : bǐ : than; to compare
+关于 : guānyú : about, concerning
+除了 : chúle : except, besides
+没有 : méiyǒu : not have, there is not
+不 : bù : not
+别 : bié : don't
+可以 : kěyǐ : may, can
+应该 : yīnggāi : should
+必须 : bìxū : must
+能够 : nénggòu : to be able to
+愿意 : yuànyì : to be willing
+敢 : gǎn : to dare
+试 : shì : to try
+做 : zuò : to do, make
+改变 : gǎibiàn : to change
+提高 : tígāo : to raise, improve
+减少 : jiǎnshǎo : to reduce
+增加 : zēngjiā : to increase
+发生 : fāshēng : to happen, occur
+继续 : jìxù : to continue
+停止 : tíngzhǐ : to stop
+完成 : wánchéng : to complete
+成功 : chénggōng : to succeed, success
+失败 : shībài : to fail, failure
+解决 : jiějué : to solve
+检查 : jiǎnchá : to inspect, check
+比较 : bǐjiào : to compare
+记 : jì : to remember, record
+教 : jiāo : to teach
+练习 : liànxí : to practise, exercise
+翻译 : fānyì : to translate, translation
+工作 : gōngzuò : to work
+玩 : wán : to play
+其实 : qíshí : actually, in fact
+游泳 : yóuyǒng : to swim
+散步 : sànbù : to take a walk
+唱 : chàng : to sing
+音乐 : yīnyuè : music
+哭 : kū : to cry
+声音 : shēngyīn : sound, voice
+颜色 : yánsè : colour
+蓝色 : lánsè : blue
+黄色 : huángsè : yellow
+白色 : báisè : white
+黑色 : hēisè : black
+圆 : yuán : round, circle
+方 : fāng : square; direction
+大小 : dàxiǎo : size
+长度 : chángdù : length
+重量 : zhòngliàng : weight
+数量 : shùliàng : quantity
+部分 : bùfen : part
+全部 : quánbù : all, whole
+一半 : yíbàn : half
+种 : zhǒng : kind, type
+样子 : yàngzi : appearance, form
+因此 : yīncǐ : therefore
+方面 : fāngmiàn : aspect, respect
+水平 : shuǐpíng : level, standard
+内容 : nèiróng : content
+作用 : zuòyòng : function, effect
+目的 : mùdì : purpose
+条件 : tiáojiàn : condition
+标准 : biāozhǔn : standard
+特点 : tèdiǎn : characteristic, feature
+区别 : qūbié : difference; to distinguish
+联系 : liánxì : connection; to contact
+影响 : yǐngxiǎng : influence; to affect
+发展 : fāzhǎn : development; to develop
+进步 : jìnbù : progress
+速度 : sùdù : speed
+方向 : fāngxiàng : direction
+位置 : wèizhi : position, location
+距离 : jùlí : distance
+安全 : ānquán : safe, safety
+危险 : wēixiǎn : dangerous, danger
+自由 : zìyóu : free, freedom
+认真 : rènzhēn : serious, conscientious
+小心 : xiǎoxīn : careful; be careful
+有趣 : yǒuqù : interesting
+奇怪 : qíguài : strange
+普通 : pǔtōng : ordinary, common
+复杂 : fùzá : complicated
+现代 : xiàndài : modern
+年轻 : niánqīng : young
+著名 : zhùmíng : famous
+丰富 : fēngfù : rich, abundant
+完全 : wánquán : complete, completely
+基本 : jīběn : basic, fundamental
+实际 : shíjì : actual, practical
+直接 : zhíjiē : direct, directly
+突然 : tūrán : sudden, suddenly
+慢慢 : mànmàn : slowly, gradually
+十分 : shífēn : very, completely
+差不多 : chàbuduō : almost, approximately
+至少 : zhìshǎo : at least
+只有 : zhǐyǒu : only, only have
+另外 : lìngwài : additionally, another
+您 : nín : you (polite)
+运动 : yùndòng : exercise, sport
+东西 : dōngxi : thing
+北 : běi : north
+疼 : téng : to hurt, painful
+问题 : wèntí : question, problem
+传统 : chuántǒng : traditional
+机场 : jīchǎng : airport
+我 : wǒ : I, me
+狗 : gǒu : dog
+事情 : shìqing : matter, affair
+六 : liù : six
+非常 : fēicháng : extremely, very
+国家 : guójiā : country, state
+中文 : Zhōngwén : Chinese language
+电话 : diànhuà : telephone
+歌 : gē : song
+问 : wèn : to ask
+早饭 : zǎofàn : breakfast
+五 : wǔ : five
+电视 : diànshì : television
+重要 : zhòngyào : important
+腿 : tuǐ : leg
+椅子 : yǐzi : chair
+考试 : kǎoshì : examination
+去年 : qùnián : last year
+房间 : fángjiān : room
+八 : bā : eight
+笔 : bǐ : pen
+绿色 : lǜsè : green
+因为 : yīnwèi : because
+冷 : lěng : cold
+需要 : xūyào : to need, need
+学习 : xuéxí : to study, learn
+谁 : shéi : who
+他们 : tāmen : they, them
+你 : nǐ : you
+猪肉 : zhūròu : pork
+课 : kè : lesson, class
+百 : bǎi : hundred
+牛 : niú : cow, cattle
+海边 : hǎibiān : seaside
+地 : dì : ground, earth
+图书馆 : túshūguǎn : library
+手 : shǒu : hand
+手机 : shǒujī : mobile phone
+铅笔 : qiānbǐ : pencil
+它 : tā : it
+笑 : xiào : to laugh, smile
+用 : yòng : to use
+洗 : xǐ : to wash
+一 : yī : one
+数学 : shùxué : mathematics
+可是 : kěshì : but, however
+地方 : dìfang : place
+四 : sì : four
+本 : běn : measure word for books
+写字 : xiězì : to write characters
+没 : méi : not, have not
+红色 : hóngsè : red
+兔子 : tùzi : rabbit
+线 : xiàn : line
+这些 : zhèxiē : these
+什么 : shénme : what
+哪里 : nǎlǐ : where
+里 : lǐ : inside
+汉语 : Hànyǔ : Chinese language
+为了 : wèile : for, in order to
+电影 : diànyǐng : film, movie
+读书 : dúshū : to read, study
+晚饭 : wǎnfàn : dinner
+他 : tā : he, him
+你们 : nǐmen : you (plural)
+哪 : nǎ : which
+飞 : fēi : to fly
+公共汽车 : gōnggòng qìchē : bus
+热 : rè : hot
+厕所 : cèsuǒ : toilet
+如果 : rúguǒ : if
+城市 : chéngshì : city
+鸟 : niǎo : bird

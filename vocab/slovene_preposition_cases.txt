@@ -1,0 +1,157 @@
+without the old man : brez starega moškega
+without the old woman : brez stare ženske
+without the small child : brez majhnega otroka
+without the two good friends : brez dveh dobrih prijateljev
+without the new houses : brez novih hiš
+without the large cities : brez velikih mest
+from the old house : iz stare hiše
+from the small town : iz majhnega mesta
+from the green forest : iz zelenega gozda
+from the two large cities : iz dveh velikih mest
+from the new houses : iz novih hiš
+from the old teacher : od starega učitelja
+from the young woman : od mlade ženske
+from the good friend : od dobrega prijatelja
+from the two young students : od dveh mladih študentov
+from the old neighbours : od starih sosedov
+to the old bridge : do starega mostu
+to the large house : do velike hiše
+as far as the small village : do majhne vasi
+to the two high mountains : do dveh visokih gora
+to the large cities : do velikih mest
+near the old castle : blizu starega gradu
+near the small village : blizu majhne vasi
+near the blue sea : blizu modrega morja
+near the two old churches : blizu dveh starih cerkva
+beside the large river : poleg velike reke
+beside the old road : poleg stare ceste
+beside the small house : poleg majhne hiše
+because of the bad weather : zaradi slabega vremena
+because of the heavy rain : zaradi močnega dežja
+because of the old car : zaradi starega avta
+because of the two sick children : zaradi dveh bolnih otrok
+during the long winter : med dolgo zimo
+during the summer holidays : med poletnimi počitnicami
+towards the old castle : proti staremu gradu
+towards the large city : proti velikemu mestu
+towards the green mountain : proti zeleni gori
+towards the two old houses : proti starima hišama
+towards the high mountains : proti visokim goram
+to the old doctor : k staremu zdravniku
+to the young woman : k mladi ženski
+to the good friend : k dobremu prijatelju
+to the two old men : k starima moškima
+to the young students : k mladim študentom
+despite the bad weather : kljub slabemu vremenu
+despite the strong wind : kljub močnemu vetru
+despite the long journey : kljub dolgemu potovanju
+despite the two serious problems : kljub dvema resnima problemoma
+through the green forest : skozi zeleni gozd
+through the old town : skozi staro mesto
+through the narrow street : skozi ozko ulico
+through the two long tunnels : skozi dolga predora
+through the large cities : skozi velika mesta
+across the old bridge : čez stari most
+across the wide river : čez široko reko
+across the green field : čez zeleno polje
+across the two high mountains : čez dve visoki gori
+across the large fields : čez velika polja
+I am going into the old house : grem v staro hišo
+I am going into the large city : grem v veliko mesto
+I am going into the green forest : grem v zeleni gozd
+we two are going into the old houses : midva greva v stari hiši
+we are going into the large cities : gremo v velika mesta
+I put the book on the large table : dam knjigo na veliko mizo
+I am going onto the old bridge : grem na stari most
+I am going to the high mountain : grem na visoko goro
+we two are going to the small islands : midva greva na majhna otoka
+we are going to the high mountains : gremo na visoke gore
+I am walking behind the old house : grem za staro hišo
+I put the chair behind the large table : dam stol za veliko mizo
+the dog runs under the old bridge : pes steče pod stari most
+I put the box under the small table : dam škatlo pod majhno mizo
+the bird flies above the old house : ptica zleti nad staro hišo
+I put the lamp above the large table : dam svetilko nad veliko mizo
+I walk between the two old houses : grem med stari hiši
+I put the chair between the two large tables : dam stol med veliki mizi
+I am in the old house : sem v stari hiši
+I am in the large city : sem v velikem mestu
+I am in the green forest : sem v zelenem gozdu
+we two are in the old houses : midva sva v starih hišah
+we are in the large cities : smo v velikih mestih
+the book is on the large table : knjiga je na veliki mizi
+I am on the old bridge : sem na starem mostu
+I am on the high mountain : sem na visoki gori
+we two are on the small islands : midva sva na majhnih otokih
+we are on the high mountains : smo na visokih gorah
+at the old doctor's : pri starem zdravniku
+at the young woman's place : pri mladi ženski
+at the good friend's place : pri dobrem prijatelju
+at the two old neighbours' place : pri starih sosedih
+at the young students' place : pri mladih študentih
+about the old man : o starem moškem
+about the young woman : o mladi ženski
+about the small child : o majhnem otroku
+about the two good friends : o dobrih prijateljih
+about the new houses : o novih hišah
+after the long journey : po dolgem potovanju
+after the hard work : po težkem delu
+after the good dinner : po dobri večerji
+after the two long meetings : po dolgih sestankih
+after the summer holidays : po poletnih počitnicah
+with the old man : s starim moškim
+with the young woman : z mlado žensko
+with the small child : z majhnim otrokom
+with the two good friends : z dobrima prijateljema
+with the young students : z mladimi študenti
+before the old house : pred staro hišo
+before the large castle : pred velikim gradom
+before the small church : pred majhno cerkvijo
+before the two old houses : pred starima hišama
+before the large buildings : pred velikimi stavbami
+behind the old house : za staro hišo
+behind the large table : za veliko mizo
+behind the small church : za majhno cerkvijo
+behind the two old houses : za starima hišama
+behind the large buildings : za velikimi stavbami
+under the old bridge : pod starim mostom
+under the large table : pod veliko mizo
+under the tall tree : pod visokim drevesom
+under the two old bridges : pod starima mostovoma
+under the tall trees : pod visokimi drevesi
+above the old house : nad staro hišo
+above the large city : nad velikim mestom
+above the blue sea : nad modrim morjem
+above the two old houses : nad starima hišama
+above the large cities : nad velikimi mesti
+between the two old houses : med starima hišama
+between the two large cities : med velikima mestoma
+between the high mountains : med visokimi gorami
+between the old trees : med starimi drevesi
+I am going into the new school : grem v novo šolo
+I am in the new school : sem v novi šoli
+I am going to the large square : grem na veliki trg
+I am on the large square : sem na velikem trgu
+I put the bicycle behind the old house : dam kolo za staro hišo
+the bicycle is behind the old house : kolo je za staro hišo
+I put the bag under the wooden table : dam torbo pod leseno mizo
+the bag is under the wooden table : torba je pod leseno mizo
+the bird flies above the green forest : ptica zleti nad zeleni gozd
+the bird is flying above the green forest : ptica leti nad zelenim gozdom
+I walk between the two large buildings : grem med veliki stavbi
+I am standing between the two large buildings : stojim med velikima stavbama
+before the long journey : pred dolgim potovanjem
+after the long journey : po dolgem potovanju
+during the long journey : med dolgim potovanjem
+because of the long journey : zaradi dolgega potovanja
+without a good map : brez dobrega zemljevida
+with a good map : z dobrim zemljevidom
+towards the railway station : proti železniški postaji
+from the railway station : od železniške postaje
+at the railway station : na železniški postaji
+to the railway station : na železniško postajo
+from the beautiful garden : iz lepega vrta
+in the beautiful garden : v lepem vrtu
+into the beautiful garden : v lepi vrt
+near the beautiful garden : blizu lepega vrta
+through the beautiful garden : skozi lepi vrt

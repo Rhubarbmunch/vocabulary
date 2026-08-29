@@ -1,0 +1,63 @@
+blizu + Gen : near
+raz + Acc : from, off
+cež + Acc : over, across, through
+do + Gen : to, as far as
+vzdolž + Gen : beside, alongside
+izmed + Gen : from, among, out of
+tik + Gen : close by
+zastran + Gen : on account of
+prek + Gen : over
+izven + Gen : outside of
+iža + Gen : from behind
+pred + Ins : before, in front of
+v + Loc : in, at
+od + Gen : from, since
+ob + Acc : by, against
+mimo + Gen : past, by
+zoper + Acc : against
+pod + Ins : underneath
+za + Gen : during
+poleg + Gen : by
+vpričo + Gen : in the presence of, in full view of
+vštric + Gen : alongside, next to
+nasproti + Gen : opposite, against
+niz + Acc : down
+o + Loc : about
+z/s + Gen : from, off
+ob + Loc : by, at, on
+po + Loc : after, over, by, along
+proti + Dat : against, towards
+vsled + Gen : owing to
+po + Acc : for
+med + Ins : between
+z ozirom na + Acc : with regard to
+z/s + Ins : with
+tonstran + Gen : on this side of
+kljub + Dat : in spite of, notwithstanding
+okrog, okoli + Gen : round, near
+v + Acc : to, into (motion)
+na + Loc : on, in, at
+k / h + Dat : to, towards
+namesto + Gen : instead of
+znotraj + Gen : inside of
+onstran, onkraj + Gen : beyond, on the other side of
+pri + Loc : in, at, with
+med + Acc : (to) between
+za + Ins : behind
+pod + Acc : (to) under, beneath
+nad + Ins : above
+razen + Gen : except
+sredi + Gen : in the middle of
+iz + Gen : out of
+na + Acc : on, to (motion)
+zaradi + Gen : on account of, because of, owing to
+zunaj + Gen : outside of
+izpred / spred + Gen : from in front of
+iznad + Gen : from above
+pred + Acc : (to) before, in front of
+brez + Gen : without
+nasproti + Dat : against
+nad + Acc : (to) above
+izpod / spod + Gen : from below
+za + Acc : (to) behind, for
+skozi + Acc : through

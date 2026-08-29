@@ -1,0 +1,1067 @@
+나 : I, me
+저 : I, me (humble)
+너 : you
+우리 : we, our
+저희 : we, our (humble)
+사람 : person
+남자 : man
+여자 : woman
+아이 : child
+어른 : adult
+아기 : baby
+친구 : friend
+가족 : family
+부모 : parents
+아버지 : father
+아빠 : dad
+어머니 : mother
+엄마 : mum, mom
+아들 : son
+딸 : daughter
+형 : older brother (male speaker)
+오빠 : older brother, older male (female speaker)
+누나 : older sister, older female (male speaker)
+언니 : older sister, older female (female speaker)
+동생 : younger sibling
+형제 : brothers, siblings
+자매 : sisters
+남편 : husband
+아내 : wife
+부부 : married couple
+할아버지 : grandfather
+할머니 : grandmother
+손자 : grandson
+손녀 : granddaughter
+삼촌 : uncle
+이모 : maternal aunt
+고모 : paternal aunt
+사촌 : cousin
+이웃 : neighbour
+손님 : guest, customer
+주인 : owner, host
+선생님 : teacher
+학생 : student
+의사 : doctor
+간호사 : nurse
+경찰 : police
+경찰관 : police officer
+군인 : soldier
+회사원 : office worker
+직원 : employee
+사장 : boss, company president
+요리사 : cook, chef
+운전사 : driver
+농부 : farmer
+가수 : singer
+배우 : actor
+작가 : writer, author
+화가 : painter
+과학자 : scientist
+교수 : professor
+변호사 : lawyer
+기자 : journalist
+왕 : king
+여왕 : queen
+대통령 : president
+나라 : country
+국가 : state, nation
+도시 : city
+마을 : village
+수도 : capital city
+거리 : street, distance
+길 : road, way
+골목 : alley
+광장 : square, plaza
+공원 : park
+정원 : garden
+집 : house, home
+건물 : building
+아파트 : apartment
+방 : room
+거실 : living room
+침실 : bedroom
+부엌 : kitchen
+주방 : kitchen
+화장실 : toilet, bathroom
+욕실 : bathroom
+문 : door
+창문 : window
+벽 : wall
+바닥 : floor
+천장 : ceiling
+지붕 : roof
+계단 : stairs
+엘리베이터 : lift, elevator
+학교 : school
+대학교 : university
+교실 : classroom
+도서관 : library
+병원 : hospital
+약국 : pharmacy
+은행 : bank
+우체국 : post office
+가게 : shop
+상점 : store
+시장 : market
+식당 : restaurant
+호텔 : hotel
+역 : station
+공항 : airport
+항구 : harbour, port
+교회 : church
+절 : Buddhist temple
+회사 : company
+공장 : factory
+사무실 : office
+농장 : farm
+주차장 : car park
+도로 : road
+고속도로 : motorway, highway
+교차로 : intersection
+터널 : tunnel
+철도 : railway
+승강장 : platform
+출구 : exit
+입구 : entrance
+열쇠 : key
+자물쇠 : lock
+탁자 : table
+책상 : desk
+의자 : chair
+침대 : bed
+소파 : sofa
+옷장 : wardrobe
+서랍 : drawer
+거울 : mirror
+시계 : clock, watch
+전등 : lamp, light
+냉장고 : refrigerator
+세탁기 : washing machine
+전화 : telephone
+휴대폰 : mobile phone
+컴퓨터 : computer
+화면 : screen
+키보드 : keyboard
+마우스 : mouse
+프린터 : printer
+책 : book
+신문 : newspaper
+잡지 : magazine
+편지 : letter
+종이 : paper
+공책 : notebook
+연필 : pencil
+펜 : pen
+지우개 : eraser
+자 : ruler
+가위 : scissors
+봉투 : envelope
+우표 : postage stamp
+상자 : box
+수건 : towel
+비누 : soap
+칫솔 : toothbrush
+치약 : toothpaste
+빗 : comb
+면도기 : razor
+쓰레기 : rubbish
+쓰레기통 : rubbish bin
+가방 : bag
+여권 : passport
+표 : ticket, table, mark
+짐 : luggage, load
+페이지 : page
+글 : writing, text
+문장 : sentence
+단어 : word
+말 : word, speech
+언어 : language
+한국어 : Korean language
+영어 : English language
+독일어 : German language
+프랑스어 : French language
+이름 : name
+주소 : address
+번호 : number
+질문 : question
+대답 : answer
+답 : answer
+문제 : problem, question
+뜻 : meaning
+생각 : thought, idea
+의견 : opinion
+이야기 : story, conversation
+소식 : news
+정보 : information
+사실 : fact
+거짓말 : lie
+진실 : truth
+이유 : reason
+방법 : method, way
+예 : example
+경우 : case, occasion
+결과 : result
+시작 : beginning
+끝 : end
+중간 : middle
+부분 : part
+전체 : whole
+종류 : kind, type
+모양 : shape
+크기 : size
+색 : colour
+소리 : sound
+목소리 : voice
+사진 : photograph
+그림 : picture, drawing
+지도 : map
+음악 : music
+노래 : song
+영화 : film, movie
+텔레비전 : television
+라디오 : radio
+게임 : game
+설명 : explanation
+번역 : translation
+발음 : pronunciation
+문법 : grammar
+어휘 : vocabulary
+글자 : letter, character
+한글 : Hangul, Korean alphabet
+한자 : Chinese character
+읽기 : reading
+쓰기 : writing
+말하기 : speaking
+듣기 : listening
+연습 : practice
+시간 : time
+때 : time, occasion
+날 : day
+오늘 : today
+내일 : tomorrow
+어제 : yesterday
+아침 : morning, breakfast
+점심 : noon, lunch
+저녁 : evening, dinner
+밤 : night
+새벽 : dawn
+낮 : daytime
+주 : week
+주말 : weekend
+월 : month
+달 : month, moon
+해 : year, sun
+년 : year
+요일 : day of week
+월요일 : Monday
+화요일 : Tuesday
+수요일 : Wednesday
+목요일 : Thursday
+금요일 : Friday
+토요일 : Saturday
+일요일 : Sunday
+봄 : spring
+여름 : summer
+가을 : autumn
+겨울 : winter
+하루 : one day
+일주일 : one week
+한달 : one month
+올해 : this year
+작년 : last year
+내년 : next year
+지금 : now
+곧 : soon
+나중 : later
+먼저 : first, beforehand
+항상 : always
+늘 : always
+자주 : often
+가끔 : sometimes
+보통 : usually
+때때로 : sometimes
+다시 : again
+아직 : still, yet
+벌써 : already
+방금 : just now
+갑자기 : suddenly
+동안 : during
+전 : before
+후 : after
+순간 : moment
+분 : minute, person (honorific)
+초 : second
+시 : hour, o'clock
+오전 : morning, AM
+오후 : afternoon, PM
+안 : inside
+밖 : outside
+앞 : front
+뒤 : back, behind
+옆 : side, beside
+위 : above, top
+아래 : below, bottom
+밑 : underneath
+사이 : between
+가운데 : middle, centre
+왼쪽 : left side
+오른쪽 : right side
+동쪽 : east
+서쪽 : west
+남쪽 : south
+북쪽 : north
+근처 : vicinity, nearby
+곳 : place
+장소 : place, location
+산 : mountain
+언덕 : hill
+골짜기 : valley
+강 : river
+시내 : stream, downtown
+호수 : lake
+바다 : sea
+섬 : island
+해변 : beach
+숲 : forest
+나무 : tree, wood
+꽃 : flower
+풀 : grass, plant
+잎 : leaf
+뿌리 : root
+가지 : branch
+열매 : fruit
+돌 : stone
+바위 : rock
+모래 : sand
+흙 : soil, earth
+땅 : ground, land
+하늘 : sky
+구름 : cloud
+비 : rain
+눈 : snow, eye
+바람 : wind
+폭풍 : storm
+안개 : fog
+날씨 : weather
+기온 : temperature
+공기 : air
+불 : fire
+물 : water
+얼음 : ice
+빛 : light
+그림자 : shadow
+별 : star
+태양 : sun
+지구 : Earth
+자연 : nature
+동물 : animal
+개 : dog
+강아지 : puppy
+고양이 : cat
+새 : bird
+물고기 : fish
+생선 : fish (food)
+말 : horse, speech
+소 : cow, cattle
+돼지 : pig
+양 : sheep
+염소 : goat
+닭 : chicken
+오리 : duck
+쥐 : mouse, rat
+토끼 : rabbit
+곰 : bear
+늑대 : wolf
+여우 : fox
+사슴 : deer
+호랑이 : tiger
+사자 : lion
+코끼리 : elephant
+원숭이 : monkey
+뱀 : snake
+벌 : bee
+파리 : fly
+모기 : mosquito
+나비 : butterfly
+몸 : body
+머리 : head
+얼굴 : face
+머리카락 : hair
+이마 : forehead
+코 : nose
+입 : mouth
+입술 : lip
+이 : tooth
+혀 : tongue
+귀 : ear
+목 : neck, throat
+어깨 : shoulder
+곱하기 : multiplication
+손 : hand
+손가락 : finger
+가슴 : chest
+등 : back
+배 : stomach, belly
+허리 : waist, lower back
+다리 : leg, bridge
+무릎 : knee
+발 : foot
+발가락 : toe
+피 : blood
+뼈 : bone
+살 : flesh
+피부 : skin
+심장 : heart
+병 : illness, bottle
+감기 : cold
+열 : fever, heat
+통증 : pain
+약 : medicine
+건강 : health
+음식 : food
+밥 : rice, meal
+쌀 : uncooked rice
+빵 : bread
+국 : soup
+고기 : meat
+쇠고기 : beef
+돼지고기 : pork
+닭고기 : chicken meat
+달걀 : egg
+계란 : egg
+우유 : milk
+치즈 : cheese
+버터 : butter
+요구르트 : yoghurt
+과일 : fruit
+사과 : apple
+배 : pear
+오렌지 : orange
+귤 : mandarin
+바나나 : banana
+포도 : grape
+딸기 : strawberry
+복숭아 : peach
+수박 : watermelon
+채소 : vegetable
+감자 : potato
+고구마 : sweet potato
+당근 : carrot
+양파 : onion
+마늘 : garlic
+배추 : Chinese cabbage
+상추 : lettuce
+콩 : bean
+소금 : salt
+설탕 : sugar
+후추 : pepper
+기름 : oil
+차 : tea, car
+커피 : coffee
+주스 : juice
+맥주 : beer
+포도주 : wine
+술 : alcoholic drink
+잔 : glass, cup
+컵 : cup
+접시 : plate
+나누기 : division
+숟가락 : spoon
+젓가락 : chopsticks
+포크 : fork
+칼 : knife
+냄비 : pot
+식사 : meal
+간식 : snack
+맛 : taste
+냄새 : smell
+요리 : cooking, dish
+메뉴 : menu
+주문 : order
+계산 : calculation, bill
+영수증 : receipt
+옷 : clothes
+셔츠 : shirt
+바지 : trousers
+치마 : skirt
+드레스 : dress
+코트 : coat
+재킷 : jacket
+신발 : shoes
+양말 : socks
+모자 : hat
+장갑 : gloves
+안경 : glasses
+우산 : umbrella
+색깔 : colour
+빨강 : red
+파랑 : blue
+노랑 : yellow
+초록 : green
+검정 : black
+흰색 : white
+갈색 : brown
+회색 : grey
+하나 : one
+둘 : two
+셋 : three
+넷 : four
+다섯 : five
+여섯 : six
+일곱 : seven
+여덟 : eight
+아홉 : nine
+열 : ten
+백 : hundred
+천 : thousand
+만 : ten thousand
+영 : zero
+일 : one, work, day
+이 : two
+삼 : three
+사 : four
+오 : five
+육 : six
+칠 : seven
+팔 : eight
+구 : nine
+십 : ten
+십일 : eleven
+십이 : twelve
+빼기 : subtraction
+삼십 : thirty
+백만 : million
+십억 : billion
+첫째 : first
+둘째 : second
+셋째 : third
+반 : half
+많다 : to be many, much
+적다 : to be few, little
+크다 : to be big
+작다 : to be small
+길다 : to be long
+짧다 : to be short
+높다 : to be high
+낮다 : to be low
+넓다 : to be wide
+좁다 : to be narrow
+두껍다 : to be thick
+얇다 : to be thin
+무겁다 : to be heavy
+가볍다 : to be light
+빠르다 : to be fast
+느리다 : to be slow
+새롭다 : to be new
+낡다 : to be old, worn
+젊다 : to be young
+늙다 : to be old
+좋다 : to be good
+나쁘다 : to be bad
+아름답다 : to be beautiful
+예쁘다 : to be pretty
+못생기다 : to be ugly
+깨끗하다 : to be clean
+더럽다 : to be dirty
+쉽다 : to be easy
+어렵다 : to be difficult
+간단하다 : to be simple
+복잡하다 : to be complicated
+중요하다 : to be important
+필요하다 : to be necessary, need
+가능하다 : to be possible
+불가능하다 : to be impossible
+같다 : to be same, like
+다르다 : to be different
+맞다 : to be correct, fit
+틀리다 : to be wrong
+강하다 : to be strong
+약하다 : to be weak
+뜨겁다 : to be hot
+덥다 : to be hot (weather)
+따뜻하다 : to be warm
+차갑다 : to be cold
+춥다 : to be cold (weather)
+시원하다 : to be cool, refreshing
+달다 : to be sweet
+짜다 : to be salty
+맵다 : to be spicy
+쓰다 : to be bitter, write, use
+시다 : to be sour
+맛있다 : to be delicious
+맛없다 : to taste bad
+배고프다 : to be hungry
+목마르다 : to be thirsty
+피곤하다 : to be tired
+아프다 : to be sick, hurt
+건강하다 : to be healthy
+행복하다 : to be happy
+기쁘다 : to be glad
+슬프다 : to be sad
+화나다 : to be angry
+무섭다 : to be frightening, afraid
+두렵다 : to be afraid
+재미있다 : to be interesting, fun
+재미없다 : to be boring
+바쁘다 : to be busy
+한가하다 : to be free, not busy
+조용하다 : to be quiet
+시끄럽다 : to be noisy
+친절하다 : to be kind
+유명하다 : to be famous
+이상하다 : to be strange
+정확하다 : to be accurate
+안전하다 : to be safe
+위험하다 : to be dangerous
+부드럽다 : to be soft, gentle
+딱딱하다 : to be hard, stiff
+밝다 : to be bright
+어둡다 : to be dark
+비싸다 : to be expensive
+싸다 : to be cheap
+가깝다 : to be near
+멀다 : to be far
+부족하다 : to be insufficient
+편하다 : to be comfortable
+불편하다 : to be uncomfortable
+정직하다 : to be honest
+똑똑하다 : to be clever
+친하다 : to be close, friendly
+외롭다 : to be lonely
+졸리다 : to be sleepy
+깊다 : to be deep
+얕다 : to be shallow
+둥글다 : to be round
+곧다 : to be straight
+젖다 : to be wet
+마르다 : to be dry
+비다 : to be empty
+가득하다 : to be full
+있다 : to exist, have
+없다 : not to exist, not have
+이다 : to be
+아니다 : not to be
+하다 : to do
+되다 : to become
+가다 : to go
+오다 : to come
+들어가다 : to enter
+나가다 : to go out, leave
+올라가다 : to go up
+내려가다 : to go down
+돌아가다 : to go back
+돌아오다 : to come back
+걷다 : to walk
+뛰다 : to run, jump
+달리다 : to run
+서다 : to stand
+앉다 : to sit
+눕다 : to lie down
+자다 : to sleep
+깨다 : to wake, break
+일어나다 : to get up
+쉬다 : to rest
+살다 : to live
+죽다 : to die
+태어나다 : to be born
+먹다 : to eat
+마시다 : to drink
+요리하다 : to cook
+씻다 : to wash
+목욕하다 : to bathe
+입다 : to wear
+벗다 : to take off clothes
+신다 : to put on footwear
+보다 : to see, watch
+보이다 : to be seen, show
+쳐다보다 : to look at
+듣다 : to hear, listen
+말하다 : to speak, say
+이야기하다 : to talk
+묻다 : to ask, bury
+대답하다 : to answer
+읽다 : to read
+쓰다 : to write, use
+배우다 : to learn
+가르치다 : to teach
+공부하다 : to study
+알다 : to know
+모르다 : not to know
+이해하다 : to understand
+생각하다 : to think
+기억하다 : to remember
+잊다 : to forget
+믿다 : to believe
+원하다 : to want
+바라다 : to hope, wish
+좋아하다 : to like
+싫어하다 : to dislike
+사랑하다 : to love
+미워하다 : to hate
+웃다 : to laugh, smile
+울다 : to cry
+느끼다 : to feel
+만나다 : to meet
+헤어지다 : to part
+돕다 : to help
+기다리다 : to wait
+찾다 : to find, look for
+잃다 : to lose
+가지다 : to have, possess
+얻다 : to obtain
+주다 : to give
+받다 : to receive
+사다 : to buy
+팔다 : to sell
+내다 : to put out, pay
+빌리다 : to borrow, rent
+빌려주다 : to lend
+사용하다 : to use
+만들다 : to make
+열다 : to open
+닫다 : to close
+켜다 : to switch on
+끄다 : to switch off
+넣다 : to put in
+꺼내다 : to take out
+놓다 : to put, place
+두다 : to put, leave
+잡다 : to catch, hold
+놓치다 : to miss, let go
+던지다 : to throw
+밀다 : to push
+당기다 : to pull
+들다 : to lift, enter, cost
+가져오다 : to bring
+가져가다 : to take, carry away
+보내다 : to send
+도착하다 : to arrive
+떠나다 : to leave, depart
+출발하다 : to depart
+여행하다 : to travel
+운전하다 : to drive
+타다 : to ride, get on
+내리다 : to get off, descend
+건너다 : to cross
+지나다 : to pass
+멈추다 : to stop
+움직이다 : to move
+일하다 : to work
+시작하다 : to start
+끝나다 : to end
+끝내다 : to finish
+계속하다 : to continue
+준비하다 : to prepare
+결정하다 : to decide
+선택하다 : to choose
+바꾸다 : to change
+변하다 : to change, alter
+고치다 : to fix, correct
+자르다 : to cut
+깨뜨리다 : to break, smash
+짓다 : to build, compose
+청소하다 : to clean
+전화하다 : to telephone
+찍다 : to take a photo, stamp
+그리다 : to draw
+노래하다 : to sing
+놀다 : to play
+수영하다 : to swim
+운동하다 : to exercise
+질문하다 : to ask a question
+설명하다 : to explain
+번역하다 : to translate
+발견하다 : to discover
+연구하다 : to research
+실험하다 : to experiment
+고장나다 : to break down
+수리하다 : to repair
+예약하다 : to reserve
+주문하다 : to order
+계산하다 : to calculate, pay
+방문하다 : to visit
+조심하다 : to be careful
+걱정하다 : to worry
+놀라다 : to be surprised
+보여주다 : to show
+알려주다 : to tell, inform
+돌려주다 : to return something
+세우다 : to stand, erect
+눕히다 : to lay down
+앉히다 : to seat
+먹이다 : to feed
+따라가다 : to follow
+따라오다 : to follow, come along
+올라오다 : to come up
+내려오다 : to come down
+건너가다 : to cross over
+돌다 : to turn, go around
+돌리다 : to turn something
+생기다 : to arise, come into being
+없어지다 : to disappear
+남다 : to remain
+남기다 : to leave behind
+늘다 : to increase
+줄다 : to decrease
+늘리다 : to increase something
+줄이다 : to reduce
+모으다 : to collect
+나누다 : to divide, share
+더하다 : to add
+빼다 : to subtract, remove
+곱하다 : to multiply
+그리고 : and, and then
+그러나 : but, however
+하지만 : but, however
+그래서 : so, therefore
+그러면 : then, in that case
+왜냐하면 : because
+또 : also, again
+또는 : or
+혹은 : or, alternatively
+만약 : if
+아주 : very
+매우 : very
+너무 : too, very
+조금 : a little
+좀 : a little, please
+많이 : much, a lot
+더 : more
+덜 : less
+가장 : most
+잘 : well
+못 : cannot, badly
+안 : not
+꼭 : certainly, necessarily
+정말 : really
+진짜 : really, genuine
+거의 : almost
+약 : approximately, about
+정도 : degree, approximately
+함께 : together
+같이 : together, like
+혼자 : alone
+직접 : directly, oneself
+빨리 : quickly
+천천히 : slowly
+조용히 : quietly
+쉽게 : easily
+어렵게 : with difficulty
+정확히 : exactly
+특히 : especially
+아마 : probably, perhaps
+물론 : of course
+바로 : immediately, exactly
+계속 : continuously
+서로 : each other
+각각 : each, respectively
+때문 : reason, because of
+위해 : for, for the sake of
+부터 : from, since
+까지 : until, as far as
+에서 : at, in, from
+에게 : to, for (person)
+한테 : to, for (person, colloquial)
+에게서 : from (person)
+한테서 : from (person, colloquial)
+으로 : by, with, towards
+로 : by, with, towards
+와 : and, with
+과 : and, with
+하고 : and, with
+랑 : and, with (colloquial)
+처럼 : like, as
+보다 : than
+만 : only
+도 : also, even
+은 : topic marker
+는 : topic marker
+이 : subject marker
+가 : subject marker
+을 : object marker
+를 : object marker
+의 : possessive marker, of
+에 : at, to, on
+들 : plural marker
+생활 : life, living
+인생 : life
+세계 : world
+사회 : society
+문화 : culture
+역사 : history
+전쟁 : war
+평화 : peace
+정부 : government
+법 : law, method
+권리 : right
+힘 : strength, power
+사랑 : love
+마음 : heart, mind
+기분 : feeling, mood
+꿈 : dream
+희망 : hope
+행복 : happiness
+슬픔 : sadness
+걱정 : worry
+두려움 : fear
+웃음 : laughter, smile
+눈물 : tear
+도움 : help
+필요 : need
+관계 : relationship
+경험 : experience
+기회 : opportunity
+실수 : mistake
+성공 : success
+실패 : failure
+변화 : change
+차이 : difference
+선택 : choice
+결정 : decision
+목적 : purpose
+목표 : goal
+규칙 : rule
+습관 : habit
+교육 : education
+공부 : study
+시험 : examination, test
+수업 : class, lesson
+숙제 : homework
+학년 : school year, grade
+학기 : semester
+학문 : learning, academic study
+수학 : mathematics
+과학 : science
+물리학 : physics
+화학 : chemistry
+생물학 : biology
+의학 : medicine
+공학 : engineering
+프로그램 : program
+자료 : data, material
+숫자 : number, numeral
+수 : number, possibility
+선 : line
+점 : point, dot
+면 : surface, side
+각 : angle
+원 : circle, won
+길이 : length
+넓이 : area
+무게 : weight
+속도 : speed
+온도 : temperature
+방향 : direction
+위치 : position, location
+처음 : beginning, first
+마지막 : last, end
+다음 : next
+이전 : previous, before
+마침내 : finally
+결국 : eventually
+이미 : already
+요즘 : these days
+매일 : every day
+매주 : every week
+매년 : every year
+이번 : this time, this
+지난 : last, past
+생일 : birthday
+결혼 : marriage
+결혼식 : wedding
+축제 : festival
+선물 : gift
+파티 : party
+휴일 : holiday
+크리스마스 : Christmas
+새해 : New Year
+운동 : exercise, sport
+축구 : football, soccer
+야구 : baseball
+농구 : basketball
+테니스 : tennis
+수영 : swimming
+자전거 : bicycle
+자동차 : car
+버스 : bus
+기차 : train
+전철 : electric train, subway
+지하철 : subway
+택시 : taxi
+비행기 : aeroplane
+배 : ship, boat, pear, stomach
+선박 : ship
+여행 : travel, trip
+관광 : sightseeing
+휴가 : holiday, vacation
+돈 : money
+가격 : price
+값 : price, value
+동전 : coin
+지폐 : banknote
+카드 : card
+현금 : cash
+일 : work, matter, day
+직업 : occupation, job
+사업 : business
+회의 : meeting
+계획 : plan
+약속 : promise, appointment
+예약 : reservation
+방문 : visit
+도착 : arrival
+출발 : departure
+안내 : guidance, information
+관광객 : tourist
+여행자 : traveller
+좌석 : seat
+창가 : window side
+신호등 : traffic light
+물건 : thing, goods
+제품 : product
+상품 : goods, merchandise
+양 : quantity
+질 : quality
+상태 : state, condition
+기계 : machine
+도구 : tool
+망치 : hammer
+못 : nail, cannot
+나사 : screw
+줄 : line, rope
+끈 : string, cord
+바퀴 : wheel
+엔진 : engine
+전기 : electricity
+전선 : electric wire
+전지 : battery, cell
+배터리 : battery
+버튼 : button
+스위치 : switch
+전원 : power supply
+고장 : breakdown, malfunction
+수리 : repair
+작동 : operation, functioning
+기술 : technology, skill
+연구 : research
+실험 : experiment
+발견 : discovery
+발명 : invention
+지식 : knowledge
+기억 : memory
+주의 : attention, caution
+관심 : interest
+중심 : centre
+가장자리 : edge
+모서리 : corner
+표면 : surface
+안쪽 : inside
+바깥쪽 : outside
+위쪽 : upper side
+아래쪽 : lower side
+앞쪽 : front side
+뒤쪽 : back side
+더하기 : addition
+이십 : twenty
+팔 : arm
+그릇 : bowl, dish

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "spanish-nonobvious",
+    "name": "Spanish — non-obvious 1000",
+    "language": "Spanish",
+    "file": "spanish-nonobvious.txt",
+    "description": "1000 more difficult Spanish words and expressions, avoiding obvious English cognates."
+  },
+  {
+    "id": "chinese-100",
+    "name": "Chinese 100",
+    "language": "Chinese",
+    "file": "chinese-100.txt",
+    "description": "100 very common introductory Chinese words, with pinyin and English."
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic",
+    "language": "Gothic",
+    "file": "gothic.txt",
+    "description": "A general Gothic vocabulary list."
+  },
+  {
+    "id": "old-english",
+    "name": "Old English",
+    "language": "Old English",
+    "file": "old-english.txt",
+    "description": "A general Old English vocabulary list."
+  },
+  {
+    "id": "czech",
+    "name": "Czech",
+    "language": "Czech",
+    "file": "czech.txt",
+    "description": "Additional Czech vocabulary."
+  }
+]

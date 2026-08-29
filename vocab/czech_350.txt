@@ -1,0 +1,358 @@
+černý : black
+platit : to pay
+ulice : street
+přinést : to bring
+vzít : to take
+ovce : sheep
+daleko : far
+nést : to carry
+učitel : teacher
+jídlo : food
+ano : yes
+přítel : friend
+sto : hundred
+okno : window
+rýže : rice
+otec : father
+víno : wine
+otázka : question
+těžký : difficult, heavy
+dělat : to do, make
+pole : field
+najít : to find
+pomáhat : to help
+oheň : fire
+voda : water
+být : to be
+chodit : to walk, go regularly
+brzy : soon
+oblečení : clothes
+sníh : snow
+cesta : road, way
+cibule : onion
+přijít : to come, arrive
+ostrov : island
+nůž : knife
+město : city
+břicho : belly
+pivo : beer
+sýr : cheese
+rychlý : fast
+modrý : blue
+jít : to go, walk
+nemoc : illness
+nos : nose
+potřebovat : to need
+dnes : today
+všechno : everything
+dítě : child
+letiště : airport
+dopis : letter
+prase : pig
+kuchyně : kitchen
+banán : banana
+před : before, in front of
+unavený : tired
+cukr : sugar
+jeden : one
+krk : neck
+čekat : to wait
+myšlenka : thought, idea
+ryba : fish
+noviny : newspaper
+klíč : key
+plavat : to swim
+nad : above
+pomalý : slow
+kde : where
+olej : oil
+nahoře : above, upstairs
+dát : to give, put
+papír : paper
+vlasy : hair
+zdraví : health
+vítr : wind
+čaj : tea
+pít : to drink
+dědeček : grandfather
+učit : to teach
+otevřít : to open
+babička : grandmother
+kdy : when
+hrát : to play
+talíř : plate
+na : on, to
+rodina : family
+jestli : if, whether
+pro : for
+s : with
+sekunda : second
+poslouchat : to listen
+pták : bird
+krásný : beautiful
+krátký : short
+vlevo : on the left
+osm : eight
+problém : problem
+láhev : bottle
+smutný : sad
+bratr : brother
+hledat : to look for
+dva : two
+střecha : roof
+obchod : shop
+v : in
+lék : medicine
+červený : red
+dívat se : to look, watch
+škola : school
+zvíře : animal
+lékárna : pharmacy
+ucho : ear
+lístek : ticket
+květina : flower
+chlapec : boy
+co : what
+kdo : who
+chléb : bread
+hruď : chest
+déšť : rain
+noc : night
+strom : tree
+mrak : cloud
+hrozny : grapes
+minuta : minute
+muset : must, to have to
+zítra : tomorrow
+ovoce : fruit
+odpovědět : to answer
+předtím : before
+mluvit : to speak
+příběh : story
+slabý : weak
+velmi : very
+hodina : hour
+starý : old
+prst : finger
+zavřít : to close
+slyšet : to hear
+loď : ship, boat
+sklenice : glass
+tři : three
+dcera : daughter
+večer : evening
+park : park
+pláž : beach
+koupit : to buy
+dlouhý : long
+byt : apartment
+zelený : green
+jíst : to eat
+nebo : or
+řeka : river
+vzduch : air
+pod : under
+dole : below, downstairs
+česnek : garlic
+slovo : word
+myslet : to think
+ústa : mouth
+spát : to sleep
+rajče : tomato
+kráva : cow
+autobus : bus
+šťastný : happy
+dveře : door
+odejít : to leave, go away
+muž : man
+psát : to write
+rok : year
+kočka : cat
+vysoký : high, tall
+proč : why
+letadlo : aeroplane
+ptát se : to ask
+běžet : to run
+auto : car
+lékař : doctor
+mléko : milk
+často : often
+devět : nine
+peníze : money
+klobouk : hat
+nic : nothing
+vpravo : on the right
+pokoj : room
+oko : eye
+malý : small
+nemocný : ill
+lžíce : spoon
+začít : to begin
+noha : leg, foot
+vejce : egg
+říci : to say
+jezero : lake
+vidlička : fork
+velký : big
+kůň : horse
+kamarád : friend
+tráva : grass
+matka : mother
+země : country, earth
+koupelna : bathroom
+nádraží : railway station
+slunce : sun
+tělo : body
+jazyk : language
+studený : cold
+deset : ten
+vždy : always
+záda : back
+milovat : to love
+počasí : weather
+více : more
+ráno : morning
+les : forest
+méně : less
+univerzita : university
+tam : there
+jet : to go by vehicle
+týden : week
+do : into, to
+něco : something
+kolik : how much, how many
+kalhoty : trousers
+šálek : cup
+a : and
+hodně : much, a lot
+měsíc : moon, month
+nemocnice : hospital
+horký : hot
+žena : woman
+pozdě : late
+mít : to have
+manžel : husband
+vědět : to know a fact
+čistý : clean
+košile : shirt
+den : day
+žlutý : yellow
+moci : can, to be able
+cesta : journey, road
+rameno : shoulder
+tatínek : dad
+kancelář : office
+jméno : name
+bez : without
+maso : meat
+nikdy : never
+brambor : potato
+kolo : bicycle, wheel
+ztratit : to lose
+uvnitř : inside
+člověk : person
+bílý : white
+most : bridge
+dívka : girl
+žít : to live
+hvězda : star
+jak : how
+učit se : to learn, study
+ale : but
+kámen : stone
+maminka : mum
+zub : tooth
+pamatovat si : to remember
+včera : yesterday
+snadný : easy
+máslo : butter
+kost : bone
+používat : to use
+bota : shoe
+blízko : near
+kopec : hill
+ne : no
+postel : bed
+práce : work, job
+jablko : apple
+zapomenout : to forget
+cena : price
+káva : coffee
+vidět : to see
+skončit : to finish
+stát : to stand
+vesnice : village
+málo : little, few
+prodat : to sell
+kniha : book
+také : also
+jazyk : tongue, language
+protože : because
+trh : market
+sedm : seven
+pracovat : to work
+dobrý : good
+vlak : train
+stěna : wall
+stůl : table
+od : from
+čtyři : four
+odpověď : answer
+čas : time
+moře : sea
+student : student
+hora : mountain
+židle : chair
+špinavý : dirty
+mezi : between, among
+krev : blood
+podlaha : floor
+dům : house
+věta : sentence
+manželka : wife
+mít rád : to like
+vařit : to cook
+říkat : to say
+zelenina : vegetables
+nový : new
+šest : six
+rozumět : to understand
+silný : strong
+pes : dog
+syn : son
+znát : to know, be familiar with
+pět : five
+pomeranč : orange
+ruka : hand
+nízký : low
+ošklivý : ugly
+sůl : salt
+rodiče : parents
+nebe : sky
+sestra : sister
+tady : here
+špatný : bad
+venku : outside
+tisíc : thousand
+hlava : head
+sukně : skirt
+restaurace : restaurant
+potom : afterwards
+písek : sand
+chtít : to want
+zemřít : to die
+zahrada : garden
+číst : to read
+přijet : to arrive by vehicle
+koleno : knee
+srdce : heart
+banka : bank
+za : behind, for
+někdy : sometimes
+sedět : to sit
+mladý : young
+obličej : face
+paže : arm
+vstát : to get up
+hotel : hotel
+teď : now

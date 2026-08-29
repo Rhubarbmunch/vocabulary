@@ -1,0 +1,163 @@
+[
+ {
+    "id": "chinese_100",
+    "name": "chinese_100",
+    "language": "Chinese",
+    "file": "chinese_100.txt",
+    "description": "100 common Chinese words"
+ },
+ {
+    "id": "chinese_500a",
+    "name": "chinese_500a",
+    "language": "Chinese",
+    "file": "chinese_500a",
+    "description": "500 common Chinese words - first list"
+ },
+ {
+    "id": "chinese_500b",
+    "name": "chinese_500b",
+    "language": "Chinese",
+    "file": "chinese_500b.txt",
+    "description": "500 common Chinese words - second list"
+ },
+ {
+    "id": "czech_350",
+    "name": "czech_350",
+    "language": "Czech",
+    "file": "czech_350.txt",
+    "description": "350 common Czech words"
+ },
+ {
+    "id": "czech_900",
+    "name": "czech_900",
+    "language": "Czech",
+    "file": "czech_900.txt",
+    "description": "900 less common Czech words"
+ },
+ {
+    "id": "french",
+    "name": "french",
+    "language": "French",
+    "file": "french.txt",
+    "description": "Elementary French words"
+ },
+ {
+    "id": "gothic_450",
+    "name": "gothic_450",
+    "language": "Gothic",
+    "file": "gothic_450.txt",
+    "description": "450 basic Gothic words"
+ },
+ {
+    "id": "korean_1000",
+    "name": "korean_1000",
+    "language": "Korean",
+    "file": "korean_1000.txt",
+    "description": "1000 common Korean words"
+ },
+ {
+    "id": "korean_64",
+    "name": "korean_64",
+    "language": "Korean",
+    "file": "korean_64.txt",
+    "description": "64 common Korean words"
+ },
+ {
+    "id": "old_english_750",
+    "name": "old_english_750",
+    "language": "Old English",
+    "file": "old_english_750.txt",
+    "description": "750 simple Old English words"
+ },
+ {
+    "id": "slovene_4000",
+    "name": "slovene_4000",
+    "language": "Slovene",
+    "file": "slovene_4000.txt",
+    "description": "4000 Slovene words"
+ },
+ {
+    "id": "slovene_IIf2_nouns",
+    "name": "slovene_IIf2_nouns",
+    "language": "Slovene",
+    "file": "slovene_IIf2_nouns.txt",
+    "description": "Slovene group IIf2 nouns"
+ },
+ {
+    "id": "slovene_adjectives",
+    "name": "slovene_adjectives",
+    "language": "Slovene",
+    "file": "slovene_adjectives.txt",
+    "description": "Test of Slovene adjective declension"
+ },
+ {
+    "id": "slovene_grammar",
+    "name": "slovene_grammar",
+    "language": "Slovene",
+    "file": "slovene_grammar.txt",
+    "description": "Test of Slovene preposition agreement"
+ },
+ {
+    "id": "slovene_grammar_phrases",
+    "name": "slovene_grammar_phrases",
+    "language": "Slovene",
+    "file": "slovene_grammar_phrases.txt",
+    "description": "Slovene grammar exercises"
+ },
+ {
+    "id": "slovene_nouns",
+    "name": "slovene_nouns",
+    "language": "Slovene",
+    "file": "slovene_nouns.txt",
+    "description": "Test of Slovene noun conjugation"
+ },
+ {
+    "id": "slovene_preposition_cases",
+    "name": "slovene_preposition_cases",
+    "language": "Slovene",
+    "file": "slovene_preposition_cases.txt",
+    "description": "Slovene preposition tests, testing case agreement"
+ },
+ {
+    "id": "slovene_prepositions",
+    "name": "slovene_prepositions",
+    "language": "Slovene",
+    "file": "slovene_prepositions.txt",
+    "description": "Slovene preposition translation"
+ },
+ {
+    "id": "spanish_1000",
+    "name": "spanish_1000",
+    "language": "Spanish",
+    "file": "spanish_1000.txt",
+    "description": "1000 common Spanish words"
+ },
+ {
+    "id": "spanish_350",
+    "name": "spanish_350",
+    "language": "Spanish",
+    "file": "spanish_350.txt",
+    "description": "350 common Spanish words"
+ },
+ {
+    "id": "spanish_advanced_1000",
+    "name": "spanish_advanced_1000",
+    "language": "Spanish",
+    "file": "spanish_advanced_1000.txt",
+    "description": "1000 more difficult Spanish words"
+ },
+ {
+    "id": "spanish_medium_1000",
+    "name": "spanish_medium_1000",
+    "language": "Spanish",
+    "file": "spanish_medium_1000.txt",
+    "description": "1000 medium difficult Spanish words"
+ },
+ {
+    "id": "spanish_second_1000",
+    "name": "spanish_second_1000",
+    "language": "Spanish",
+    "file": "spanish_second_1000.txt",
+    "description": "Second 1000 most common Spanish words"
+ }
+]

@@ -1,0 +1,101 @@
+venir : to come
+là : there
+ville : city
+vin : wine
+avoir : to have
+jeune : young
+oui : yes
+être : to be
+lire : to read
+bon : good
+donner : to give
+porte : door
+aimer : to like, love
+nouveau : new
+jour : day
+garçon : boy
+beau : beautiful, handsome
+regarder : to look at, watch
+écouter : to listen
+écrire : to write
+pays : country
+petit : small
+pomme : apple
+fils : son
+chaud : hot, warm
+mourir : to die
+soleil : sun
+dire : to say
+famille : family
+fille : girl
+blanc : white
+manger : to eat
+route : road
+montagne : mountain
+rivière : river
+mère : mother
+bleu : blue
+sœur : sister
+voir : to see
+lit : bed
+trouver : to find
+grand : big, tall
+livre : book
+faire : to do, make
+vert : green
+œuf : egg
+école : school
+nuit : night
+table : table
+rue : street
+ciel : sky
+jardin : garden
+chaise : chair
+maison : house
+lait : milk
+lune : moon
+fleur : flower
+homme : man
+connaître : to know, be acquainted with
+travailler : to work
+prendre : to take
+froid : cold
+vivre : to live
+village : village
+temps : time, weather
+année : year
+mauvais : bad
+bière : beer
+matin : morning
+parler : to speak
+vieux : old
+rouge : red
+mer : sea
+hier : yesterday
+dormir : to sleep
+enfant : child
+fromage : cheese
+pain : bread
+feu : fire
+herbe : grass
+aujourd'hui : today
+noir : black
+boire : to drink
+entendre : to hear
+chercher : to look for
+arbre : tree
+demain : tomorrow
+ami : friend
+aller : to go
+savoir : to know
+fenêtre : window
+frère : brother
+soir : evening
+poisson : fish
+père : father
+café : coffee
+non : no
+viande : meat
+ici : here
+femme : woman
+eau : water

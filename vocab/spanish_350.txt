@@ -1,0 +1,353 @@
+hombre : man
+mujer : woman
+niño : boy, child
+niña : girl
+persona : person
+amigo : friend
+familia : family
+padre : father
+madre : mother
+hermano : brother
+hermana : sister
+hijo : son
+hija : daughter
+marido : husband
+esposa : wife
+abuelo : grandfather
+abuela : grandmother
+casa : house
+habitación : room
+cocina : kitchen
+ventana : window
+suelo : floor, ground
+silla : chair
+sentarse : to sit down
+sofá : sofa
+llave : key
+libro : book
+papel : paper
+carta : letter
+palabra : word
+nombre : name
+respuesta : answer
+idea : idea
+poder : to be able, can
+idioma : language
+escuela : school
+profesor : teacher, professor
+desde : from, since
+trabajo : work, job
+todo : all, everything
+tienda : shop
+banco : bank
+hospital : hospital
+hotel : hotel
+estación : station
+cómo : how
+ciudad : city
+calle : street
+camino : road, path
+carretera : road, highway
+puente : bridge
+jardín : garden
+campo : field, countryside
+montaña : mountain
+río : river
+lago : lake
+mar : sea
+bosque : forest
+árbol : tree
+flor : flower
+hierba : grass
+piedra : stone
+tierra : earth, land
+arena : sand
+cielo : sky
+estrella : star
+nube : cloud
+nieve : snow
+viento : wind
+si : if
+aire : air
+tiempo : time, weather
+día : day
+noche : night
+mañana : morning, tomorrow
+mes : month
+año : year
+hora : hour
+segundo : second
+terminar : to finish
+ayer : yesterday
+después : after
+siempre : always
+nunca : never
+a menudo : often
+no : no
+ahí : there
+allí : over there
+cerca : near
+dentro : inside
+arriba : above, upstairs
+detrás : behind
+izquierda : left
+derecha : right
+comida : food
+arroz : rice
+carne : meat
+pescado : fish
+huevo : egg
+leche : milk
+fruta : fruit
+comprar : to buy
+sin : without
+plátano : banana
+uva : grape
+patata : potato
+tomate : tomato
+ajo : garlic
+sal : salt
+azúcar : sugar
+aceite : oil
+té : tea
+usar : to use
+botella : bottle
+vaso : glass
+taza : cup
+plato : plate
+cuchara : spoon
+tenedor : fork
+cuchillo : knife
+cara : face
+pelo : hair
+nariz : nose
+boca : mouth
+diente : tooth
+lengua : tongue, language
+oreja : ear
+cuello : neck
+brazo : arm
+pecho : chest
+espalda : back
+pierna : leg
+rodilla : knee
+sangre : blood
+hueso : bone
+porque : because
+enfermedad : illness
+medicina : medicine
+perro : dog
+gato : cat
+ayudar : to help
+cerdo : pig
+oveja : sheep
+pez : fish
+autobús : bus
+pero : but
+barco : ship, boat
+bicicleta : bicycle
+dinero : money
+precio : price
+billete : ticket, banknote
+ropa : clothes
+camisa : shirt
+pantalón : trousers
+hasta : until, as far as
+tres : three
+cuatro : four
+empezar : to begin
+seis : six
+siete : seven
+ocho : eight
+nueve : nine
+traer : to bring
+cien : hundred
+bueno : good
+malo : bad
+largo : long
+nuevo : new
+viejo : old
+joven : young
+bonito : pretty, nice
+feo : ugly
+algo : something
+difícil : difficult
+rápido : fast
+con : with
+nada : nothing
+limpio : clean
+sucio : dirty
+levantarse : to get up
+feliz : happy
+enfermo : ill
+azul : blue
+verde : green
+abrir : to open
+negro : black
+sobre : on, about
+estar : to be
+tener : to have
+ir : to go
+cerrar : to close
+llegar : to arrive
+salir : to go out, leave
+entrar : to enter
+por : for, by, through
+mirar : to look at, watch
+hablar : to speak
+decir : to say
+entre : between, among
+leer : to read
+escribir : to write
+aprender : to learn
+mucho : much, many
+saber : to know
+conocer : to know, be acquainted with
+pensar : to think
+entender : to understand
+recordar : to remember
+quién : who
+querer : to want, love
+tomar : to take, drink
+amar : to love
+comer : to eat
+beber : to drink
+por qué : why
+dormir : to sleep
+vivir : to live
+poner : to put
+trabajar : to work
+pagar : to pay
+andar : to walk, go
+correr : to run
+nadar : to swim
+cama : bed
+fuerte : strong
+amarillo : yellow
+ahora : now
+gustar : to like
+manzana : apple
+corto : short
+para : for, in order to
+verdura : vegetable
+fácil : easy
+menos : less
+morir : to die
+uno : one
+cinco : five
+hoy : today
+dos : two
+minuto : minute
+historia : story, history
+oír : to hear
+aquí : here
+cuánto : how much
+ser : to be
+avión : aeroplane
+fuego : fire
+universidad : university
+cabeza : head
+enseñar : to teach, show
+cuándo : when
+oficina : office
+frío : cold
+de : of, from
+tren : train
+estudiante : student
+parque : park
+aeropuerto : airport
+pan : bread
+perder : to lose
+naranja : orange
+o : or
+ver : to see
+buscar : to look for
+dónde : where
+llevar : to carry, wear
+dedo : finger
+preguntar : to ask
+jugar : to play
+zapato : shoe
+tarde : afternoon, late
+caballo : horse
+responder : to answer
+débil : weak
+triste : sad
+coche : car
+diez : ten
+pared : wall
+sombrero : hat
+salud : health
+sí : yes
+vender : to sell
+grande : big, large
+puerta : door
+queso : cheese
+animal : animal
+pie : foot
+a veces : sometimes
+viaje : journey, trip
+bajo : low, short
+mano : hand
+qué : what
+venir : to come
+café : coffee
+hacer : to do, make
+lejos : far
+baño : bathroom
+agua : water
+vino : wine
+más : more
+pájaro : bird
+poco : little, few
+pueblo : village, town
+semana : week
+volver : to return
+en : in, on
+problema : problem
+antes : before
+cansado : tired
+fuera : outside
+playa : beach
+deber : must, ought, to owe
+cambiar : to change
+sol : sun
+quitar : to remove
+restaurante : restaurant
+rojo : red
+cerveza : beer
+isla : island
+luna : moon
+techo : roof, ceiling
+cebolla : onion
+pronto : soon
+necesitar : to need
+mil : thousand
+país : country
+mercado : market
+olvidar : to forget
+caminar : to walk
+lento : slow
+ojo : eye
+y : and
+pequeño : small
+médico : doctor
+blanco : white
+escuchar : to listen
+lluvia : rain
+mesa : table
+delante : in front
+caliente : hot
+muy : very
+pregunta : question
+dar : to give
+cocinar : to cook
+vaca : cow
+alto : high, tall
+cuerpo : body
+encontrar : to find
+abajo : below, downstairs
+mantequilla : butter
+también : also
+esperar : to wait, hope
+corazón : heart

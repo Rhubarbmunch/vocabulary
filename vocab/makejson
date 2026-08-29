@@ -1,0 +1,10 @@
+for i in `ls *.txt` ; do
+  echo " {"
+  echo "    \"id\": \"$i\","
+  echo "    \"name\": \"$i\","
+  echo "    \"language\": \"$i\","
+  echo "    \"file\": \"$i\","
+  echo "    \"description\": \"$i\""
+  echo " },"
+done
+

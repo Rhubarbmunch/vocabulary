@@ -1,0 +1,290 @@
+东西 : dōngxi : thing, stuff
+地方 : dìfang : place
+时候 : shíhou : time, occasion
+时间 : shíjiān : time
+答案 : dá'àn : answer
+办法 : bànfǎ : method, way
+原因 : yuányīn : reason, cause
+结果 : jiéguǒ : result
+意思 : yìsi : meaning
+想法 : xiǎngfǎ : idea, thought
+机会 : jīhuì : opportunity
+情况 : qíngkuàng : situation, circumstances
+关系 : guānxi : relationship, connection
+生活 : shēnghuó : life, living
+工作 : gōngzuò : work, job
+知识 : zhīshi : knowledge
+经验 : jīngyàn : experience
+能力 : nénglì : ability
+方法 : fāngfǎ : method
+计划 : jìhuà : plan
+决定 : juédìng : decision; to decide
+选择 : xuǎnzé : choice; to choose
+变化 : biànhuà : change
+开始 : kāishǐ : beginning; to begin
+结束 : jiéshù : end; to finish
+帮助 : bāngzhù : help; to help
+希望 : xīwàng : to hope, hope
+可能 : kěnéng : possible, perhaps
+特别 : tèbié : special, especially
+简单 : jiǎndān : simple
+容易 : róngyì : easy
+困难 : kùnnan : difficult, difficulty
+清楚 : qīngchu : clear
+明白 : míngbai : to understand, clear
+正确 : zhèngquè : correct
+错误 : cuòwù : wrong, error
+一样 : yíyàng : same, alike
+不同 : bùtóng : different
+真正 : zhēnzhèng : real, genuine
+主要 : zhǔyào : main, principal
+一般 : yìbān : ordinary, general
+当然 : dāngrán : of course
+一定 : yídìng : certainly, definitely
+也许 : yěxǔ : perhaps
+大概 : dàgài : probably, approximately
+已经 : yǐjīng : already
+还 : hái : still, also
+再 : zài : again
+又 : yòu : again, also
+马上 : mǎshàng : immediately
+刚才 : gāngcái : just now
+以前 : yǐqián : before, formerly
+以后 : yǐhòu : afterwards, later
+最近 : zuìjìn : recently, nearest
+最后 : zuìhòu : last, finally
+终于 : zhōngyú : finally
+一直 : yìzhí : continuously, all along
+经常 : jīngcháng : often
+有时候 : yǒushíhou : sometimes
+从来 : cónglái : always, ever
+从来不 : cónglái bù : never
+每天 : měitiān : every day
+每年 : měinián : every year
+今年 : jīnnián : this year
+明年 : míngnián : next year
+星期 : xīngqī : week
+周末 : zhōumò : weekend
+小时 : xiǎoshí : hour
+分钟 : fēnzhōng : minute
+早 : zǎo : early
+晚 : wǎn : late
+快 : kuài : fast
+慢 : màn : slow
+远 : yuǎn : far
+近 : jìn : near
+高 : gāo : high, tall
+低 : dī : low
+长 : cháng : long
+短 : duǎn : short
+宽 : kuān : wide
+窄 : zhǎi : narrow
+重 : zhòng : heavy
+轻 : qīng : light
+强 : qiáng : strong
+弱 : ruò : weak
+难 : nán : difficult
+漂亮 : piàoliang : beautiful, pretty
+难看 : nánkàn : ugly, unpleasant to look at
+干净 : gānjìng : clean
+脏 : zāng : dirty
+安静 : ānjìng : quiet
+吵 : chǎo : noisy; to quarrel
+忙 : máng : busy
+累 : lèi : tired
+饿 : è : hungry
+渴 : kě : thirsty
+健康 : jiànkāng : healthy, health
+舒服 : shūfu : comfortable
+高兴 : gāoxìng : happy, pleased
+快乐 : kuàilè : happy, joyful
+伤心 : shāngxīn : sad
+生气 : shēngqì : angry
+害怕 : hàipà : afraid
+担心 : dānxīn : to worry
+喜欢 : xǐhuan : to like
+爱 : ài : to love
+讨厌 : tǎoyàn : to dislike, annoying
+相信 : xiāngxìn : to believe
+知道 : zhīdào : to know
+认识 : rènshi : to know, recognize
+了解 : liǎojiě : to understand, know about
+懂 : dǒng : to understand
+记得 : jìde : to remember
+忘记 : wàngjì : to forget
+想 : xiǎng : to think, want, miss
+觉得 : juéde : to think, feel
+认为 : rènwéi : to think, consider
+发现 : fāxiàn : to discover
+注意 : zhùyì : to pay attention
+准备 : zhǔnbèi : to prepare
+同意 : tóngyì : to agree
+反对 : fǎnduì : to oppose
+接受 : jiēshòu : to accept
+拒绝 : jùjué : to refuse
+允许 : yǔnxǔ : to allow
+要求 : yāoqiú : to request, require
+建议 : jiànyì : suggestion; to suggest
+解释 : jiěshì : to explain
+回答 : huídá : to answer
+告诉 : gàosu : to tell
+叫 : jiào : to call, be called
+谈 : tán : to talk, discuss
+聊天 : liáotiān : to chat
+介绍 : jièshào : to introduce
+见 : jiàn : to see, meet
+见面 : jiànmiàn : to meet
+找 : zhǎo : to look for
+找到 : zhǎodào : to find
+等 : děng : to wait
+等到 : děngdào : to wait until
+帮 : bāng : to help
+给 : gěi : to give, for
+送 : sòng : to give, deliver, see off
+拿 : ná : to take, hold
+带 : dài : to bring, carry
+放 : fàng : to put, release
+开 : kāi : to open, start, drive
+关 : guān : to close, turn off
+进 : jìn : to enter
+出 : chū : to go out
+回 : huí : to return
+回来 : huílai : to come back
+回去 : huíqù : to go back
+到 : dào : to arrive, reach
+离开 : líkāi : to leave
+走 : zǒu : to walk, leave
+跑 : pǎo : to run
+站 : zhàn : to stand
+坐 : zuò : to sit
+躺 : tǎng : to lie down
+起床 : qǐchuáng : to get up
+睡觉 : shuìjiào : to sleep
+休息 : xiūxi : to rest
+洗澡 : xǐzǎo : to bathe, shower
+穿 : chuān : to wear
+脱 : tuō : to take off clothes
+买 : mǎi : to buy
+卖 : mài : to sell
+付 : fù : to pay
+花 : huā : to spend; flower
+钱 : qián : money
+价格 : jiàgé : price
+便宜 : piányi : cheap
+贵 : guì : expensive
+商店 : shāngdiàn : shop
+市场 : shìchǎng : market
+超市 : chāoshì : supermarket
+银行 : yínháng : bank
+公司 : gōngsī : company
+办公室 : bàngōngshì : office
+工厂 : gōngchǎng : factory
+医院 : yīyuàn : hospital
+药 : yào : medicine
+药店 : yàodiàn : pharmacy
+病 : bìng : illness
+感冒 : gǎnmào : cold, influenza
+发烧 : fāshāo : to have a fever
+身体 : shēntǐ : body, health
+头 : tóu : head
+脸 : liǎn : face
+眼睛 : yǎnjing : eye
+耳朵 : ěrduo : ear
+鼻子 : bízi : nose
+嘴 : zuǐ : mouth
+牙 : yá : tooth
+脖子 : bózi : neck
+手指 : shǒuzhǐ : finger
+胳膊 : gēbo : arm
+脚 : jiǎo : foot
+心 : xīn : heart, mind
+血 : xuè : blood
+头发 : tóufa : hair
+衣服 : yīfu : clothes
+裤子 : kùzi : trousers
+衬衫 : chènshān : shirt
+鞋 : xié : shoe
+袜子 : wàzi : socks
+帽子 : màozi : hat
+眼镜 : yǎnjìng : glasses
+包 : bāo : bag
+雨伞 : yǔsǎn : umbrella
+厨房 : chúfáng : kitchen
+卫生间 : wèishēngjiān : bathroom, toilet
+客厅 : kètīng : living room
+卧室 : wòshì : bedroom
+楼 : lóu : building, floor
+楼上 : lóushàng : upstairs
+楼下 : lóuxià : downstairs
+墙 : qiáng : wall
+地板 : dìbǎn : floor
+屋顶 : wūdǐng : roof
+灯 : dēng : lamp, light
+冰箱 : bīngxiāng : refrigerator
+电脑 : diànnǎo : computer
+照片 : zhàopiàn : photograph
+图片 : túpiàn : picture, image
+地图 : dìtú : map
+报纸 : bàozhǐ : newspaper
+杂志 : zázhì : magazine
+信 : xìn : letter, trust
+桌子 : zhuōzi : table
+床 : chuáng : bed
+钥匙 : yàoshi : key
+杯子 : bēizi : cup, glass
+盘子 : pánzi : plate
+碗 : wǎn : bowl
+筷子 : kuàizi : chopsticks
+勺子 : sháozi : spoon
+刀 : dāo : knife
+瓶子 : píngzi : bottle
+菜 : cài : vegetable, dish
+面包 : miànbāo : bread
+面条 : miàntiáo : noodles
+米 : mǐ : rice, metre
+米饭 : mǐfàn : cooked rice
+鸡 : jī : chicken
+牛肉 : niúròu : beef
+蔬菜 : shūcài : vegetables
+土豆 : tǔdòu : potato
+西红柿 : xīhóngshì : tomato
+白菜 : báicài : Chinese cabbage
+水果 : shuǐguǒ : fruit
+苹果 : píngguǒ : apple
+香蕉 : xiāngjiāo : banana
+橙子 : chéngzi : orange
+葡萄 : pútao : grape
+糖 : táng : sugar
+盐 : yán : salt
+油 : yóu : oil
+汤 : tāng : soup
+午饭 : wǔfàn : lunch
+饭店 : fàndiàn : restaurant, hotel
+餐厅 : cāntīng : restaurant, dining room
+菜单 : càidān : menu
+猫 : māo : cat
+马 : mǎ : horse
+猪 : zhū : pig
+羊 : yáng : sheep, goat
+老虎 : lǎohǔ : tiger
+狮子 : shīzi : lion
+熊 : xióng : bear
+猴子 : hóuzi : monkey
+蛇 : shé : snake
+动物 : dòngwù : animal
+草 : cǎo : grass
+森林 : sēnlín : forest
+湖 : hú : lake
+岛 : dǎo : island
+石头 : shítou : stone
+沙 : shā : sand
+云 : yún : cloud
+风 : fēng : wind
+天气 : tiānqì : weather
+温度 : wēndù : temperature
+春天 : chūntiān : spring
+夏天 : xiàtiān : summer
+秋天 : qiūtiān : autumn
+冬天 : dōngtiān : winter
+东 : dōng : east
+西 : xī : west

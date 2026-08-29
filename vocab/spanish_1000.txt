@@ -1,0 +1,1173 @@
+a : to, at
+abajo : below, down
+abrigo : coat
+abrir : to open
+abuela : grandmother
+abuelo : grandfather
+acabar de : to have just
+aceite : oil
+aceptar : to accept
+acercar : to bring closer
+acercarse : to approach
+acompañar : to accompany
+acordarse : to remember
+acto : act
+actual : current, present-day
+adelante : forward, ahead
+además : besides, moreover
+adentro : inside
+adiós : goodbye
+admitir : to admit
+adulto : adult
+agua : water
+ahí : there
+ahora : now
+aire : air
+al : to the
+alcanzar : to reach
+algo : something
+algún : some, any
+allá : over there
+alumno : pupil, student
+amar : to love
+amor : love
+andar : to walk, go
+año : year
+antes : before
+aparecer : to appear
+apenas : hardly, scarcely
+aprender : to learn
+aquí : here
+arriba : above, up
+así : thus, like this
+asunto : matter, affair
+aún : still, yet
+ayer : yesterday
+ayuda : help
+ayudar : to help
+azul : blue
+bajar : to go down, lower
+bajo : low, under
+banco : bank, bench
+bar : bar
+barato : cheap
+barrio : neighbourhood
+bastante : enough, quite
+beber : to drink
+bebida : drink
+bien : well
+blanco : white
+boca : mouth
+bonito : pretty, nice
+brazo : arm
+bueno : good
+buscar : to look for
+caballo : horse
+caber : to fit
+cada : each, every
+caer : to fall
+café : coffee, café
+caja : box
+caliente : hot
+cama : bed
+cambiar : to change
+cambio : change
+camino : road, way
+camisa : shirt
+campo : field, countryside
+cantar : to sing
+cara : face
+carne : meat
+carrera : race, career
+carretera : road, highway
+carta : letter, card, menu
+casa : house, home
+casar : to marry
+casarse : to get married
+casi : almost
+caso : case
+causa : cause
+causar : to cause
+cerca : near
+cielo : sky, heaven
+ciento : hundred
+cierto : certain, true
+cinco : five
+ciudad : city
+claro : clear, of course
+clase : class
+coche : car
+cocina : kitchen, cooking
+cocinar : to cook
+comenzar : to begin
+comer : to eat
+como : as, like
+cómo : how
+compañía : company
+comprar : to buy
+comprender : to understand
+común : common
+con : with
+conocer : to know, meet
+conseguir : to obtain, manage to
+considerar : to consider
+contar : to count, tell
+contestar : to answer
+contra : against
+continuar : to continue
+corazón : heart
+correr : to run
+crear : to create
+cual : which
+cuál : which, what
+cuándo : when?
+cuánto : how much?
+cuarto : room, fourth
+cuatro : four
+cubrir : to cover
+cuerpo : body
+cuestión : question, matter
+cuidado : care
+dar : to give
+de : of, from
+deber : to owe, should, must
+decidir : to decide
+decir : to say, tell
+del : of the, from the
+demás : other, the rest
+dentro : inside
+derecho : right, law
+desde : from, since
+desear : to wish
+después : afterwards, after
+día : day
+diez : ten
+diferencia : difference
+diferente : different
+difícil : difficult
+dinero : money
+director : director
+discutir : to discuss, argue
+donde : where
+dónde : where?
+dormir : to sleep
+dos : two
+durante : during
+duro : hard
+e : and
+edad : age
+efecto : effect
+ejemplo : example
+el : the
+él : he, him
+ella : she, her
+empezar : to begin
+empresa : company
+encima : on top, above
+entrar : to enter
+entre : between, among
+enviar : to send
+escuchar : to listen
+escuela : school
+ese : that
+eso : that
+España : Spain
+español : Spanish
+especial : special
+esperar : to wait, hope
+estado : state, condition
+estar : to be
+esto : this
+existir : to exist
+familia : family
+faltar : to lack, be missing
+fácil : easy
+favor : favour
+feliz : happy
+final : final, end
+forma : form, way
+formar : to form
+frente : front
+frío : cold
+fuego : fire
+fuera : outside
+fuerte : strong
+ganar : to win, earn
+gobierno : government
+gracias : thanks
+grande : big, great
+guardar : to keep, save
+guerra : war
+gustar : to please, like
+habitación : room
+hablar : to speak
+hacia : towards
+hay : there is, there are
+hermana : sister
+hermano : brother
+hija : daughter
+hijo : son
+historia : history, story
+hombre : man
+hora : hour, time
+idea : idea
+igual : equal, same
+imagen : image
+importante : important
+incluso : even, including
+información : information
+intentar : to try
+ir : to go
+izquierda : left
+jamás : never, ever
+joven : young, young person
+jugar : to play
+la : the
+lado : side
+largo : long
+le : to him, to her, to you
+ley : law
+libro : book
+llegar : to arrive
+llenar : to fill
+llevar : to carry, wear, take
+lo : it, the
+loco : crazy
+lugar : place
+luego : then, later
+madre : mother
+mal : badly, wrong
+malo : bad
+mano : hand
+mañana : tomorrow, morning
+mar : sea
+más : more
+mayor : greater, older
+medio : half, middle, means
+mejor : better, best
+mes : month
+mesa : table
+meter : to put in
+mí : me
+momento : moment
+morir : to die
+mostrar : to show
+mucho : much, many
+muerte : death
+mujer : woman, wife
+nacer : to be born
+nada : nothing
+nadie : nobody
+necesario : necessary
+necesitar : to need
+negro : black
+ningún : no, not any
+ninguno : none
+niña : girl
+niño : child, boy
+no : no, not
+noche : night
+nombre : name
+nos : us, to us
+nosotros : we, us
+noticia : news
+nunca : never
+o : or
+obra : work
+ojo : eye
+oír : to hear
+padre : father
+pagar : to pay
+país : country
+palabra : word
+papel : paper, role
+parecer : to seem
+parte : part
+pasar : to pass, happen, spend
+paso : step, passage
+pedir : to ask for, request
+pequeño : small
+perder : to lose
+pero : but
+perro : dog
+persona : person
+pie : foot
+poco : little, few
+poder : to be able, can
+por : by, for, through
+porque : because
+por qué : why
+posible : possible
+pregunta : question
+preguntar : to ask
+primero : first
+problema : problem
+producir : to produce
+quedar : to remain, stay
+que : that, which
+qué : what
+quien : who
+quién : who?
+recibir : to receive
+recordar : to remember
+saber : to know
+se : oneself; to him, her, them
+seguir : to follow, continue
+según : according to
+seis : six
+señor : gentleman, Mr
+ser : to be
+si : if
+sí : yes
+siempre : always
+sin : without
+sobre : on, about, over
+sólo : only
+su : his, her, its, their, your
+también : also
+tampoco : neither, not either
+tener : to have
+tiempo : time, weather
+tomar : to take, drink
+trabajar : to work
+trabajo : work, job
+tres : three
+tu : your
+último : last
+un : a, an, one
+usted : you
+ver : to see
+verdad : truth
+viejo : old
+vivir : to live
+volver : to return
+ya : already, now
+yo : I
+abrir : to open
+absoluto : absolute
+abuela : grandmother
+aceptar : to accept
+acceso : access
+acompañar : to accompany
+actitud : attitude
+activo : active
+actuar : to act
+acudir : to go, attend
+acuerdo : agreement
+administración : administration
+afectar : to affect
+agua : water
+ahora mismo : right now
+aire : air
+alegría : joy
+alegre : cheerful
+alemán : German
+alguien : someone
+alguna vez : sometime, ever
+alrededor : around
+altura : height
+amable : kind, friendly
+ambiente : environment, atmosphere
+americano : American
+amplio : wide, broad
+añadir : to add
+andar : to walk, go
+anterior : previous
+antes de : before
+apagar : to turn off
+aparecer : to appear
+aprender : to learn
+aprovechar : to take advantage of
+aquel : that over there
+aquello : that
+aquí : here
+arma : weapon
+arriba : up, above
+arte : art
+asiento : seat
+asunto : matter
+atender : to attend to
+atrás : behind, back
+aumentar : to increase
+aumento : increase
+autoridad : authority
+avión : aeroplane
+ayer : yesterday
+ayuda : help
+bailar : to dance
+baño : bathroom, bath
+barco : ship, boat
+base : base
+bastante : enough, quite
+besar : to kiss
+beso : kiss
+bien : well
+brazo : arm
+buscar : to look for
+cabello : hair
+cabeza : head
+café : coffee
+calor : heat
+cama : bed
+cambiar : to change
+cambio : change
+caminar : to walk
+camino : road, way
+campo : field, countryside
+capaz : capable
+cara : face
+carne : meat
+carta : letter, card
+casa : house
+casado : married
+casar : to marry
+casarse : to get married
+casi : almost
+cena : dinner
+cenar : to have dinner
+central : central
+centro : centre
+cerrar : to close
+chica : girl
+chico : boy
+ciudad : city
+claro : clear
+coche : car
+comer : to eat
+comida : food
+comprar : to buy
+comprender : to understand
+comprobar : to check, verify
+comunicación : communication
+comunidad : community
+conocer : to know, meet
+conocimiento : knowledge
+conseguir : to obtain, manage to
+considerar : to consider
+construir : to build
+contar : to count, tell
+contener : to contain
+contento : happy, pleased
+continuar : to continue
+correr : to run
+corto : short
+cosa : thing
+costar : to cost
+crecer : to grow
+crear : to create
+creer : to believe
+cualquier : any
+cualquiera : anyone, whichever
+cuanto : as much as
+cuarto : room, fourth
+cuatro : four
+cumplir : to fulfil
+dar cuenta : to realise, report
+dato : data, fact
+dejar : to leave, let
+derecha : right
+derecho : right, law
+desarrollar : to develop
+desarrollo : development
+descubrir : to discover
+desear : to wish
+deseo : desire
+despertar : to wake
+después de : after
+detener : to stop, detain
+diciembre : December
+diferente : different
+difícil : difficult
+dinero : money
+dios : god
+dirección : direction, address
+disponer : to arrange, have available
+distinto : different
+doctor : doctor
+dolor : pain
+domingo : Sunday
+dormir : to sleep
+duda : doubt
+durar : to last
+ejemplo : example
+ejército : army
+elegir : to choose
+empezar : to begin
+empresa : company
+encontrar : to find
+enero : January
+entender : to understand
+entrar : to enter
+enviar : to send
+equipo : team, equipment
+error : error
+escapar : to escape
+escribir : to write
+escuela : school
+espalda : back
+esperar : to wait, hope
+estado : state
+estudiante : student
+estudiar : to study
+evitar : to avoid
+existir : to exist
+éxito : success
+explicar : to explain
+familia : family
+falta : lack, absence
+faltar : to be lacking
+favor : favour
+febrero : February
+feliz : happy
+fiesta : party, festival
+figura : figure
+final : final, end
+finalmente : finally
+flor : flower
+forma : form, way
+formar : to form
+foto : photograph
+francés : French
+frente : front
+frío : cold
+fuego : fire
+fuerza : strength, force
+futuro : future
+ganar : to win, earn
+gente : people
+gobierno : government
+golpe : blow, hit
+gracia : grace
+grande : big
+grave : serious
+grupo : group
+guardar : to keep, save
+gustar : to like
+habitación : room
+hablar : to speak
+hacer falta : to be necessary
+hermano : brother
+hija : daughter
+hijo : son
+historia : history, story
+hombre : man
+hora : hour
+hospital : hospital
+hotel : hotel
+hoy : today
+humano : human
+iglesia : church
+igual : equal, same
+imagen : image
+imaginar : to imagine
+importante : important
+incluir : to include
+incluso : even
+informar : to inform
+inglés : English
+iniciar : to begin, initiate
+interés : interest
+interesar : to interest
+intentar : to try
+invierno : winter
+ir a : to be going to
+izquierdo : left
+jefe : boss, chief
+joven : young
+jugar : to play
+julio : July
+lado : side
+largo : long
+leer : to read
+libre : free
+libro : book
+línea : line
+llegar : to arrive
+llenar : to fill
+llevar : to carry, wear
+llamar : to call
+llamarse : to be called
+llave : key
+lleno : full
+llorar : to cry
+lluvia : rain
+luz : light
+madre : mother
+mal : badly
+malo : bad
+mano : hand
+mantener : to maintain
+mar : sea
+marzo : March
+más tarde : later
+mayo : May
+mayor : older, greater
+medida : measure
+medio : half, means
+memoria : memory
+menos : less
+mercado : market
+mes : month
+meter : to put in
+miedo : fear
+miércoles : Wednesday
+mil : thousand
+millón : million
+minuto : minute
+mirar : to look at
+mismo : same
+momento : moment
+muchacho : boy, young man
+mucho : much, many
+muerte : death
+mujer : woman
+música : music
+nacer : to be born
+natural : natural
+necesario : necessary
+necesidad : necessity, need
+necesitar : to need
+ninguno : none
+nivel : level
+niña : girl
+noche : night
+nombre : name
+normal : normal
+norte : north
+noticia : news
+número : number
+nunca : never
+nuevo : new
+objetivo : objective
+objeto : object
+obra : work
+obtener : to obtain
+ocasión : occasion
+ocho : eight
+octubre : October
+oficina : office
+ofrecer : to offer
+ojo : eye
+olvidar : to forget
+orden : order
+otro : other
+pagar : to pay
+página : page
+país : country
+palabra : word
+papel : paper, role
+parecer : to seem
+parte : part
+partido : party, match
+partir : to leave, divide
+pasado : past
+paso : step
+paz : peace
+pedir : to ask for
+peligro : danger
+pensar : to think
+peor : worse, worst
+pequeño : small
+perder : to lose
+permitir : to allow
+pero : but
+perro : dog
+persona : person
+personal : personal
+pie : foot
+piedra : stone
+piel : skin
+piso : floor, flat
+placer : pleasure
+plaza : square
+pobre : poor
+policía : police, police officer
+poner : to put
+posibilidad : possibility
+posible : possible
+precio : price
+preguntar : to ask
+preparar : to prepare
+presencia : presence
+presentar : to present
+presente : present
+presidente : president
+primavera : spring
+primero : first
+principal : main, principal
+principio : beginning, principle
+problema : problem
+proceso : process
+producto : product
+profesor : teacher, professor
+programa : programme
+pronto : soon
+propio : own
+puerta : door
+punto : point
+quedar : to remain, stay
+querer : to want
+razón : reason
+real : real, royal
+realidad : reality
+realizar : to carry out
+recibir : to receive
+reconocer : to recognise
+recordar : to remember
+responder : to answer
+respuesta : answer
+reunión : meeting
+rico : rich, tasty
+rojo : red
+ropa : clothes
+saber : to know
+sacar : to take out
+salir : to go out, leave
+salud : health
+sábado : Saturday
+seguir : to follow, continue
+seguro : safe, sure, insurance
+semana : week
+sentar : to seat
+sentarse : to sit down
+sentir : to feel
+señal : signal, sign
+señora : Mrs, lady
+servir : to serve
+siete : seven
+sistema : system
+situación : situation
+social : social
+sociedad : society
+sol : sun
+solamente : only
+solución : solution
+sur : south
+tal : such
+también : also
+tener que : to have to
+tiempo : time, weather
+tipo : type, guy
+todavía : still, yet
+tomar : to take, drink
+trabajador : worker
+trabajar : to work
+trabajo : work
+traer : to bring
+tratar : to treat, try
+tratar de : to try to, be about
+tren : train
+último : last
+valor : value, courage
+varios : several
+vender : to sell
+verano : summer
+verdadero : true
+verde : green
+vestir : to dress, wear
+viajar : to travel
+viaje : journey, trip
+vida : life
+viejo : old
+vivir : to live
+volver : to return
+abril : April
+abrir : to open
+abuelo : grandfather
+aconsejar : to advise
+actividad : activity
+actor : actor
+actriz : actress
+acuerdo : agreement
+agarrar : to grab, take hold of
+agosto : August
+ahora : now
+alguien : somebody
+alimento : food
+almorzar : to have lunch
+almuerzo : lunch
+alrededor de : around
+amar : to love
+amigo : friend
+amor : love
+ancho : wide
+animal : animal
+año : year
+apretar : to press, tighten
+árbol : tree
+arena : sand
+arreglar : to fix, arrange
+arroz : rice
+arte : art
+aunque : although
+autobús : bus
+autor : author
+avanzar : to advance
+avión : aeroplane
+ayudar : to help
+azúcar : sugar
+azul : blue
+bailar : to dance
+bajar : to go down
+barato : cheap
+barco : boat, ship
+barrio : neighbourhood
+beber : to drink
+bebé : baby
+bebida : drink
+biblioteca : library
+blanco : white
+boca : mouth
+bonito : pretty, nice
+caballo : horse
+cabeza : head
+caliente : hot
+calor : heat
+calzar : to wear footwear
+cambiar : to change
+camisa : shirt
+campo : countryside, field
+canción : song
+cantar : to sing
+carne : meat
+caro : expensive
+carta : letter, menu
+casado : married
+cena : dinner
+cenar : to have dinner
+cielo : sky
+cocina : kitchen
+cocinar : to cook
+comer : to eat
+comida : food, meal
+conducir : to drive
+conocer : to know, meet
+contestar : to answer
+correr : to run
+cortar : to cut
+cuchara : spoon
+cuello : neck
+cuenta : account, bill
+cuidar : to look after
+dar : to give
+dedo : finger
+desayunar : to have breakfast
+desayuno : breakfast
+descansar : to rest
+despertar : to wake up
+diente : tooth
+dinero : money
+domingo : Sunday
+dormir : to sleep
+ducha : shower
+edad : age
+enfermo : ill, sick
+enseñar : to teach, show
+entrar : to enter
+escuchar : to listen
+escribir : to write
+escuela : school
+espalda : back
+esperar : to wait, hope
+estación : station, season
+estudiante : student
+estudiar : to study
+familia : family
+farmacia : pharmacy
+feliz : happy
+flor : flower
+fruta : fruit
+fuego : fire
+fútbol : football
+gato : cat
+grande : big
+gustar : to like
+hermano : brother
+hielo : ice
+hija : daughter
+hijo : son
+hotel : hotel
+huevo : egg
+iglesia : church
+inglés : English
+jefe : boss
+joven : young
+juego : game
+jueves : Thursday
+jugar : to play
+leche : milk
+leer : to read
+limpio : clean
+llorar : to cry
+madre : mother
+manzana : apple
+marido : husband
+martes : Tuesday
+médico : doctor
+mesa : table
+miércoles : Wednesday
+montaña : mountain
+música : music
+nadar : to swim
+naranja : orange
+nieve : snow
+niña : girl
+noche : night
+ocho : eight
+oficina : office
+ojo : eye
+padre : father
+papel : paper
+parque : park
+perro : dog
+pescado : fish
+pie : foot
+playa : beach
+plato : plate, dish
+puerta : door
+queso : cheese
+rápido : fast
+restaurante : restaurant
+río : river
+rojo : red
+ropa : clothes
+sábado : Saturday
+sal : salt
+salir : to go out
+semana : week
+silla : chair
+siete : seven
+sol : sun
+tarde : afternoon
+tienda : shop
+trabajar : to work
+tren : train
+universidad : university
+vaca : cow
+vaso : glass
+viernes : Friday
+vino : wine
+zapato : shoe
+servicio : service
+ayudar : to help
+desaparecer : to disappear
+demasiado : too much, too many
+asegurar : to assure, ensure
+este : this
+afuera : outside
+pregunta : question
+llamar : to call
+teléfono : telephone
+error : error, mistake
+casa : house
+verdad : truth
+invierno : winter
+sentido : sense
+civil : civil
+pueblo : town, village, people
+calle : street
+producir : to produce
+verde : green
+cabeza : head
+mi : my
+compañero : companion, colleague
+empleado : employee
+decisión : decision
+control : control
+cuerpo : body
+fin : end
+dirección : direction, address
+bosque : forest
+corazón : heart
+ascensor : lift, elevator
+celebrar : to celebrate
+cerrar : to close
+descansar : to rest
+leer : to read
+terminar : to finish
+acuerdo : agreement
+hecho : fact, deed
+ciento : hundred
+atención : attention
+maleta : suitcase
+junto : together, next to
+cosa : thing
+haber : to have; there to be
+alto : high, tall
+tanto : so much, so many
+fin : end
+junto a : next to
+frío : cold
+actividad : activity
+cuidar : to look after
+alguno : some, someone
+allí : there
+tema : subject, topic
+carácter : character
+tierra : earth, land
+mundo : world
+internacional : international
+querer : to want, love
+hacer : to do, make
+capital : capital
+resto : rest, remainder
+interés : interest
+otro : other, another
+amarillo : yellow
+noviembre : November
+jueves : Thursday
+plan : plan
+director : director
+padre : father
+levantarse : to get up
+estudio : study
+viernes : Friday
+decidir : to decide
+luz : light
+causa : cause
+venir : to come
+negro : black
+uno : one
+aprender : to learn
+mismo : same, self
+junio : June
+cerca de : near
+ordenar : to order, arrange
+para : for, in order to
+ver : to see
+fiesta : party
+autor : author
+grupo : group
+actor : actor
+cuando : when
+creer : to believe
+todo : all, everything
+ambos : both
+pared : wall
+poco : little
+actualmente : currently
+relación : relationship
+decir : to say
+enemigo : enemy
+aceptar : to accept
+seguridad : security, safety
+entender : to understand
+mesa : table
+acabar : to finish
+demasiado : too much
+niño : boy
+niño : boy, child
+pelo : hair
+caminar : to walk
+martes : Tuesday
+especial : special
+muy : very
+abandonar : to abandon, leave
+dejar : to leave, let
+menor : smaller, younger
+información : information
+edad : age
+nacional : national
+acabar : to finish, end
+regresar : to return
+septiembre : September
+cine : cinema
+ni : nor, not even
+acompañar : to accompany
+venir : to come
+llave : key
+siguiente : following, next
+fuera de : outside
+encontrar : to find
+hablar : to speak
+solo : alone, only
+equipo : team, equipment
+voz : voice
+menos : less, fewer
+aeropuerto : airport
+río : river
+lengua : language, tongue
+animal : animal
+contra : against
+pensar : to think
+acordar : to agree, decide
+periódico : newspaper
+explicar : to explain
+cien : one hundred
+llover : to rain
+viajar : to travel
+centro : centre
+ellos : they, them
+segundo : second
+brazo : arm
+día : day
+tocar : to touch, play an instrument
+vida : life
+atacar : to attack
+espacio : space
+marido : husband
+acción : action
+hoy : today
+cuchillo : knife
+mañana : morning, tomorrow
+nuevo : new
+pantalón : trousers
+artículo : article
+comprar : to buy
+mientras : while
+cerveza : beer
+gente : people
+pan : bread
+me : me, to me
+bueno : good
+escuchar : to listen
+mano : hand
+banco : bank, bench
+agosto : August
+hasta : until, as far as
+cuanto : as much as
+y : and
+poner : to put
+lunes : Monday
+salir : to leave, go out
+señor : Mr, gentleman
+hermana : sister
+efecto : effect
+estudiar : to study
+Dios : God
+completo : complete
+una : a, an, one
+morir : to die
+arte : art
+canción : song
+guerra : war
+entonces : then
+jardín : garden
+pasar : to pass, happen
+ciencia : science
+tú : you
+general : general
+diario : daily, newspaper
+político : political, politician
+aunque : although, even though
+amigo : friend
+tarde : afternoon, late
+beber : to drink
+directo : direct
+aquel : that
+mover : to move
+cantidad : quantity
+motivo : reason, motive
+accidente : accident
+vez : time, occasion
+mejor : better
+idea : idea
+dedo : finger
+estudio : study
+enseñar : to teach, show
+en : in, on
+árbol : tree
+usar : to use
+comida : food, meal
+levantar : to raise
+quizá : perhaps

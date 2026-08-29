@@ -1,0 +1,170 @@
+the black dog is here : črni pes je tukaj
+I do not see the black dog : ne vidim črnega psa
+I give water to the black dog : dam vodo črnemu psu
+I see the black dog : vidim črnega psa
+I am talking about the black dog : govorim o črnem psu
+I am walking with the black dog : hodim s črnim psom
+the young man is tired : mladi moški je utrujen
+I do not know the young man : ne poznam mladega moškega
+I give the book to the young man : dam knjigo mlademu moškemu
+I see the young man : vidim mladega moškega
+I am thinking about the young man : razmišljam o mladem moškem
+I am speaking with the young man : govorim z mladim moškim
+the two black dogs are here : črna psa sta tukaj
+I do not see the two black dogs : ne vidim črnih psov
+I give water to the two black dogs : dam vodo črnima psoma
+I see the two black dogs : vidim črna psa
+I am talking about the two black dogs : govorim o črnih psih
+I am walking with the two black dogs : hodim s črnima psoma
+the two old horses are strong : stara konja sta močna
+I do not see the two old horses : ne vidim starih konj
+I give apples to the two old horses : dam jabolka starima konjema
+I see the two old horses : vidim stara konja
+I am talking about the two old horses : govorim o starih konjih
+I am travelling with the two old horses : potujem s starima konjema
+the black dogs are here : črni psi so tukaj
+I do not see the black dogs : ne vidim črnih psov
+I give water to the black dogs : dam vodo črnim psom
+I see the black dogs : vidim črne pse
+I am talking about the black dogs : govorim o črnih psih
+I am walking with the black dogs : hodim s črnimi psi
+the young students are ready : mladi študenti so pripravljeni
+I do not know the young students : ne poznam mladih študentov
+I give books to the young students : dam knjige mladim študentom
+I see the young students : vidim mlade študente
+I am talking about the young students : govorim o mladih študentih
+I am speaking with the young students : govorim z mladimi študenti
+the red car is new : rdeči avto je nov
+there is no red car here : tukaj ni rdečega avta
+I am approaching the red car : približujem se rdečemu avtu
+I see the red car : vidim rdeči avto
+I am talking about the red car : govorim o rdečem avtu
+I am standing by the red car : stojim ob rdečem avtu
+the old bridge is long : stari most je dolg
+there is no old bridge here : tukaj ni starega mostu
+I am approaching the old bridge : približujem se staremu mostu
+I see the old bridge : vidim stari most
+I am thinking about the old bridge : razmišljam o starem mostu
+I am standing under the old bridge : stojim pod starim mostom
+the two red cars are new : rdeča avta sta nova
+there are no two red cars here : tukaj ni dveh rdečih avtov
+I am approaching the two red cars : približujem se rdečima avtoma
+I see the two red cars : vidim rdeča avta
+I am talking about the two red cars : govorim o rdečih avtih
+I am standing by the two red cars : stojim ob rdečih avtih
+the two old bridges are long : stara mostova sta dolga
+there are no two old bridges here : tukaj ni dveh starih mostov
+I am approaching the two old bridges : približujem se starima mostovoma
+I see the two old bridges : vidim stara mostova
+I am thinking about the two old bridges : razmišljam o starih mostovih
+I am standing under the two old bridges : stojim pod starima mostovoma
+the red cars are new : rdeči avti so novi
+there are no red cars here : tukaj ni rdečih avtov
+I am approaching the red cars : približujem se rdečim avtom
+I see the red cars : vidim rdeče avte
+I am talking about the red cars : govorim o rdečih avtih
+I am standing by the red cars : stojim ob rdečih avtih
+the old bridges are long : stari mostovi so dolgi
+there are no old bridges here : tukaj ni starih mostov
+I am approaching the old bridges : približujem se starim mostovom
+I see the old bridges : vidim stare mostove
+I am thinking about the old bridges : razmišljam o starih mostovih
+I am standing under the old bridges : stojim pod starimi mostovi
+the young woman is here : mlada ženska je tukaj
+I do not see the young woman : ne vidim mlade ženske
+I give the book to the young woman : dam knjigo mladi ženski
+I see the young woman : vidim mlado žensko
+I am talking about the young woman : govorim o mladi ženski
+I am speaking with the young woman : govorim z mlado žensko
+the old house is beautiful : stara hiša je lepa
+there is no old house here : tukaj ni stare hiše
+I am approaching the old house : približujem se stari hiši
+I see the old house : vidim staro hišo
+I am thinking about the old house : razmišljam o stari hiši
+I am standing before the old house : stojim pred staro hišo
+the two young women are here : mladi ženski sta tukaj
+I do not see the two young women : ne vidim mladih žensk
+I give the books to the two young women : dam knjigi mladima ženskama
+I see the two young women : vidim mladi ženski
+I am talking about the two young women : govorim o mladih ženskah
+I am speaking with the two young women : govorim z mladima ženskama
+the two old houses are beautiful : stari hiši sta lepi
+there are no two old houses here : tukaj ni dveh starih hiš
+I am approaching the two old houses : približujem se starima hišama
+I see the two old houses : vidim stari hiši
+I am thinking about the two old houses : razmišljam o starih hišah
+I am standing before the two old houses : stojim pred starima hišama
+the young women are here : mlade ženske so tukaj
+I do not see the young women : ne vidim mladih žensk
+I give the books to the young women : dam knjige mladim ženskam
+I see the young women : vidim mlade ženske
+I am talking about the young women : govorim o mladih ženskah
+I am speaking with the young women : govorim z mladimi ženskami
+the old houses are beautiful : stare hiše so lepe
+there are no old houses here : tukaj ni starih hiš
+I am approaching the old houses : približujem se starim hišam
+I see the old houses : vidim stare hiše
+I am thinking about the old houses : razmišljam o starih hišah
+I am standing before the old houses : stojim pred starimi hišami
+the small town is quiet : majhno mesto je mirno
+there is no small town here : tukaj ni majhnega mesta
+I am approaching the small town : približujem se majhnemu mestu
+I see the small town : vidim majhno mesto
+I am talking about the small town : govorim o majhnem mestu
+I am walking through the small town : hodim po majhnem mestu
+the blue window is open : modro okno je odprto
+there is no blue window here : tukaj ni modrega okna
+I am approaching the blue window : približujem se modremu oknu
+I see the blue window : vidim modro okno
+I am talking about the blue window : govorim o modrem oknu
+I am standing before the blue window : stojim pred modrim oknom
+the two small towns are quiet : majhni mesti sta mirni
+there are no two small towns here : tukaj ni dveh majhnih mest
+I am approaching the two small towns : približujem se majhnima mestoma
+I see the two small towns : vidim majhni mesti
+I am talking about the two small towns : govorim o majhnih mestih
+I am travelling between the two small towns : potujem med majhnima mestoma
+the two blue windows are open : modri okni sta odprti
+there are no two blue windows here : tukaj ni dveh modrih oken
+I am approaching the two blue windows : približujem se modrima oknoma
+I see the two blue windows : vidim modri okni
+I am talking about the two blue windows : govorim o modrih oknih
+I am standing before the two blue windows : stojim pred modrima oknoma
+the small towns are quiet : majhna mesta so mirna
+there are no small towns here : tukaj ni majhnih mest
+I am approaching the small towns : približujem se majhnim mestom
+I see the small towns : vidim majhna mesta
+I am talking about the small towns : govorim o majhnih mestih
+I am travelling through the small towns : potujem skozi majhna mesta
+the blue windows are open : modra okna so odprta
+there are no blue windows here : tukaj ni modrih oken
+I am approaching the blue windows : približujem se modrim oknom
+I see the blue windows : vidim modra okna
+I am talking about the blue windows : govorim o modrih oknih
+I am standing before the blue windows : stojim pred modrimi okni
+we two are tired : midva sva utrujena
+we two are ready : midva sva pripravljena
+we two women are tired : midve sva utrujeni
+you two are here : vidva sta tukaj
+you two women are here : vidve sta tukaj
+they two are ready : onadva sta pripravljena
+they two women are ready : onidve sta pripravljeni
+we are tired : mi smo utrujeni
+they are ready : oni so pripravljeni
+the women are ready : ženske so pripravljene
+without the good friend : brez dobrega prijatelja
+without the good friends : brez dobrih prijateljev
+towards the old castle : proti staremu gradu
+towards the old castles : proti starim gradovom
+through the green forest : skozi zeleni gozd
+through the green forests : skozi zelene gozdove
+in the green forest : v zelenem gozdu
+in the green forests : v zelenih gozdovih
+with the good friend : z dobrim prijateljem
+with the good friends : z dobrimi prijatelji
+from the large city : iz velikega mesta
+from the large cities : iz velikih mest
+to the large city : v veliko mesto
+to the large cities : v velika mesta
+in the large city : v velikem mestu
+in the large cities : v velikih mestih
