@@ -159,5 +159,19 @@
     "language": "Spanish",
     "file": "spanish_second_1000.txt",
     "description": "Second 1000 most common Spanish words"
+ },
+ {
+    "id": "russian_200",
+    "name": "russian_200",
+    "language": "Russian",
+    "file": "russian_200.txt",
+    "description": "200 common Russian words"
+ },
+ {
+    "id": "russian_1000",
+    "name": "russian_1000",
+    "language": "Russian",
+    "file": "russian_1000.txt",
+    "description": "1000 common Russian words"
  }
 ]
