@@ -1,0 +1,1000 @@
+бабушка : grandmother
+дедушка : grandfather
+брат : brother
+сестра : sister
+муж : husband
+жена : wife
+родитель : parent
+родственник : relative
+гость : guest
+сосед : neighbour
+врач : doctor
+учитель : teacher
+студент : student
+начальник : boss; chief
+коллега : colleague
+покупатель : customer; buyer
+продавец : seller; shop assistant
+полицейский : police officer
+водитель : driver
+пассажир : passenger
+народ : people; nation
+группа : group
+команда : team
+общество : society
+правительство : government
+президент : president
+король : king
+армия : army
+солдат : soldier
+война : war
+мир : peace; world
+история : history; story
+жизнь : life
+смерть : death
+любовь : love
+помощь : help
+проблема : problem
+идея : idea
+мысль : thought
+причина : reason; cause
+результат : result
+пример : example
+правда : truth
+ложь : lie; falsehood
+ошибка : mistake
+случай : case; occasion; chance
+вещь : thing
+часть : part
+сторона : side
+конец : end
+начало : beginning
+середина : middle
+вид : kind; view
+форма : form; shape
+номер : number
+цена : price
+цвет : colour
+звук : sound
+голос : voice
+свет : light
+воздух : air
+огонь : fire
+земля : earth; land
+небо : sky
+солнце : sun
+луна : moon
+звезда : star
+море : sea
+река : river
+озеро : lake
+гора : mountain
+лес : forest
+дерево : tree; wood
+цветок : flower
+трава : grass
+камень : stone
+песок : sand
+дождь : rain
+снег : snow
+ветер : wind
+погода : weather
+природа : nature
+животное : animal
+собака : dog
+кошка : cat
+птица : bird
+рыба : fish
+лошадь : horse
+корова : cow
+мясо : meat
+молоко : milk
+сыр : cheese
+масло : butter; oil
+яйцо : egg
+соль : salt
+сахар : sugar
+фрукт : fruit
+яблоко : apple
+овощ : vegetable
+картофель : potato
+суп : soup
+завтрак : breakfast
+обед : lunch; dinner
+ужин : dinner; supper
+бутылка : bottle
+чашка : cup
+стакан : glass
+тарелка : plate
+ложка : spoon
+нож : knife
+вилка : fork
+кухня : kitchen
+ванная : bathroom
+кровать : bed
+шкаф : cupboard; wardrobe
+пол : floor
+стена : wall
+крыша : roof
+сад : garden
+ключ : key
+телефон : telephone
+компьютер : computer
+экран : screen
+интернет : internet
+письмо : letter; email
+газета : newspaper
+журнал : magazine
+карта : map; card
+фотография : photograph
+картина : picture; painting
+музыка : music
+песня : song
+фильм : film
+театр : theatre
+игра : game
+спорт : sport
+футбол : football
+велосипед : bicycle
+поезд : train
+автобус : bus
+самолёт : aeroplane
+корабль : ship
+метро : metro; subway
+станция : station
+остановка : stop
+аэропорт : airport
+билет : ticket
+поездка : trip
+путешествие : journey; travel
+магазин : shop
+рынок : market
+ресторан : restaurant
+гостиница : hotel
+банк : bank
+больница : hospital
+университет : university
+офис : office
+здание : building
+парк : park
+площадь : square; area
+центр : centre
+деревня : village
+граница : border
+север : north
+юг : south
+восток : east
+запад : west
+понедельник : Monday
+вторник : Tuesday
+среда : Wednesday
+четверг : Thursday
+пятница : Friday
+суббота : Saturday
+воскресенье : Sunday
+месяц : month
+январь : January
+февраль : February
+март : March
+апрель : April
+май : May
+июнь : June
+июль : July
+август : August
+сентябрь : September
+октябрь : October
+ноябрь : November
+декабрь : December
+весна : spring
+лето : summer
+осень : autumn
+зима : winter
+секунда : second
+момент : moment
+возраст : age
+праздник : holiday; celebration
+утром : in the morning
+вечером : in the evening
+рано : early
+поздно : late
+скоро : soon
+сначала : at first; first
+потом : then; afterwards
+снова : again
+вместе : together
+отдельно : separately
+рядом : nearby
+далеко : far
+близко : near
+внутри : inside
+снаружи : outside
+вверх : upwards
+вниз : downwards
+вперёд : forward
+назад : back; backwards
+налево : to the left
+направо : to the right
+прямо : straight; directly
+почти : almost
+совсем : completely; at all
+довольно : quite; enough
+слишком : too; excessively
+примерно : approximately
+особенно : especially
+обычно : usually
+часто : often
+редко : rarely
+возможно : possibly
+конечно : of course
+действительно : really; indeed
+вероятно : probably
+вдруг : suddenly
+сразу : at once
+точно : exactly
+правильно : correctly
+неправильно : incorrectly
+легко : easily
+тяжело : heavily; with difficulty
+тихо : quietly
+громко : loudly
+быстро : quickly
+медленно : slowly
+обратно : back; return
+около : near; about
+против : against
+вокруг : around
+вместо : instead of
+после : after
+перед : before; in front of
+во время : during
+кроме : except; besides
+ради : for the sake of
+благодаря : thanks to
+несмотря : despite
+ли : whether; question particle
+же : emphatic particle
+бы : would; conditional particle
+ведь : after all
+даже : even
+лишь : only
+именно : exactly; precisely
+например : for example
+поэтому : therefore
+однако : however
+хотя : although
+пока : while; for now
+чтобы : in order that; so that
+чем : than; by what
+либо : either; or
+ни : neither; not even
+зато : but; on the other hand
+причём : moreover; and what's more
+становиться : to become
+стать : to become; stand
+оставаться : to remain
+оставлять : to leave; keep
+уйти : to leave; go away
+прийти : to come; arrive
+уходить : to leave
+входить : to enter
+войти : to enter
+выходить : to go out
+выйти : to go out
+возвращаться : to return
+вернуться : to return
+ходить : to go; walk regularly
+ездить : to travel by transport regularly
+бежать : to run
+бегать : to run regularly
+лететь : to fly
+летать : to fly regularly
+нести : to carry
+носить : to carry; wear
+вести : to lead; drive
+водить : to lead; drive regularly
+стоять : to stand
+сидеть : to sit
+лежать : to lie
+ставить : to put; set
+поставить : to put; set
+класть : to put; lay
+положить : to put; lay
+держать : to hold
+открывать : to open
+открыть : to open
+закрывать : to close
+закрыть : to close
+включать : to switch on; include
+выключать : to switch off
+начать : to begin
+закончить : to finish
+продолжать : to continue
+продолжить : to continue
+останавливать : to stop
+остановиться : to stop
+решать : to decide; solve
+решить : to decide; solve
+выбирать : to choose
+выбрать : to choose
+менять : to change
+изменить : to change
+проверять : to check
+проверить : to check
+показывать : to show
+показать : to show
+объяснять : to explain
+объяснить : to explain
+спрашивать : to ask
+спросить : to ask
+отвечать : to answer
+ответить : to answer
+рассказывать : to tell; narrate
+рассказать : to tell; narrate
+звонить : to telephone; ring
+позвонить : to telephone
+встречать : to meet; welcome
+встретить : to meet
+помогать : to help
+помочь : to help
+просить : to ask; request
+попросить : to request
+предлагать : to offer; suggest
+предложить : to offer; suggest
+получать : to receive
+получить : to receive
+посылать : to send
+отправлять : to send
+отправить : to send
+принимать : to accept; receive
+принять : to accept; take
+платить : to pay
+заплатить : to pay
+продавать : to sell
+продать : to sell
+купить : to buy
+готовить : to prepare; cook
+приготовить : to prepare; cook
+мыть : to wash
+чистить : to clean
+одеваться : to get dressed
+надевать : to put on (clothes)
+снимать : to take off; photograph
+строить : to build
+ломать : to break
+резать : to cut
+открыться : to open
+закрыться : to close
+играть : to play
+петь : to sing
+танцевать : to dance
+рисовать : to draw
+фотографировать : to photograph
+плавать : to swim
+гулять : to walk; stroll
+отдыхать : to rest
+путешествовать : to travel
+учить : to learn; teach
+изучать : to study
+научиться : to learn how
+запоминать : to memorize
+вспоминать : to remember; recall
+чувствовать : to feel
+чувствовать себя : to feel (state of health)
+бояться : to fear
+надеяться : to hope
+верить : to believe
+смеяться : to laugh
+улыбаться : to smile
+плакать : to cry
+нравиться : to please; be liked
+ненавидеть : to hate
+желать : to wish
+предпочитать : to prefer
+интересоваться : to be interested in
+казаться : to seem
+значить : to mean
+означать : to mean; signify
+считать : to count; consider
+полагать : to suppose
+планировать : to plan
+стараться : to try
+пытаться : to try; attempt
+уметь : to know how to
+использовать : to use
+нуждаться : to need
+существовать : to exist
+происходить : to happen; occur
+случаться : to happen
+появляться : to appear
+исчезать : to disappear
+расти : to grow
+падать : to fall
+поднимать : to raise; lift
+поднять : to raise; lift
+терять : to lose
+потерять : to lose
+побеждать : to win; defeat
+выиграть : to win
+проиграть : to lose (a game)
+умирать : to die
+родиться : to be born
+убивать : to kill
+создавать : to create
+создать : to create
+развивать : to develop
+развиваться : to develop
+меняться : to change
+работник : worker
+дело : matter; business
+занятие : occupation; lesson
+урок : lesson
+класс : class
+экзамен : exam
+задача : task; problem
+упражнение : exercise
+текст : text
+страница : page
+буква : letter (alphabet)
+предложение : sentence; proposal
+разговор : conversation
+речь : speech
+новость : news item
+информация : information
+знание : knowledge
+образование : education
+наука : science
+искусство : art
+литература : literature
+культура : culture
+закон : law
+право : right; law
+система : system
+программа : program
+проект : project
+план : plan
+решение : decision; solution
+изменение : change
+развитие : development
+уровень : level
+качество : quality
+количество : quantity
+сила : strength; force
+власть : power; authority
+свобода : freedom
+безопасность : safety; security
+опасность : danger
+здоровье : health
+болезнь : illness
+боль : pain
+лекарство : medicine
+тело : body
+лицо : face
+глаз : eye
+ухо : ear
+нос : nose
+рот : mouth
+зуб : tooth
+волос : hair
+шея : neck
+плечо : shoulder
+палец : finger
+нога : leg; foot
+спина : back
+сердце : heart
+кровь : blood
+мозг : brain
+кожа : skin
+одежда : clothes
+рубашка : shirt
+брюки : trousers
+платье : dress
+юбка : skirt
+пальто : coat
+куртка : jacket
+обувь : footwear
+ботинок : shoe; boot
+шапка : hat; cap
+сумка : bag
+часы : watch; clock
+очки : glasses
+подарок : gift
+чистый : clean
+грязный : dirty
+полный : full
+пустой : empty
+открытый : open
+закрытый : closed
+сильный : strong
+слабый : weak
+тяжёлый : heavy; difficult
+лёгкий : light; easy
+высокий : high; tall
+низкий : low; short
+длинный : long
+короткий : short
+широкий : wide
+узкий : narrow
+толстый : thick; fat
+тонкий : thin; fine
+дорогой : expensive; dear
+дешёвый : cheap
+богатый : rich
+бедный : poor
+свободный : free
+занятый : busy; occupied
+готовый : ready
+ранний : early
+поздний : late
+близкий : close; near
+далёкий : distant
+главный : main
+общий : general; common
+особый : special
+обычный : usual; ordinary
+разный : different; various
+одинаковый : same; identical
+следующий : next
+предыдущий : previous
+настоящий : present; real
+будущий : future
+прошлый : past; last
+возможный : possible
+невозможный : impossible
+правильный : correct
+неправильный : incorrect
+точный : exact; accurate
+интересный : interesting
+скучный : boring
+весёлый : cheerful
+грустный : sad
+счастливый : happy
+несчастный : unhappy
+добрый : kind; good
+злой : angry; evil
+умный : clever
+глупый : stupid
+спокойный : calm
+тихий : quiet
+громкий : loud
+серьёзный : serious
+смешной : funny
+приятный : pleasant
+опасный : dangerous
+безопасный : safe
+здоровый : healthy
+больной : ill; sick
+живой : alive
+мёртвый : dead
+тёплый : warm
+прохладный : cool
+сухой : dry
+мокрый : wet
+сладкий : sweet
+солёный : salty
+кислый : sour
+вкусный : tasty
+серый : grey
+жёлтый : yellow
+коричневый : brown
+розовый : pink
+голубой : light blue
+оранжевый : orange
+фиолетовый : purple
+тёмный : dark
+светлый : light; pale
+круглый : round
+прямой : straight; direct
+второй : second
+третий : third
+четвёртый : fourth
+пятый : fifth
+шесть : six
+семь : seven
+восемь : eight
+девять : nine
+десять : ten
+сто : hundred
+тысяча : thousand
+миллион : million
+половина : half
+пара : pair; couple
+несколько : several
+сколько : how much; how many
+столько : so much; so many
+любой : any
+некоторый : some; certain
+такой : such
+никакой : no; none of any kind
+ничто : nothing
+никто : nobody
+кто-то : someone
+что-то : something
+где-то : somewhere
+куда-то : somewhere (to)
+когда-то : sometime; once
+себя : oneself
+себе : to oneself
+его : his; its
+её : her
+их : their
+чей : whose
+оба : both
+самый : the most; very
+путь : way; path
+движение : movement; traffic
+скорость : speed
+расстояние : distance
+направление : direction
+адрес : address
+местность : area; locality
+район : district
+область : region; field
+государство : state; country
+столица : capital city
+население : population
+остров : island
+берег : shore; bank
+пляж : beach
+поле : field
+ферма : farm
+мост : bridge
+порт : port
+вокзал : railway station
+перекрёсток : intersection
+светофор : traffic light
+автомобиль : car; automobile
+такси : taxi
+лодка : boat
+рейс : flight; service
+багаж : luggage
+чемодан : suitcase
+паспорт : passport
+виза : visa
+вход : entrance
+выход : exit
+этаж : floor; storey
+лифт : lift; elevator
+лестница : stairs
+аптека : pharmacy
+почта : post office; mail
+полиция : police
+церковь : church
+музей : museum
+библиотека : library
+кафе : café
+бар : bar
+счёт : bill; account
+заказ : order
+меню : menu
+рубль : rouble
+копейка : kopeck
+карточка : card
+наличные : cash
+покупка : purchase
+продажа : sale
+размер : size
+килограмм : kilogram
+метр : metre
+литр : litre
+температура : temperature
+градус : degree
+энергия : energy
+материал : material
+металл : metal
+стекло : glass
+бумага : paper
+деревянный : wooden
+железный : iron; made of iron
+электричество : electricity
+газ : gas
+мусор : rubbish
+ремонт : repair
+инструмент : tool
+ножницы : scissors
+ручка : pen; handle
+карандаш : pencil
+тетрадь : notebook
+доска : board
+студентка : female student
+профессор : professor
+директор : director
+секретарь : secretary
+инженер : engineer
+рабочий : worker
+фермер : farmer
+повар : cook
+актёр : actor
+актриса : actress
+писатель : writer
+художник : artist
+музыкант : musician
+спортсмен : athlete
+клиент : client; customer
+хозяин : owner; host
+хозяйка : female owner; hostess
+мальчик : boy
+девочка : girl
+молодёжь : young people
+взрослый : adult
+брак : marriage
+свадьба : wedding
+рождение : birth
+фамилия : surname
+отчество : patronymic
+дата : date
+документ : document
+подпись : signature
+страх : fear
+радость : joy
+счастье : happiness
+печаль : sadness
+надежда : hope
+желание : desire
+интерес : interest
+внимание : attention
+память : memory
+опыт : experience
+цель : goal
+мечта : dream
+шанс : chance
+успех : success
+победа : victory
+поражение : defeat
+труд : labour; work
+отдых : rest
+сон : sleep; dream
+привычка : habit
+характер : character
+поведение : behaviour
+отношение : attitude; relation
+отношения : relations; relationship
+связь : connection; communication
+встреча : meeting
+разница : difference
+сходство : similarity
+выбор : choice
+совет : advice; council
+просьба : request
+ответственность : responsibility
+возможность : possibility; opportunity
+необходимость : necessity
+способ : method; way
+правило : rule
+порядок : order; procedure
+условие : condition
+смысл : meaning; sense
+значение : meaning; value
+название : name; title
+тема : topic; theme
+предмет : object; subject
+данные : data
+число : number; date
+цифра : digit; figure
+линия : line
+точка : point; dot
+пространство : space
+объект : object
+процесс : process
+метод : method
+модель : model
+устройство : device
+сеть : network
+файл : file
+сайт : website
+сообщение : message
+кнопка : button
+пароль : password
+пользователь : user
+сервис : service
+версия : version
+код : code
+телевизор : television set
+радио : radio
+камера : camera
+видео : video
+новости : news
+канал : channel
+автор : author
+статья : article
+рассказ : story
+роман : novel
+стихотворение : poem
+опера : opera
+оркестр : orchestra
+гитара : guitar
+пианино : piano
+танец : dance
+выставка : exhibition
+соревнование : competition
+матч : match
+мяч : ball
+бассейн : swimming pool
+велосипедист : cyclist
+прыгать : to jump
+бросать : to throw
+ловить : to catch
+победить : to win; defeat
+готовиться : to prepare
+тренироваться : to train; practise
+кушать : to eat
+варить : to boil; cook
+жарить : to fry
+печь : to bake
+наливать : to pour
+пробовать : to try; taste
+заказывать : to order
+голодный : hungry
+жажда : thirst
+напиток : drink; beverage
+сок : juice
+вино : wine
+пиво : beer
+рис : rice
+макароны : pasta
+овощи : vegetables
+помидор : tomato
+огурец : cucumber
+лук : onion
+морковь : carrot
+капуста : cabbage
+банан : banana
+апельсин : orange
+виноград : grapes
+ягода : berry
+торт : cake
+шоколад : chocolate
+мороженое : ice cream
+мёд : honey
+перец : pepper
+запах : smell
+вкус : taste
+разговаривать : to converse
+переводить : to translate
+перевести : to translate
+повторять : to repeat
+повторить : to repeat
+произносить : to pronounce
+называть : to call; name
+назвать : to name; call
+написать : to write
+записать : to write down; record
+понимание : understanding
+перевод : translation
+словарь : dictionary
+грамматика : grammar
+фраза : phrase
+иностранный : foreign
+русский : Russian
+английский : English
+французский : French
+немецкий : German
+испанский : Spanish
+говорящий : speaking
+известный : well-known
+неизвестный : unknown
+похожий : similar
+полезный : useful
+бесполезный : useless
+необходимый : necessary
+достаточный : sufficient
+целый : whole
+половинный : half
+единственный : only; sole
+местный : local
+национальный : national
+международный : international
+общественный : public; social
+личный : personal
+частный : private
+официальный : official
+военный : military
+политический : political
+экономический : economic
+социальный : social
+культурный : cultural
+исторический : historical
+современный : modern; contemporary
+древний : ancient
+реальный : real
+основной : main; basic
+доступный : available; accessible
+готов : ready
+важно : it is important
+интересно : it is interesting
+понятно : it is clear
+ясно : clearly; it is clear
+непонятно : it is unclear
+жаль : it's a pity
+приятно : pleasantly; nice
+страшно : frightening
+смешно : funny
+хочется : one feels like; wants
+кажется : it seems
+бывает : it happens; sometimes is
+надо : need; must
+должен : must; obliged
+рад : glad
+согласен : agree
+извините : excuse me; sorry
+простите : forgive me; sorry
+добро пожаловать : welcome
+алло : hello (on telephone)
+извинение : apology
+благодарить : to thank
+поздравлять : to congratulate
+приглашать : to invite
+пригласить : to invite
+встречаться : to meet; date
+знакомиться : to get acquainted
+знакомый : acquaintance; familiar
+незнакомый : stranger; unfamiliar
+гражданин : citizen
+иностранец : foreigner
+мнение : opinion
+спор : argument; dispute
+шутка : joke
+секрет : secret
+обещание : promise
+событие : event
+положение : position; situation
+ситуация : situation
+будущее : future
+прошлое : past
+настоящее : present
+молодость : youth
+старость : old age
+полчаса : half an hour
+выходной : day off
+каникулы : holidays; vacation
+отпуск : holiday; leave
+день рождения : birthday
+Новый год : New Year
+Рождество : Christmas
+век : century
+период : period
+срок : term; deadline
+очередь : queue; turn
+раз : time; occasion
+раза : times (genitive form)
+однажды : once
+ежедневно : daily
+еженедельно : weekly
+северный : northern
+южный : southern
+восточный : eastern
+западный : western
+городской : urban; city
+сельский : rural
+домашний : home; domestic
+семейный : family
+учебный : educational
+утренний : morning
+вечерний : evening
+ночной : night
+ежедневный : daily
+вчерашний : yesterday's
+сегодняшний : today's
+завтрашний : tomorrow's
+верхний : upper
+нижний : lower
+внутренний : inner; internal
+внешний : outer; external
+передний : front
+задний : rear; back
+центральный : central
+крайний : extreme; outermost
+левее : further left
+правее : further right
+выше : higher
+ниже : lower
+раньше : earlier
+позже : later
+лучше : better
+хуже : worse
+дольше : longer
+быстрее : faster
+медленнее : more slowly
+сильнее : stronger
+слабее : weaker
+дороже : more expensive
+дешевле : cheaper

@@ -1,0 +1,200 @@
+я : I
+ты : you (singular)
+он : he
+она : she
+оно : it
+мы : we
+вы : you (plural/formal)
+они : they
+это : this; it
+этот : this
+тот : that
+кто : who
+что : what; that
+где : where
+куда : where to
+откуда : where from
+когда : when
+как : how; as
+почему : why
+зачем : what for; why
+какой : what kind of; which
+который : which; who
+мой : my
+твой : your
+наш : our
+ваш : your
+свой : one's own
+весь : all; whole
+каждый : each; every
+другой : other; another
+сам : self; oneself
+один : one
+два : two
+три : three
+четыре : four
+пять : five
+да : yes
+нет : no
+не : not
+и : and
+а : and; but
+но : but
+или : or
+если : if
+то : then
+потому : because (in потому что)
+тоже : also
+ещё : still; more
+уже : already
+только : only
+очень : very
+так : so; thus
+здесь : here
+там : there
+сейчас : now
+сегодня : today
+завтра : tomorrow
+вчера : yesterday
+всегда : always
+никогда : never
+иногда : sometimes
+много : much; many
+мало : little; few
+больше : more
+меньше : less
+хорошо : well
+плохо : badly
+в : in; into
+на : on; at
+с : with; from
+к : to; toward
+у : at; by; of
+из : from; out of
+от : from; away from
+до : until; up to
+для : for
+о : about
+по : along; according to
+за : behind; for
+под : under
+над : above
+без : without
+через : through; across; in (time)
+между : between
+быть : to be
+иметь : to have
+делать : to do; make
+идти : to go; walk
+ехать : to go (by transport)
+приходить : to come; arrive
+говорить : to speak; say
+сказать : to say; tell
+знать : to know
+понимать : to understand
+думать : to think
+хотеть : to want
+мочь : to be able; can
+видеть : to see
+смотреть : to look; watch
+слышать : to hear
+слушать : to listen
+читать : to read
+писать : to write
+работать : to work
+жить : to live
+любить : to love; like
+есть : to eat
+пить : to drink
+спать : to sleep
+давать : to give
+брать : to take
+покупать : to buy
+ждать : to wait
+искать : to look for
+находить : to find
+начинать : to begin
+кончать : to finish
+помнить : to remember
+забывать : to forget
+учиться : to study; learn
+человек : person
+люди : people
+мужчина : man
+женщина : woman
+ребёнок : child
+друг : friend
+семья : family
+мать : mother
+отец : father
+сын : son
+дочь : daughter
+дом : house; home
+комната : room
+дверь : door
+окно : window
+стол : table
+стул : chair
+книга : book
+слово : word
+язык : language; tongue
+вопрос : question
+ответ : answer
+работа : work; job
+школа : school
+город : city
+страна : country
+улица : street
+дорога : road; way
+машина : car; machine
+вода : water
+еда : food
+хлеб : bread
+чай : tea
+кофе : coffee
+день : day
+ночь : night
+утро : morning
+вечер : evening
+время : time
+год : year
+неделя : week
+час : hour
+минута : minute
+деньги : money
+большой : big
+маленький : small
+хороший : good
+плохой : bad
+новый : new
+старый : old
+молодой : young
+красивый : beautiful
+важный : important
+простой : simple
+трудный : difficult
+быстрый : fast
+медленный : slow
+горячий : hot
+холодный : cold
+белый : white
+чёрный : black
+красный : red
+синий : blue
+зелёный : green
+первый : first
+последний : last
+правый : right
+левый : left
+можно : may; possible
+нельзя : must not; impossible
+нужно : necessary; need
+пожалуйста : please; you're welcome
+спасибо : thank you
+здравствуйте : hello
+привет : hello; hi
+до свидания : goodbye
+имя : name
+место : place
+рука : hand; arm
+голова : head
