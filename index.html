@@ -51,36 +51,33 @@ button,input { font-size:14px; margin-right:8px; }
 }
 
 #cataloguePanel { display:none; }
+#catalogueOverlay {
+  display:none; position:fixed; inset:0; background:rgba(0,0,0,0.30);
+  align-items:center; justify-content:center; z-index:1100;
+}
+#catalogueBox {
+  background:white; border:1px solid #777; width:min(92vw,560px);
+  max-height:82vh; padding:16px; box-sizing:border-box;
+  box-shadow:0 4px 18px rgba(0,0,0,0.25); overflow:auto;
+}
+#catalogueTitle { font-size:22px; font-weight:bold; margin:0 0 10px; }
+#catalogueHint { font-size:14px; margin:0 0 12px; line-height:1.3; }
+.catalogueGroup { font-size:17px; font-weight:bold; margin:14px 0 5px; }
+.catalogueEntry {
+  display:block; width:100%; text-align:left; margin:0 0 7px; padding:10px 12px;
+  border:1px solid #999; border-radius:5px; background:white; font-size:17px;
+}
+.catalogueEntry small { display:block; margin-top:3px; font-size:13px; font-weight:normal; }
+.catalogueEntry:disabled { color:#888; background:#eee; border-color:#ccc; }
+#catalogueCloseButton { width:100%; min-height:44px; margin-top:10px; font-size:17px; }
 @media (max-width:700px), (pointer:coarse) {
-  #cataloguePanel {
-    display:block;
-    margin:0 0 10px 0;
+  #cataloguePanel { display:block; margin:0 0 9px 0; }
+  #catalogueOpenButton {
+    display:block; width:100%; min-height:58px; margin:0 0 8px 0;
+    font-size:21px; font-weight:bold;
   }
-  #cataloguePanel label {
-    display:block;
-    font-size:18px;
-    margin:4px 0 5px;
-  }
-  #catalogueSelect {
-    display:block;
-    width:100%;
-    min-height:48px;
-    font-size:18px;
-    margin:0 0 6px 0;
-  }
-  #catalogueDescription {
-    min-height:2.5em;
-    font-size:16px;
-    line-height:1.3;
-    margin:4px 2px 7px;
-  }
-  #catalogueLoadButton {
-    display:block;
-    width:100%;
-    min-height:50px;
-    margin:0 0 10px 0;
-    font-size:19px;
-    font-weight:bold;
+  #importButton {
+    min-height:42px; font-size:16px; font-weight:normal; margin-bottom:9px;
   }
   #help { display:none; }
 }
@@ -98,17 +95,12 @@ button,input { font-size:14px; margin-right:8px; }
 <body>
 <div id="top">
 <button id="dirButton">Choose vocabulary directory</button>
-<button id="importButton">Choose vocabulary file</button>
+<div id="cataloguePanel">
+  <button id="catalogueOpenButton" disabled>Load Vocabulary</button>
+</div>
+<button id="importButton">Import your own vocabulary file</button>
 <button id="exportButton" disabled>Export backup</button>
 <input id="phoneFileInput" type="file" accept=".txt,text/plain" style="display:none">
-<div id="cataloguePanel">
-  <label for="catalogueSelect"><b>Available vocabularies</b></label>
-  <select id="catalogueSelect" disabled>
-    <option value="">-- choose vocabulary --</option>
-  </select>
-  <div id="catalogueDescription"></div>
-  <button id="catalogueLoadButton" disabled>Load vocabulary</button>
-</div>
 &nbsp;&nbsp;
 <label id="languageLabel" for="languageSelect">Vocabulary:</label>
 <select id="languageSelect" disabled>
@@ -137,6 +129,15 @@ button,input { font-size:14px; margin-right:8px; }
   </div>
 </div>
 
+<div id="catalogueOverlay">
+  <div id="catalogueBox">
+    <div id="catalogueTitle">Load Vocabulary</div>
+    <div id="catalogueHint"></div>
+    <div id="catalogueList"></div>
+    <button id="catalogueCloseButton">Cancel</button>
+  </div>
+</div>
+
 <script>
 "use strict";
 const NLISTS=6;
@@ -157,9 +158,11 @@ const saveButton=document.getElementById("saveButton");
 const resetButton=document.getElementById("resetButton");
 const inverseBox=document.getElementById("inverseBox");
 const importButton=document.getElementById("importButton"), exportButton=document.getElementById("exportButton"), phoneFileInput=document.getElementById("phoneFileInput"), wrongButton=document.getElementById("wrongButton"), revealButton=document.getElementById("revealButton"), rightButton=document.getElementById("rightButton");
-const catalogueSelect=document.getElementById("catalogueSelect");
-const catalogueDescription=document.getElementById("catalogueDescription");
-const catalogueLoadButton=document.getElementById("catalogueLoadButton");
+const catalogueOpenButton=document.getElementById("catalogueOpenButton");
+const catalogueOverlay=document.getElementById("catalogueOverlay");
+const catalogueList=document.getElementById("catalogueList");
+const catalogueHint=document.getElementById("catalogueHint");
+const catalogueCloseButton=document.getElementById("catalogueCloseButton");
 let catalogueEntries=[];
 const phoneMode=matchMedia("(max-width:700px),(pointer:coarse)").matches;
 
@@ -437,50 +440,56 @@ async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transacti
 function downloadText(n,t){const u=URL.createObjectURL(new Blob([t],{type:"text/plain;charset=utf-8"})),a=document.createElement("a");a.href=u;a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
 async function exportPhoneVocabulary(){for(let l=0;l<NLISTS;l++){const a=[];for(const wi of lists[l]){const w=words[wi];a.push(w.middle!==null?w.front+" : "+w.middle+" : "+w.back:w.front+" : "+w.back)}downloadText(currentLanguage+"_"+l+".txt",a.join("\n")+(a.length?"\n":""));await new Promise(r=>setTimeout(r,150))}feedback.textContent="<files exported>";setTimeout(()=>feedback.textContent="",2500)}
 
+async function phoneStoredVocabularyIds() {
+  try {
+    const db=await phoneDB();
+    const tx=db.transaction("states","readonly");
+    const store=tx.objectStore("states");
+    const ids=await new Promise((resolve,reject)=>{
+      const result=[];
+      const request=store.openKeyCursor();
+      request.onsuccess=()=>{
+        const cursor=request.result;
+        if(!cursor) { resolve(result); return; }
+        result.push(cursor.key);
+        cursor.continue();
+      };
+      request.onerror=()=>reject(request.error);
+    });
+    db.close();
+    return new Set(ids);
+  } catch(e) {
+    return new Set();
+  }
+}
+
 async function loadCatalogue() {
+  /*
+   * Keep a local copy of the catalogue as well as the vocabularies.  Thus
+   * the Load Vocabulary menu can still show every known vocabulary when the
+   * phone is offline.
+   */
   try {
     const response=await fetch("./vocab/catalogue.json");
     if(!response.ok) throw new Error("catalogue not available");
     catalogueEntries=await response.json();
-
-    catalogueSelect.innerHTML='<option value="">-- choose vocabulary --</option>';
-
-    let currentGroup=null;
-    let group=null;
-    for(const entry of catalogueEntries) {
-      if(entry.language!==currentGroup) {
-        currentGroup=entry.language;
-        group=document.createElement("optgroup");
-        group.label=currentGroup;
-        catalogueSelect.appendChild(group);
-      }
-
-      const option=document.createElement("option");
-      option.value=entry.id;
-      option.textContent=entry.name;
-      group.appendChild(option);
-    }
-
-    catalogueSelect.disabled=catalogueEntries.length===0;
+    localStorage.setItem("vocab-catalogue",JSON.stringify(catalogueEntries));
   } catch(e) {
-    catalogueDescription.textContent=
-      "Online vocabulary catalogue unavailable. Local files still work.";
+    try {
+      catalogueEntries=JSON.parse(
+          localStorage.getItem("vocab-catalogue") || "[]");
+    } catch(ignore) {
+      catalogueEntries=[];
+    }
   }
+
+  catalogueOpenButton.disabled=catalogueEntries.length===0;
 }
 
-catalogueSelect.addEventListener("change", ()=>{
-  const entry=catalogueEntries.find(x=>x.id===catalogueSelect.value);
-  catalogueDescription.textContent=entry ? entry.description : "";
-  catalogueLoadButton.disabled=!entry;
-});
-
-catalogueLoadButton.addEventListener("click", async ()=>{
-  const entry=catalogueEntries.find(x=>x.id===catalogueSelect.value);
-  if(!entry) return;
-
+async function loadCatalogueEntry(entry) {
   /*
-   * If this vocabulary has been used before, restore its own six lists
-   * and its own statistics rather than starting again.
+   * If this vocabulary has been used before, restore its own six lists and
+   * statistics.  This works without an internet connection.
    */
   if(await loadPhoneState(entry.id)) {
     status.textContent="Restored "+entry.name+" from phone storage.";
@@ -512,6 +521,66 @@ catalogueLoadButton.addEventListener("click", async ()=>{
   } catch(e) {
     status.textContent="Could not load "+entry.name+": "+e;
   }
+}
+
+async function showCatalogue() {
+  const stored=await phoneStoredVocabularyIds();
+  const offline=!navigator.onLine;
+
+  catalogueList.innerHTML="";
+  catalogueHint.textContent=offline ?
+      "Offline: vocabularies not already on this phone are greyed out." :
+      "Tap a vocabulary to load it. Previously used vocabularies resume where you left off.";
+
+  let currentGroup=null;
+
+  for(const entry of catalogueEntries) {
+    if(entry.language!==currentGroup) {
+      currentGroup=entry.language;
+      const heading=document.createElement("div");
+      heading.className="catalogueGroup";
+      heading.textContent=currentGroup;
+      catalogueList.appendChild(heading);
+    }
+
+    const button=document.createElement("button");
+    button.className="catalogueEntry";
+    button.type="button";
+    button.textContent=entry.name;
+
+    const description=document.createElement("small");
+    description.textContent=entry.description || "";
+    button.appendChild(description);
+
+    if(offline && !stored.has(entry.id)) {
+      button.disabled=true;
+      const note=document.createElement("small");
+      note.textContent="Not downloaded — unavailable offline";
+      button.appendChild(note);
+    } else if(stored.has(entry.id)) {
+      const note=document.createElement("small");
+      note.textContent="Downloaded on this phone";
+      button.appendChild(note);
+    }
+
+    button.addEventListener("click",async()=>{
+      catalogueOverlay.style.display="none";
+      await loadCatalogueEntry(entry);
+    });
+
+    catalogueList.appendChild(button);
+  }
+
+  catalogueOverlay.style.display="flex";
+}
+
+catalogueOpenButton.addEventListener("click",showCatalogue);
+catalogueCloseButton.addEventListener("click",()=>{
+  catalogueOverlay.style.display="none";
+});
+catalogueOverlay.addEventListener("click",e=>{
+  if(e.target===catalogueOverlay)
+    catalogueOverlay.style.display="none";
 });
 
 async function findLanguages() {
@@ -860,7 +929,7 @@ if(phoneMode){
   loadCatalogue();
   const last=localStorage.getItem("vocab-phone-last");
   if(last) loadPhoneState(last);
-  else status.textContent="Choose an online vocabulary or a local text file.";
+  else status.textContent="Load a vocabulary, or import your own text file.";
 }else tryRestoreDirectory();
 
 if ("serviceWorker" in navigator) {
