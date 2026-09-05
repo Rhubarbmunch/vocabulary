@@ -21,6 +21,13 @@
     "description": "500 common Chinese words - second list"
  },
  {
+    "id": "chinese_course_book_1326",
+    "name": "chinese_course_book_1326",
+    "language": "Chinese",
+    "file": "chinese_course_book.txt",
+    "description": "Vocabulary (1326 words) from Chinese Course Book 1",
+ },
+ {
     "id": "czech_350",
     "name": "czech_350",
     "language": "Czech",
