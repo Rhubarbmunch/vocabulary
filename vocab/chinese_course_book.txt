@@ -805,8 +805,7 @@
 上去 : shàngqù : to go up
 上午 : shàngwǔ : morning
 上衣 : shàngyī : coat, jacket
-上有天堂 : shàng yǒu tiāntáng : Suzhou and Hangzhou are paradise on earth
-下有苏杭 : xià yǒu Sū Háng : Suzhou and Hangzhou are paradise on earth
+上有天堂, 下有苏杭 : shàng yǒu tiāntáng xià yǒu Sū Háng : Suzhou and Hangzhou are paradise on earth
 少 : shǎo : few, little
 少数 : shǎoshù : minority
 社会 : shèhuì : society

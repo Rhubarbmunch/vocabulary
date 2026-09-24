@@ -1,0 +1,275 @@
+வணக்கம் : vaṇakkam : hello
+நன்றி : naṉṟi : thank you
+ஆம் : ām : yes
+இல்லை : illai : no
+தயவு செய்து : tayavu ceytu : please
+மன்னிக்கவும் : maṉṉikkavum : sorry / excuse me
+பரவாயில்லை : paravāyillai : no problem
+சரி : cari : all right / correct
+நல்லது : nallatu : good
+கெட்டது : keṭṭatu : bad
+மிகவும் : mikavum : very
+கொஞ்சம் : koñcam : a little
+போதும் : pōtum : enough
+வேண்டும் : vēṇṭum : want / need
+வேண்டாம் : vēṇṭām : do not want
+உதவி : utavi : help
+உண்மை : uṇmai : truth
+பொய் : poy : lie / falsehood
+எனக்குப் புரிகிறது : eṉakkup purikiṟatu : I understand
+எனக்குப் புரியவில்லை : eṉakkup puriyavillai : I do not understand
+எனக்குத் தமிழ் தெரியாது : eṉakkut tamiḻ teriyātu : I do not know Tamil
+நீங்கள் ஆங்கிலம் பேசுகிறீர்களா? : nīṅkaḷ āṅkilam pēcukiṟīrkaḷā? : Do you speak English?
+மீண்டும் சொல்லுங்கள் : mīṇṭum colluṅkaḷ : please say it again
+மெதுவாகப் பேசுங்கள் : metuvākap pēcuṅkaḷ : please speak slowly
+இதன் பொருள் என்ன? : itaṉ poruḷ eṉṉa? : what does this mean?
+நான் : nāṉ : I
+நீ : nī : you (singular, familiar)
+நீங்கள் : nīṅkaḷ : you (polite or plural)
+அவன் : avaṉ : he
+அவள் : avaḷ : she
+அவர் : avar : he / she (respectful)
+அவர்கள் : avarkaḷ : they
+நாம் : nām : we (including the listener)
+நாங்கள் : nāṅkaḷ : we (excluding the listener)
+இவன் : ivaṉ : this man / boy
+இவள் : ivaḷ : this woman / girl
+இவர் : ivar : this person (respectful)
+மனிதன் : maṉitaṉ : man / human being
+ஆண் : āṇ : man / male
+பெண் : peṇ : woman / female
+குழந்தை : kuḻantai : child
+சிறுவன் : ciṟuvaṉ : boy
+சிறுமி : ciṟumi : girl
+நண்பர் : naṇpar : friend
+ஆசிரியர் : āciriyar : teacher
+மாணவர் : māṇavar : student
+மருத்துவர் : maruttuvar : doctor
+ஓட்டுநர் : ōṭṭunar : driver
+வேலைக்காரர் : vēlaikkārar : worker
+விருந்தினர் : viruntiṉar : guest
+குடும்பம் : kuṭumpam : family
+அப்பா : appā : father / dad
+அம்மா : ammā : mother / mum
+தந்தை : tantai : father
+தாய் : tāy : mother
+மகன் : makaṉ : son
+மகள் : makaḷ : daughter
+அண்ணன் : aṇṇaṉ : elder brother
+தம்பி : tampi : younger brother
+அக்கா : akkā : elder sister
+தங்கை : taṅkai : younger sister
+கணவன் : kaṇavaṉ : husband
+மனைவி : maṉaivi : wife
+தாத்தா : tāttā : grandfather
+பாட்டி : pāṭṭi : grandmother
+பெற்றோர் : peṟṟōr : parents
+சகோதரன் : cakōtaraṉ : brother
+சகோதரி : cakōtari : sister
+உறவினர் : uṟaviṉar : relative
+திருமணம் : tirumaṇam : marriage / wedding
+பெயர் : peyar : name
+வயது : vayatu : age
+மக்கள் : makkaḷ : people
+அண்டைவீட்டுக்காரர் : aṇṭaivīṭṭukkārar : neighbour
+தம்பதியர் : tampatiyar : married couple
+வீடு : vīṭu : house / home
+அறை : aṟai : room
+கதவு : katavu : door
+சன்னல் : caṉṉal : window
+சுவர் : cuvar : wall
+தரை : tarai : floor / ground
+கூரை : kūrai : roof
+சமையலறை : camaiyalaṟai : kitchen
+குளியலறை : kuḷiyalaṟai : bathroom
+படுக்கையறை : paṭukkaiyaṟai : bedroom
+மேசை : mēcai : table
+நாற்காலி : nāṟkāli : chair
+படுக்கை : paṭukkai : bed
+விளக்கு : viḷakku : lamp / light
+சாவி : cāvi : key
+பெட்டி : peṭṭi : box
+பை : pai : bag
+குடை : kuṭai : umbrella
+கண்ணாடி : kaṇṇāṭi : mirror / spectacles
+கடிகாரம் : kaṭikāram : clock / watch
+தொலைபேசி : tolaipēci : telephone
+கணினி : kaṇiṉi : computer
+புத்தகம் : puttakam : book
+காகிதம் : kākitam : paper
+பேனா : pēṉā : pen
+உணவு : uṇavu : food
+தண்ணீர் : taṇṇīr : water
+தேநீர் : tēnīr : tea
+காபி : kāpi : coffee
+பால் : pāl : milk
+அரிசி : arici : rice
+சோறு : cōṟu : cooked rice / meal
+ரொட்டி : roṭṭi : bread
+காய்கறி : kāykaṟi : vegetable
+பழம் : paḻam : fruit
+வாழைப்பழம் : vāḻaippaḻam : banana
+மாம்பழம் : māmpaḻam : mango
+ஆப்பிள் : āppiḷ : apple
+திராட்சை : tirāṭcai : grapes
+தேங்காய் : tēṅkāy : coconut
+முட்டை : muṭṭai : egg
+மீன் : mīṉ : fish
+இறைச்சி : iṟaicci : meat
+கோழி : kōḻi : chicken
+உப்பு : uppu : salt
+சர்க்கரை : carkkarai : sugar
+மிளகு : miḷaku : pepper
+காலை உணவு : kālai uṇavu : breakfast
+மதிய உணவு : matiya uṇavu : lunch
+இரவு உணவு : iravu uṇavu : dinner
+ஊர் : ūr : town / village
+நகரம் : nakaram : city
+கிராமம் : kirāmam : village
+நாடு : nāṭu : country
+இடம் : iṭam : place
+சாலை : cālai : road
+தெரு : teru : street
+கடை : kaṭai : shop
+சந்தை : cantai : market
+பள்ளி : paḷḷi : school
+பல்கலைக்கழகம் : palkalaikkaḻakam : university
+மருத்துவமனை : maruttuvamaṉai : hospital
+உணவகம் : uṇavakam : restaurant
+விடுதி : viṭuti : hotel / hostel
+வங்கி : vaṅki : bank
+அஞ்சலகம் : añcalakam : post office
+நிலையம் : nilaiyam : station
+விமான நிலையம் : vimāṉa nilaiyam : airport
+பேருந்து : pēruntu : bus
+ரயில் : rayil : train
+விமானம் : vimāṉam : aeroplane
+கார் : kār : car
+மிதிவண்டி : mitivaṇṭi : bicycle
+பயணம் : payaṇam : journey / travel
+பயணச்சீட்டு : payaṇaccīṭṭu : ticket
+நாய் : nāy : dog
+பூனை : pūṉai : cat
+பறவை : paṟavai : bird
+மாடு : māṭu : cow / cattle
+குதிரை : kutirai : horse
+ஆடு : āṭu : goat
+யானை : yāṉai : elephant
+பாம்பு : pāmpu : snake
+மரம் : maram : tree
+பூ : pū : flower
+இலை : ilai : leaf
+புல் : pul : grass
+காடு : kāṭu : forest
+மலை : malai : mountain
+கடல் : kaṭal : sea
+ஆறு : āṟu : river
+ஏரி : ēri : lake
+மழை : maḻai : rain
+காற்று : kāṟṟu : wind / air
+மேகம் : mēkam : cloud
+வானம் : vāṉam : sky
+சூரியன் : cūriyaṉ : sun
+நிலா : nilā : moon
+நட்சத்திரம் : naṭcattiram : star
+உலகம் : ulakam : world
+நேரம் : nēram : time
+நாள் : nāḷ : day
+வாரம் : vāram : week
+மாதம் : mātam : month
+ஆண்டு : āṇṭu : year
+காலை : kālai : morning
+மதியம் : matiyam : midday / afternoon
+மாலை : mālai : evening
+இரவு : iravu : night
+இன்று : iṉṟu : today
+நாளை : nāḷai : tomorrow
+நேற்று : nēṟṟu : yesterday
+இப்போது : ippōtu : now
+பிறகு : piṟaku : afterwards / later
+முன்பு : muṉpu : before / previously
+ஒன்று : oṉṟu : one
+இரண்டு : iraṇṭu : two
+மூன்று : mūṉṟu : three
+நான்கு : nāṉku : four
+ஐந்து : aintu : five
+ஆறு : āṟu : six
+ஏழு : ēḻu : seven
+எட்டு : eṭṭu : eight
+ஒன்பது : oṉpatu : nine
+பத்து : pattu : ten
+என்ன? : eṉṉa? : what?
+யார்? : yār? : who?
+எங்கே? : eṅkē? : where?
+எப்போது? : eppōtu? : when?
+ஏன்? : ēṉ? : why?
+எப்படி? : eppaṭi? : how?
+எவ்வளவு? : evvaḷavu? : how much?
+எத்தனை? : ettaṉai? : how many?
+எது? : etu? : which?
+இது : itu : this
+அது : atu : that
+இங்கே : iṅkē : here
+அங்கே : aṅkē : there
+உள்ளே : uḷḷē : inside
+வெளியே : veḷiyē : outside
+மேலே : mēlē : above / upstairs
+கீழே : kīḻē : below / downstairs
+முன்னால் : muṉṉāl : in front
+பின்னால் : piṉṉāl : behind
+அருகில் : arukil : nearby
+தூரத்தில் : tūrattil : far away
+வலது : valatu : right
+இடது : iṭatu : left
+நேராக : nērāka : straight ahead
+எந்த வழி? : enta vaḻi? : which way?
+வருதல் : varutal : to come
+செல்லுதல் : cellutal : to go
+பார்த்தல் : pārttal : to see / look
+கேட்டல் : kēṭṭal : to hear / ask
+பேசுதல் : pēcutal : to speak
+சொல்லுதல் : collutal : to say / tell
+படித்தல் : paṭittal : to read / study
+எழுதுதல் : eḻututal : to write
+சாப்பிடுதல் : cāppiṭutal : to eat
+குடித்தல் : kuṭittal : to drink
+தூங்குதல் : tūṅkutal : to sleep
+எழுதல் : eḻutal : to rise / get up
+நடத்துதல் : naṭattutal : to conduct / lead
+நடப்பது : naṭappatu : to walk
+ஓடுதல் : ōṭutal : to run
+உட்காருதல் : uṭkārutal : to sit
+நிற்றல் : niṟṟal : to stand
+வாங்குதல் : vāṅkutal : to buy
+விற்றல் : viṟṟal : to sell
+கொடுத்தல் : koṭuttal : to give
+எடுத்தல் : eṭuttal : to take
+திறத்தல் : tiṟattal : to open
+மூடுதல் : mūṭutal : to close
+செய்தல் : ceytal : to do / make
+வேலை செய்தல் : vēlai ceytal : to work
+பெரியது : periyatu : big
+சிறியது : ciṟiyatu : small
+உயரமானது : uyaramāṉatu : tall / high
+குட்டையானது : kuṭṭaiyāṉatu : short
+நீளமானது : nīḷamāṉatu : long
+புதியது : putiyatu : new
+பழையது : paḻaiyatu : old
+அழகானது : aḻakāṉatu : beautiful
+சுத்தமானது : cuttamāṉatu : clean
+அழுக்கானது : aḻukkāṉatu : dirty
+சூடானது : cūṭāṉatu : hot
+குளிரானது : kuḷirāṉatu : cold
+வேகமானது : vēkamāṉatu : fast
+மெதுவானது : metuvāṉatu : slow
+எளிதானது : eḷitāṉatu : easy
+கடினமானது : kaṭiṉamāṉatu : difficult
+மகிழ்ச்சி : makiḻcci : happiness
+துக்கம் : tukkam : sadness
+கோபம் : kōpam : anger
+பயம் : payam : fear
+அன்பு : aṉpu : love / affection
+நிறம் : niṟam : colour
+சிவப்பு : civappu : red
+வெள்ளை : veḷḷai : white
+கருப்பு : karuppu : black

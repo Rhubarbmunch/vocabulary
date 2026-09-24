@@ -180,5 +180,12 @@
     "language": "Spanish",
     "file": "spanish_second_1000.txt",
     "description": "Second 1000 most common Spanish words"
+ },
+ {
+    "id": "tamil_250",
+    "name": "tamil_250",
+    "language": "Tamil",
+    "file": "tamil_250.txt",
+    "description": "Elementary Tamil vocabulary"
  }
 ]
