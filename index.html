@@ -182,6 +182,7 @@ const catalogueCloseButton=document.getElementById("catalogueCloseButton");
 let catalogueEntries=[];
 let currentAudioBase="";
 let currentAudio=null;
+const AUDIO_CACHE="vocabulary-audio-v1";
 const phoneMode=matchMedia("(max-width:700px),(pointer:coarse)").matches;
 
 function setDirty(value) {
@@ -284,6 +285,45 @@ function formatWord(w) {
       w.front+" : "+w.middle+" : "+w.back :
       w.front+" : "+w.back;
   return text+(w.audio ? " => "+w.audio : "");
+}
+async function cacheVocabularyAudio() {
+  if(!currentAudioBase || !("caches" in window)) return;
+
+  const filenames=[...new Set(words.map(w=>w.audio).filter(Boolean))];
+  if(!filenames.length) return;
+
+  const cache=await caches.open(AUDIO_CACHE);
+  let ready=0, failed=0, next=0;
+
+  async function downloadOne() {
+    while(next<filenames.length) {
+      const filename=filenames[next++];
+      const url=currentAudioBase+filename;
+
+      try {
+        const old=await cache.match(url);
+        if(!old) {
+          const response=await fetch(url);
+          if(!response.ok) throw new Error("HTTP "+response.status);
+          await cache.put(url,response.clone());
+        }
+        ready++;
+      } catch(e) {
+        failed++;
+      }
+
+      feedback.textContent="<audio for offline use: "+ready+" / "+
+          filenames.length+(failed ? "; "+failed+" failed" : "")+">";
+    }
+  }
+
+  /* A small amount of parallelism makes a large vocabulary much quicker. */
+  await Promise.all(Array.from({length:Math.min(4,filenames.length)},
+      downloadOne));
+
+  feedback.textContent=failed ?
+      "<audio download incomplete: "+ready+" ready, "+failed+" failed>" :
+      "<audio ready offline: "+ready+" files>";
 }
 function loadText(text) {
   words=text.split(/\r?\n/).map(parseLine).filter(Boolean);
@@ -514,7 +554,7 @@ let dirHandle = null;
 
 function phoneDB(){return new Promise((ok,no)=>{const r=indexedDB.open("vocab-phone",1);r.onupgradeneeded=()=>{if(!r.result.objectStoreNames.contains("states"))r.result.createObjectStore("states")};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
 async function savePhoneState(){if(!phoneMode||!currentLanguage||!words.length)return;try{const db=await phoneDB(),tx=db.transaction("states","readwrite");tx.objectStore("states").put({words,lists,inverse:inverseBox.checked,numRight,numWrong,initialProgress,audioBase:currentAudioBase},currentLanguage);await new Promise((a,b)=>{tx.oncomplete=a;tx.onerror=()=>b(tx.error)});db.close();localStorage.setItem("vocab-phone-last",currentLanguage)}catch(e){}}
-async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=Array.from({length:NLISTS},()=>[]);for(let i=0;i<d.lists.length;i++)lists[Math.min(i,NLISTS-1)].push(...d.lists[i]);currentLanguage=name;currentAudioBase=d.audioBase!==undefined?d.audioBase:currentAudioBase;inverseBox.checked=!!d.inverse;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=d.numRight||0;numWrong=d.numWrong||0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";return true}catch(e){return false}}
+async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=Array.from({length:NLISTS},()=>[]);for(let i=0;i<d.lists.length;i++)lists[Math.min(i,NLISTS-1)].push(...d.lists[i]);currentLanguage=name;currentAudioBase=d.audioBase!==undefined?d.audioBase:currentAudioBase;inverseBox.checked=!!d.inverse;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=d.numRight||0;numWrong=d.numWrong||0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";await cacheVocabularyAudio();return true}catch(e){return false}}
 function downloadText(n,t){const u=URL.createObjectURL(new Blob([t],{type:"text/plain;charset=utf-8"})),a=document.createElement("a");a.href=u;a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
 async function exportPhoneVocabulary(){for(let l=0;l<NLISTS;l++){const a=[];for(const wi of lists[l]){const w=words[wi];a.push(formatWord(w))}downloadText(currentLanguage+"_"+l+".txt",a.join("\n")+(a.length?"\n":""));await new Promise(r=>setTimeout(r,150))}feedback.textContent="<files exported>";setTimeout(()=>feedback.textContent="",2500)}
 
@@ -598,6 +638,7 @@ async function loadCatalogueEntry(entry) {
     exportButton.disabled=resetButton.disabled=false;
     status.textContent=words.length+" words loaded: "+entry.name+".";
     await savePhoneState();
+    await cacheVocabularyAudio();
   } catch(e) {
     status.textContent="Could not load "+entry.name+": "+e;
   }

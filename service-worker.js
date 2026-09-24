@@ -1,4 +1,5 @@
-const CACHE_NAME = "vocabulary-pwa-v2";
+const CACHE_NAME = "vocabulary-pwa-v4";
+const AUDIO_CACHE = "vocabulary-audio-v1";
 const APP_FILES = [
   "./",
   "./index.html",
@@ -17,7 +18,8 @@ self.addEventListener("install", event => {
 self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys().then(keys =>
-      Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))
+      Promise.all(keys.filter(k =>
+        k !== CACHE_NAME && k !== AUDIO_CACHE).map(k => caches.delete(k)))
     )
   );
   self.clients.claim();
@@ -43,7 +45,20 @@ self.addEventListener("fetch", event => {
     );
   } else {
     event.respondWith(
-      caches.match(event.request).then(cached => cached || fetch(event.request))
+      caches.match(event.request).then(cached => {
+        if(cached) return cached;
+
+        return fetch(event.request).then(response => {
+          if(response.ok) {
+            const copy=response.clone();
+            const cacheName=url.pathname.match(/\.(wav|mp3|m4a|ogg)$/i) ?
+                AUDIO_CACHE : CACHE_NAME;
+            caches.open(cacheName).then(cache =>
+              cache.put(event.request,copy));
+          }
+          return response;
+        });
+      })
     );
   }
 });
