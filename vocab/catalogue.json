@@ -187,5 +187,12 @@
     "language": "Tamil",
     "file": "tamil_250.txt",
     "description": "Elementary Tamil vocabulary"
+ },
+ {
+    "id": "tamil_phrases",
+    "name": "tamil_phrases",
+    "language": "Tamil",
+    "file": "tamil_phrasebook.txt",
+    "description": "Tamil phrases"
  }
 ]

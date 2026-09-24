@@ -1,0 +1,130 @@
+வணக்கம் : vaṇakkam : hello / greetings
+காலை வணக்கம் : kālai vaṇakkam : good morning
+மாலை வணக்கம் : mālai vaṇakkam : good evening
+நல்ல இரவு : nalla iravu : good night
+நீங்கள் எப்படி இருக்கிறீர்கள்? : nīṅkaḷ eppaṭi irukkiṟīrkaḷ? : how are you?
+நான் நன்றாக இருக்கிறேன் : nāṉ naṉṟāka irukkiṟēṉ : I am well
+நன்றி : naṉṟi : thank you
+மிக்க நன்றி : mikka naṉṟi : thank you very much
+தயவு செய்து : tayavu ceytu : please
+பரவாயில்லை : paravāyillai : it does not matter / no problem
+மன்னிக்கவும் : maṉṉikkavum : sorry / excuse me
+உங்கள் பெயர் என்ன? : uṅkaḷ peyar eṉṉa? : what is your name?
+என் பெயர் ரிச்சர்ட் : eṉ peyar Riccarṭ : my name is Richard
+உங்களைச் சந்தித்ததில் மகிழ்ச்சி : uṅkaḷaic cantittatil makiḻcci : pleased to meet you
+நீங்கள் எங்கிருந்து வருகிறீர்கள்? : nīṅkaḷ eṅkiruntu varukiṟīrkaḷ? : where are you from?
+நான் ஆஸ்திரேலியாவிலிருந்து வருகிறேன் : nāṉ Āstirēliyāviliruntu varukiṟēṉ : I come from Australia
+நான் கான்பெராவில் வசிக்கிறேன் : nāṉ Kāṉperāvil vacikkiṟēṉ : I live in Canberra
+நான் ஓய்வு பெற்றவன் : nāṉ ōyvu peṟṟavaṉ : I am retired
+மீண்டும் சந்திப்போம் : mīṇṭum cantippōm : see you again
+போய் வருகிறேன் : pōy varukiṟēṉ : goodbye (said by the person leaving)
+நீங்கள் ஆங்கிலம் பேசுகிறீர்களா? : nīṅkaḷ āṅkilam pēcukiṟīrkaḷā? : do you speak English?
+எனக்குத் தமிழ் தெரியாது : eṉakkut tamiḻ teriyātu : I do not know Tamil
+எனக்குக் கொஞ்சம் தமிழ் தெரியும் : eṉakkuk koñcam tamiḻ teriyum : I know a little Tamil
+எனக்குப் புரிகிறது : eṉakkup purikiṟatu : I understand
+எனக்குப் புரியவில்லை : eṉakkup puriyavillai : I do not understand
+மீண்டும் சொல்லுங்கள் : mīṇṭum colluṅkaḷ : please say it again
+மெதுவாகப் பேசுங்கள் : metuvākap pēcuṅkaḷ : please speak slowly
+இதை எப்படி உச்சரிப்பது? : itai eppaṭi uccarippatu? : how do you pronounce this?
+இதன் பொருள் என்ன? : itaṉ poruḷ eṉṉa? : what does this mean?
+இதைத் தமிழில் எப்படிச் சொல்வது? : itait tamiḻil eppaṭic colvatu? : how do you say this in Tamil?
+அதை எழுத முடியுமா? : atai eḻuta muṭiyumā? : can you write that down?
+எனக்காக மொழிபெயர்க்க முடியுமா? : eṉakkāka moḻipeyarkka muṭiyumā? : can you translate for me?
+நான் சொல்வது புரிகிறதா? : nāṉ colvatu purikiṟatā? : do you understand what I am saying?
+அது சரியா? : atu cariyā? : is that correct?
+சரியான சொல் என்ன? : cariyāṉa col eṉṉa? : what is the correct word?
+இது எங்கே இருக்கிறது? : itu eṅkē irukkiṟatu? : where is this?
+கழிப்பறை எங்கே இருக்கிறது? : kaḻippaṟai eṅkē irukkiṟatu? : where is the toilet?
+ரயில் நிலையம் எங்கே இருக்கிறது? : rayil nilaiyam eṅkē irukkiṟatu? : where is the railway station?
+பேருந்து நிலையம் எங்கே இருக்கிறது? : pēruntu nilaiyam eṅkē irukkiṟatu? : where is the bus station?
+விமான நிலையம் எங்கே இருக்கிறது? : vimāṉa nilaiyam eṅkē irukkiṟatu? : where is the airport?
+இந்த முகவரி எங்கே இருக்கிறது? : inta mukavari eṅkē irukkiṟatu? : where is this address?
+நான் அங்கே எப்படிப் போவது? : nāṉ aṅkē eppaṭip pōvatu? : how do I get there?
+அது இங்கிருந்து தூரமா? : atu iṅkiruntu tūramā? : is it far from here?
+அது அருகில்தான் இருக்கிறதா? : atu arukiltāṉ irukkiṟatā? : is it nearby?
+நடந்து போக முடியுமா? : naṭantu pōka muṭiyumā? : can I walk there?
+எந்த வழியில் போக வேண்டும்? : enta vaḻiyil pōka vēṇṭum? : which way should I go?
+நேராகச் செல்லுங்கள் : nērākac celluṅkaḷ : go straight ahead
+இடதுபுறம் திரும்புங்கள் : iṭatupuṟam tirumpuṅkaḷ : turn left
+வலதுபுறம் திரும்புங்கள் : valatupuṟam tirumpuṅkaḷ : turn right
+எனக்கு வழி தெரியவில்லை : eṉakku vaḻi teriyavillai : I am lost
+எனக்கு ஒரு டாக்சி வேண்டும் : eṉakku oru ṭāksi vēṇṭum : I need a taxi
+இந்த முகவரிக்குப் போங்கள் : inta mukavarikkup pōṅkaḷ : go to this address
+இங்கே நிறுத்துங்கள் : iṅkē niṟuttuṅkaḷ : stop here
+கட்டணம் எவ்வளவு? : kaṭṭaṇam evvaḷavu? : how much is the fare?
+இந்தப் பேருந்து எங்கே போகிறது? : intap pēruntu eṅkē pōkiṟatu? : where does this bus go?
+இந்த ரயில் சென்னைக்குப் போகுமா? : inta rayil Ceṉṉaikkup pōkumā? : does this train go to Chennai?
+அடுத்த ரயில் எப்போது? : aṭutta rayil eppōtu? : when is the next train?
+ரயில் எத்தனை மணிக்குப் புறப்படும்? : rayil ettaṉai maṇikkup puṟappaṭum? : what time does the train leave?
+ரயில் எத்தனை மணிக்கு வரும்? : rayil ettaṉai maṇikku varum? : what time does the train arrive?
+எனக்கு ஒரு பயணச்சீட்டு வேண்டும் : eṉakku oru payaṇaccīṭṭu vēṇṭum : I would like a ticket
+ஒரு வழிப் பயணச்சீட்டு வேண்டும் : oru vaḻip payaṇaccīṭṭu vēṇṭum : I would like a one-way ticket
+போய் வருவதற்கான சீட்டு வேண்டும் : pōy varuvataṟkāṉa cīṭṭu vēṇṭum : I would like a return ticket
+இந்த இருக்கை காலியாக இருக்கிறதா? : inta irukkai kāliyāka irukkiṟatā? : is this seat free?
+நாம் எங்கே இறங்க வேண்டும்? : nām eṅkē iṟaṅka vēṇṭum? : where should we get off?
+நாம் வந்துவிட்டோமா? : nām vantuvittōmā? : have we arrived?
+எனக்கு ஒரு அறை வேண்டும் : eṉakku oru aṟai vēṇṭum : I would like a room
+நான் அறை முன்பதிவு செய்திருக்கிறேன் : nāṉ aṟai muṉpativu ceytirukkiṟēṉ : I have reserved a room
+என் பெயரில் முன்பதிவு இருக்கிறது : eṉ peyaril muṉpativu irukkiṟatu : there is a reservation in my name
+ஒரு இரவுக்கு எவ்வளவு? : oru iravukku evvaḷavu? : how much is it per night?
+காலை உணவு சேர்க்கப்பட்டுள்ளதா? : kālai uṇavu cērkkappaṭṭuḷḷatā? : is breakfast included?
+அறையில் குளியலறை இருக்கிறதா? : aṟaiyil kuḷiyalaṟai irukkiṟatā? : does the room have a bathroom?
+அறையில் குளிர்சாதனம் இருக்கிறதா? : aṟaiyil kuḷircātaṉam irukkiṟatā? : is there air conditioning?
+வைஃபை இருக்கிறதா? : vaifai irukkiṟatā? : is there Wi-Fi?
+வைஃபை கடவுச்சொல் என்ன? : vaifai kaṭavuccol eṉṉa? : what is the Wi-Fi password?
+என் அறையின் சாவி வேண்டும் : eṉ aṟaiyiṉ cāvi vēṇṭum : I need the key to my room
+அறையைச் சுத்தம் செய்ய முடியுமா? : aṟaiyaic cuttam ceyya muṭiyumā? : can you clean the room?
+வெந்நீர் வரவில்லை : vennīr varavillai : there is no hot water
+விளக்கு வேலை செய்யவில்லை : viḷakku vēlai ceyyavillai : the light is not working
+நான் நாளை புறப்படுகிறேன் : nāṉ nāḷai puṟappaṭukiṟēṉ : I am leaving tomorrow
+கணக்கைக் கொடுக்க முடியுமா? : kaṇakkaik koṭukka muṭiyumā? : can I have the bill?
+எனக்குப் பசிக்கிறது : eṉakkup pacikkiṟatu : I am hungry
+எனக்குத் தாகமாக இருக்கிறது : eṉakkut tākamāka irukkiṟatu : I am thirsty
+இருவருக்கு ஒரு மேசை வேண்டும் : iruvarukku oru mēcai vēṇṭum : a table for two, please
+உணவுப் பட்டியலைக் கொடுங்கள் : uṇavup paṭṭiyalaik koṭuṅkaḷ : please give me the menu
+நீங்கள் எதைப் பரிந்துரைக்கிறீர்கள்? : nīṅkaḷ etaip parinturaikkiṟīrkaḷ? : what do you recommend?
+இது என்ன? : itu eṉṉa? : what is this?
+இது சைவ உணவா? : itu caiva uṇavā? : is this vegetarian?
+நான் சைவ உணவு சாப்பிடுகிறேன் : nāṉ caiva uṇavu cāppiṭukiṟēṉ : I eat vegetarian food
+இதில் இறைச்சி இருக்கிறதா? : itil iṟaicci irukkiṟatā? : does this contain meat?
+இதில் முட்டை இருக்கிறதா? : itil muṭṭai irukkiṟatā? : does this contain egg?
+இது மிகவும் காரமாக இருக்குமா? : itu mikavum kāramāka irukkumā? : is this very spicy?
+காரம் இல்லாமல் செய்ய முடியுமா? : kāram illāmal ceyya muṭiyumā? : can you make it without chilli?
+கொஞ்சம் தண்ணீர் கொடுங்கள் : koñcam taṇṇīr koṭuṅkaḷ : please give me some water
+ஒரு காபி வேண்டும் : oru kāpi vēṇṭum : I would like a coffee
+ஒரு தேநீர் வேண்டும் : oru tēnīr vēṇṭum : I would like a tea
+சர்க்கரை வேண்டாம் : carkkarai vēṇṭām : no sugar, please
+இது மிகவும் சுவையாக இருக்கிறது : itu mikavum cuvaiyāka irukkiṟatu : this is very tasty
+எனக்கு இது பிடிக்கும் : eṉakku itu piṭikkum : I like this
+எனக்கு இது பிடிக்கவில்லை : eṉakku itu piṭikkavillai : I do not like this
+கணக்கைக் கொடுங்கள் : kaṇakkaik koṭuṅkaḷ : please bring the bill
+இது எவ்வளவு? : itu evvaḷavu? : how much is this?
+அது மிகவும் விலை உயர்ந்தது : atu mikavum vilai uyarntatu : that is very expensive
+கொஞ்சம் விலையைக் குறைக்க முடியுமா? : koñcam vilaiyaik kuṟaikka muṭiyumā? : can you reduce the price?
+மலிவானது ஏதாவது இருக்கிறதா? : malivāṉatu ētāvatu irukkiṟatā? : do you have anything cheaper?
+நான் இதை வாங்க விரும்புகிறேன் : nāṉ itai vāṅka virumpukiṟēṉ : I would like to buy this
+நான் சும்மா பார்க்கிறேன் : nāṉ summā pārkkiṟēṉ : I am just looking
+வேறு நிறம் இருக்கிறதா? : vēṟu niṟam irukkiṟatā? : do you have another colour?
+பெரிய அளவு இருக்கிறதா? : periya aḷavu irukkiṟatā? : do you have a larger size?
+சிறிய அளவு இருக்கிறதா? : ciṟiya aḷavu irukkiṟatā? : do you have a smaller size?
+இதை அணிந்து பார்க்கலாமா? : itai aṇintu pārkkalāmā? : may I try this on?
+நான் அட்டையால் பணம் செலுத்தலாமா? : nāṉ aṭṭaiyāl paṇam celuttalāmā? : can I pay by card?
+பணம் மட்டும் தானா? : paṇam maṭṭum tāṉā? : is it cash only?
+அருகில் பண இயந்திரம் இருக்கிறதா? : arukil paṇa iyantiram irukkiṟatā? : is there a cash machine nearby?
+எனக்கு ஒரு ரசீது வேண்டும் : eṉakku oru racītu vēṇṭum : I need a receipt
+என்னிடம் சில்லறை இல்லை : eṉṉiṭam cillarai illai : I do not have any change
+எனக்கு உதவி தேவை : eṉakku utavi tēvai : I need help
+தயவு செய்து உதவி செய்யுங்கள் : tayavu ceytu utavi ceyyuṅkaḷ : please help me
+காவல்துறையை அழையுங்கள் : kāvaltuṟaiyai aḻaiyuṅkaḷ : call the police
+மருத்துவரை அழையுங்கள் : maruttuvarai aḻaiyuṅkaḷ : call a doctor
+அவசர ஊர்தியை அழையுங்கள் : avacara ūrtiyai aḻaiyuṅkaḷ : call an ambulance
+எனக்கு உடல்நிலை சரியில்லை : eṉakku uṭalnilai cariyillai : I feel unwell
+எனக்கு தலை வலிக்கிறது : eṉakku talai valikkiṟatu : I have a headache
+எனக்கு வயிறு வலிக்கிறது : eṉakku vayiṟu valikkiṟatu : I have a stomach ache
+எனக்கு மயக்கமாக இருக்கிறது : eṉakku mayakkamāka irukkiṟatu : I feel dizzy
+எனக்கு மருந்து வேண்டும் : eṉakku maruntu vēṇṭum : I need medicine
+மருந்தகம் எங்கே இருக்கிறது? : maruntakam eṅkē irukkiṟatu? : where is the pharmacy?
+என் பை காணவில்லை : eṉ pai kāṇavillai : my bag is missing
+என் தொலைபேசி காணவில்லை : eṉ tolaipēci kāṇavillai : my telephone is missing
+என் கடவுச்சீட்டு காணவில்லை : eṉ kaṭavuccīṭṭu kāṇavillai : my passport is missing
+இது அவசரம் : itu avacaram : this is an emergency
