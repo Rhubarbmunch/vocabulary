@@ -344,8 +344,9 @@ function chooseList() {
    * Now every word in list 0 has weight 32, every word in list 1 has
    * weight 16, etc.  Hence, within a level, all words have equal chance.
    */
-  const weights=Array.from({length:NLISTS},
-      (_,i)=>2**(NLISTS-1-i));
+   const weights = Array.from({length: NLISTS},
+      (_, i) => i === NLISTS - 1 ? 0.001 : 2 ** (NLISTS - 1 - i));
+
   let total=0;
 
   for(let i=0;i<NLISTS;i++)
@@ -504,6 +505,7 @@ function moveWord(delta) {
   updateLists();
   savePhoneState();
 }
+
 function progressScore() {
   let progress=0;
   for(let i=0;i<NLISTS;i++)
@@ -535,7 +537,8 @@ function updateStatus() {
       100.0*progress/maxProgress : 0.0;
 
   const effectiveness = attempts ?
-      100.0*(progress-initialProgress)/attempts : 0.0;
+      /* 100.0*(progress-initialProgress)/attempts : 0.0; */
+      100.0*progress/attempts : 0.0;
 
   statsDisplay.textContent =
     "# wrong : "+numWrong+"\n"+
