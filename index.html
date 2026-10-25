@@ -116,6 +116,8 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
     <option value="">Automatic</option>
     <option value="zh-CN">Chinese (Mandarin)</option>
     <option value="ru-RU">Russian</option>
+    <option value="cs-CZ">Czech</option>
+    <option value="ko-KR">Korean</option>
     <option value="es-MX">Spanish (Mexico)</option>
     <option value="es-CO">Spanish (Colombia)</option>
     <option value="es-AR">Spanish (Argentina)</option>
@@ -133,6 +135,8 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
   </select>
 </label>
 <div id="speechVoiceStatus" role="status" style="font-size:13px;color:#666"></div>
+<button id="voiceDiagnosticButton" type="button" style="min-height:36px;margin:8px 0">Show Spanish voices</button>
+<div id="voiceDiagnosticPanel" hidden style="font-size:13px;border:1px solid #bbb;padding:10px;margin:4px 0 12px;white-space:pre-wrap;overflow-wrap:anywhere"></div>
 <details id="directoryTools">
   <summary>Local directory files (computer)</summary>
   <button id="dirButton">Choose vocabulary directory</button>
@@ -184,7 +188,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.7";
+const APP_VERSION = "2026.10.25.9";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -540,6 +544,8 @@ function speechLanguageFromName(name) {
   const languages = [
     ["zh-CN", /chinese|mandarin|中文|汉语|(?:^|[^a-z])zh(?:$|[^a-z])/],
     ["ru-RU", /russian|русск|(?:^|[^a-z])ru(?:$|[^a-z])/],
+    ["cs-CZ", /czech|cesky|cestina|(?:^|[^a-z])cs(?:$|[^a-z])/],
+    ["ko-KR", /korean|hangul|한국어|조선말|(?:^|[^a-z])ko(?:$|[^a-z])/],
     ["es-MX", /spanish|espanol|latin-american|(?:^|[^a-z])es(?:$|[^a-z])/],
     ["fr-FR", /french|francais|(?:^|[^a-z])fr(?:$|[^a-z])/],
     ["de-DE", /german|deutsch|(?:^|[^a-z])de(?:$|[^a-z])/],
@@ -608,6 +614,34 @@ async function availableSpeechVoices() {
     onVoicesChanged();
   });
 }
+
+// Display precisely the Spanish voices exposed to this browser, not the
+// larger set of voices that may be installed in the operating system.
+const voiceDiagnosticButton = document.getElementById("voiceDiagnosticButton");
+const voiceDiagnosticPanel = document.getElementById("voiceDiagnosticPanel");
+voiceDiagnosticButton.addEventListener("click", async () => {
+  if (!voiceDiagnosticPanel.hidden) {
+    voiceDiagnosticPanel.hidden = true;
+    voiceDiagnosticButton.textContent = "Show Spanish voices";
+    return;
+  }
+  voiceDiagnosticPanel.hidden = false;
+  voiceDiagnosticButton.textContent = "Hide Spanish voices";
+  voiceDiagnosticPanel.textContent = "Checking available voices…";
+  if (!("speechSynthesis" in window)) {
+    voiceDiagnosticPanel.textContent = "Speech synthesis is not supported in this browser.";
+    return;
+  }
+  const voices = await availableSpeechVoices();
+  const spanish = voices.filter(v => /^es(?:[-_]|$)/i.test(v.lang))
+    .sort((a, b) => a.lang.localeCompare(b.lang) || a.name.localeCompare(b.name));
+  voiceDiagnosticPanel.textContent = spanish.length ?
+    spanish.length + " Spanish voice(s) exposed by this browser:\n\n" +
+    spanish.map(v => v.name + " — " + v.lang +
+      " — " + (v.localService ? "local" : "remote") +
+      (v.default ? " — default" : "")).join("\n") :
+    "No Spanish voices were returned by the browser (" + voices.length + " voices total).";
+});
 
 async function speakWord(word, speed) {
   const language = speechLanguage(word);
