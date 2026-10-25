@@ -184,7 +184,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.6";
+const APP_VERSION = "2026.10.25.7";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -954,7 +954,7 @@ async function loadCatalogue() {
 // Refresh a previously used vocabulary while retaining the level of each
 // unchanged entry. New entries begin at level 0; deleted entries disappear.
 function reconcileVocabulary(text) {
-  const incoming = text.split(/\\r?\\n/).map(parseLine).filter(Boolean);
+  const incoming = text.split(/\r?\n/).map(parseLine).filter(Boolean);
   if (!incoming.length) throw new Error("Downloaded vocabulary is empty");
   const oldLevels = new Map();
   for (let level = 0; level < NLISTS; level++) {
@@ -1583,12 +1583,19 @@ versionButton.addEventListener("click", () => {
 inverseBox.checked = (localStorage.getItem("vocab-inverse") === "1");
 audioModeBox.checked = (localStorage.getItem("vocab-audio-mode") === "1");
 if (audioModeBox.checked) inverseBox.checked = false;
-loadCatalogue();
-{
+// Restore through the catalogue when possible so online refresh also repairs
+// old saved copies, instead of repeatedly restoring stale entries on startup.
+
+async function restoreLastVocabulary() {
+  await loadCatalogue();
   const last = localStorage.getItem("vocab-phone-last");
-  if (last) loadPhoneState(last);
-  else if (!phoneMode) tryRestoreDirectory();
+  const entry = catalogueEntries.find(item => item.id === last);
+  if (entry) await loadCatalogueEntry(entry);
+  else if (last) await loadPhoneState(last);
+  else if (!phoneMode) await tryRestoreDirectory();
 }
+
+restoreLastVocabulary();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
