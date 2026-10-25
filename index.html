@@ -124,6 +124,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
     <option value="es-PE">Spanish (Peru)</option>
     <option value="es-CL">Spanish (Chile)</option>
     <option value="es-ES">Spanish (Spain)</option>
+    <option value="es-US">Spanish (United States)</option>
     <option value="fr-FR">French</option>
     <option value="de-DE">German</option>
     <option value="it-IT">Italian</option>
@@ -135,7 +136,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
   </select>
 </label>
 <div id="speechVoiceStatus" role="status" style="font-size:13px;color:#666"></div>
-<button id="voiceDiagnosticButton" type="button" style="min-height:36px;margin:8px 0">Show Spanish voices</button>
+<button id="voiceDiagnosticButton" type="button" style="min-height:36px;margin:8px 0">Show voices</button>
 <div id="voiceDiagnosticPanel" hidden style="font-size:13px;border:1px solid #bbb;padding:10px;margin:4px 0 12px;white-space:pre-wrap;overflow-wrap:anywhere"></div>
 <details id="directoryTools">
   <summary>Local directory files (computer)</summary>
@@ -188,7 +189,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.9";
+const APP_VERSION = "2026.10.25.11";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -615,33 +616,86 @@ async function availableSpeechVoices() {
   });
 }
 
-// Display precisely the Spanish voices exposed to this browser, not the
-// larger set of voices that may be installed in the operating system.
+// Show the voices exposed by this browser for the currently loaded vocabulary.
+// Include all regional variants of its language, regardless of the selected accent.
 const voiceDiagnosticButton = document.getElementById("voiceDiagnosticButton");
 const voiceDiagnosticPanel = document.getElementById("voiceDiagnosticPanel");
 voiceDiagnosticButton.addEventListener("click", async () => {
   if (!voiceDiagnosticPanel.hidden) {
     voiceDiagnosticPanel.hidden = true;
-    voiceDiagnosticButton.textContent = "Show Spanish voices";
+    voiceDiagnosticButton.textContent = "Show voices";
     return;
   }
   voiceDiagnosticPanel.hidden = false;
-  voiceDiagnosticButton.textContent = "Hide Spanish voices";
+  voiceDiagnosticButton.textContent = "Hide voices";
+  const language = currentSpeechLanguage || speechLanguageFromName(currentLanguage) ||
+    (words.length ? speechLanguage(words[0]) : null);
+  if (!language) {
+    voiceDiagnosticPanel.textContent = "Load a vocabulary with a recognised language first.";
+    return;
+  }
   voiceDiagnosticPanel.textContent = "Checking available voices…";
   if (!("speechSynthesis" in window)) {
     voiceDiagnosticPanel.textContent = "Speech synthesis is not supported in this browser.";
     return;
   }
   const voices = await availableSpeechVoices();
-  const spanish = voices.filter(v => /^es(?:[-_]|$)/i.test(v.lang))
+  const prefix = language.split(/[-_]/)[0].toLowerCase();
+  const matching = voices.filter(v =>
+    v.lang.toLowerCase().split(/[-_]/)[0] === prefix)
     .sort((a, b) => a.lang.localeCompare(b.lang) || a.name.localeCompare(b.name));
-  voiceDiagnosticPanel.textContent = spanish.length ?
-    spanish.length + " Spanish voice(s) exposed by this browser:\n\n" +
-    spanish.map(v => v.name + " — " + v.lang +
-      " — " + (v.localService ? "local" : "remote") +
-      (v.default ? " — default" : "")).join("\n") :
-    "No Spanish voices were returned by the browser (" + voices.length + " voices total).";
+  voiceDiagnosticPanel.replaceChildren();
+  if (!matching.length) {
+    voiceDiagnosticPanel.textContent = "No " + prefix + " voices were returned by the browser (" +
+      voices.length + " voices total).";
+    return;
+  }
+  const heading = document.createElement("div");
+  heading.textContent = matching.length + " voice(s) for " + currentLanguage +
+    " (" + prefix + "). Select one to use it:";
+  voiceDiagnosticPanel.appendChild(heading);
+  const select = document.createElement("select");
+  select.style.cssText = "display:block;width:100%;max-width:100%;margin:10px 0;font-size:16px";
+  const auto = document.createElement("option");
+  auto.value = "";
+  auto.textContent = "Automatic (use speech-language selection)";
+  select.appendChild(auto);
+  matching.forEach((v, i) => {
+    const option = document.createElement("option");
+    option.value = String(i);
+    option.textContent = v.name + " — " + v.lang +
+      (v.localService ? " — local" : " — remote") +
+      (v.default ? " — default" : "");
+    select.appendChild(option);
+  });
+  const saved = selectedVoicePreference();
+  const selectedIndex = matching.findIndex(v => saved &&
+    v.name === saved.name && v.lang === saved.lang && v.voiceURI === saved.voiceURI);
+  select.value = selectedIndex < 0 ? "" : String(selectedIndex);
+  select.addEventListener("change", () => {
+    stopAudio();
+    if (select.value === "") {
+      localStorage.removeItem("vocab-voice:" + currentLanguage);
+      speechVoiceStatus.textContent = "Voice selection: automatic";
+    } else {
+      const v = matching[Number(select.value)];
+      localStorage.setItem("vocab-voice:" + currentLanguage,
+        JSON.stringify({name:v.name, lang:v.lang, voiceURI:v.voiceURI}));
+      speechVoiceStatus.textContent = "Selected voice: " + v.name + " (" + v.lang + ")";
+    }
+    if (audioModeBox.checked && current) playCurrentAudio(1.0);
+  });
+  voiceDiagnosticPanel.appendChild(select);
+  const note = document.createElement("div");
+  note.textContent = "The selected voice is remembered for this vocabulary on this device.";
+  voiceDiagnosticPanel.appendChild(note);
 });
+
+function selectedVoicePreference() {
+  try {
+    return JSON.parse(localStorage.getItem("vocab-voice:" + currentLanguage) || "null");
+  } catch (e) { return null; }
+}
 
 async function speakWord(word, speed) {
   const language = speechLanguage(word);
@@ -659,7 +713,11 @@ async function speakWord(word, speed) {
   const exactVoice = voices.find(v => v.lang.toLowerCase().replace(/_/g, "-") === voiceLanguage);
   // Spanish regions have deliberately different accents. Never substitute
   // Spain (or another region) when a particular Spanish variety was requested.
-  const voice = exactVoice || (languagePrefix !== "es" ?
+  const preferred = selectedVoicePreference();
+  const selectedVoice = preferred && voices.find(v =>
+    v.name === preferred.name && v.lang === preferred.lang && v.voiceURI === preferred.voiceURI &&
+    v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix);
+  const voice = selectedVoice || exactVoice || (languagePrefix !== "es" ?
     voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix) : null);
   if (!voice) {
     const available = voices.filter(v =>
@@ -673,6 +731,7 @@ async function speakWord(word, speed) {
     return false;
   }
   utterance.voice = voice;
+  utterance.lang = voice.lang;
   speechVoiceStatus.textContent = "Voice: " + voice.name + " (" + voice.lang + ")";
   utterance.onerror = e => {
     if (e.error !== "canceled" && e.error !== "interrupted")
@@ -1478,6 +1537,11 @@ inverseBox.addEventListener("change", () => {
 speechLanguageSelect.addEventListener("change", () => {
   localStorage.setItem("vocab-speech-language:" + currentLanguage, speechLanguageSelect.value);
   currentSpeechLanguage = speechLanguageSelect.value || null;
+  // A manually chosen voice may belong to a different regional variant.
+  // Changing the requested language returns to automatic voice selection.
+  localStorage.removeItem("vocab-voice:" + currentLanguage);
+  voiceDiagnosticPanel.hidden = true;
+  voiceDiagnosticButton.textContent = "Show voices";
   stopAudio();
   showCard();
   savePhoneState();
