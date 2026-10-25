@@ -111,30 +111,6 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <input id="phoneFileInput" type="file" accept=".txt,text/plain" style="display:none">
 <label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
 <label><input id="audioModeBox" type="checkbox"> Audio mode</label>
-<label for="speechLanguageSelect">Speech language:
-  <select id="speechLanguageSelect">
-    <option value="">Automatic</option>
-    <option value="zh-CN">Chinese (Mandarin)</option>
-    <option value="ru-RU">Russian</option>
-    <option value="cs-CZ">Czech</option>
-    <option value="ko-KR">Korean</option>
-    <option value="es-MX">Spanish (Mexico)</option>
-    <option value="es-CO">Spanish (Colombia)</option>
-    <option value="es-AR">Spanish (Argentina)</option>
-    <option value="es-PE">Spanish (Peru)</option>
-    <option value="es-CL">Spanish (Chile)</option>
-    <option value="es-ES">Spanish (Spain)</option>
-    <option value="es-US">Spanish (United States)</option>
-    <option value="fr-FR">French</option>
-    <option value="de-DE">German</option>
-    <option value="it-IT">Italian</option>
-    <option value="pt-PT">Portuguese</option>
-    <option value="sl-SI">Slovenian</option>
-    <option value="da-DK">Danish</option>
-    <option value="ta-IN">Tamil</option>
-    <option value="ja-JP">Japanese</option>
-  </select>
-</label>
 <div id="speechVoiceStatus" role="status" style="font-size:13px;color:#666"></div>
 <button id="voiceDiagnosticButton" type="button" style="min-height:36px;margin:8px 0">Show voices</button>
 <div id="voiceDiagnosticPanel" hidden style="font-size:13px;border:1px solid #bbb;padding:10px;margin:4px 0 12px;white-space:pre-wrap;overflow-wrap:anywhere"></div>
@@ -189,7 +165,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.11";
+const APP_VERSION = "2026.10.25.12";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -219,7 +195,6 @@ const audioControls = document.getElementById("audioControls");
 const audioSlowButton = document.getElementById("audioSlowButton");
 const inverseBox = document.getElementById("inverseBox");
 const audioModeBox = document.getElementById("audioModeBox");
-const speechLanguageSelect = document.getElementById("speechLanguageSelect");
 const speechVoiceStatus = document.getElementById("speechVoiceStatus");
 const audioRepeatButton = document.getElementById("audioRepeatButton");
 const importButton = document.getElementById("importButton"),
@@ -490,8 +465,6 @@ function showCard() {
   const w = words[current.word];
   const audioMode = audioModeBox.checked;
   audioControls.hidden = !(audioMode || w.audio || canSpeakWord(w));
-  const savedLanguage = localStorage.getItem("vocab-speech-language:" + currentLanguage);
-  speechLanguageSelect.value = savedLanguage !== null ? savedLanguage : (currentSpeechLanguage || "");
   const inverse = inverseBox.checked;
   let s;
   if (audioMode) {
@@ -564,10 +537,7 @@ function speechLanguageFromName(name) {
 function speechLanguage(word) {
   if (!word) return null;
   // Prefer explicit vocabulary information over guesses from its alphabet.
-  const savedLanguage = localStorage.getItem("vocab-speech-language:" + currentLanguage);
-  const language = savedLanguage !== null ?
-    (savedLanguage || speechLanguageFromName(currentLanguage)) :
-    (currentSpeechLanguage || speechLanguageFromName(currentLanguage));
+  const language = currentSpeechLanguage || speechLanguageFromName(currentLanguage);
   if (language) return language;
   if (/[\u3400-\u9fff]/u.test(word.front)) return "zh-CN";
   if (/[А-Яа-яЁё]/u.test(word.front)) return "ru-RU";
@@ -658,7 +628,7 @@ voiceDiagnosticButton.addEventListener("click", async () => {
   select.style.cssText = "display:block;width:100%;max-width:100%;margin:10px 0;font-size:16px";
   const auto = document.createElement("option");
   auto.value = "";
-  auto.textContent = "Automatic (use speech-language selection)";
+  auto.textContent = "Automatic (use default voice)";
   select.appendChild(auto);
   matching.forEach((v, i) => {
     const option = document.createElement("option");
@@ -1532,20 +1502,6 @@ inverseBox.addEventListener("change", () => {
   localStorage.setItem("vocab-inverse", inverseBox.checked ? "1" : "0");
   revealLevel = 0;
   showCard();
-});
-
-speechLanguageSelect.addEventListener("change", () => {
-  localStorage.setItem("vocab-speech-language:" + currentLanguage, speechLanguageSelect.value);
-  currentSpeechLanguage = speechLanguageSelect.value || null;
-  // A manually chosen voice may belong to a different regional variant.
-  // Changing the requested language returns to automatic voice selection.
-  localStorage.removeItem("vocab-voice:" + currentLanguage);
-  voiceDiagnosticPanel.hidden = true;
-  voiceDiagnosticButton.textContent = "Show voices";
-  stopAudio();
-  showCard();
-  savePhoneState();
-  if (audioModeBox.checked && current) playCurrentAudio(1.0);
 });
 
 audioModeBox.addEventListener("change", () => {
