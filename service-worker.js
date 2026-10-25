@@ -1,4 +1,4 @@
-const CACHE_NAME = "vocabulary-pwa-v4";
+const CACHE_NAME = "vocabulary-pwa-v5";
 const AUDIO_CACHE = "vocabulary-audio-v1";
 const APP_FILES = [
   "./",
@@ -33,7 +33,8 @@ self.addEventListener("fetch", event => {
     url.pathname.endsWith("/") ||
     url.pathname.endsWith("/index.html") ||
     url.pathname.endsWith("/manifest.json") ||
-    url.pathname.endsWith("/vocab/catalogue.json");
+    url.pathname.endsWith("/vocab/catalogue.json") ||
+    (url.pathname.includes("/vocab/") && url.pathname.endsWith(".txt"));
 
   if(networkFirst) {
     event.respondWith(

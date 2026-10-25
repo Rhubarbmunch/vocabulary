@@ -178,7 +178,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.2";
+const APP_VERSION = "2026.10.25.3";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -917,7 +917,7 @@ async function loadCatalogue() {
    * phone is offline.
    */
   try {
-    const response = await fetch("./vocab/catalogue.json");
+    const response = await fetch("./vocab/catalogue.json", { cache: "no-store" });
     if (!response.ok) throw new Error("catalogue not available");
     catalogueEntries = await response.json();
     localStorage.setItem("vocab-catalogue", JSON.stringify(catalogueEntries));
@@ -931,6 +931,43 @@ async function loadCatalogue() {
   }
 
   catalogueOpenButton.disabled = catalogueEntries.length === 0;
+}
+
+// Refresh a previously used vocabulary while retaining the level of each
+// unchanged entry. New entries begin at level 0; deleted entries disappear.
+function reconcileVocabulary(text) {
+  const incoming = text.split(/\\r?\\n/).map(parseLine).filter(Boolean);
+  if (!incoming.length) throw new Error("Downloaded vocabulary is empty");
+  const oldLevels = new Map();
+  for (let level = 0; level < NLISTS; level++) {
+    for (const index of lists[level]) {
+      const w = words[index];
+      // Match the foreign-language text (and optional middle field), so that
+      // corrections to the English translation do not lose learning progress.
+      const key = JSON.stringify([w.front, w.middle]);
+      if (!oldLevels.has(key)) oldLevels.set(key, []);
+      oldLevels.get(key).push(level);
+    }
+  }
+  const updatedLists = Array.from({length: NLISTS}, () => []);
+  incoming.forEach((w, index) => {
+    const key = JSON.stringify([w.front, w.middle]);
+    const levels = oldLevels.get(key);
+    const level = levels && levels.length ? levels.shift() : 0;
+    updatedLists[level].push(index);
+  });
+  const changed = incoming.length !== words.length ||
+    incoming.some((w, i) => formatWord(w) !== formatWord(words[i]));
+  if (changed) {
+    words = incoming;
+    lists = updatedLists;
+    current = null;
+    revealLevel = 0;
+    chooseWord();
+    initialProgress = progressScore();
+    updateLists();
+  }
+  return changed;
 }
 
 async function loadCatalogueEntry(entry) {
@@ -949,13 +986,28 @@ async function loadCatalogueEntry(entry) {
     speechLanguageFromName(entry.id) || speechLanguageFromName(entry.name) ||
     speechLanguageFromName(entry.file);
   if (await loadPhoneState(entry.id, languageHint)) {
-    status.textContent = "Restored " + entry.name + " from phone storage.";
+    // The saved copy is immediately available offline. If online, check for
+    // revisions and merge them without resetting existing learning levels.
+    if (navigator.onLine) {
+      try {
+        const response = await fetch("./vocab/" + entry.file, { cache: "no-store" });
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        const changed = reconcileVocabulary(await response.text());
+        if (changed) await savePhoneState();
+        status.textContent = changed ?
+          "Updated " + entry.name + "; learning progress preserved." :
+          "Restored " + entry.name + "; checked for updates.";
+      } catch (e) {
+        status.textContent = "Restored " + entry.name +
+          " from phone storage (update check unavailable).";
+      }
+    }
     return;
   }
 
   try {
     status.textContent = "Loading " + entry.name + " ...";
-    const response = await fetch("./vocab/" + entry.file);
+    const response = await fetch("./vocab/" + entry.file, { cache: "no-store" });
     if (!response.ok) throw new Error("HTTP " + response.status);
     const text = await response.text();
 
@@ -1037,6 +1089,11 @@ async function showCatalogue() {
 }
 
 catalogueOpenButton.addEventListener("click", showCatalogue);
+// Recheck the catalogue when a suspended mobile tab becomes active again.
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) loadCatalogue();
+});
+window.addEventListener("online", () => loadCatalogue());
 catalogueCloseButton.addEventListener("click", () => {
   catalogueOverlay.style.display = "none";
 });
