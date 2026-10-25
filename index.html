@@ -34,32 +34,37 @@ button,input { font-size:14px; margin-right:8px; }
 #confirmMessage { margin-bottom:18px; font-size:16px; }
 #confirmButtons { text-align:right; }
 #confirmButtons button { min-width:90px; margin-left:8px; }
-#phoneControls{display:none;padding:8px 4vw;gap:8px} #phoneControls button{flex:1;min-height:58px;font-size:19px;margin:0} #importButton,#exportButton{display:none}@media(max-width:700px),(pointer:coarse){#dirButton{display:none}#importButton,#exportButton{display:inline-block}#phoneControls{display:flex}#card{padding:18px 5vw 4px;font-size:34px}#stats,#lists{padding-left:5vw;font-size:18px}#confirmBox{min-width:0;width:82vw}}
+/* Shared phone and computer controls. */
+body { max-width:850px; margin:0 auto; padding-bottom:48px; }
+#top { padding:10px 4vw 8px; }
+#resetRow { padding:8px 4vw 18px; }
+#phoneControls { display:flex; padding:8px 4vw; gap:8px; }
+#phoneControls button { flex:1; min-height:58px; font-size:19px; margin:0; }
+#importButton, #exportButton, #catalogueOpenButton {
+  display:block; width:100%; min-height:44px; margin:0 0 9px;
+  font-size:17px;
+}
+#cataloguePanel { display:block; margin-bottom:9px; }
+#catalogueOpenButton { min-height:58px; font-size:21px; font-weight:bold; }
+#top > label { display:block; font-size:18px; margin:5px 0 8px; }
+#inverseBox, #audioModeBox { width:22px; height:22px; vertical-align:middle; }
+#resetButton { min-height:38px; margin:0; font-size:16px; }
+#audioControls { display:flex; gap:8px; padding:0 5vw 8px; min-height:46px; }
+#audioControls button { flex:1; min-height:46px; margin:0; font-size:18px; }
+#status { margin-top:8px; font-size:16px; line-height:1.3; }
+#directoryTools { margin:12px 0; padding:10px; border:1px solid #ccc; }
+#directoryTools summary { cursor:pointer; font-size:16px; }
+#directoryTools button, #directoryTools select { margin-top:10px; }
+#help { box-sizing:border-box; padding:6px 18px; text-align:center; }
 
 @media (max-width:700px), (pointer:coarse) {
-  #resetRow { padding:8px 4vw 18px; }
-  #top { padding:10px 4vw 8px; }
-  #dirButton, #languageLabel, #languageSelect, #saveButton { display:none; }
-  #importButton, #exportButton {
-    display:block; width:100%; min-height:54px; margin:0 0 9px 0;
-    font-size:20px; font-weight:bold;
-  }
-  #top > label:not(#languageLabel) {
-    display:block; font-size:18px; margin:5px 0 8px;
-  }
-  #inverseBox { width:22px; height:22px; vertical-align:middle; }
-  #resetButton {
-    min-height:38px; margin:0; font-size:16px;
-  }
-  #audioControls { padding:0 5vw 8px; min-height:46px; }
-  #audioControls { display:flex; gap:8px; }
-  #audioControls button {
-    flex:1; min-height:46px; margin:0; font-size:18px;
-  }
-  #status { margin-top:8px; font-size:16px; line-height:1.3; }
+  body { padding-bottom:0; }
+  #directoryTools, #help { display:none; }
+  #card { padding:18px 5vw 4px; font-size:34px; }
+  #stats, #lists { padding-left:5vw; font-size:18px; }
+  #confirmBox { min-width:0; width:82vw; }
 }
 
-#cataloguePanel { display:none; }
 #catalogueOverlay {
   display:none; position:fixed; inset:0; background:rgba(0,0,0,0.30);
   align-items:center; justify-content:center; z-index:1100;
@@ -79,18 +84,6 @@ button,input { font-size:14px; margin-right:8px; }
 .catalogueEntry small { display:block; margin-top:3px; font-size:13px; font-weight:normal; }
 .catalogueEntry:disabled { color:#888; background:#eee; border-color:#ccc; }
 #catalogueCloseButton { width:100%; min-height:44px; margin-top:10px; font-size:17px; }
-@media (max-width:700px), (pointer:coarse) {
-  #cataloguePanel { display:block; margin:0 0 9px 0; }
-  #catalogueOpenButton {
-    display:block; width:100%; min-height:58px; margin:0 0 8px 0;
-    font-size:21px; font-weight:bold;
-  }
-  #importButton {
-    min-height:42px; font-size:16px; font-weight:normal; margin-bottom:9px;
-  }
-  #help { display:none; }
-}
-
 </style>
 
 <link rel="manifest" href="manifest.json">
@@ -104,28 +97,29 @@ button,input { font-size:14px; margin-right:8px; }
 <body>
 <div id="resetRow"><button id="resetButton" disabled>Reset</button></div>
 <div id="top">
-<button id="dirButton">Choose vocabulary directory</button>
 <div id="cataloguePanel">
   <button id="catalogueOpenButton" disabled>Load Vocabulary</button>
 </div>
 <button id="importButton">Import your own vocabulary file</button>
 <button id="exportButton" disabled>Export backup</button>
 <input id="phoneFileInput" type="file" accept=".txt,text/plain" style="display:none">
-&nbsp;&nbsp;
+<label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
+<label><input id="audioModeBox" type="checkbox"> Audio mode</label>
+<details id="directoryTools">
+  <summary>Local directory files (computer)</summary>
+  <button id="dirButton">Choose vocabulary directory</button>
 <label id="languageLabel" for="languageSelect">Vocabulary:</label>
 <select id="languageSelect" disabled>
   <option value="">-- choose --</option>
 </select>
-<label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
-<label><input id="audioModeBox" type="checkbox"> Audio mode</label>
-<button id="saveButton" disabled>Save</button>
-<div id="status">Choose the directory containing files such as chinese_0.txt ... chinese_3.txt.</div>
+  <button id="saveButton" disabled>Save</button>
+</details>
+<div id="status">Load a vocabulary, or import your own text file.</div>
 </div>
 <div id="card"></div>
 <div id="audioControls" hidden>
-  <button id="audioRepeatButton" hidden>🔁 Repeat</button>
-  <button id="audioNormalButton">🔊 Normal speed</button>
-  <button id="audioHalfButton">🔊 Half speed</button>
+  <button id="audioRepeatButton">🔁 Repeat</button>
+  <button id="audioSlowButton">🔊 Slow (40%)</button>
 </div>
 <div id="phoneControls"><button id="wrongButton">← Wrong</button><button id="revealButton">Reveal ↓</button><button id="rightButton">Right →</button></div>
 
@@ -155,47 +149,59 @@ button,input { font-size:14px; margin-right:8px; }
 
 <script>
 "use strict";
-const NLISTS=4;
-let words=[], lists=Array.from({length:NLISTS},()=>[]);
-let current=null, revealLevel=0, inputName="vocabulary.txt";
-let dirty=false;
-let rememberedHandle=null;
-let currentLanguage="";
-const card=document.getElementById("card");
-const status=document.getElementById("status");
-const listDisplay=document.getElementById("lists");
-const feedback=document.getElementById("feedback");
-const statsDisplay=document.getElementById("stats");
-let numRight=0, numWrong=0, initialProgress=0;
-const dirButton=document.getElementById("dirButton");
-const languageSelect=document.getElementById("languageSelect");
-const saveButton=document.getElementById("saveButton");
-const resetButton=document.getElementById("resetButton");
-const audioControls=document.getElementById("audioControls");
-const audioNormalButton=document.getElementById("audioNormalButton");
-const audioHalfButton=document.getElementById("audioHalfButton");
-const inverseBox=document.getElementById("inverseBox");
-const audioModeBox=document.getElementById("audioModeBox");
-const audioRepeatButton=document.getElementById("audioRepeatButton");
-const importButton=document.getElementById("importButton"), exportButton=document.getElementById("exportButton"), phoneFileInput=document.getElementById("phoneFileInput"), wrongButton=document.getElementById("wrongButton"), revealButton=document.getElementById("revealButton"), rightButton=document.getElementById("rightButton");
-const catalogueOpenButton=document.getElementById("catalogueOpenButton");
-const catalogueOverlay=document.getElementById("catalogueOverlay");
-const catalogueList=document.getElementById("catalogueList");
-const catalogueHint=document.getElementById("catalogueHint");
-const catalogueCloseButton=document.getElementById("catalogueCloseButton");
-let catalogueEntries=[];
-let currentAudioBase="";
-let currentAudio=null;
-let audioRequest=0;
-const AUDIO_CACHE="vocabulary-audio-v1";
-const phoneMode=matchMedia("(max-width:700px),(pointer:coarse)").matches;
+const NLISTS = 4;
+const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
+let words = [],
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
+let current = null,
+  revealLevel = 0,
+  inputName = "vocabulary.txt";
+let dirty = false;
+let rememberedHandle = null;
+let currentLanguage = "";
+const card = document.getElementById("card");
+const status = document.getElementById("status");
+const listDisplay = document.getElementById("lists");
+const feedback = document.getElementById("feedback");
+const statsDisplay = document.getElementById("stats");
+let numRight = 0,
+  numWrong = 0,
+  initialProgress = 0;
+const dirButton = document.getElementById("dirButton");
+const languageSelect = document.getElementById("languageSelect");
+const saveButton = document.getElementById("saveButton");
+const resetButton = document.getElementById("resetButton");
+const audioControls = document.getElementById("audioControls");
+const audioSlowButton = document.getElementById("audioSlowButton");
+const inverseBox = document.getElementById("inverseBox");
+const audioModeBox = document.getElementById("audioModeBox");
+const audioRepeatButton = document.getElementById("audioRepeatButton");
+const importButton = document.getElementById("importButton"),
+  exportButton = document.getElementById("exportButton"),
+  phoneFileInput = document.getElementById("phoneFileInput"),
+  wrongButton = document.getElementById("wrongButton"),
+  revealButton = document.getElementById("revealButton"),
+  rightButton = document.getElementById("rightButton");
+const catalogueOpenButton = document.getElementById("catalogueOpenButton");
+const catalogueOverlay = document.getElementById("catalogueOverlay");
+const catalogueList = document.getElementById("catalogueList");
+const catalogueHint = document.getElementById("catalogueHint");
+const catalogueCloseButton = document.getElementById("catalogueCloseButton");
+let catalogueEntries = [];
+let currentAudioBase = "";
+let currentAudio = null;
+let audioRequest = 0;
+const AUDIO_CACHE = "vocabulary-audio-v1";
+const phoneMode = matchMedia("(max-width:700px),(pointer:coarse)").matches;
 
 function setDirty(value) {
-  dirty=value;
+  dirty = value;
   if (dirty) {
-    saveButton.textContent="Save *";
+    saveButton.textContent = "Save *";
   } else {
-    saveButton.textContent="Save";
+    saveButton.textContent = "Save";
   }
 }
 
@@ -205,138 +211,166 @@ function setDirty(value) {
  *
  * Returns true if it is OK to continue, false if the switch is cancelled.
  */
-function askSaveChoice(message) {
-  return new Promise(resolve=>{
-    const overlay=document.getElementById("confirmOverlay");
-    const msg=document.getElementById("confirmMessage");
-    const save=document.getElementById("confirmSave");
-    const dont=document.getElementById("confirmDontSave");
-    const back=document.getElementById("confirmGoBack");
 
-    msg.textContent=message;
-    overlay.style.display="flex";
+function askSaveChoice(message) {
+  return new Promise(resolve => {
+    const overlay = document.getElementById("confirmOverlay");
+    const msg = document.getElementById("confirmMessage");
+    const save = document.getElementById("confirmSave");
+    const dont = document.getElementById("confirmDontSave");
+    const back = document.getElementById("confirmGoBack");
+
+    msg.textContent = message;
+    overlay.style.display = "flex";
 
     function finish(answer) {
-      overlay.style.display="none";
-      save.onclick=null;
-      dont.onclick=null;
-      back.onclick=null;
+      overlay.style.display = "none";
+      save.onclick = null;
+      dont.onclick = null;
+      back.onclick = null;
       resolve(answer);
     }
 
-    save.onclick=()=>finish("save");
-    dont.onclick=()=>finish("dont-save");
-    back.onclick=()=>finish("go-back");
+    save.onclick = () => finish("save");
+    dont.onclick = () => finish("dont-save");
+    back.onclick = () => finish("go-back");
   });
 }
 
 function askResetChoice() {
-  return new Promise(resolve=>{
-    const overlay=document.getElementById("confirmOverlay");
-    const msg=document.getElementById("confirmMessage");
-    const yes=document.getElementById("confirmSave");
-    const cancel=document.getElementById("confirmDontSave");
-    const extra=document.getElementById("confirmGoBack");
-    msg.textContent="Reset lists?";
-    yes.textContent="Yes";
-    cancel.textContent="Cancel";
-    extra.style.display="none";
-    overlay.style.display="flex";
+  return new Promise(resolve => {
+    const overlay = document.getElementById("confirmOverlay");
+    const msg = document.getElementById("confirmMessage");
+    const yes = document.getElementById("confirmSave");
+    const cancel = document.getElementById("confirmDontSave");
+    const extra = document.getElementById("confirmGoBack");
+    msg.textContent = "Reset lists?";
+    yes.textContent = "Yes";
+    cancel.textContent = "Cancel";
+    extra.style.display = "none";
+    overlay.style.display = "flex";
+
     function finish(answer) {
-      overlay.style.display="none";
-      yes.textContent="Save";
-      cancel.textContent="Don't save";
-      extra.style.display="";
-      yes.onclick=null; cancel.onclick=null;
+      overlay.style.display = "none";
+      yes.textContent = "Save";
+      cancel.textContent = "Don't save";
+      extra.style.display = "";
+      yes.onclick = null;
+      cancel.onclick = null;
       resolve(answer);
     }
-    yes.onclick=()=>finish(true);
-    cancel.onclick=()=>finish(false);
+    yes.onclick = () => finish(true);
+    cancel.onclick = () => finish(false);
   });
 }
 
 async function protectUnsavedChanges() {
-  if (!dirty) return true;
+  if (!dirty || !dirHandle) return true;
 
-  const answer=await askSaveChoice(
-      "Save the present vocabulary before changing?");
+  const answer = await askSaveChoice(
+    "Save the present vocabulary before changing?");
 
-  if(answer==="save")
+  if (answer === "save")
     return await saveCurrentVocabulary();
 
-  if(answer==="dont-save")
+  if (answer === "dont-save")
     return true;
 
   return false;
 }
 
-
 function parseLine(line) {
-  line=line.trim();
-  if(!line) return null;
-  let audio=null;
-  const arrow=line.lastIndexOf("=>");
-  if(arrow>=0) {
-    audio=line.slice(arrow+2).trim() || null;
-    line=line.slice(0,arrow).trim();
+  line = line.trim();
+  if (!line) return null;
+  let audio = null;
+  const arrow = line.lastIndexOf("=>");
+  if (arrow >= 0) {
+    audio = line.slice(arrow + 2).trim() || null;
+    line = line.slice(0, arrow).trim();
   }
-  const p=line.split(":").map(s=>s.trim());
-  if(p.length<2) return {front:line,middle:null,back:"",audio};
-  if(p.length===2) return {front:p[0],middle:null,back:p[1],audio};
-  return {front:p[0],middle:p[1],back:p.slice(2).join(" : "),audio};
+  const p = line.split(":").map(s => s.trim());
+  if (p.length < 2) return {
+    front: line,
+    middle: null,
+    back: "",
+    audio
+  };
+  if (p.length === 2) return {
+    front: p[0],
+    middle: null,
+    back: p[1],
+    audio
+  };
+  return {
+    front: p[0],
+    middle: p[1],
+    back: p.slice(2).join(" : "),
+    audio
+  };
 }
+
 function formatWord(w) {
-  const text=w.middle!==null ?
-      w.front+" : "+w.middle+" : "+w.back :
-      w.front+" : "+w.back;
-  return text+(w.audio ? " => "+w.audio : "");
+  const text = w.middle !== null ?
+    w.front + " : " + w.middle + " : " + w.back :
+    w.front + " : " + w.back;
+  return text + (w.audio ? " => " + w.audio : "");
 }
+
 async function cacheVocabularyAudio() {
-  if(!currentAudioBase || !("caches" in window)) return;
+  if (!currentAudioBase || !("caches" in window)) return;
 
-  const filenames=[...new Set(words.map(w=>w.audio).filter(Boolean))];
-  if(!filenames.length) return;
+  const filenames = [...new Set(words.map(w => w.audio).filter(Boolean))];
+  if (!filenames.length) return;
 
-  const cache=await caches.open(AUDIO_CACHE);
-  let ready=0, failed=0, next=0;
+  const cache = await caches.open(AUDIO_CACHE);
+  let ready = 0,
+    failed = 0,
+    next = 0;
 
   async function downloadOne() {
-    while(next<filenames.length) {
-      const filename=filenames[next++];
-      const url=currentAudioBase+filename;
+    while (next < filenames.length) {
+      const filename = filenames[next++];
+      const url = currentAudioBase + filename;
 
       try {
-        const old=await cache.match(url);
-        if(!old) {
-          const response=await fetch(url);
-          if(!response.ok) throw new Error("HTTP "+response.status);
-          await cache.put(url,response.clone());
+        const old = await cache.match(url);
+        if (!old) {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          await cache.put(url, response.clone());
         }
         ready++;
-      } catch(e) {
+      } catch (e) {
         failed++;
       }
 
-      feedback.textContent="<audio for offline use: "+ready+" / "+
-          filenames.length+(failed ? "; "+failed+" failed" : "")+">";
+      feedback.textContent = "<audio for offline use: " + ready + " / " +
+        filenames.length + (failed ? "; " + failed + " failed" : "") + ">";
     }
   }
 
   /* A small amount of parallelism makes a large vocabulary much quicker. */
-  await Promise.all(Array.from({length:Math.min(4,filenames.length)},
-      downloadOne));
+  await Promise.all(Array.from({
+      length: Math.min(4, filenames.length)
+    },
+    downloadOne));
 
-  feedback.textContent=failed ?
-      "<audio download incomplete: "+ready+" ready, "+failed+" failed>" :
-      "<audio ready offline: "+ready+" files>";
+  feedback.textContent = failed ?
+    "<audio download incomplete: " + ready + " ready, " + failed + " failed>" :
+    "<audio ready offline: " + ready + " files>";
 }
+
 function loadText(text) {
-  words=text.split(/\r?\n/).map(parseLine).filter(Boolean);
-  lists=Array.from({length:NLISTS},()=>[]);
-  words.forEach((w,i)=>lists[0].push(i));
-  chooseWord(); updateLists();
-  status.textContent=words.length+" words loaded.";
+  words = text.split(/\r?\n/).map(parseLine).filter(Boolean);
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
+  words.forEach((w, i) => lists[0].push(i));
+  chooseWord();
+  updateLists();
+  status.textContent = words.length + " words loaded.";
 }
+
 function chooseList() {
   /*
    * Weight individual WORDS, not whole lists.
@@ -349,25 +383,28 @@ function chooseList() {
    * Now every word in list 0 has weight 32, every word in list 1 has
    * weight 16, etc.  Hence, within a level, all words have equal chance.
    */
-  const weights=Array.from({length:NLISTS},
-      (_,i)=>2**(NLISTS-1-i));
-  let total=0;
+  const weights = Array.from({
+      length: NLISTS
+    },
+    (_, i) => 2 ** (NLISTS - 1 - i));
+  let total = 0;
 
-  for(let i=0;i<NLISTS;i++)
+  for (let i = 0; i < NLISTS; i++)
     total += weights[i] * lists[i].length;
 
-  if(!total) return -1;
+  if (!total) return -1;
 
-  let r=Math.random()*total;
+  let r = Math.random() * total;
 
-  for(let i=0;i<NLISTS;i++) {
-    const block=weights[i]*lists[i].length;
-    if(r < block) return i;
+  for (let i = 0; i < NLISTS; i++) {
+    const block = weights[i] * lists[i].length;
+    if (r < block) return i;
     r -= block;
   }
 
-  return NLISTS-1;
+  return NLISTS - 1;
 }
+
 function chooseWord() {
   stopAudio();
   const oldWord = current ? current.word : -1;
@@ -390,45 +427,49 @@ function chooseWord() {
     p = (p + offset) % lists[l].length;
   }
 
-  current = {list:l, pos:p, word:lists[l][p]};
-  revealLevel=0;
+  current = {
+    list: l,
+    pos: p,
+    word: lists[l][p]
+  };
+  revealLevel = 0;
   showCard();
-  if(audioModeBox.checked && (words[current.word].audio || canSpeakChinese(words[current.word])))
+  if (audioModeBox.checked && (words[current.word].audio || canSpeakChinese(words[current.word])))
     playCurrentAudio(1.0);
 }
+
 function showCard() {
-  if(!current) {
-    audioControls.hidden=true;
+  if (!current) {
+    audioControls.hidden = true;
     return;
   }
-  const w=words[current.word];
-  audioControls.hidden=!(w.audio || canSpeakChinese(w));
-  const audioMode=audioModeBox.checked;
-  audioRepeatButton.hidden=!audioMode;
-  const inverse=inverseBox.checked;
+  const w = words[current.word];
+  audioControls.hidden = !(w.audio || canSpeakChinese(w));
+  const audioMode = audioModeBox.checked;
+  const inverse = inverseBox.checked;
   let s;
-  if(audioMode) {
+  if (audioMode) {
     // The initial card is deliberately blank: listen before revealing.
-    s="";
-    if(revealLevel>=1) s=w.front;
-    if(revealLevel>=2) s+=" : "+(w.middle!==null ? w.middle : w.back);
-    if(revealLevel>=3 && w.middle!==null) s+=" : "+w.back;
-    card.textContent=s;
+    s = "";
+    if (revealLevel >= 1) s = w.front;
+    if (revealLevel >= 2) s += " : " + (w.middle !== null ? w.middle : w.back);
+    if (revealLevel >= 3 && w.middle !== null) s += " : " + w.back;
+    card.textContent = s;
     return;
   }
 
-  if(!inverse) {
+  if (!inverse) {
     /* Normal direction:
      *   Czech -> English
      *   Chinese -> pinyin -> English
      */
-    s=w.front;
+    s = w.front;
 
-    if(w.middle!==null) {
-      if(revealLevel>=1) s+=" : "+w.middle;
-      if(revealLevel>=2) s+=" : "+w.back;
-    } else if(revealLevel>=1) {
-      s+=" : "+w.back;
+    if (w.middle !== null) {
+      if (revealLevel >= 1) s += " : " + w.middle;
+      if (revealLevel >= 2) s += " : " + w.back;
+    } else if (revealLevel >= 1) {
+      s += " : " + w.back;
     }
   } else {
     /* Inverse direction:
@@ -437,129 +478,146 @@ function showCard() {
      * For a three-field Chinese entry, start with English, then reveal
      * pinyin, then the Chinese characters.
      */
-    s=w.back;
+    s = w.back;
 
-    if(w.middle!==null) {
-      if(revealLevel>=1) s+=" : "+w.middle;
-      if(revealLevel>=2) s+=" : "+w.front;
-    } else if(revealLevel>=1) {
-      s+=" : "+w.front;
+    if (w.middle !== null) {
+      if (revealLevel >= 1) s += " : " + w.middle;
+      if (revealLevel >= 2) s += " : " + w.front;
+    } else if (revealLevel >= 1) {
+      s += " : " + w.front;
     }
   }
 
-  card.textContent=s;
+  card.textContent = s;
 }
 // Chinese text can be spoken without a recorded sound file.
 // Use the Chinese characters, not the Pinyin or English translation.
+
 function canSpeakChinese(w) {
   return !!(w && /[\u3400-\u9fff]/u.test(w.front) &&
-            "speechSynthesis" in window &&
-            "SpeechSynthesisUtterance" in window);
+    "speechSynthesis" in window &&
+    "SpeechSynthesisUtterance" in window);
 }
+
 function stopAudio() {
   // Invalidate any asynchronous sound-file lookup still in progress.
   audioRequest++;
-  if(currentAudio) {
+  if (currentAudio) {
     currentAudio.pause();
-    currentAudio=null;
+    currentAudio = null;
   }
-  if("speechSynthesis" in window) speechSynthesis.cancel();
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
 }
+
 function speakChinese(text, speed) {
-  if(!("speechSynthesis" in window) ||
-     !("SpeechSynthesisUtterance" in window)) return false;
-  const utterance=new SpeechSynthesisUtterance(text);
-  utterance.lang="zh-CN";
-  utterance.rate=speed;
-  const voices=speechSynthesis.getVoices();
-  const voice=voices.find(v=>v.lang.toLowerCase()==="zh-cn") ||
-              voices.find(v=>v.lang.toLowerCase().startsWith("zh"));
-  if(voice) utterance.voice=voice;
-  utterance.onerror=e=>{
-    if(e.error!=="canceled" && e.error!=="interrupted")
-      feedback.textContent="<Mandarin speech unavailable; check installed voices>";
+  if (!("speechSynthesis" in window) ||
+    !("SpeechSynthesisUtterance" in window)) return false;
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "zh-CN";
+  utterance.rate = speed;
+  const voices = speechSynthesis.getVoices();
+  const voice = voices.find(v => v.lang.toLowerCase() === "zh-cn") ||
+    voices.find(v => v.lang.toLowerCase().startsWith("zh"));
+  if (voice) utterance.voice = voice;
+  utterance.onerror = e => {
+    if (e.error !== "canceled" && e.error !== "interrupted")
+      feedback.textContent = "<Mandarin speech unavailable; check installed voices>";
   };
   speechSynthesis.speak(utterance);
   return true;
 }
-async function playCurrentAudio(speed=1.0) {
-  if(!current) return;
+
+async function playCurrentAudio(speed = 1.0) {
+  if (!current) return;
   stopAudio();
-  const request=audioRequest;
-  const w=words[current.word];
+  const request = audioRequest;
+  const w = words[current.word];
 
   // Preserve existing recordings. Use synthesis only when no file is
   // specified, or when the recording cannot be played.
-  if(w.audio) {
-    let source="", objectURL=false;
+  if (w.audio) {
+    let source = "",
+      objectURL = false;
     try {
-      if(dirHandle) {
-        let handle=dirHandle;
-        const parts=w.audio.replace(/\\/g,"/").split("/").filter(Boolean);
-        for(let i=0;i<parts.length-1;i++)
-          handle=await handle.getDirectoryHandle(parts[i]);
-        const fileHandle=await handle.getFileHandle(parts[parts.length-1]);
-        source=URL.createObjectURL(await fileHandle.getFile());
-        objectURL=true;
+      if (dirHandle) {
+        let handle = dirHandle;
+        const parts = w.audio.replace(/\\/g, "/").split("/").filter(Boolean);
+        for (let i = 0; i < parts.length - 1; i++)
+          handle = await handle.getDirectoryHandle(parts[i]);
+        const fileHandle = await handle.getFileHandle(parts[parts.length - 1]);
+        source = URL.createObjectURL(await fileHandle.getFile());
+        objectURL = true;
       } else {
-        source=currentAudioBase+w.audio;
+        source = currentAudioBase + w.audio;
       }
-      if(request!==audioRequest) {
-        if(objectURL) URL.revokeObjectURL(source);
+      if (request !== audioRequest) {
+        if (objectURL) URL.revokeObjectURL(source);
         return;
       }
-      const audio=new Audio(source);
-      audio.playbackRate=speed;
-      currentAudio=audio;
-      const cleanup=()=>{
-        if(objectURL) { URL.revokeObjectURL(source); objectURL=false; }
-        if(currentAudio===audio) currentAudio=null;
+      const audio = new Audio(source);
+      audio.playbackRate = speed;
+      currentAudio = audio;
+      const cleanup = () => {
+        if (objectURL) {
+          URL.revokeObjectURL(source);
+          objectURL = false;
+        }
+        if (currentAudio === audio) currentAudio = null;
       };
-      audio.onended=cleanup;
-      audio.onerror=()=>{
+      audio.onended = cleanup;
+      audio.onerror = () => {
         cleanup();
-        if(request===audioRequest && canSpeakChinese(w))
-          speakChinese(w.front,speed);
-        else if(request===audioRequest)
-          feedback.textContent="<sound file not found: "+w.audio+">";
+        if (request === audioRequest && canSpeakChinese(w))
+          speakChinese(w.front, speed);
+        else if (request === audioRequest)
+          feedback.textContent = "<sound file not found: " + w.audio + ">";
       };
       await audio.play();
       return;
-    } catch(e) {
-      if(objectURL) URL.revokeObjectURL(source);
-      if(request!==audioRequest) return;
-      if(!canSpeakChinese(w)) {
-        feedback.textContent="<could not play: "+w.audio+">";
+    } catch (e) {
+      if (objectURL) URL.revokeObjectURL(source);
+      if (request !== audioRequest) return;
+      if (!canSpeakChinese(w)) {
+        feedback.textContent = "<could not play: " + w.audio + ">";
         return;
       }
     }
   }
-  if(request===audioRequest && canSpeakChinese(w))
-    speakChinese(w.front,speed);
+  if (request === audioRequest && canSpeakChinese(w))
+    speakChinese(w.front, speed);
 }
+
 function reveal() {
-  if(!current)return;
-  revealLevel=Math.min(words[current.word].middle!==null?2:1,
-                       revealLevel+1);
+  if (!current) return;
+  // Audio cards start blank, so they need one extra reveal step.
+  const word = words[current.word];
+  const textSteps = word.middle !== null ? 2 : 1;
+  const maxReveal = textSteps + (audioModeBox.checked ? 1 : 0);
+  revealLevel = Math.min(maxReveal, revealLevel + 1);
   showCard();
 }
-function hide(){revealLevel=0;showCard();}
-function moveWord(delta) {
-  if(!current)return;
 
-  const old=current.list;
+function hide() {
+  revealLevel = 0;
+  showCard();
+}
+
+function moveWord(delta) {
+  if (!current) return;
+
+  const old = current.list;
 
   /*
    * As in the C version, RIGHT counts as known and LEFT as wrong,
    * even when the word is already at the end level.
    */
-  if(delta>0) numRight++;
-  if(delta<0) numWrong++;
+  if (delta > 0) numRight++;
+  if (delta < 0) numWrong++;
 
-  const neu=Math.max(0,Math.min(NLISTS-1,old+delta));
-  if(neu!==old) {
-    const wi=current.word;
-    lists[old].splice(current.pos,1);
+  const neu = Math.max(0, Math.min(NLISTS - 1, old + delta));
+  if (neu !== old) {
+    const wi = current.word;
+    lists[old].splice(current.pos, 1);
     lists[neu].push(wi);
   }
 
@@ -568,79 +626,175 @@ function moveWord(delta) {
   updateLists();
   savePhoneState();
 }
+
 function progressScore() {
-  let progress=0;
-  for(let i=0;i<NLISTS;i++)
+  let progress = 0;
+  for (let i = 0; i < NLISTS; i++)
     progress += lists[i].length * i;
   return progress;
 }
 
 function resetStatistics() {
-  numRight=0;
-  numWrong=0;
-  initialProgress=progressScore();
+  numRight = 0;
+  numWrong = 0;
+  initialProgress = progressScore();
   updateStatus();
 }
 
 function updateStatus() {
-  const total=words.length;
-  const attempts=numRight+numWrong;
-  const progress=progressScore();
+  const total = words.length;
+  const attempts = numRight + numWrong;
+  const progress = progressScore();
 
-  const percent = attempts ? 100.0*numRight/attempts : 0.0;
+  const percent = attempts ? 100.0 * numRight / attempts : 0.0;
 
   /*
    * Progress achieved toward having every word in the final list.
    * Thus 0% means all words are in list 0, and 100% means
-   * all words are in list 5.
+   * all words are in the final list.
    */
-  const maxProgress=(NLISTS-1)*total;
+  const maxProgress = (NLISTS - 1) * total;
   const achieved = maxProgress ?
-      100.0*progress/maxProgress : 0.0;
+    100.0 * progress / maxProgress : 0.0;
 
   const effectiveness = attempts ?
-      100.0*(progress-initialProgress)/attempts : 0.0;
+    100.0 * (progress - initialProgress) / attempts : 0.0;
 
   statsDisplay.textContent =
-    "# wrong : "+numWrong+"\n"+
-    "# right : "+numRight+"\n"+
-    "% right : "+percent.toFixed(2)+"%\n"+
-    "effective : "+effectiveness.toFixed(2)+"%\n"+
-    "Progress : "+achieved.toFixed(2)+"%";
+    "# wrong : " + numWrong + "\n" +
+    "# right : " + numRight + "\n" +
+    "% right : " + percent.toFixed(2) + "%\n" +
+    "effective : " + effectiveness.toFixed(2) + "%\n" +
+    "Progress : " + achieved.toFixed(2) + "%";
 }
 
 function updateLists() {
-  listDisplay.textContent=lists.map((x,i)=>
-    "List "+i+": "+x.length).join("\n");
+  listDisplay.textContent = lists.map((x, i) =>
+    "List " + i + ": " + x.length).join("\n");
   updateStatus();
 }
 let dirHandle = null;
 
-function phoneDB(){return new Promise((ok,no)=>{const r=indexedDB.open("vocab-phone",1);r.onupgradeneeded=()=>{if(!r.result.objectStoreNames.contains("states"))r.result.createObjectStore("states")};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
-async function savePhoneState(){if(!phoneMode||!currentLanguage||!words.length)return;try{const db=await phoneDB(),tx=db.transaction("states","readwrite");tx.objectStore("states").put({words,lists,inverse:inverseBox.checked,audioMode:audioModeBox.checked,numRight,numWrong,initialProgress,audioBase:currentAudioBase},currentLanguage);await new Promise((a,b)=>{tx.oncomplete=a;tx.onerror=()=>b(tx.error)});db.close();localStorage.setItem("vocab-phone-last",currentLanguage)}catch(e){}}
-async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=Array.from({length:NLISTS},()=>[]);for(let i=0;i<d.lists.length;i++)lists[Math.min(i,NLISTS-1)].push(...d.lists[i]);currentLanguage=name;currentAudioBase=d.audioBase!==undefined?d.audioBase:currentAudioBase;inverseBox.checked=!!d.inverse;audioModeBox.checked=!!d.audioMode; if(audioModeBox.checked)inverseBox.checked=false;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=d.numRight||0;numWrong=d.numWrong||0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";await cacheVocabularyAudio();return true}catch(e){return false}}
-function downloadText(n,t){const u=URL.createObjectURL(new Blob([t],{type:"text/plain;charset=utf-8"})),a=document.createElement("a");a.href=u;a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
-async function exportPhoneVocabulary(){for(let l=0;l<NLISTS;l++){const a=[];for(const wi of lists[l]){const w=words[wi];a.push(formatWord(w))}downloadText(currentLanguage+"_"+l+".txt",a.join("\n")+(a.length?"\n":""));await new Promise(r=>setTimeout(r,150))}feedback.textContent="<files exported>";setTimeout(()=>feedback.textContent="",2500)}
+function phoneDB() {
+  return new Promise((ok, no) => {
+    const r = indexedDB.open("vocab-phone", 1);
+    r.onupgradeneeded = () => {
+      if (!r.result.objectStoreNames.contains("states")) r.result.createObjectStore("states")
+    };
+    r.onsuccess = () => ok(r.result);
+    r.onerror = () => no(r.error)
+  })
+}
+
+async function savePhoneState() {
+  if (dirHandle || !currentLanguage || !words.length) return;
+  try {
+    const db = await phoneDB(),
+      tx = db.transaction("states", "readwrite");
+    tx.objectStore("states").put({
+      words,
+      lists,
+      inverse: inverseBox.checked,
+      audioMode: audioModeBox.checked,
+      numRight,
+      numWrong,
+      initialProgress,
+      audioBase: currentAudioBase
+    }, currentLanguage);
+    await new Promise((a, b) => {
+      tx.oncomplete = a;
+      tx.onerror = () => b(tx.error)
+    });
+    db.close();
+    localStorage.setItem("vocab-phone-last", currentLanguage)
+  } catch (e) {}
+}
+
+async function loadPhoneState(name) {
+  try {
+    const db = await phoneDB(),
+      tx = db.transaction("states", "readonly"),
+      r = tx.objectStore("states").get(name);
+    const d = await new Promise((a, b) => {
+      r.onsuccess = () => a(r.result);
+      r.onerror = () => b(r.error)
+    });
+    db.close();
+    if (!d) return false;
+    words = d.words;
+    lists = Array.from({
+      length: NLISTS
+    }, () => []);
+    for (let i = 0; i < d.lists.length; i++) lists[Math.min(i, NLISTS - 1)].push(...d.lists[i]);
+    currentLanguage = name;
+    currentAudioBase = d.audioBase !== undefined ? d.audioBase : currentAudioBase;
+    inverseBox.checked = !!d.inverse;
+    audioModeBox.checked = !!d.audioMode;
+    if (audioModeBox.checked) inverseBox.checked = false;
+    current = null;
+    revealLevel = 0;
+    chooseWord();
+    initialProgress = progressScore();
+    numRight = d.numRight || 0;
+    numWrong = d.numWrong || 0;
+    setDirty(false);
+    updateLists();
+    exportButton.disabled = resetButton.disabled = false;
+    status.textContent = "Restored " + name + " from phone storage.";
+    await cacheVocabularyAudio();
+    return true
+  } catch (e) {
+    return false
+  }
+}
+
+function downloadText(n, t) {
+  const u = URL.createObjectURL(new Blob([t], {
+      type: "text/plain;charset=utf-8"
+    })),
+    a = document.createElement("a");
+  a.href = u;
+  a.download = n;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(u), 1000)
+}
+
+async function exportPhoneVocabulary() {
+  for (let l = 0; l < NLISTS; l++) {
+    const a = [];
+    for (const wi of lists[l]) {
+      const w = words[wi];
+      a.push(formatWord(w))
+    }
+    downloadText(currentLanguage + "_" + l + ".txt", a.join("\n") + (a.length ? "\n" : ""));
+    await new Promise(r => setTimeout(r, 150))
+  }
+  feedback.textContent = "<files exported>";
+  setTimeout(() => feedback.textContent = "", 2500)
+}
 
 async function phoneStoredVocabularyIds() {
   try {
-    const db=await phoneDB();
-    const tx=db.transaction("states","readonly");
-    const store=tx.objectStore("states");
-    const ids=await new Promise((resolve,reject)=>{
-      const result=[];
-      const request=store.openKeyCursor();
-      request.onsuccess=()=>{
-        const cursor=request.result;
-        if(!cursor) { resolve(result); return; }
+    const db = await phoneDB();
+    const tx = db.transaction("states", "readonly");
+    const store = tx.objectStore("states");
+    const ids = await new Promise((resolve, reject) => {
+      const result = [];
+      const request = store.openKeyCursor();
+      request.onsuccess = () => {
+        const cursor = request.result;
+        if (!cursor) {
+          resolve(result);
+          return;
+        }
         result.push(cursor.key);
         cursor.continue();
       };
-      request.onerror=()=>reject(request.error);
+      request.onerror = () => reject(request.error);
     });
     db.close();
     return new Set(ids);
-  } catch(e) {
+  } catch (e) {
     return new Set();
   }
 }
@@ -652,120 +806,128 @@ async function loadCatalogue() {
    * phone is offline.
    */
   try {
-    const response=await fetch("./vocab/catalogue.json");
-    if(!response.ok) throw new Error("catalogue not available");
-    catalogueEntries=await response.json();
-    localStorage.setItem("vocab-catalogue",JSON.stringify(catalogueEntries));
-  } catch(e) {
+    const response = await fetch("./vocab/catalogue.json");
+    if (!response.ok) throw new Error("catalogue not available");
+    catalogueEntries = await response.json();
+    localStorage.setItem("vocab-catalogue", JSON.stringify(catalogueEntries));
+  } catch (e) {
     try {
-      catalogueEntries=JSON.parse(
-          localStorage.getItem("vocab-catalogue") || "[]");
-    } catch(ignore) {
-      catalogueEntries=[];
+      catalogueEntries = JSON.parse(
+        localStorage.getItem("vocab-catalogue") || "[]");
+    } catch (ignore) {
+      catalogueEntries = [];
     }
   }
 
-  catalogueOpenButton.disabled=catalogueEntries.length===0;
+  catalogueOpenButton.disabled = catalogueEntries.length === 0;
 }
 
 async function loadCatalogueEntry(entry) {
   /*
-   * If this vocabulary has been used before, restore its own six lists and
+   * If this vocabulary has been used before, restore its own lists and
    * statistics.  This works without an internet connection.
    */
-  currentAudioBase="./vocab/";
-  if(await loadPhoneState(entry.id)) {
-    status.textContent="Restored "+entry.name+" from phone storage.";
+  if (!(await protectUnsavedChanges())) return;
+  await savePhoneState();
+  stopAudio();
+  dirHandle = null;
+  saveButton.disabled = true;
+  languageSelect.value = "";
+  currentAudioBase = "./vocab/";
+  if (await loadPhoneState(entry.id)) {
+    status.textContent = "Restored " + entry.name + " from phone storage.";
     return;
   }
 
   try {
-    status.textContent="Loading "+entry.name+" ...";
-    const response=await fetch("./vocab/"+entry.file);
-    if(!response.ok) throw new Error("HTTP "+response.status);
-    const text=await response.text();
+    status.textContent = "Loading " + entry.name + " ...";
+    const response = await fetch("./vocab/" + entry.file);
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    const text = await response.text();
 
-    currentLanguage=entry.id;
-    currentAudioBase="./vocab/";
-    words=text.split(/\r?\n/).map(parseLine).filter(Boolean);
-    lists=Array.from({length:NLISTS},()=>[]);
-    words.forEach((w,i)=>lists[0].push(i));
+    currentLanguage = entry.id;
+    currentAudioBase = "./vocab/";
+    words = text.split(/\r?\n/).map(parseLine).filter(Boolean);
+    lists = Array.from({
+      length: NLISTS
+    }, () => []);
+    words.forEach((w, i) => lists[0].push(i));
 
-    current=null;
-    revealLevel=0;
+    current = null;
+    revealLevel = 0;
     chooseWord();
-    numRight=0;
-    numWrong=0;
-    initialProgress=progressScore();
+    numRight = 0;
+    numWrong = 0;
+    initialProgress = progressScore();
     setDirty(false);
     updateLists();
-    exportButton.disabled=resetButton.disabled=false;
-    status.textContent=words.length+" words loaded: "+entry.name+".";
+    exportButton.disabled = resetButton.disabled = false;
+    status.textContent = words.length + " words loaded: " + entry.name + ".";
     await savePhoneState();
     await cacheVocabularyAudio();
-  } catch(e) {
-    status.textContent="Could not load "+entry.name+": "+e;
+  } catch (e) {
+    status.textContent = "Could not load " + entry.name + ": " + e;
   }
 }
 
 async function showCatalogue() {
-  const stored=await phoneStoredVocabularyIds();
-  const offline=!navigator.onLine;
+  const stored = await phoneStoredVocabularyIds();
+  const offline = !navigator.onLine;
 
-  catalogueList.innerHTML="";
-  catalogueHint.textContent=offline ?
-      "Offline: vocabularies not already on this phone are greyed out." :
-      "Tap a vocabulary to load it. Previously used vocabularies resume where you left off.";
+  catalogueList.innerHTML = "";
+  catalogueHint.textContent = offline ?
+    "Offline: vocabularies not already on this phone are greyed out." :
+    "Tap a vocabulary to load it. Previously used vocabularies resume where you left off.";
 
-  let currentGroup=null;
+  let currentGroup = null;
 
-  for(const entry of catalogueEntries) {
-    if(entry.language!==currentGroup) {
-      currentGroup=entry.language;
-      const heading=document.createElement("div");
-      heading.className="catalogueGroup";
-      heading.textContent=currentGroup;
+  for (const entry of catalogueEntries) {
+    if (entry.language !== currentGroup) {
+      currentGroup = entry.language;
+      const heading = document.createElement("div");
+      heading.className = "catalogueGroup";
+      heading.textContent = currentGroup;
       catalogueList.appendChild(heading);
     }
 
-    const button=document.createElement("button");
-    button.className="catalogueEntry";
-    button.type="button";
-    button.textContent=entry.name;
+    const button = document.createElement("button");
+    button.className = "catalogueEntry";
+    button.type = "button";
+    button.textContent = entry.name;
 
-    const description=document.createElement("small");
-    description.textContent=entry.description || "";
+    const description = document.createElement("small");
+    description.textContent = entry.description || "";
     button.appendChild(description);
 
-    if(offline && !stored.has(entry.id)) {
-      button.disabled=true;
-      const note=document.createElement("small");
-      note.textContent="Not downloaded — unavailable offline";
+    if (offline && !stored.has(entry.id)) {
+      button.disabled = true;
+      const note = document.createElement("small");
+      note.textContent = "Not downloaded — unavailable offline";
       button.appendChild(note);
-    } else if(stored.has(entry.id)) {
-      const note=document.createElement("small");
-      note.textContent="Downloaded on this phone";
+    } else if (stored.has(entry.id)) {
+      const note = document.createElement("small");
+      note.textContent = "Downloaded on this phone";
       button.appendChild(note);
     }
 
-    button.addEventListener("click",async()=>{
-      catalogueOverlay.style.display="none";
+    button.addEventListener("click", async () => {
+      catalogueOverlay.style.display = "none";
       await loadCatalogueEntry(entry);
     });
 
     catalogueList.appendChild(button);
   }
 
-  catalogueOverlay.style.display="flex";
+  catalogueOverlay.style.display = "flex";
 }
 
-catalogueOpenButton.addEventListener("click",showCatalogue);
-catalogueCloseButton.addEventListener("click",()=>{
-  catalogueOverlay.style.display="none";
+catalogueOpenButton.addEventListener("click", showCatalogue);
+catalogueCloseButton.addEventListener("click", () => {
+  catalogueOverlay.style.display = "none";
 });
-catalogueOverlay.addEventListener("click",e=>{
-  if(e.target===catalogueOverlay)
-    catalogueOverlay.style.display="none";
+catalogueOverlay.addEventListener("click", e => {
+  if (e.target === catalogueOverlay)
+    catalogueOverlay.style.display = "none";
 });
 
 async function findLanguages() {
@@ -803,25 +965,29 @@ async function findLanguages() {
   document.getElementById("saveButton").disabled = true;
 
   words = [];
-  lists = Array.from({length:NLISTS},()=>[]);
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
   current = null;
   card.textContent = "";
   updateLists();
 
   if (languages.size === 0)
     status.textContent =
-      "No files named <language>_0.txt ... <language>_3.txt were found.";
+    "No files named <language>_0.txt ... <language>_3.txt were found.";
   else
     status.textContent =
-      "Choose a vocabulary from the menu.";
+    "Choose a vocabulary from the menu.";
 }
 
 async function loadLanguage(language) {
-  words=[];
-  lists=Array.from({length:NLISTS},()=>[]);
+  words = [];
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
 
   /* Read old Lists 4 and 5 as well, folding them into new List 3. */
-  for (let level=0; level<6; ++level) {
+  for (let level = 0; level < 6; ++level) {
     const name = language + "_" + level + ".txt";
 
     try {
@@ -831,30 +997,29 @@ async function loadLanguage(language) {
       const ws = text.split(/\r?\n/).map(parseLine).filter(Boolean);
 
       for (const w of ws) {
-        const i=words.length;
+        const i = words.length;
         words.push(w);
-        lists[Math.min(level,NLISTS-1)].push(i);
+        lists[Math.min(level, NLISTS - 1)].push(i);
       }
     } catch (e) {
       /* A missing level file is simply treated as an empty level. */
     }
   }
 
-  currentLanguage=language;
-  currentAudioBase="";
+  currentLanguage = language;
+  currentAudioBase = "";
   localStorage.setItem("vocab-language", language);
 
   chooseWord();
-  initialProgress=progressScore();
-  numRight=0;
-  numWrong=0;
+  initialProgress = progressScore();
+  numRight = 0;
+  numWrong = 0;
   setDirty(false);
   updateLists();
   status.textContent =
-      words.length + " words loaded from " + language + "_0.txt ... " +
-      language + "_3.txt";
+    words.length + " words loaded from " + language + "_0.txt ... " +
+    language + "_3.txt";
 }
-
 
 async function rememberDirectory(handle) {
   /*
@@ -864,63 +1029,75 @@ async function rememberDirectory(handle) {
    */
   localStorage.setItem("vocab-directory-name", handle.name || "previous directory");
 
-  return new Promise((resolve,reject)=>{
-    const req=indexedDB.open("vocab-browser",1);
-    req.onupgradeneeded=()=>{
-      if(!req.result.objectStoreNames.contains("settings"))
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open("vocab-browser", 1);
+    req.onupgradeneeded = () => {
+      if (!req.result.objectStoreNames.contains("settings"))
         req.result.createObjectStore("settings");
     };
-    req.onerror=()=>reject(req.error);
-    req.onsuccess=()=>{
-      const db=req.result;
-      const tx=db.transaction("settings","readwrite");
-      tx.objectStore("settings").put(handle,"directory");
-      tx.oncomplete=()=>{db.close();resolve();};
-      tx.onerror=()=>reject(tx.error);
+    req.onerror = () => reject(req.error);
+    req.onsuccess = () => {
+      const db = req.result;
+      const tx = db.transaction("settings", "readwrite");
+      tx.objectStore("settings").put(handle, "directory");
+      tx.oncomplete = () => {
+        db.close();
+        resolve();
+      };
+      tx.onerror = () => reject(tx.error);
     };
   });
 }
 
 async function recalledDirectory() {
-  return new Promise((resolve,reject)=>{
-    const req=indexedDB.open("vocab-browser",1);
-    req.onupgradeneeded=()=>{
-      if(!req.result.objectStoreNames.contains("settings"))
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open("vocab-browser", 1);
+    req.onupgradeneeded = () => {
+      if (!req.result.objectStoreNames.contains("settings"))
         req.result.createObjectStore("settings");
     };
-    req.onerror=()=>reject(req.error);
-    req.onsuccess=()=>{
-      const db=req.result;
-      const tx=db.transaction("settings","readonly");
-      const get=tx.objectStore("settings").get("directory");
-      get.onsuccess=()=>{const h=get.result;db.close();resolve(h||null);};
-      get.onerror=()=>{db.close();reject(get.error);};
+    req.onerror = () => reject(req.error);
+    req.onsuccess = () => {
+      const db = req.result;
+      const tx = db.transaction("settings", "readonly");
+      const get = tx.objectStore("settings").get("directory");
+      get.onsuccess = () => {
+        const h = get.result;
+        db.close();
+        resolve(h || null);
+      };
+      get.onerror = () => {
+        db.close();
+        reject(get.error);
+      };
     };
   });
 }
 
 async function tryRestoreDirectory() {
   try {
-    const h=await recalledDirectory();
-    if(!h) return;
+    const h = await recalledDirectory();
+    if (!h) return;
 
-    rememberedHandle=h;
-    const rememberedLanguage=localStorage.getItem("vocab-language") || "";
-    const dirName=localStorage.getItem("vocab-directory-name") ||
-                  h.name || "previous directory";
+    rememberedHandle = h;
+    const rememberedLanguage = localStorage.getItem("vocab-language") || "";
+    const dirName = localStorage.getItem("vocab-directory-name") ||
+      h.name || "previous directory";
 
-    const permission=await h.queryPermission({mode:"readwrite"});
+    const permission = await h.queryPermission({
+      mode: "readwrite"
+    });
 
-    if(permission==="granted") {
-      dirHandle=h;
+    if (permission === "granted") {
+      dirHandle = h;
       await findLanguages();
 
-      if(rememberedLanguage &&
-         Array.from(languageSelect.options).some(o=>o.value===rememberedLanguage)) {
-        languageSelect.value=rememberedLanguage;
+      if (rememberedLanguage &&
+        Array.from(languageSelect.options).some(o => o.value === rememberedLanguage)) {
+        languageSelect.value = rememberedLanguage;
         await loadLanguage(rememberedLanguage);
-        saveButton.disabled=false;
-        resetButton.disabled=false;
+        saveButton.disabled = false;
+        resetButton.disabled = false;
         status.textContent =
           "Restored " + dirName + " / " + rememberedLanguage + ".";
       } else {
@@ -928,24 +1105,24 @@ async function tryRestoreDirectory() {
           "Restored directory " + dirName + ". Choose a vocabulary.";
       }
     } else {
-      dirButton.textContent="Reopen " + dirName;
+      dirButton.textContent = "Reopen " + dirName;
       status.textContent =
         "Previous directory " + dirName +
         " remembered. Click the button to reopen it.";
     }
-  } catch(e) {
+  } catch (e) {
     /* Persistence is helpful but must never prevent normal use. */
   }
 }
 
-dirButton.addEventListener("click", async ()=>{
+dirButton.addEventListener("click", async () => {
   if (!window.showDirectoryPicker) {
     status.textContent =
       "This browser does not support direct directory access. Use Chrome or Edge.";
     return;
   }
 
-  if(!(await protectUnsavedChanges()))
+  if (!(await protectUnsavedChanges()))
     return;
 
   try {
@@ -953,90 +1130,95 @@ dirButton.addEventListener("click", async ()=>{
      * If a previous directory is remembered, try that first.  requestPermission
      * is allowed here because this code is running in response to a user click.
      */
-    if(rememberedHandle && dirHandle !== rememberedHandle) {
-      const permission=await rememberedHandle.requestPermission({mode:"readwrite"});
-      if(permission==="granted") {
-        dirHandle=rememberedHandle;
+    if (rememberedHandle && dirHandle !== rememberedHandle) {
+      const permission = await rememberedHandle.requestPermission({
+        mode: "readwrite"
+      });
+      if (permission === "granted") {
+        dirHandle = rememberedHandle;
         await findLanguages();
 
-        const rememberedLanguage=localStorage.getItem("vocab-language") || "";
-        if(rememberedLanguage &&
-           Array.from(languageSelect.options).some(o=>o.value===rememberedLanguage)) {
-          languageSelect.value=rememberedLanguage;
+        const rememberedLanguage = localStorage.getItem("vocab-language") || "";
+        if (rememberedLanguage &&
+          Array.from(languageSelect.options).some(o => o.value === rememberedLanguage)) {
+          languageSelect.value = rememberedLanguage;
           await loadLanguage(rememberedLanguage);
-          saveButton.disabled=false;
-          resetButton.disabled=false;
+          saveButton.disabled = false;
+          resetButton.disabled = false;
         }
 
-        dirButton.textContent="Choose vocabulary directory";
+        dirButton.textContent = "Choose vocabulary directory";
         return;
       }
     }
 
-    const pickerOptions = {mode:"readwrite"};
+    const pickerOptions = {
+      mode: "readwrite"
+    };
     if (dirHandle)
       pickerOptions.startIn = dirHandle;
     else if (rememberedHandle)
       pickerOptions.startIn = rememberedHandle;
 
-    const h=await window.showDirectoryPicker(pickerOptions);
-    dirHandle=h;
-    rememberedHandle=h;
+    const h = await window.showDirectoryPicker(pickerOptions);
+    dirHandle = h;
+    rememberedHandle = h;
     await rememberDirectory(h);
     await findLanguages();
-    dirButton.textContent="Choose vocabulary directory";
+    dirButton.textContent = "Choose vocabulary directory";
   } catch (e) {
     if (e.name !== "AbortError")
       status.textContent = "Could not open directory: " + e;
   }
 });
 
-languageSelect.addEventListener("change", async e=>{
-  const language=e.target.value;
+languageSelect.addEventListener("change", async e => {
+  const language = e.target.value;
 
-  if(!dirHandle || !language) {
-    saveButton.disabled=true;
-    resetButton.disabled=true;
+  if (!dirHandle || !language) {
+    saveButton.disabled = true;
+    resetButton.disabled = true;
     return;
   }
 
-  if(!(await protectUnsavedChanges())) {
-    languageSelect.value=currentLanguage;
+  if (!(await protectUnsavedChanges())) {
+    languageSelect.value = currentLanguage;
     return;
   }
 
   await loadLanguage(language);
-  saveButton.disabled=false;
-  resetButton.disabled=false;
+  saveButton.disabled = false;
+  resetButton.disabled = false;
 });
 
 async function saveCurrentVocabulary() {
-  if(!words.length || !dirHandle || !currentLanguage)
+  if (!words.length || !dirHandle || !currentLanguage)
     return false;
 
-  const language=currentLanguage;
+  const language = currentLanguage;
 
   try {
-    for(let l=0;l<NLISTS;l++) {
-      const lines=[];
+    for (let l = 0; l < NLISTS; l++) {
+      const lines = [];
 
-      for(const wi of lists[l]) {
-        const w=words[wi];
+      for (const wi of lists[l]) {
+        const w = words[wi];
         lines.push(formatWord(w));
       }
 
-      const fh=await dirHandle.getFileHandle(language+"_"+l+".txt",
-                                             {create:true});
-      const writable=await fh.createWritable();
-      await writable.write(lines.join("\n")+(lines.length?"\n":""));
+      const fh = await dirHandle.getFileHandle(language + "_" + l + ".txt", {
+        create: true
+      });
+      const writable = await fh.createWritable();
+      await writable.write(lines.join("\n") + (lines.length ? "\n" : ""));
       await writable.close();
     }
 
     /* Remove obsolete list files after a successful six-to-four migration. */
-    for(const oldLevel of [4,5]) {
+    for (const oldLevel of [4, 5]) {
       try {
-        await dirHandle.removeEntry(language+"_"+oldLevel+".txt");
-      } catch(e) {
+        await dirHandle.removeEntry(language + "_" + oldLevel + ".txt");
+      } catch (e) {
         /* It is normal for these legacy files not to exist. */
       }
     }
@@ -1044,118 +1226,169 @@ async function saveCurrentVocabulary() {
     setDirty(false);
     status.textContent =
       "Saved " + language + "_0.txt through " + language + "_3.txt in place.";
-    feedback.textContent="<files saved>";
-    setTimeout(()=>{ feedback.textContent=""; }, 2500);
+    feedback.textContent = "<files saved>";
+    setTimeout(() => {
+      feedback.textContent = "";
+    }, 2500);
     return true;
-  } catch(e) {
-    status.textContent="Could not save files: "+e;
-    feedback.textContent="<save failed>";
+  } catch (e) {
+    status.textContent = "Could not save files: " + e;
+    feedback.textContent = "<save failed>";
     return false;
   }
 }
 
-saveButton.addEventListener("click", async ()=>{
+saveButton.addEventListener("click", async () => {
   await saveCurrentVocabulary();
 });
 
-
-
-
-inverseBox.addEventListener("change", ()=>{
-  if(inverseBox.checked) audioModeBox.checked=false;
-  localStorage.setItem("vocab-audio-mode",audioModeBox.checked?"1":"0");
+inverseBox.addEventListener("change", () => {
+  if (inverseBox.checked) audioModeBox.checked = false;
+  localStorage.setItem("vocab-audio-mode", audioModeBox.checked ? "1" : "0");
   localStorage.setItem("vocab-inverse", inverseBox.checked ? "1" : "0");
-  revealLevel=0;
+  revealLevel = 0;
   showCard();
 });
 
-audioModeBox.addEventListener("change", ()=>{
-  if(audioModeBox.checked) inverseBox.checked=false;
-  localStorage.setItem("vocab-audio-mode",audioModeBox.checked?"1":"0");
-  localStorage.setItem("vocab-inverse",inverseBox.checked?"1":"0");
+audioModeBox.addEventListener("change", () => {
+  if (audioModeBox.checked) inverseBox.checked = false;
+  localStorage.setItem("vocab-audio-mode", audioModeBox.checked ? "1" : "0");
+  localStorage.setItem("vocab-inverse", inverseBox.checked ? "1" : "0");
   stopAudio();
-  revealLevel=0;
+  revealLevel = 0;
   showCard();
-  if(audioModeBox.checked && current) playCurrentAudio(1.0);
+  if (audioModeBox.checked && current) playCurrentAudio(1.0);
   savePhoneState();
 });
 
-resetButton.addEventListener("click", async ()=>{
-  if(!words.length) return;
+resetButton.addEventListener("click", async () => {
+  if (!words.length) return;
 
-  const answer=await askResetChoice();
-  if(!answer) return;
+  const answer = await askResetChoice();
+  if (!answer) return;
 
   /*
    * Put every word back into list 0, preserving the current word order
    * as far as possible.
    */
-  const allWords=[];
-  for(let l=0; l<NLISTS; ++l)
-    for(const wi of lists[l])
+  const allWords = [];
+  for (let l = 0; l < NLISTS; ++l)
+    for (const wi of lists[l])
       allWords.push(wi);
 
-  lists=Array.from({length:NLISTS},()=>[]);
-  lists[0]=allWords;
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
+  lists[0] = allWords;
 
-  current=null;
-  revealLevel=0;
-  numRight=0;
-  numWrong=0;
-  initialProgress=0;
+  current = null;
+  revealLevel = 0;
+  numRight = 0;
+  numWrong = 0;
+  initialProgress = 0;
   setDirty(true);
 
   chooseWord();
   updateLists();
   savePhoneState();
 
-  feedback.textContent="<lists reset>";
-  setTimeout(()=>{ feedback.textContent=""; },2500);
+  feedback.textContent = "<lists reset>";
+  setTimeout(() => {
+    feedback.textContent = "";
+  }, 2500);
 });
 
-wrongButton.onclick=()=>moveWord(-1); revealButton.onclick=reveal; rightButton.onclick=()=>moveWord(1);
-audioRepeatButton.onclick=()=>playCurrentAudio(1.0);
-audioNormalButton.onclick=()=>playCurrentAudio(1.0);
-audioHalfButton.onclick=()=>playCurrentAudio(0.5);
-importButton.onclick=()=>phoneFileInput.click(); exportButton.onclick=exportPhoneVocabulary;
-phoneFileInput.onchange=async()=>{const f=phoneFileInput.files[0];if(!f)return;const text=await f.text();currentLanguage=f.name.replace(/\.txt$/i,"").replace(/_[0-5]$/,"")||"vocabulary";currentAudioBase="";words=text.split(/\r?\n/).map(parseLine).filter(Boolean);lists=Array.from({length:NLISTS},()=>[]);words.forEach((w,i)=>lists[0].push(i));current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=numWrong=0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent=words.length+" words imported as "+currentLanguage+".";await savePhoneState();phoneFileInput.value=""};
-document.addEventListener("keydown",e=>{
-  if(!current)return;
-  if(e.key==="ArrowDown"){e.preventDefault();reveal();}
-  else if(e.key==="ArrowUp"){e.preventDefault();hide();}
-  else if(e.key==="ArrowRight"){e.preventDefault();moveWord(1);}
-  else if(e.key==="ArrowLeft"){e.preventDefault();moveWord(-1);}
-  else if(e.key.toLowerCase()==="p"){e.preventDefault();playCurrentAudio(1.0);}
-  else if(e.key.toLowerCase()==="h"){e.preventDefault();playCurrentAudio(0.5);}
-  else if(e.key.toLowerCase()==="r" && audioModeBox.checked){e.preventDefault();playCurrentAudio(1.0);}
-  else if(e.key===" "){e.preventDefault();chooseWord();}
-});
-window.addEventListener("beforeunload", e=>{
-  if(dirty) {
+wrongButton.onclick = () => moveWord(-1);
+revealButton.onclick = reveal;
+rightButton.onclick = () => moveWord(1);
+audioRepeatButton.onclick = () => playCurrentAudio(1.0);
+audioSlowButton.onclick = () => playCurrentAudio(SLOW_AUDIO_SPEED);
+importButton.onclick = () => phoneFileInput.click();
+exportButton.onclick = exportPhoneVocabulary;
+phoneFileInput.onchange = async () => {
+  const f = phoneFileInput.files[0];
+  if (!f) return;
+  if (!(await protectUnsavedChanges())) {
+    phoneFileInput.value = "";
+    return;
+  }
+  await savePhoneState();
+  const text = await f.text();
+  dirHandle = null;
+  saveButton.disabled = true;
+  languageSelect.value = "";
+  currentLanguage = f.name.replace(/\.txt$/i, "").replace(/_[0-5]$/, "") || "vocabulary";
+  currentAudioBase = "";
+  words = text.split(/\r?\n/).map(parseLine).filter(Boolean);
+  lists = Array.from({
+    length: NLISTS
+  }, () => []);
+  words.forEach((w, i) => lists[0].push(i));
+  current = null;
+  revealLevel = 0;
+  chooseWord();
+  initialProgress = progressScore();
+  numRight = numWrong = 0;
+  setDirty(false);
+  updateLists();
+  exportButton.disabled = resetButton.disabled = false;
+  status.textContent = words.length + " words imported as " + currentLanguage + ".";
+  await savePhoneState();
+  phoneFileInput.value = ""
+};
+document.addEventListener("keydown", e => {
+  if (!current) return;
+  if (e.key === "ArrowDown") {
     e.preventDefault();
-    e.returnValue="";
+    reveal();
+  } else if (e.key === "ArrowUp") {
+    e.preventDefault();
+    hide();
+  } else if (e.key === "ArrowRight") {
+    e.preventDefault();
+    moveWord(1);
+  } else if (e.key === "ArrowLeft") {
+    e.preventDefault();
+    moveWord(-1);
+  } else if (e.key.toLowerCase() === "p") {
+    e.preventDefault();
+    playCurrentAudio(1.0);
+  } else if (e.key.toLowerCase() === "h") {
+    e.preventDefault();
+    playCurrentAudio(SLOW_AUDIO_SPEED);
+  } else if (e.key.toLowerCase() === "r" && audioModeBox.checked) {
+    e.preventDefault();
+    playCurrentAudio(1.0);
+  } else if (e.key === " ") {
+    e.preventDefault();
+    chooseWord();
+  }
+});
+window.addEventListener("beforeunload", e => {
+  if (dirty && dirHandle) {
+    e.preventDefault();
+    e.returnValue = "";
   }
 });
 
-inverseBox.checked=(localStorage.getItem("vocab-inverse")==="1");
-audioModeBox.checked=(localStorage.getItem("vocab-audio-mode")==="1");
-if(audioModeBox.checked) inverseBox.checked=false;
-if(phoneMode){
-  loadCatalogue();
-  const last=localStorage.getItem("vocab-phone-last");
-  if(last) loadPhoneState(last);
-  else status.textContent="Load a vocabulary, or import your own text file.";
-}else tryRestoreDirectory();
+inverseBox.checked = (localStorage.getItem("vocab-inverse") === "1");
+audioModeBox.checked = (localStorage.getItem("vocab-audio-mode") === "1");
+if (audioModeBox.checked) inverseBox.checked = false;
+loadCatalogue();
+{
+  const last = localStorage.getItem("vocab-phone-last");
+  if (last) loadPhoneState(last);
+  else if (!phoneMode) tryRestoreDirectory();
+}
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker.register("./service-worker.js").catch(() => {});
   });
 }
-
 </script>
 <div id="help">↓ reveal &nbsp; ↑ hide &nbsp; → promote &nbsp;
 ← demote &nbsp; Space = next word &nbsp; P = normal sound &nbsp;
-H = half-speed sound &nbsp; Audio mode: R = repeat</div>
+H = slow sound (40%) &nbsp; Audio mode: R = repeat</div>
 </body>
 </html>
