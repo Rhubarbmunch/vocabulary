@@ -84,6 +84,12 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 .catalogueEntry small { display:block; margin-top:3px; font-size:13px; font-weight:normal; }
 .catalogueEntry:disabled { color:#888; background:#eee; border-color:#ccc; }
 #catalogueCloseButton { width:100%; min-height:44px; margin-top:10px; font-size:17px; }
+/* Deliberately unobtrusive; scroll to the bottom to check the installed build. */
+#versionFooter { margin-top:40px; padding:12px 4vw 24px; text-align:right; }
+#versionButton { font-size:12px; color:#666; background:none; border:1px solid #ddd;
+  border-radius:3px; padding:4px 8px; margin:0; cursor:pointer; }
+#versionDetails { font-size:12px; color:#666; margin:6px 0 0; }
+
 </style>
 
 <link rel="manifest" href="manifest.json">
@@ -105,6 +111,22 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <input id="phoneFileInput" type="file" accept=".txt,text/plain" style="display:none">
 <label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
 <label><input id="audioModeBox" type="checkbox"> Audio mode</label>
+<label for="speechLanguageSelect">Speech language:
+  <select id="speechLanguageSelect">
+    <option value="">Automatic</option>
+    <option value="zh-CN">Chinese (Mandarin)</option>
+    <option value="ru-RU">Russian</option>
+    <option value="es-ES">Spanish</option>
+    <option value="fr-FR">French</option>
+    <option value="de-DE">German</option>
+    <option value="it-IT">Italian</option>
+    <option value="pt-PT">Portuguese</option>
+    <option value="sl-SI">Slovenian</option>
+    <option value="da-DK">Danish</option>
+    <option value="ta-IN">Tamil</option>
+    <option value="ja-JP">Japanese</option>
+  </select>
+</label>
 <details id="directoryTools">
   <summary>Local directory files (computer)</summary>
   <button id="dirButton">Choose vocabulary directory</button>
@@ -147,8 +169,16 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
   </div>
 </div>
 
+<footer id="versionFooter">
+  <button id="versionButton" type="button" aria-expanded="false"
+    aria-controls="versionDetails">Version</button>
+  <p id="versionDetails" hidden></p>
+</footer>
+
 <script>
 "use strict";
+// Update this identifier whenever distributing a changed index.html.
+const APP_VERSION = "2026.10.25.2";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -178,6 +208,7 @@ const audioControls = document.getElementById("audioControls");
 const audioSlowButton = document.getElementById("audioSlowButton");
 const inverseBox = document.getElementById("inverseBox");
 const audioModeBox = document.getElementById("audioModeBox");
+const speechLanguageSelect = document.getElementById("speechLanguageSelect");
 const audioRepeatButton = document.getElementById("audioRepeatButton");
 const importButton = document.getElementById("importButton"),
   exportButton = document.getElementById("exportButton"),
@@ -445,8 +476,10 @@ function showCard() {
     return;
   }
   const w = words[current.word];
-  audioControls.hidden = !(w.audio || canSpeakWord(w));
   const audioMode = audioModeBox.checked;
+  audioControls.hidden = !(audioMode || w.audio || canSpeakWord(w));
+  const savedLanguage = localStorage.getItem("vocab-speech-language:" + currentLanguage);
+  speechLanguageSelect.value = savedLanguage !== null ? savedLanguage : (currentSpeechLanguage || "");
   const inverse = inverseBox.checked;
   let s;
   if (audioMode) {
@@ -517,7 +550,10 @@ function speechLanguageFromName(name) {
 function speechLanguage(word) {
   if (!word) return null;
   // Prefer explicit vocabulary information over guesses from its alphabet.
-  const language = currentSpeechLanguage || speechLanguageFromName(currentLanguage);
+  const savedLanguage = localStorage.getItem("vocab-speech-language:" + currentLanguage);
+  const language = savedLanguage !== null ?
+    (savedLanguage || speechLanguageFromName(currentLanguage)) :
+    (currentSpeechLanguage || speechLanguageFromName(currentLanguage));
   if (language) return language;
   if (/[\u3400-\u9fff]/u.test(word.front)) return "zh-CN";
   if (/[А-Яа-яЁё]/u.test(word.front)) return "ru-RU";
@@ -540,7 +576,32 @@ function stopAudio() {
   if ("speechSynthesis" in window) speechSynthesis.cancel();
 }
 
-function speakWord(word, speed) {
+// Some browsers populate their voice list after the page has opened.
+
+async function availableSpeechVoices() {
+  const voices = speechSynthesis.getVoices();
+  if (voices.length) return voices;
+
+  return new Promise(resolve => {
+    let timer;
+
+    function finish() {
+      clearTimeout(timer);
+      speechSynthesis.removeEventListener("voiceschanged", onVoicesChanged);
+      resolve(speechSynthesis.getVoices());
+    }
+
+    function onVoicesChanged() {
+      if (speechSynthesis.getVoices().length) finish();
+    }
+
+    speechSynthesis.addEventListener("voiceschanged", onVoicesChanged);
+    timer = setTimeout(finish, 2000);
+    onVoicesChanged();
+  });
+}
+
+async function speakWord(word, speed) {
   const language = speechLanguage(word);
   if (!language) return false;
   if (!("speechSynthesis" in window) ||
@@ -548,12 +609,19 @@ function speakWord(word, speed) {
   const utterance = new SpeechSynthesisUtterance(word.front);
   utterance.lang = language;
   utterance.rate = speed;
-  const voices = speechSynthesis.getVoices();
+  const request = audioRequest;
+  const voices = await availableSpeechVoices();
+  if (request !== audioRequest) return false;
   const voiceLanguage = language.toLowerCase();
   const languagePrefix = voiceLanguage.split("-")[0];
   const voice = voices.find(v => v.lang.toLowerCase().replace(/_/g, "-") === voiceLanguage) ||
     voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix);
-  if (voice) utterance.voice = voice;
+  if (!voice) {
+    feedback.textContent = "<No " + language +
+      " speech voice is available in this browser. Use a recording or install a suitable voice.>";
+    return false;
+  }
+  utterance.voice = voice;
   utterance.onerror = e => {
     if (e.error !== "canceled" && e.error !== "interrupted")
       feedback.textContent = "<Speech unavailable (" + language + "); check installed voices>";
@@ -565,6 +633,12 @@ function speakWord(word, speed) {
 async function playCurrentAudio(speed = 1.0) {
   if (!current) return;
   stopAudio();
+  if (!words[current.word].audio && !canSpeakWord(words[current.word])) {
+    feedback.textContent = speechLanguage(words[current.word]) ?
+      "<Speech is unavailable in this browser>" : "<Choose a speech language above>";
+    return;
+  }
+  feedback.textContent = "";
   const request = audioRequest;
   const w = words[current.word];
 
@@ -600,10 +674,10 @@ async function playCurrentAudio(speed = 1.0) {
         if (currentAudio === audio) currentAudio = null;
       };
       audio.onended = cleanup;
-      audio.onerror = () => {
+      audio.onerror = async () => {
         cleanup();
         if (request === audioRequest && canSpeakWord(w))
-          speakWord(w, speed);
+          await speakWord(w, speed);
         else if (request === audioRequest)
           feedback.textContent = "<sound file not found: " + w.audio + ">";
       };
@@ -619,7 +693,7 @@ async function playCurrentAudio(speed = 1.0) {
     }
   }
   if (request === audioRequest && canSpeakWord(w))
-    speakWord(w, speed);
+    await speakWord(w, speed);
 }
 
 function reveal() {
@@ -1292,6 +1366,15 @@ inverseBox.addEventListener("change", () => {
   showCard();
 });
 
+speechLanguageSelect.addEventListener("change", () => {
+  localStorage.setItem("vocab-speech-language:" + currentLanguage, speechLanguageSelect.value);
+  currentSpeechLanguage = speechLanguageSelect.value || null;
+  stopAudio();
+  showCard();
+  savePhoneState();
+  if (audioModeBox.checked && current) playCurrentAudio(1.0);
+});
+
 audioModeBox.addEventListener("change", () => {
   if (audioModeBox.checked) inverseBox.checked = false;
   localStorage.setItem("vocab-audio-mode", audioModeBox.checked ? "1" : "0");
@@ -1412,6 +1495,14 @@ window.addEventListener("beforeunload", e => {
     e.preventDefault();
     e.returnValue = "";
   }
+});
+
+const versionButton = document.getElementById("versionButton");
+const versionDetails = document.getElementById("versionDetails");
+versionDetails.textContent = "Vocabulary — version " + APP_VERSION;
+versionButton.addEventListener("click", () => {
+  versionDetails.hidden = !versionDetails.hidden;
+  versionButton.setAttribute("aria-expanded", String(!versionDetails.hidden));
 });
 
 inverseBox.checked = (localStorage.getItem("vocab-inverse") === "1");
