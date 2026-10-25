@@ -182,6 +182,7 @@ const catalogueCloseButton=document.getElementById("catalogueCloseButton");
 let catalogueEntries=[];
 let currentAudioBase="";
 let currentAudio=null;
+let audioRequest=0;
 const AUDIO_CACHE="vocabulary-audio-v1";
 const phoneMode=matchMedia("(max-width:700px),(pointer:coarse)").matches;
 
@@ -344,9 +345,8 @@ function chooseList() {
    * Now every word in list 0 has weight 32, every word in list 1 has
    * weight 16, etc.  Hence, within a level, all words have equal chance.
    */
-   const weights = Array.from({length: NLISTS},
-      (_, i) => i === NLISTS - 1 ? 0.001 : 2 ** (NLISTS - 1 - i));
-
+  const weights=Array.from({length:NLISTS},
+      (_,i)=>2**(NLISTS-1-i));
   let total=0;
 
   for(let i=0;i<NLISTS;i++)
@@ -396,7 +396,7 @@ function showCard() {
     return;
   }
   const w=words[current.word];
-  audioControls.hidden=!w.audio;
+  audioControls.hidden=!(w.audio || canSpeakChinese(w));
   const inverse=inverseBox.checked;
   let s;
 
@@ -432,47 +432,93 @@ function showCard() {
 
   card.textContent=s;
 }
+// Chinese text can be spoken without a recorded sound file.
+// Use the Chinese characters, not the Pinyin or English translation.
+function canSpeakChinese(w) {
+  return !!(w && /[\u3400-\u9fff]/u.test(w.front) &&
+            "speechSynthesis" in window &&
+            "SpeechSynthesisUtterance" in window);
+}
 function stopAudio() {
+  // Invalidate any asynchronous sound-file lookup still in progress.
+  audioRequest++;
   if(currentAudio) {
     currentAudio.pause();
     currentAudio=null;
   }
+  if("speechSynthesis" in window) speechSynthesis.cancel();
+}
+function speakChinese(text, speed) {
+  if(!("speechSynthesis" in window) ||
+     !("SpeechSynthesisUtterance" in window)) return false;
+  const utterance=new SpeechSynthesisUtterance(text);
+  utterance.lang="zh-CN";
+  utterance.rate=speed;
+  const voices=speechSynthesis.getVoices();
+  const voice=voices.find(v=>v.lang.toLowerCase()==="zh-cn") ||
+              voices.find(v=>v.lang.toLowerCase().startsWith("zh"));
+  if(voice) utterance.voice=voice;
+  utterance.onerror=e=>{
+    if(e.error!=="canceled" && e.error!=="interrupted")
+      feedback.textContent="<Mandarin speech unavailable; check installed voices>";
+  };
+  speechSynthesis.speak(utterance);
+  return true;
 }
 async function playCurrentAudio(speed=1.0) {
   if(!current) return;
-  const filename=words[current.word].audio;
-  if(!filename) return;
-
   stopAudio();
-  try {
-    let source;
-    if(dirHandle) {
-      let handle=dirHandle;
-      const parts=filename.replace(/\\/g,"/").split("/").filter(Boolean);
-      for(let i=0;i<parts.length-1;i++)
-        handle=await handle.getDirectoryHandle(parts[i]);
-      const fileHandle=await handle.getFileHandle(parts[parts.length-1]);
-      source=URL.createObjectURL(await fileHandle.getFile());
-    } else {
-      source=currentAudioBase+filename;
-    }
+  const request=audioRequest;
+  const w=words[current.word];
 
-    const audio=new Audio(source);
-    audio.playbackRate=speed;
-    currentAudio=audio;
-    audio.onended=()=>{
-      if(source.startsWith("blob:")) URL.revokeObjectURL(source);
-      if(currentAudio===audio) currentAudio=null;
-    };
-    audio.onerror=()=>{
-      feedback.textContent="<sound file not found: "+filename+">";
-      if(source.startsWith("blob:")) URL.revokeObjectURL(source);
-      if(currentAudio===audio) currentAudio=null;
-    };
-    await audio.play();
-  } catch(e) {
-    feedback.textContent="<could not play: "+filename+">";
+  // Preserve existing recordings. Use synthesis only when no file is
+  // specified, or when the recording cannot be played.
+  if(w.audio) {
+    let source="", objectURL=false;
+    try {
+      if(dirHandle) {
+        let handle=dirHandle;
+        const parts=w.audio.replace(/\\/g,"/").split("/").filter(Boolean);
+        for(let i=0;i<parts.length-1;i++)
+          handle=await handle.getDirectoryHandle(parts[i]);
+        const fileHandle=await handle.getFileHandle(parts[parts.length-1]);
+        source=URL.createObjectURL(await fileHandle.getFile());
+        objectURL=true;
+      } else {
+        source=currentAudioBase+w.audio;
+      }
+      if(request!==audioRequest) {
+        if(objectURL) URL.revokeObjectURL(source);
+        return;
+      }
+      const audio=new Audio(source);
+      audio.playbackRate=speed;
+      currentAudio=audio;
+      const cleanup=()=>{
+        if(objectURL) { URL.revokeObjectURL(source); objectURL=false; }
+        if(currentAudio===audio) currentAudio=null;
+      };
+      audio.onended=cleanup;
+      audio.onerror=()=>{
+        cleanup();
+        if(request===audioRequest && canSpeakChinese(w))
+          speakChinese(w.front,speed);
+        else if(request===audioRequest)
+          feedback.textContent="<sound file not found: "+w.audio+">";
+      };
+      await audio.play();
+      return;
+    } catch(e) {
+      if(objectURL) URL.revokeObjectURL(source);
+      if(request!==audioRequest) return;
+      if(!canSpeakChinese(w)) {
+        feedback.textContent="<could not play: "+w.audio+">";
+        return;
+      }
+    }
   }
+  if(request===audioRequest && canSpeakChinese(w))
+    speakChinese(w.front,speed);
 }
 function reveal() {
   if(!current)return;
@@ -505,7 +551,6 @@ function moveWord(delta) {
   updateLists();
   savePhoneState();
 }
-
 function progressScore() {
   let progress=0;
   for(let i=0;i<NLISTS;i++)
@@ -537,8 +582,7 @@ function updateStatus() {
       100.0*progress/maxProgress : 0.0;
 
   const effectiveness = attempts ?
-      /* 100.0*(progress-initialProgress)/attempts : 0.0; */
-      100.0*progress/attempts : 0.0;
+      100.0*(progress-initialProgress)/attempts : 0.0;
 
   statsDisplay.textContent =
     "# wrong : "+numWrong+"\n"+
