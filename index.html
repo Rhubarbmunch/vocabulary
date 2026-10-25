@@ -116,7 +116,12 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
     <option value="">Automatic</option>
     <option value="zh-CN">Chinese (Mandarin)</option>
     <option value="ru-RU">Russian</option>
-    <option value="es-MX">Spanish (Latin American)</option>
+    <option value="es-MX">Spanish (Mexico)</option>
+    <option value="es-CO">Spanish (Colombia)</option>
+    <option value="es-AR">Spanish (Argentina)</option>
+    <option value="es-PE">Spanish (Peru)</option>
+    <option value="es-CL">Spanish (Chile)</option>
+    <option value="es-ES">Spanish (Spain)</option>
     <option value="fr-FR">French</option>
     <option value="de-DE">German</option>
     <option value="it-IT">Italian</option>
@@ -127,6 +132,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
     <option value="ja-JP">Japanese</option>
   </select>
 </label>
+<div id="speechVoiceStatus" role="status" style="font-size:13px;color:#666"></div>
 <details id="directoryTools">
   <summary>Local directory files (computer)</summary>
   <button id="dirButton">Choose vocabulary directory</button>
@@ -178,7 +184,7 @@ body { max-width:850px; margin:0 auto; padding-bottom:48px; }
 <script>
 "use strict";
 // Update this identifier whenever distributing a changed index.html.
-const APP_VERSION = "2026.10.25.5";
+const APP_VERSION = "2026.10.25.6";
 const NLISTS = 4;
 const SLOW_AUDIO_SPEED = 0.4; // Fraction of normal speed for recordings and speech.
 let words = [],
@@ -209,6 +215,7 @@ const audioSlowButton = document.getElementById("audioSlowButton");
 const inverseBox = document.getElementById("inverseBox");
 const audioModeBox = document.getElementById("audioModeBox");
 const speechLanguageSelect = document.getElementById("speechLanguageSelect");
+const speechVoiceStatus = document.getElementById("speechVoiceStatus");
 const audioRepeatButton = document.getElementById("audioRepeatButton");
 const importButton = document.getElementById("importButton"),
   exportButton = document.getElementById("exportButton"),
@@ -569,6 +576,7 @@ function canSpeakWord(w) {
 function stopAudio() {
   // Invalidate any asynchronous sound-file lookup still in progress.
   audioRequest++;
+  speechVoiceStatus.textContent = "";
   if (currentAudio) {
     currentAudio.pause();
     currentAudio = null;
@@ -614,14 +622,24 @@ async function speakWord(word, speed) {
   if (request !== audioRequest) return false;
   const voiceLanguage = language.toLowerCase();
   const languagePrefix = voiceLanguage.split("-")[0];
-  const voice = voices.find(v => v.lang.toLowerCase().replace(/_/g, "-") === voiceLanguage) ||
-    voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix);
+  const exactVoice = voices.find(v => v.lang.toLowerCase().replace(/_/g, "-") === voiceLanguage);
+  // Spanish regions have deliberately different accents. Never substitute
+  // Spain (or another region) when a particular Spanish variety was requested.
+  const voice = exactVoice || (languagePrefix !== "es" ?
+    voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix) : null);
   if (!voice) {
-    feedback.textContent = "<No " + language +
-      " speech voice is available in this browser. Use a recording or install a suitable voice.>";
+    const available = voices.filter(v =>
+      v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix);
+    const alternatives = [...new Set(available.map(v => v.lang))].join(", ");
+    const message = "No " + language + " voice is available in this browser." +
+      (alternatives ? " Available alternatives: " + alternatives + "." : "") +
+      " Choose an available variety, use a recording, or install a suitable voice.";
+    speechVoiceStatus.textContent = message;
+    feedback.textContent = "<" + message + ">";
     return false;
   }
   utterance.voice = voice;
+  speechVoiceStatus.textContent = "Voice: " + voice.name + " (" + voice.lang + ")";
   utterance.onerror = e => {
     if (e.error !== "canceled" && e.error !== "interrupted")
       feedback.textContent = "<Speech unavailable (" + language + "); check installed voices>";
