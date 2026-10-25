@@ -1,332 +1,332 @@
-3350. 这儿有人坐吗？ : Zhèr yǒu rén zuò ma? : Is this seat taken?
-3351. 风太大了。 : Fēng tài dà le. : It's too windy.
-3352. 外面开始下雨了。 : Wàimiàn kāishǐ xià yǔ le. : It's started raining outside.
-3353. 我没带雨伞。 : Wǒ méi dài yǔsǎn. : I didn't bring an umbrella.
-3354. 地上很滑。 : Dìshang hěn huá. : The ground is slippery.
-3355. 我们走楼梯吧。 : Wǒmen zǒu lóutī ba. : Let's take the stairs.
-3356. 我忘了带钥匙。 : Wǒ wàng le dài yàoshi. : I forgot my keys.
-3357. 这里能充电吗？ : Zhèlǐ néng chōngdiàn ma? : Can I charge my phone here?
-3358. 信号不太好。 : Xìnhào bú tài hǎo. : The signal isn't very good.
-3359. 我听不清楚。 : Wǒ tīng bu qīngchu. : I can't hear clearly.
-3360. 请再说一遍。 : Qǐng zài shuō yí biàn. : Please say that again.
-3361. 你说得太快了。 : Nǐ shuō de tài kuài le. : You're speaking too quickly.
-3362. 我想确认一下时间。 : Wǒ xiǎng quèrèn yíxià shíjiān. : I'd like to confirm the time.
-3363. 他还在路上。 : Tā hái zài lùshang. : He's still on his way.
-3364. 我们不用等他。 : Wǒmen bú yòng děng tā. : We don't need to wait for him.
-3365. 你先开始吧。 : Nǐ xiān kāishǐ ba. : You can start first.
-3366. 今天谁做记录？ : Jīntiān shéi zuò jìlù? : Who's taking notes today?
-3367. 请把文件发给我。 : Qǐng bǎ wénjiàn fā gěi wǒ. : Please send me the file.
-3368. 这个版本太旧了。 : Zhège bǎnběn tài jiù le. : This version is too old.
-3369. 我刚更新了软件。 : Wǒ gāng gēngxīn le ruǎnjiàn. : I've just updated the software.
-3370. 程序突然停止了。 : Chéngxù tūrán tíngzhǐ le. : The program stopped unexpectedly.
-3371. 先保存你的工作。 : Xiān bǎocún nǐ de gōngzuò. : Save your work first.
-3372. 屏幕上出现了一条错误信息。 : Píngmù shang chūxiàn le yì tiáo cuòwù xìnxī. : An error message appeared on the screen.
-3373. 重新启动试试看。 : Chóngxīn qǐdòng shìshi kàn. : Try restarting it.
-3374. 我找不到那个选项。 : Wǒ zhǎo bu dào nàge xuǎnxiàng. : I can't find that option.
-3375. 菜单藏在右上角。 : Càidān cáng zài yòu shàngjiǎo. : The menu is hidden in the top right corner.
-3376. 这张照片有点模糊。 : Zhè zhāng zhàopiàn yǒudiǎn móhu. : This photograph is a little blurry.
-3377. 光线不够亮。 : Guāngxiàn bú gòu liàng. : There isn't enough light.
-3378. 换个角度拍吧。 : Huàn ge jiǎodù pāi ba. : Try taking it from another angle.
-3379. 背景太乱了。 : Bèijǐng tài luàn le. : The background is too cluttered.
-3380. 我喜欢这种颜色。 : Wǒ xǐhuan zhè zhǒng yánsè. : I like this colour.
-3381. 墙上挂着一面镜子。 : Qiáng shang guà zhe yí miàn jìngzi. : There's a mirror hanging on the wall.
-3382. 桌子有点摇晃。 : Zhuōzi yǒudiǎn yáohuàng. : The table is a bit wobbly.
-3383. 这把椅子坐着很舒服。 : Zhè bǎ yǐzi zuò zhe hěn shūfu. : This chair is very comfortable.
-3384. 我想换一个房间。 : Wǒ xiǎng huàn yí ge fángjiān. : I'd like to change rooms.
-3385. 隔壁太吵了。 : Gébì tài chǎo le. : It's too noisy next door.
-3386. 空调可以调低一点吗？ : Kōngtiáo kěyǐ tiáo dī yìdiǎn ma? : Could you turn the air conditioning down a little?
-3387. 热水还没来。 : Rèshuǐ hái méi lái. : The hot water hasn't come through yet.
-3388. 毛巾放在哪里？ : Máojīn fàng zài nǎlǐ? : Where are the towels kept?
-3389. 我只是随便看看。 : Wǒ zhǐ shì suíbiàn kànkan. : I'm just looking, thanks.
-3390. 有没有小一号的？ : Yǒu méiyǒu xiǎo yí hào de? : Do you have one size smaller?
-3391. 这件衣服有点紧。 : Zhè jiàn yīfu yǒudiǎn jǐn. : This is a little tight.
-3392. 请给我一张收据。 : Qǐng gěi wǒ yì zhāng shōujù. : Could I have a receipt, please?
-3393. 价格比昨天贵了。 : Jiàgé bǐ zuótiān guì le. : The price has gone up since yesterday.
-3394. 这个苹果不太新鲜。 : Zhège píngguǒ bú tài xīnxiān. : This apple isn't very fresh.
-3395. 香蕉还没熟。 : Xiāngjiāo hái méi shú. : The bananas aren't ripe yet.
-3396. 请少放一点盐。 : Qǐng shǎo fàng yìdiǎn yán. : Please use a little less salt.
-3397. 这道菜太辣了。 : Zhè dào cài tài là le. : This dish is too spicy.
-3398. 我不吃花生。 : Wǒ bù chī huāshēng. : I don't eat peanuts.
-3399. 能把酱汁放在旁边吗？ : Néng bǎ jiàngzhī fàng zài pángbiān ma? : Could you put the sauce on the side?
-3400. 这杯茶已经凉了。 : Zhè bēi chá yǐjīng liáng le. : This cup of tea has gone cold.
-3401. 我还想喝点水。 : Wǒ hái xiǎng hē diǎn shuǐ. : I'd like some more water.
-3402. 我们分开付钱吧。 : Wǒmen fēnkāi fù qián ba. : Let's pay separately.
-3403. 你吃饱了吗？ : Nǐ chī bǎo le ma? : Have you had enough to eat?
-3404. 剩下的可以打包吗？ : Shèngxià de kěyǐ dǎbāo ma? : Could we take the leftovers away?
-3405. 我订了一张火车票。 : Wǒ dìng le yì zhāng huǒchē piào. : I've booked a train ticket.
-3406. 站台临时换了。 : Zhàntái línshí huàn le. : The platform has changed at short notice.
-3407. 这趟车在哪儿停？ : Zhè tàng chē zài nǎr tíng? : Where does this train stop?
-3408. 下一站要下车。 : Xià yí zhàn yào xià chē. : We need to get off at the next stop.
-3409. 出口在另一边。 : Chūkǒu zài lìng yì biān. : The exit is on the other side.
-3410. 地图上没有这条路。 : Dìtú shang méiyǒu zhè tiáo lù. : This road isn't on the map.
-3411. 前面有座小桥。 : Qiánmiàn yǒu zuò xiǎo qiáo. : There's a small bridge ahead.
-3412. 沿着河边走。 : Yánzhe hébiān zǒu. : Walk along the river.
-3413. 山上的雾越来越浓。 : Shān shang de wù yuè lái yuè nóng. : The mist on the mountain is getting thicker.
-3414. 我们最好早点下山。 : Wǒmen zuìhǎo zǎodiǎn xià shān. : We'd better come down the mountain early.
-3415. 鞋底沾满了泥。 : Xiédǐ zhān mǎn le ní. : The soles of my shoes are covered in mud.
-3416. 鸟儿在树上叫。 : Niǎor zài shù shang jiào. : Birds are singing in the trees.
-3417. 花园里长满了杂草。 : Huāyuán lǐ zhǎng mǎn le zácǎo. : The garden is overgrown with weeds.
-3418. 这棵树需要修剪。 : Zhè kē shù xūyào xiūjiǎn. : This tree needs pruning.
-3419. 别踩那些花。 : Bié cǎi nàxiē huā. : Don't step on those flowers.
-3420. 春天来得特别早。 : Chūntiān lái de tèbié zǎo. : Spring has come unusually early.
-3421. 今晚的月亮很亮。 : Jīnwǎn de yuèliang hěn liàng. : The moon is very bright tonight.
-3422. 我想学一首新歌。 : Wǒ xiǎng xué yì shǒu xīn gē. : I'd like to learn a new song.
-3423. 她唱得非常轻。 : Tā chàng de fēicháng qīng. : She's singing very softly.
-3424. 观众还在鼓掌。 : Guānzhòng hái zài gǔzhǎng. : The audience is still applauding.
-3425. 这本书我还没读完。 : Zhè běn shū wǒ hái méi dú wán. : I haven't finished this book yet.
-3426. 这一段写得很清楚。 : Zhè yí duàn xiě de hěn qīngchu. : This passage is clearly written.
-3427. 我对这个结论有疑问。 : Wǒ duì zhège jiélùn yǒu yíwèn. : I have doubts about this conclusion.
-3428. 证明里漏掉了一个条件。 : Zhèngmíng lǐ lòudiào le yí ge tiáojiàn. : A condition has been omitted from the proof.
-3429. 这个符号前后用法不同。 : Zhège fúhào qiánhòu yòngfǎ bùtóng. : This symbol is used differently in different places.
-3430. 请把公式写完整。 : Qǐng bǎ gōngshì xiě wánzhěng. : Please write out the formula in full.
-3431. 我们还需要一个反例。 : Wǒmen hái xūyào yí ge fǎnlì. : We still need a counterexample.
-3432. 数据还需要检查。 : Shùjù hái xūyào jiǎnchá. : The data still needs checking.
-3433. 我想换一种方法。 : Wǒ xiǎng huàn yì zhǒng fāngfǎ. : I'd like to try a different method.
-3434. 先看一个简单的例子。 : Xiān kàn yí ge jiǎndān de lìzi. : Let's look at a simple example first.
-3435. 这个问题还没有解决。 : Zhège wèntí hái méiyǒu jiějué. : This problem hasn't been solved yet.
-3436. 我需要查一下字典。 : Wǒ xūyào chá yíxià zìdiǎn. : I need to look it up in the dictionary.
-3437. 这个字怎么读？ : Zhège zì zěnme dú? : How do you pronounce this character?
-3438. 两个字的读音一样。 : Liǎng ge zì de dúyīn yíyàng. : The two characters are pronounced the same way.
-3439. 这个词在口语里很常见。 : Zhège cí zài kǒuyǔ lǐ hěn chángjiàn. : This word is very common in spoken Chinese.
-3440. 我把声调说错了。 : Wǒ bǎ shēngdiào shuō cuò le. : I got the tone wrong.
-3441. 你能举个例子吗？ : Nǐ néng jǔ ge lìzi ma? : Can you give an example?
-3442. 我明白你的意思了。 : Wǒ míngbai nǐ de yìsi le. : I see what you mean now.
-3443. 这两种说法都可以。 : Zhè liǎng zhǒng shuōfǎ dōu kěyǐ. : Both expressions are acceptable.
-3444. 别着急，时间还早。 : Bié zháojí, shíjiān hái zǎo. : There's no hurry; we still have plenty of time.
-3445. 我差点儿忘了这件事。 : Wǒ chàdiǎnr wàng le zhè jiàn shì. : I nearly forgot about that.
-3446. 这不是我的本意。 : Zhè bú shì wǒ de běnyì. : That's not what I intended.
-3447. 我暂时没有别的办法。 : Wǒ zànshí méiyǒu bié de bànfǎ. : I can't think of another solution for now.
-3448. 他的话让我吃了一惊。 : Tā de huà ràng wǒ chī le yì jīng. : What he said took me by surprise.
-3449. 这件事跟我没关系。 : Zhè jiàn shì gēn wǒ méi guānxi. : This has nothing to do with me.
-3450. 你不必向我解释。 : Nǐ bú bì xiàng wǒ jiěshì. : You don't need to explain it to me.
-3451. 我们以后再商量。 : Wǒmen yǐhòu zài shāngliang. : We can discuss it another time.
-3452. 我想听听你的意见。 : Wǒ xiǎng tīngting nǐ de yìjiàn. : I'd like to hear your opinion.
-3453. 这个决定并不容易。 : Zhège juédìng bìng bù róngyì. : This isn't an easy decision.
-3454. 事实跟传闻不一样。 : Shìshí gēn chuánwén bù yíyàng. : The facts differ from the rumours.
-3455. 他的回答出乎我的意料。 : Tā de huídá chūhū wǒ de yìliào. : His answer was unexpected.
-3456. 这句话听起来有点奇怪。 : Zhè jù huà tīng qǐlái yǒudiǎn qíguài. : That sentence sounds a little odd.
-3457. 你能再说一遍吗？ : Nǐ néng zài shuō yí biàn ma? : Could you say that again?
-3458. 我没听清最后一个字。 : Wǒ méi tīng qīng zuìhòu yí ge zì. : I didn't catch the last character.
-3459. 这个词通常怎么用？ : Zhège cí tōngcháng zěnme yòng? : How is this word usually used?
-3460. 书面语和口语不完全一样。 : Shūmiànyǔ hé kǒuyǔ bù wánquán yíyàng. : Written and spoken language aren't quite the same.
-3461. 这个表达有点过时了。 : Zhège biǎodá yǒudiǎn guòshí le. : This expression is a little old-fashioned.
-3462. 我想找一个更准确的词。 : Wǒ xiǎng zhǎo yí ge gèng zhǔnquè de cí. : I'm looking for a more precise word.
-3463. 这里的语气比较委婉。 : Zhèlǐ de yǔqì bǐjiào wěiwǎn. : The tone here is rather indirect.
-3464. 两个句子的意思差不多。 : Liǎng ge jùzi de yìsi chàbuduō. : The two sentences mean much the same thing.
-3465. 我还不习惯这种说法。 : Wǒ hái bù xíguàn zhè zhǒng shuōfǎ. : I'm not used to this way of saying it yet.
-3466. 这个字有好几种读音。 : Zhège zì yǒu hǎo jǐ zhǒng dúyīn. : This character has several pronunciations.
-3467. 请把生词记在本子上。 : Qǐng bǎ shēngcí jì zài běnzi shàng. : Please write the new words in your notebook.
-3468. 这段话不太好翻译。 : Zhè duàn huà bú tài hǎo fānyì. : This passage is rather difficult to translate.
-3469. 我把名字拼错了。 : Wǒ bǎ míngzi pīn cuò le. : I spelt the name incorrectly.
-3470. 这个例子很有帮助。 : Zhège lìzi hěn yǒu bāngzhù. : This example is very helpful.
-3471. 他讲得太快，我跟不上。 : Tā jiǎng de tài kuài, wǒ gēn bu shàng. : He speaks too quickly for me to keep up.
-3472. 我已经记住这个词了。 : Wǒ yǐjīng jìzhù zhège cí le. : I've memorised this word now.
-3473. 还有靠窗的座位吗？ : Hái yǒu kào chuāng de zuòwèi ma? : Are there any window seats left?
-3474. 我在下一站下车。 : Wǒ zài xià yí zhàn xià chē. : I'm getting off at the next stop.
-3475. 往前走，到路口右转。 : Wǎng qián zǒu, dào lùkǒu yòu zhuǎn. : Go straight ahead and turn right at the junction.
-3476. 这班公交车经过博物馆吗？ : Zhè bān gōngjiāochē jīngguò bówùguǎn ma? : Does this bus go past the museum?
-3477. 我的行李还没到。 : Wǒ de xíngli hái méi dào. : My luggage hasn't arrived yet.
-3478. 这家旅馆离车站很近。 : Zhè jiā lǚguǎn lí chēzhàn hěn jìn. : This hotel is close to the station.
-3479. 我们最好避开高峰时间。 : Wǒmen zuìhǎo bìkāi gāofēng shíjiān. : We'd better avoid rush hour.
-3480. 这条路正在修。 : Zhè tiáo lù zhèngzài xiū. : This road is being repaired.
-3481. 他把自行车锁在门外。 : Tā bǎ zìxíngchē suǒ zài mén wài. : He locked his bicycle outside the door.
-3482. 我忘记在哪儿换车了。 : Wǒ wàngjì zài nǎr huàn chē le. : I've forgotten where to change trains.
-3483. 路上堵得厉害。 : Lùshang dǔ de lìhai. : The traffic is terrible.
-3484. 我想订一张单程票。 : Wǒ xiǎng dìng yì zhāng dānchéng piào. : I'd like to book a one-way ticket.
-3485. 今天的风比昨天小。 : Jīntiān de fēng bǐ zuótiān xiǎo. : It's less windy today than yesterday.
-3486. 天黑得越来越早了。 : Tiān hēi de yuè lái yuè zǎo le. : It's getting dark earlier and earlier.
-3487. 树叶已经开始变黄。 : Shùyè yǐjīng kāishǐ biàn huáng. : The leaves have begun to turn yellow.
-3488. 湖面平静得像镜子。 : Húmiàn píngjìng de xiàng jìngzi. : The lake is as still as a mirror.
-3489. 雨停以后，空气凉快多了。 : Yǔ tíng yǐhòu, kōngqì liángkuai duō le. : It's much cooler now that the rain has stopped.
-3490. 这棵树的树根露出来了。 : Zhè kē shù de shùgēn lù chūlái le. : The roots of this tree are exposed.
-3491. 远处传来一阵雷声。 : Yuǎnchù chuánlái yí zhèn léishēng. : A rumble of thunder came from the distance.
-3492. 今天晚上可能有霜。 : Jīntiān wǎnshang kěnéng yǒu shuāng. : There may be frost tonight.
-3493. 别踩刚种下的花。 : Bié cǎi gāng zhòng xià de huā. : Don't step on the newly planted flowers.
-3494. 这片森林里有很多野生动物。 : Zhè piàn sēnlín lǐ yǒu hěn duō yěshēng dòngwù. : There are many wild animals in this forest.
-3495. 我闻到一股烧焦的味道。 : Wǒ wén dào yì gǔ shāojiāo de wèidao. : I can smell something burning.
-3496. 汤还烫，等一会儿再喝。 : Tāng hái tàng, děng yíhuìr zài hē. : The soup is still too hot; wait a little before drinking it.
-3497. 这块奶酪味道很浓。 : Zhè kuài nǎilào wèidao hěn nóng. : This cheese has a strong flavour.
-3498. 把剩下的米饭放进冰箱。 : Bǎ shèngxià de mǐfàn fàng jìn bīngxiāng. : Put the leftover rice in the fridge.
-3499. 这条鱼是今天早上买的。 : Zhè tiáo yú shì jīntiān zǎoshang mǎi de. : I bought this fish this morning.
-3500. 别忘了关煤气。 : Bié wàng le guān méiqì. : Don't forget to turn off the gas.
-3501. 这个锅太重了。 : Zhège guō tài zhòng le. : This saucepan is too heavy.
-3502. 今天由我来做晚饭。 : Jīntiān yóu wǒ lái zuò wǎnfàn. : I'll make dinner tonight.
-3503. 这首歌的节奏很特别。 : Zhè shǒu gē de jiézòu hěn tèbié. : This song has an unusual rhythm.
-3504. 她把这首曲子弹得很慢。 : Tā bǎ zhè shǒu qǔzi tán de hěn màn. : She played the piece very slowly.
-3505. 演出结束后，观众鼓掌很久。 : Yǎnchū jiéshù hòu, guānzhòng gǔzhǎng hěn jiǔ. : The audience applauded for a long time after the performance.
-3506. 我不太喜欢这个结尾。 : Wǒ bú tài xǐhuan zhège jiéwěi. : I don't particularly like this ending.
-3507. 这幅画是用水彩画的。 : Zhè fú huà shì yòng shuǐcǎi huà de. : This painting was done in watercolour.
-3508. 这部电影比我想象的短。 : Zhè bù diànyǐng bǐ wǒ xiǎngxiàng de duǎn. : The film was shorter than I expected.
-3509. 故事发生在一个小村庄。 : Gùshi fāshēng zài yí ge xiǎo cūnzhuāng. : The story takes place in a small village.
-3510. 我读过这位作家的两本书。 : Wǒ dú guo zhè wèi zuòjiā de liǎng běn shū. : I've read two books by this author.
-3511. 这个论点缺乏证据。 : Zhège lùndiǎn quēfá zhèngjù. : This argument lacks evidence.
-3512. 你能给出一个反例吗？ : Nǐ néng gěi chū yí ge fǎnlì ma? : Can you give a counterexample?
-3513. 我们先检查最简单的情况。 : Wǒmen xiān jiǎnchá zuì jiǎndān de qíngkuàng. : Let's check the simplest case first.
-3514. 这个公式里少了一个负号。 : Zhège gōngshì lǐ shǎo le yí ge fùhào. : There's a minus sign missing from this formula.
-3515. 这一步需要额外的假设。 : Zhè yí bù xūyào éwài de jiǎshè. : This step requires an additional assumption.
-3516. 结论并不能由条件直接推出。 : Jiélùn bìng bù néng yóu tiáojiàn zhíjiē tuīchū. : The conclusion doesn't follow directly from the assumptions.
-3517. 图中的两条线并不平行。 : Tú zhōng de liǎng tiáo xiàn bìng bù píngxíng. : The two lines in the diagram aren't parallel.
-3518. 这个算法在大数据集上很慢。 : Zhège suànfǎ zài dà shùjùjí shàng hěn màn. : This algorithm is slow on large datasets.
-3519. 我怀疑程序里有个错误。 : Wǒ huáiyí chéngxù lǐ yǒu ge cuòwù. : I suspect there's a bug in the program.
-3520. 运行之前先保存文件。 : Yùnxíng zhīqián xiān bǎocún wénjiàn. : Save the file before running the program.
-3521. 这个版本不支持旧格式。 : Zhège bǎnběn bù zhīchí jiù géshì. : This version doesn't support the old format.
-3522. 我把结果画成了一张图。 : Wǒ bǎ jiéguǒ huà chéng le yì zhāng tú. : I've plotted the results in a graph.
-3523. 测量结果有一点误差。 : Cèliáng jiéguǒ yǒu yìdiǎn wùchā. : There's a small error in the measurements.
-3524. 先别改动原始数据。 : Xiān bié gǎidòng yuánshǐ shùjù. : Don't alter the original data yet.
-3525. 这两个方法各有优点。 : Zhè liǎng ge fāngfǎ gè yǒu yōudiǎn. : Both methods have their advantages.
-3526. 我们还需要重复这个实验。 : Wǒmen hái xūyào chóngfù zhège shíyàn. : We still need to repeat this experiment.
-3527. 他花了整整一年写这本书。 : Tā huā le zhěngzhěng yì nián xiě zhè běn shū. : He spent a whole year writing this book.
-3528. 这一章比上一章容易懂。 : Zhè yì zhāng bǐ shàng yì zhāng róngyì dǒng. : This chapter is easier to understand than the previous one.
-3529. 我在页边写了几条注释。 : Wǒ zài yèbiān xiě le jǐ tiáo zhùshì. : I wrote a few notes in the margin.
-3530. 参考文献里漏了一篇论文。 : Cānkǎo wénxiàn lǐ lòu le yì piān lùnwén. : A paper is missing from the references.
-3531. 这段解释可以再简短一点。 : Zhè duàn jiěshì kěyǐ zài jiǎnduǎn yìdiǎn. : This explanation could be a little shorter.
-3532. 你先请。 : Nǐ xiān qǐng. : After you.
-3533. 不用客气。 : Bú yòng kèqi. : No need to be so polite.
-3534. 我马上回来。 : Wǒ mǎshàng huílái. : I'll be right back.
-3535. 你来得正好。 : Nǐ lái de zhèng hǎo. : You've come at just the right time.
-3536. 我没听清楚。 : Wǒ méi tīng qīngchu. : I didn't quite catch that.
-3537. 这话怎么说？ : Zhè huà zěnme shuō? : How should I put this?
-3538. 我开玩笑的。 : Wǒ kāi wánxiào de. : I was joking.
-3539. 别往心里去。 : Bié wǎng xīn lǐ qù. : Don't take it to heart.
-3540. 这事说来话长。 : Zhè shì shuō lái huà cháng. : It's a long story.
-3541. 我也这么想。 : Wǒ yě zhème xiǎng. : That's what I think too.
-3542. 这倒是个好主意。 : Zhè dào shì ge hǎo zhǔyi. : That's actually a good idea.
-3543. 我不太确定。 : Wǒ bú tài quèdìng. : I'm not entirely sure.
-3544. 你说得有道理。 : Nǐ shuō de yǒu dàolǐ. : You have a point.
-3545. 事情没那么简单。 : Shìqing méi nàme jiǎndān. : It's not that simple.
-3546. 我还得想一想。 : Wǒ hái děi xiǎng yi xiǎng. : I need to think about it some more.
-3547. 先别下结论。 : Xiān bié xià jiélùn. : Don't jump to conclusions.
-3548. 我们换个话题吧。 : Wǒmen huàn ge huàtí ba. : Let's change the subject.
-3549. 我说错话了吗？ : Wǒ shuō cuò huà le ma? : Did I say something wrong?
-3550. 这可真难说。 : Zhè kě zhēn nán shuō. : That's really hard to say.
-3551. 这家店几点关门？ : Zhè jiā diàn jǐ diǎn guānmén? : What time does this shop close?
-3552. 有小一号的吗？ : Yǒu xiǎo yí hào de ma? : Do you have one size smaller?
-3553. 可以刷卡吗？ : Kěyǐ shuākǎ ma? : Can I pay by card?
-3554. 收据请留给我。 : Shōujù qǐng liú gěi wǒ. : Please let me keep the receipt.
-3555. 这双鞋有点紧。 : Zhè shuāng xié yǒudiǎn jǐn. : These shoes are a little tight.
-3556. 我想换一种颜色。 : Wǒ xiǎng huàn yì zhǒng yánsè. : I'd like a different colour.
-3557. 这件外套很合身。 : Zhè jiàn wàitào hěn héshēn. : This coat fits very well.
-3558. 我忘了带购物袋。 : Wǒ wàng le dài gòuwùdài. : I forgot to bring a shopping bag.
-3559. 这附近有药店吗？ : Zhè fùjìn yǒu yàodiàn ma? : Is there a pharmacy nearby?
-3560. 我想买一张地图。 : Wǒ xiǎng mǎi yì zhāng dìtú. : I'd like to buy a map.
-3561. 这条街禁止停车。 : Zhè tiáo jiē jìnzhǐ tíngchē. : Parking is prohibited on this street.
-3562. 红灯亮了，别过马路。 : Hóngdēng liàng le, bié guò mǎlù. : The light's red; don't cross the road.
-3563. 我们在下一站下车。 : Wǒmen zài xià yí zhàn xià chē. : We're getting off at the next stop.
-3564. 我把车停在地下车库了。 : Wǒ bǎ chē tíng zài dìxià chēkù le. : I parked the car in the underground garage.
-3565. 这趟车开往机场吗？ : Zhè tàng chē kāi wǎng jīchǎng ma? : Does this service go to the airport?
-3566. 车票可以在网上买。 : Chēpiào kěyǐ zài wǎngshàng mǎi. : You can buy tickets online.
-3567. 我还没找到站台。 : Wǒ hái méi zhǎodào zhàntái. : I haven't found the platform yet.
-3568. 火车提前十分钟到了。 : Huǒchē tíqián shí fēnzhōng dào le. : The train arrived ten minutes early.
-3569. 行李放在座位下面。 : Xíngli fàng zài zuòwèi xiàmiàn. : Put your luggage under the seat.
-3570. 我们走错出口了。 : Wǒmen zǒu cuò chūkǒu le. : We took the wrong exit.
-3571. 从这里步行只要五分钟。 : Cóng zhèlǐ bùxíng zhǐ yào wǔ fēnzhōng. : It's only a five-minute walk from here.
-3572. 请把窗户打开一点。 : Qǐng bǎ chuānghu dǎkāi yìdiǎn. : Please open the window a little.
-3573. 屋里有股奇怪的味道。 : Wū lǐ yǒu gǔ qíguài de wèidào. : There's a strange smell in the room.
-3574. 钥匙不在抽屉里。 : Yàoshi bú zài chōuti lǐ. : The key isn't in the drawer.
-3575. 这盏灯不亮了。 : Zhè zhǎn dēng bú liàng le. : This lamp has stopped working.
-3576. 我把杯子打碎了。 : Wǒ bǎ bēizi dǎsuì le. : I broke the cup.
-3577. 厨房的水龙头漏水。 : Chúfáng de shuǐlóngtóu lòu shuǐ. : The kitchen tap is leaking.
-3578. 别忘了锁门。 : Bié wàng le suǒ mén. : Don't forget to lock the door.
-3579. 阳台上有两盆花。 : Yángtái shàng yǒu liǎng pén huā. : There are two pots of flowers on the balcony.
-3580. 这张桌子不太稳。 : Zhè zhāng zhuōzi bú tài wěn. : This table is a bit wobbly.
-3581. 我把旧报纸扔掉了。 : Wǒ bǎ jiù bàozhǐ rēngdiào le. : I threw away the old newspapers.
-3582. 冰箱里只剩一点牛奶。 : Bīngxiāng lǐ zhǐ shèng yìdiǎn niúnǎi. : There's only a little milk left in the fridge.
-3583. 饭还没做好。 : Fàn hái méi zuò hǎo. : The meal isn't ready yet.
-3584. 请给我一双筷子。 : Qǐng gěi wǒ yì shuāng kuàizi. : Could I have a pair of chopsticks, please?
-3585. 汤已经凉了。 : Tāng yǐjīng liáng le. : The soup has gone cold.
-3586. 这块蛋糕太甜了。 : Zhè kuài dàngāo tài tián le. : This slice of cake is too sweet.
-3587. 我不吃生鱼。 : Wǒ bù chī shēng yú. : I don't eat raw fish.
-3588. 米饭有点硬。 : Mǐfàn yǒudiǎn yìng. : The rice is a little hard.
-3589. 你想再来点茶吗？ : Nǐ xiǎng zài lái diǎn chá ma? : Would you like some more tea?
-3590. 这家餐馆要提前订位。 : Zhè jiā cānguǎn yào tíqián dìngwèi. : You need to book ahead at this restaurant.
-3591. 服务员拿错了菜单。 : Fúwùyuán ná cuò le càidān. : The waiter brought the wrong menu.
-3592. 我们各付各的吧。 : Wǒmen gè fù gè de ba. : Let's each pay for our own meal.
-3593. 今天的鱼很新鲜。 : Jīntiān de yú hěn xīnxiān. : The fish is very fresh today.
-3594. 这瓶水还没开封。 : Zhè píng shuǐ hái méi kāifēng. : This bottle of water hasn't been opened yet.
-3595. 外面起雾了。 : Wàimiàn qǐ wù le. : It's getting foggy outside.
-3596. 天气预报说明天有雨。 : Tiānqì yùbào shuō míngtiān yǒu yǔ. : The forecast says it'll rain tomorrow.
-3597. 早晨的空气很清新。 : Zǎochén de kōngqì hěn qīngxīn. : The morning air is fresh.
-3598. 太阳快落山了。 : Tàiyáng kuài luòshān le. : The sun is about to set.
-3599. 山顶还覆盖着积雪。 : Shāndǐng hái fùgài zhe jīxuě. : The summit is still covered in snow.
-3600. 这条河夏天经常干涸。 : Zhè tiáo hé xiàtiān jīngcháng gānhé. : This river often dries up in summer.
-3601. 树叶开始变黄了。 : Shùyè kāishǐ biàn huáng le. : The leaves are starting to turn yellow.
-3602. 那只鸟停在屋顶上。 : Nà zhī niǎo tíng zài wūdǐng shàng. : That bird is perched on the roof.
-3603. 小狗一直跟着我们。 : Xiǎogǒu yìzhí gēn zhe wǒmen. : The puppy kept following us.
-3604. 这朵花闻起来很香。 : Zhè duǒ huā wén qǐlái hěn xiāng. : This flower smells lovely.
-3605. 我们沿着海岸走了很远。 : Wǒmen yánzhe hǎi'àn zǒu le hěn yuǎn. : We walked a long way along the coast.
-3606. 这座桥已经有两百年历史了。 : Zhè zuò qiáo yǐjīng yǒu liǎng bǎi nián lìshǐ le. : This bridge is already two hundred years old.
-3607. 我想把这段话改短一点。 : Wǒ xiǎng bǎ zhè duàn huà gǎi duǎn yìdiǎn. : I'd like to shorten this passage.
-3608. 这个词在口语中更常见。 : Zhège cí zài kǒuyǔ zhōng gèng chángjiàn. : This word is more common in spoken language.
-3609. 请注意句子的语序。 : Qǐng zhùyì jùzi de yǔxù. : Pay attention to the word order.
-3610. 这两个字读音相同。 : Zhè liǎng ge zì dúyīn xiāngtóng. : These two characters are pronounced alike.
-3611. 他的发音带一点口音。 : Tā de fāyīn dài yìdiǎn kǒuyīn. : He speaks with a slight accent.
-3612. 我查了好几本词典。 : Wǒ chá le hǎo jǐ běn cídiǎn. : I consulted several dictionaries.
-3613. 这句话听起来不太自然。 : Zhè jù huà tīng qǐlái bú tài zìrán. : This sentence doesn't sound very natural.
-3614. 请把生词写在旁边。 : Qǐng bǎ shēngcí xiě zài pángbiān. : Write the unfamiliar words in the margin, please.
-3615. 这个成语不能直译。 : Zhège chéngyǔ bù néng zhíyì. : This idiom can't be translated literally.
-3616. 我把声调标错了。 : Wǒ bǎ shēngdiào biāo cuò le. : I marked the tone incorrectly.
-3617. 她说话很有条理。 : Tā shuōhuà hěn yǒu tiáolǐ. : She expresses herself very clearly.
-3618. 这个例子很容易记住。 : Zhège lìzi hěn róngyì jìzhù. : This example is easy to remember.
-3619. 我只记得故事的开头。 : Wǒ zhǐ jìde gùshi de kāitóu. : I only remember the beginning of the story.
-3620. 作者没有解释这个术语。 : Zuòzhě méiyǒu jiěshì zhège shùyǔ. : The author hasn't explained this term.
-3621. 这篇文章写得很生动。 : Zhè piān wénzhāng xiě de hěn shēngdòng. : This article is very vividly written.
-3622. 这个结论需要额外的假设。 : Zhège jiélùn xūyào éwài de jiǎshè. : This conclusion requires an additional assumption.
-3623. 图上的两条直线平行。 : Tú shàng de liǎng tiáo zhíxiàn píngxíng. : The two lines in the diagram are parallel.
-3624. 这里的符号有两种含义。 : Zhèlǐ de fúhào yǒu liǎng zhǒng hányì. : The symbol has two meanings here.
-3625. 请把结果保留三位小数。 : Qǐng bǎ jiéguǒ bǎoliú sān wèi xiǎoshù. : Please give the result to three decimal places.
-3626. 这个算法占用太多内存。 : Zhège suànfǎ zhànyòng tài duō nèicún. : This algorithm uses too much memory.
-3627. 程序运行得比预期慢。 : Chéngxù yùnxíng de bǐ yùqī màn. : The program runs more slowly than expected.
-3628. 文件名里有一个空格。 : Wénjiànmíng lǐ yǒu yí ge kònggé. : There's a space in the filename.
-3629. 我忘了保存修改。 : Wǒ wàng le bǎocún xiūgǎi. : I forgot to save my changes.
-3630. 这台电脑需要重新启动。 : Zhè tái diànnǎo xūyào chóngxīn qǐdòng. : This computer needs to be restarted.
-3631. 网络连接突然断了。 : Wǎngluò liánjiē tūrán duàn le. : The network connection suddenly dropped.
-3632. 屏幕上的字太小了。 : Píngmù shàng de zì tài xiǎo le. : The text on the screen is too small.
-3633. 这个按钮没有反应。 : Zhège ànniǔ méiyǒu fǎnyìng. : This button isn't responding.
-3634. 请先备份重要文件。 : Qǐng xiān bèifèn zhòngyào wénjiàn. : Back up important files first.
-3635. 我找不到刚才下载的东西。 : Wǒ zhǎo bú dào gāngcái xiàzài de dōngxi. : I can't find what I just downloaded.
-3636. 这个版本修复了几个错误。 : Zhège bǎnběn xiūfù le jǐ ge cuòwù. : This version fixes several bugs.
-3637. 请不要关闭这个窗口。 : Qǐng bú yào guānbì zhège chuāngkǒu. : Please don't close this window.
-3638. 照片拍得有点模糊。 : Zhàopiàn pāi de yǒudiǎn móhu. : The photograph is a little blurry.
-3639. 把相机拿稳一点。 : Bǎ xiàngjī ná wěn yìdiǎn. : Hold the camera a little steadier.
-3640. 光线从左边照进来。 : Guāngxiàn cóng zuǒbian zhào jìnlái. : The light comes in from the left.
-3641. 画面里少了一个人。 : Huàmiàn lǐ shǎo le yí ge rén. : One person is missing from the picture.
-3642. 这张照片的颜色很柔和。 : Zhè zhāng zhàopiàn de yánsè hěn róuhé. : The colours in this photograph are very soft.
-3643. 请把镜头对准窗外。 : Qǐng bǎ jìngtóu duìzhǔn chuāngwài. : Please point the lens towards the window.
-3644. 远处的山几乎看不见。 : Yuǎnchù de shān jīhū kàn bú jiàn. : The distant mountains are barely visible.
-3645. 这幅画挂得有点歪。 : Zhè fú huà guà de yǒudiǎn wāi. : This painting is hanging a little crooked.
-3646. 音乐会七点半开始。 : Yīnyuèhuì qī diǎn bàn kāishǐ. : The concert starts at half past seven.
-3647. 她弹钢琴弹得很好。 : Tā tán gāngqín tán de hěn hǎo. : She plays the piano very well.
-3648. 这个节奏不太容易跟上。 : Zhège jiézòu bú tài róngyì gēn shàng. : This rhythm isn't easy to keep up with.
-3649. 指挥让乐队再试一次。 : Zhǐhuī ràng yuèduì zài shì yí cì. : The conductor asked the orchestra to try again.
-3650. 这首歌的歌词很有趣。 : Zhè shǒu gē de gēcí hěn yǒuqù. : The lyrics of this song are amusing.
-3651. 他唱得太快，跟不上伴奏。 : Tā chàng de tài kuài, gēn bú shàng bànzòu. : He's singing too fast to stay with the accompaniment.
-3652. 我们坐在剧院的后排。 : Wǒmen zuò zài jùyuàn de hòupái. : We sat in the back row of the theatre.
-3653. 演出结束后，大家都鼓掌了。 : Yǎnchū jiéshù hòu, dàjiā dōu gǔzhǎng le. : Everyone applauded when the performance ended.
-3654. 我以前听过这首曲子。 : Wǒ yǐqián tīng guò zhè shǒu qǔzi. : I've heard this piece before.
-3655. 他把会议推迟到星期五。 : Tā bǎ huìyì tuīchí dào xīngqīwǔ. : He postponed the meeting until Friday.
-3656. 我们还需要一份复印件。 : Wǒmen hái xūyào yí fèn fùyìnjiàn. : We still need another photocopy.
-3657. 我把日期写错了。 : Wǒ bǎ rìqī xiě cuò le. : I wrote the wrong date.
-3658. 这封邮件还没发出去。 : Zhè fēng yóujiàn hái méi fā chūqù. : This email hasn't been sent yet.
-3659. 你能把地址发给我吗？ : Nǐ néng bǎ dìzhǐ fā gěi wǒ ma? : Could you send me the address?
-3660. 我明天下午有空。 : Wǒ míngtiān xiàwǔ yǒu kòng. : I'm free tomorrow afternoon.
-3661. 我们约在门口见吧。 : Wǒmen yuē zài ménkǒu jiàn ba. : Let's arrange to meet at the entrance.
-3662. 他临时取消了约会。 : Tā línshí qǔxiāo le yuēhuì. : He cancelled the appointment at the last minute.
-3663. 我没收到你的消息。 : Wǒ méi shōudào nǐ de xiāoxi. : I didn't get your message.
-3664. 请提前告诉我一声。 : Qǐng tíqián gàosu wǒ yì shēng. : Please let me know in advance.
-3665. 这件事明天再谈。 : Zhè jiàn shì míngtiān zài tán. : Let's discuss this tomorrow.
-3666. 我刚好路过这里。 : Wǒ gānghǎo lùguò zhèlǐ. : I just happened to be passing by.
-3667. 我们已经很久没见面了。 : Wǒmen yǐjīng hěn jiǔ méi jiànmiàn le. : We haven't seen each other for a long time.
-3668. 你看起来精神不错。 : Nǐ kàn qǐlái jīngshén búcuò. : You're looking well.
-3669. 我昨晚睡得很香。 : Wǒ zuówǎn shuì de hěn xiāng. : I slept very soundly last night.
-3670. 他一整天都没休息。 : Tā yì zhěng tiān dōu méi xiūxi. : He didn't take a break all day.
-3671. 我今天有点头疼。 : Wǒ jīntiān yǒudiǎn tóuténg. : I've got a bit of a headache today.
-3672. 这几天我一直很忙。 : Zhè jǐ tiān wǒ yìzhí hěn máng. : I've been busy these past few days.
-3673. 别把自己累坏了。 : Bié bǎ zìjǐ lèi huài le. : Don't wear yourself out.
-3674. 我得出去透透气。 : Wǒ děi chūqù tòu tou qì. : I need to go outside for some fresh air.
-3675. 他把伞忘在车上了。 : Tā bǎ sǎn wàng zài chē shàng le. : He left his umbrella in the car.
-3676. 我们差一点就迟到了。 : Wǒmen chà yìdiǎn jiù chídào le. : We were nearly late.
-3677. 没想到这么快就结束了。 : Méi xiǎngdào zhème kuài jiù jiéshù le. : I didn't expect it to finish so soon.
-3678. 这个办法值得一试。 : Zhège bànfǎ zhíde yí shì. : This approach is worth trying.
-3679. 别急着回答。 : Bié jí zhe huídá. : Don't rush to answer.
-3680. 这完全出乎我的意料。 : Zhè wánquán chūhū wǒ de yìliào. : This was completely unexpected.
-3681. 我们不妨换一种方法。 : Wǒmen bùfáng huàn yì zhǒng fāngfǎ. : We might as well try a different approach.
+这儿有人坐吗？ : Zhèr yǒu rén zuò ma? : Is this seat taken?
+风太大了。 : Fēng tài dà le. : It's too windy.
+外面开始下雨了。 : Wàimiàn kāishǐ xià yǔ le. : It's started raining outside.
+我没带雨伞。 : Wǒ méi dài yǔsǎn. : I didn't bring an umbrella.
+地上很滑。 : Dìshang hěn huá. : The ground is slippery.
+我们走楼梯吧。 : Wǒmen zǒu lóutī ba. : Let's take the stairs.
+我忘了带钥匙。 : Wǒ wàng le dài yàoshi. : I forgot my keys.
+这里能充电吗？ : Zhèlǐ néng chōngdiàn ma? : Can I charge my phone here?
+信号不太好。 : Xìnhào bú tài hǎo. : The signal isn't very good.
+我听不清楚。 : Wǒ tīng bu qīngchu. : I can't hear clearly.
+请再说一遍。 : Qǐng zài shuō yí biàn. : Please say that again.
+你说得太快了。 : Nǐ shuō de tài kuài le. : You're speaking too quickly.
+我想确认一下时间。 : Wǒ xiǎng quèrèn yíxià shíjiān. : I'd like to confirm the time.
+他还在路上。 : Tā hái zài lùshang. : He's still on his way.
+我们不用等他。 : Wǒmen bú yòng děng tā. : We don't need to wait for him.
+你先开始吧。 : Nǐ xiān kāishǐ ba. : You can start first.
+今天谁做记录？ : Jīntiān shéi zuò jìlù? : Who's taking notes today?
+请把文件发给我。 : Qǐng bǎ wénjiàn fā gěi wǒ. : Please send me the file.
+这个版本太旧了。 : Zhège bǎnběn tài jiù le. : This version is too old.
+我刚更新了软件。 : Wǒ gāng gēngxīn le ruǎnjiàn. : I've just updated the software.
+程序突然停止了。 : Chéngxù tūrán tíngzhǐ le. : The program stopped unexpectedly.
+先保存你的工作。 : Xiān bǎocún nǐ de gōngzuò. : Save your work first.
+屏幕上出现了一条错误信息。 : Píngmù shang chūxiàn le yì tiáo cuòwù xìnxī. : An error message appeared on the screen.
+重新启动试试看。 : Chóngxīn qǐdòng shìshi kàn. : Try restarting it.
+我找不到那个选项。 : Wǒ zhǎo bu dào nàge xuǎnxiàng. : I can't find that option.
+菜单藏在右上角。 : Càidān cáng zài yòu shàngjiǎo. : The menu is hidden in the top right corner.
+这张照片有点模糊。 : Zhè zhāng zhàopiàn yǒudiǎn móhu. : This photograph is a little blurry.
+光线不够亮。 : Guāngxiàn bú gòu liàng. : There isn't enough light.
+换个角度拍吧。 : Huàn ge jiǎodù pāi ba. : Try taking it from another angle.
+背景太乱了。 : Bèijǐng tài luàn le. : The background is too cluttered.
+我喜欢这种颜色。 : Wǒ xǐhuan zhè zhǒng yánsè. : I like this colour.
+墙上挂着一面镜子。 : Qiáng shang guà zhe yí miàn jìngzi. : There's a mirror hanging on the wall.
+桌子有点摇晃。 : Zhuōzi yǒudiǎn yáohuàng. : The table is a bit wobbly.
+这把椅子坐着很舒服。 : Zhè bǎ yǐzi zuò zhe hěn shūfu. : This chair is very comfortable.
+我想换一个房间。 : Wǒ xiǎng huàn yí ge fángjiān. : I'd like to change rooms.
+隔壁太吵了。 : Gébì tài chǎo le. : It's too noisy next door.
+空调可以调低一点吗？ : Kōngtiáo kěyǐ tiáo dī yìdiǎn ma? : Could you turn the air conditioning down a little?
+热水还没来。 : Rèshuǐ hái méi lái. : The hot water hasn't come through yet.
+毛巾放在哪里？ : Máojīn fàng zài nǎlǐ? : Where are the towels kept?
+我只是随便看看。 : Wǒ zhǐ shì suíbiàn kànkan. : I'm just looking, thanks.
+有没有小一号的？ : Yǒu méiyǒu xiǎo yí hào de? : Do you have one size smaller?
+这件衣服有点紧。 : Zhè jiàn yīfu yǒudiǎn jǐn. : This is a little tight.
+请给我一张收据。 : Qǐng gěi wǒ yì zhāng shōujù. : Could I have a receipt, please?
+价格比昨天贵了。 : Jiàgé bǐ zuótiān guì le. : The price has gone up since yesterday.
+这个苹果不太新鲜。 : Zhège píngguǒ bú tài xīnxiān. : This apple isn't very fresh.
+香蕉还没熟。 : Xiāngjiāo hái méi shú. : The bananas aren't ripe yet.
+请少放一点盐。 : Qǐng shǎo fàng yìdiǎn yán. : Please use a little less salt.
+这道菜太辣了。 : Zhè dào cài tài là le. : This dish is too spicy.
+我不吃花生。 : Wǒ bù chī huāshēng. : I don't eat peanuts.
+能把酱汁放在旁边吗？ : Néng bǎ jiàngzhī fàng zài pángbiān ma? : Could you put the sauce on the side?
+这杯茶已经凉了。 : Zhè bēi chá yǐjīng liáng le. : This cup of tea has gone cold.
+我还想喝点水。 : Wǒ hái xiǎng hē diǎn shuǐ. : I'd like some more water.
+我们分开付钱吧。 : Wǒmen fēnkāi fù qián ba. : Let's pay separately.
+你吃饱了吗？ : Nǐ chī bǎo le ma? : Have you had enough to eat?
+剩下的可以打包吗？ : Shèngxià de kěyǐ dǎbāo ma? : Could we take the leftovers away?
+我订了一张火车票。 : Wǒ dìng le yì zhāng huǒchē piào. : I've booked a train ticket.
+站台临时换了。 : Zhàntái línshí huàn le. : The platform has changed at short notice.
+这趟车在哪儿停？ : Zhè tàng chē zài nǎr tíng? : Where does this train stop?
+下一站要下车。 : Xià yí zhàn yào xià chē. : We need to get off at the next stop.
+出口在另一边。 : Chūkǒu zài lìng yì biān. : The exit is on the other side.
+地图上没有这条路。 : Dìtú shang méiyǒu zhè tiáo lù. : This road isn't on the map.
+前面有座小桥。 : Qiánmiàn yǒu zuò xiǎo qiáo. : There's a small bridge ahead.
+沿着河边走。 : Yánzhe hébiān zǒu. : Walk along the river.
+山上的雾越来越浓。 : Shān shang de wù yuè lái yuè nóng. : The mist on the mountain is getting thicker.
+我们最好早点下山。 : Wǒmen zuìhǎo zǎodiǎn xià shān. : We'd better come down the mountain early.
+鞋底沾满了泥。 : Xiédǐ zhān mǎn le ní. : The soles of my shoes are covered in mud.
+鸟儿在树上叫。 : Niǎor zài shù shang jiào. : Birds are singing in the trees.
+花园里长满了杂草。 : Huāyuán lǐ zhǎng mǎn le zácǎo. : The garden is overgrown with weeds.
+这棵树需要修剪。 : Zhè kē shù xūyào xiūjiǎn. : This tree needs pruning.
+别踩那些花。 : Bié cǎi nàxiē huā. : Don't step on those flowers.
+春天来得特别早。 : Chūntiān lái de tèbié zǎo. : Spring has come unusually early.
+今晚的月亮很亮。 : Jīnwǎn de yuèliang hěn liàng. : The moon is very bright tonight.
+我想学一首新歌。 : Wǒ xiǎng xué yì shǒu xīn gē. : I'd like to learn a new song.
+她唱得非常轻。 : Tā chàng de fēicháng qīng. : She's singing very softly.
+观众还在鼓掌。 : Guānzhòng hái zài gǔzhǎng. : The audience is still applauding.
+这本书我还没读完。 : Zhè běn shū wǒ hái méi dú wán. : I haven't finished this book yet.
+这一段写得很清楚。 : Zhè yí duàn xiě de hěn qīngchu. : This passage is clearly written.
+我对这个结论有疑问。 : Wǒ duì zhège jiélùn yǒu yíwèn. : I have doubts about this conclusion.
+证明里漏掉了一个条件。 : Zhèngmíng lǐ lòudiào le yí ge tiáojiàn. : A condition has been omitted from the proof.
+这个符号前后用法不同。 : Zhège fúhào qiánhòu yòngfǎ bùtóng. : This symbol is used differently in different places.
+请把公式写完整。 : Qǐng bǎ gōngshì xiě wánzhěng. : Please write out the formula in full.
+我们还需要一个反例。 : Wǒmen hái xūyào yí ge fǎnlì. : We still need a counterexample.
+数据还需要检查。 : Shùjù hái xūyào jiǎnchá. : The data still needs checking.
+我想换一种方法。 : Wǒ xiǎng huàn yì zhǒng fāngfǎ. : I'd like to try a different method.
+先看一个简单的例子。 : Xiān kàn yí ge jiǎndān de lìzi. : Let's look at a simple example first.
+这个问题还没有解决。 : Zhège wèntí hái méiyǒu jiějué. : This problem hasn't been solved yet.
+我需要查一下字典。 : Wǒ xūyào chá yíxià zìdiǎn. : I need to look it up in the dictionary.
+这个字怎么读？ : Zhège zì zěnme dú? : How do you pronounce this character?
+两个字的读音一样。 : Liǎng ge zì de dúyīn yíyàng. : The two characters are pronounced the same way.
+这个词在口语里很常见。 : Zhège cí zài kǒuyǔ lǐ hěn chángjiàn. : This word is very common in spoken Chinese.
+我把声调说错了。 : Wǒ bǎ shēngdiào shuō cuò le. : I got the tone wrong.
+你能举个例子吗？ : Nǐ néng jǔ ge lìzi ma? : Can you give an example?
+我明白你的意思了。 : Wǒ míngbai nǐ de yìsi le. : I see what you mean now.
+这两种说法都可以。 : Zhè liǎng zhǒng shuōfǎ dōu kěyǐ. : Both expressions are acceptable.
+别着急，时间还早。 : Bié zháojí, shíjiān hái zǎo. : There's no hurry; we still have plenty of time.
+我差点儿忘了这件事。 : Wǒ chàdiǎnr wàng le zhè jiàn shì. : I nearly forgot about that.
+这不是我的本意。 : Zhè bú shì wǒ de běnyì. : That's not what I intended.
+我暂时没有别的办法。 : Wǒ zànshí méiyǒu bié de bànfǎ. : I can't think of another solution for now.
+他的话让我吃了一惊。 : Tā de huà ràng wǒ chī le yì jīng. : What he said took me by surprise.
+这件事跟我没关系。 : Zhè jiàn shì gēn wǒ méi guānxi. : This has nothing to do with me.
+你不必向我解释。 : Nǐ bú bì xiàng wǒ jiěshì. : You don't need to explain it to me.
+我们以后再商量。 : Wǒmen yǐhòu zài shāngliang. : We can discuss it another time.
+我想听听你的意见。 : Wǒ xiǎng tīngting nǐ de yìjiàn. : I'd like to hear your opinion.
+这个决定并不容易。 : Zhège juédìng bìng bù róngyì. : This isn't an easy decision.
+事实跟传闻不一样。 : Shìshí gēn chuánwén bù yíyàng. : The facts differ from the rumours.
+他的回答出乎我的意料。 : Tā de huídá chūhū wǒ de yìliào. : His answer was unexpected.
+这句话听起来有点奇怪。 : Zhè jù huà tīng qǐlái yǒudiǎn qíguài. : That sentence sounds a little odd.
+你能再说一遍吗？ : Nǐ néng zài shuō yí biàn ma? : Could you say that again?
+我没听清最后一个字。 : Wǒ méi tīng qīng zuìhòu yí ge zì. : I didn't catch the last character.
+这个词通常怎么用？ : Zhège cí tōngcháng zěnme yòng? : How is this word usually used?
+书面语和口语不完全一样。 : Shūmiànyǔ hé kǒuyǔ bù wánquán yíyàng. : Written and spoken language aren't quite the same.
+这个表达有点过时了。 : Zhège biǎodá yǒudiǎn guòshí le. : This expression is a little old-fashioned.
+我想找一个更准确的词。 : Wǒ xiǎng zhǎo yí ge gèng zhǔnquè de cí. : I'm looking for a more precise word.
+这里的语气比较委婉。 : Zhèlǐ de yǔqì bǐjiào wěiwǎn. : The tone here is rather indirect.
+两个句子的意思差不多。 : Liǎng ge jùzi de yìsi chàbuduō. : The two sentences mean much the same thing.
+我还不习惯这种说法。 : Wǒ hái bù xíguàn zhè zhǒng shuōfǎ. : I'm not used to this way of saying it yet.
+这个字有好几种读音。 : Zhège zì yǒu hǎo jǐ zhǒng dúyīn. : This character has several pronunciations.
+请把生词记在本子上。 : Qǐng bǎ shēngcí jì zài běnzi shàng. : Please write the new words in your notebook.
+这段话不太好翻译。 : Zhè duàn huà bú tài hǎo fānyì. : This passage is rather difficult to translate.
+我把名字拼错了。 : Wǒ bǎ míngzi pīn cuò le. : I spelt the name incorrectly.
+这个例子很有帮助。 : Zhège lìzi hěn yǒu bāngzhù. : This example is very helpful.
+他讲得太快，我跟不上。 : Tā jiǎng de tài kuài, wǒ gēn bu shàng. : He speaks too quickly for me to keep up.
+我已经记住这个词了。 : Wǒ yǐjīng jìzhù zhège cí le. : I've memorised this word now.
+还有靠窗的座位吗？ : Hái yǒu kào chuāng de zuòwèi ma? : Are there any window seats left?
+我在下一站下车。 : Wǒ zài xià yí zhàn xià chē. : I'm getting off at the next stop.
+往前走，到路口右转。 : Wǎng qián zǒu, dào lùkǒu yòu zhuǎn. : Go straight ahead and turn right at the junction.
+这班公交车经过博物馆吗？ : Zhè bān gōngjiāochē jīngguò bówùguǎn ma? : Does this bus go past the museum?
+我的行李还没到。 : Wǒ de xíngli hái méi dào. : My luggage hasn't arrived yet.
+这家旅馆离车站很近。 : Zhè jiā lǚguǎn lí chēzhàn hěn jìn. : This hotel is close to the station.
+我们最好避开高峰时间。 : Wǒmen zuìhǎo bìkāi gāofēng shíjiān. : We'd better avoid rush hour.
+这条路正在修。 : Zhè tiáo lù zhèngzài xiū. : This road is being repaired.
+他把自行车锁在门外。 : Tā bǎ zìxíngchē suǒ zài mén wài. : He locked his bicycle outside the door.
+我忘记在哪儿换车了。 : Wǒ wàngjì zài nǎr huàn chē le. : I've forgotten where to change trains.
+路上堵得厉害。 : Lùshang dǔ de lìhai. : The traffic is terrible.
+我想订一张单程票。 : Wǒ xiǎng dìng yì zhāng dānchéng piào. : I'd like to book a one-way ticket.
+今天的风比昨天小。 : Jīntiān de fēng bǐ zuótiān xiǎo. : It's less windy today than yesterday.
+天黑得越来越早了。 : Tiān hēi de yuè lái yuè zǎo le. : It's getting dark earlier and earlier.
+树叶已经开始变黄。 : Shùyè yǐjīng kāishǐ biàn huáng. : The leaves have begun to turn yellow.
+湖面平静得像镜子。 : Húmiàn píngjìng de xiàng jìngzi. : The lake is as still as a mirror.
+雨停以后，空气凉快多了。 : Yǔ tíng yǐhòu, kōngqì liángkuai duō le. : It's much cooler now that the rain has stopped.
+这棵树的树根露出来了。 : Zhè kē shù de shùgēn lù chūlái le. : The roots of this tree are exposed.
+远处传来一阵雷声。 : Yuǎnchù chuánlái yí zhèn léishēng. : A rumble of thunder came from the distance.
+今天晚上可能有霜。 : Jīntiān wǎnshang kěnéng yǒu shuāng. : There may be frost tonight.
+别踩刚种下的花。 : Bié cǎi gāng zhòng xià de huā. : Don't step on the newly planted flowers.
+这片森林里有很多野生动物。 : Zhè piàn sēnlín lǐ yǒu hěn duō yěshēng dòngwù. : There are many wild animals in this forest.
+我闻到一股烧焦的味道。 : Wǒ wén dào yì gǔ shāojiāo de wèidao. : I can smell something burning.
+汤还烫，等一会儿再喝。 : Tāng hái tàng, děng yíhuìr zài hē. : The soup is still too hot; wait a little before drinking it.
+这块奶酪味道很浓。 : Zhè kuài nǎilào wèidao hěn nóng. : This cheese has a strong flavour.
+把剩下的米饭放进冰箱。 : Bǎ shèngxià de mǐfàn fàng jìn bīngxiāng. : Put the leftover rice in the fridge.
+这条鱼是今天早上买的。 : Zhè tiáo yú shì jīntiān zǎoshang mǎi de. : I bought this fish this morning.
+别忘了关煤气。 : Bié wàng le guān méiqì. : Don't forget to turn off the gas.
+这个锅太重了。 : Zhège guō tài zhòng le. : This saucepan is too heavy.
+今天由我来做晚饭。 : Jīntiān yóu wǒ lái zuò wǎnfàn. : I'll make dinner tonight.
+这首歌的节奏很特别。 : Zhè shǒu gē de jiézòu hěn tèbié. : This song has an unusual rhythm.
+她把这首曲子弹得很慢。 : Tā bǎ zhè shǒu qǔzi tán de hěn màn. : She played the piece very slowly.
+演出结束后，观众鼓掌很久。 : Yǎnchū jiéshù hòu, guānzhòng gǔzhǎng hěn jiǔ. : The audience applauded for a long time after the performance.
+我不太喜欢这个结尾。 : Wǒ bú tài xǐhuan zhège jiéwěi. : I don't particularly like this ending.
+这幅画是用水彩画的。 : Zhè fú huà shì yòng shuǐcǎi huà de. : This painting was done in watercolour.
+这部电影比我想象的短。 : Zhè bù diànyǐng bǐ wǒ xiǎngxiàng de duǎn. : The film was shorter than I expected.
+故事发生在一个小村庄。 : Gùshi fāshēng zài yí ge xiǎo cūnzhuāng. : The story takes place in a small village.
+我读过这位作家的两本书。 : Wǒ dú guo zhè wèi zuòjiā de liǎng běn shū. : I've read two books by this author.
+这个论点缺乏证据。 : Zhège lùndiǎn quēfá zhèngjù. : This argument lacks evidence.
+你能给出一个反例吗？ : Nǐ néng gěi chū yí ge fǎnlì ma? : Can you give a counterexample?
+我们先检查最简单的情况。 : Wǒmen xiān jiǎnchá zuì jiǎndān de qíngkuàng. : Let's check the simplest case first.
+这个公式里少了一个负号。 : Zhège gōngshì lǐ shǎo le yí ge fùhào. : There's a minus sign missing from this formula.
+这一步需要额外的假设。 : Zhè yí bù xūyào éwài de jiǎshè. : This step requires an additional assumption.
+结论并不能由条件直接推出。 : Jiélùn bìng bù néng yóu tiáojiàn zhíjiē tuīchū. : The conclusion doesn't follow directly from the assumptions.
+图中的两条线并不平行。 : Tú zhōng de liǎng tiáo xiàn bìng bù píngxíng. : The two lines in the diagram aren't parallel.
+这个算法在大数据集上很慢。 : Zhège suànfǎ zài dà shùjùjí shàng hěn màn. : This algorithm is slow on large datasets.
+我怀疑程序里有个错误。 : Wǒ huáiyí chéngxù lǐ yǒu ge cuòwù. : I suspect there's a bug in the program.
+运行之前先保存文件。 : Yùnxíng zhīqián xiān bǎocún wénjiàn. : Save the file before running the program.
+这个版本不支持旧格式。 : Zhège bǎnběn bù zhīchí jiù géshì. : This version doesn't support the old format.
+我把结果画成了一张图。 : Wǒ bǎ jiéguǒ huà chéng le yì zhāng tú. : I've plotted the results in a graph.
+测量结果有一点误差。 : Cèliáng jiéguǒ yǒu yìdiǎn wùchā. : There's a small error in the measurements.
+先别改动原始数据。 : Xiān bié gǎidòng yuánshǐ shùjù. : Don't alter the original data yet.
+这两个方法各有优点。 : Zhè liǎng ge fāngfǎ gè yǒu yōudiǎn. : Both methods have their advantages.
+我们还需要重复这个实验。 : Wǒmen hái xūyào chóngfù zhège shíyàn. : We still need to repeat this experiment.
+他花了整整一年写这本书。 : Tā huā le zhěngzhěng yì nián xiě zhè běn shū. : He spent a whole year writing this book.
+这一章比上一章容易懂。 : Zhè yì zhāng bǐ shàng yì zhāng róngyì dǒng. : This chapter is easier to understand than the previous one.
+我在页边写了几条注释。 : Wǒ zài yèbiān xiě le jǐ tiáo zhùshì. : I wrote a few notes in the margin.
+参考文献里漏了一篇论文。 : Cānkǎo wénxiàn lǐ lòu le yì piān lùnwén. : A paper is missing from the references.
+这段解释可以再简短一点。 : Zhè duàn jiěshì kěyǐ zài jiǎnduǎn yìdiǎn. : This explanation could be a little shorter.
+你先请。 : Nǐ xiān qǐng. : After you.
+不用客气。 : Bú yòng kèqi. : No need to be so polite.
+我马上回来。 : Wǒ mǎshàng huílái. : I'll be right back.
+你来得正好。 : Nǐ lái de zhèng hǎo. : You've come at just the right time.
+我没听清楚。 : Wǒ méi tīng qīngchu. : I didn't quite catch that.
+这话怎么说？ : Zhè huà zěnme shuō? : How should I put this?
+我开玩笑的。 : Wǒ kāi wánxiào de. : I was joking.
+别往心里去。 : Bié wǎng xīn lǐ qù. : Don't take it to heart.
+这事说来话长。 : Zhè shì shuō lái huà cháng. : It's a long story.
+我也这么想。 : Wǒ yě zhème xiǎng. : That's what I think too.
+这倒是个好主意。 : Zhè dào shì ge hǎo zhǔyi. : That's actually a good idea.
+我不太确定。 : Wǒ bú tài quèdìng. : I'm not entirely sure.
+你说得有道理。 : Nǐ shuō de yǒu dàolǐ. : You have a point.
+事情没那么简单。 : Shìqing méi nàme jiǎndān. : It's not that simple.
+我还得想一想。 : Wǒ hái děi xiǎng yi xiǎng. : I need to think about it some more.
+先别下结论。 : Xiān bié xià jiélùn. : Don't jump to conclusions.
+我们换个话题吧。 : Wǒmen huàn ge huàtí ba. : Let's change the subject.
+我说错话了吗？ : Wǒ shuō cuò huà le ma? : Did I say something wrong?
+这可真难说。 : Zhè kě zhēn nán shuō. : That's really hard to say.
+这家店几点关门？ : Zhè jiā diàn jǐ diǎn guānmén? : What time does this shop close?
+有小一号的吗？ : Yǒu xiǎo yí hào de ma? : Do you have one size smaller?
+可以刷卡吗？ : Kěyǐ shuākǎ ma? : Can I pay by card?
+收据请留给我。 : Shōujù qǐng liú gěi wǒ. : Please let me keep the receipt.
+这双鞋有点紧。 : Zhè shuāng xié yǒudiǎn jǐn. : These shoes are a little tight.
+我想换一种颜色。 : Wǒ xiǎng huàn yì zhǒng yánsè. : I'd like a different colour.
+这件外套很合身。 : Zhè jiàn wàitào hěn héshēn. : This coat fits very well.
+我忘了带购物袋。 : Wǒ wàng le dài gòuwùdài. : I forgot to bring a shopping bag.
+这附近有药店吗？ : Zhè fùjìn yǒu yàodiàn ma? : Is there a pharmacy nearby?
+我想买一张地图。 : Wǒ xiǎng mǎi yì zhāng dìtú. : I'd like to buy a map.
+这条街禁止停车。 : Zhè tiáo jiē jìnzhǐ tíngchē. : Parking is prohibited on this street.
+红灯亮了，别过马路。 : Hóngdēng liàng le, bié guò mǎlù. : The light's red; don't cross the road.
+我们在下一站下车。 : Wǒmen zài xià yí zhàn xià chē. : We're getting off at the next stop.
+我把车停在地下车库了。 : Wǒ bǎ chē tíng zài dìxià chēkù le. : I parked the car in the underground garage.
+这趟车开往机场吗？ : Zhè tàng chē kāi wǎng jīchǎng ma? : Does this service go to the airport?
+车票可以在网上买。 : Chēpiào kěyǐ zài wǎngshàng mǎi. : You can buy tickets online.
+我还没找到站台。 : Wǒ hái méi zhǎodào zhàntái. : I haven't found the platform yet.
+火车提前十分钟到了。 : Huǒchē tíqián shí fēnzhōng dào le. : The train arrived ten minutes early.
+行李放在座位下面。 : Xíngli fàng zài zuòwèi xiàmiàn. : Put your luggage under the seat.
+我们走错出口了。 : Wǒmen zǒu cuò chūkǒu le. : We took the wrong exit.
+从这里步行只要五分钟。 : Cóng zhèlǐ bùxíng zhǐ yào wǔ fēnzhōng. : It's only a five-minute walk from here.
+请把窗户打开一点。 : Qǐng bǎ chuānghu dǎkāi yìdiǎn. : Please open the window a little.
+屋里有股奇怪的味道。 : Wū lǐ yǒu gǔ qíguài de wèidào. : There's a strange smell in the room.
+钥匙不在抽屉里。 : Yàoshi bú zài chōuti lǐ. : The key isn't in the drawer.
+这盏灯不亮了。 : Zhè zhǎn dēng bú liàng le. : This lamp has stopped working.
+我把杯子打碎了。 : Wǒ bǎ bēizi dǎsuì le. : I broke the cup.
+厨房的水龙头漏水。 : Chúfáng de shuǐlóngtóu lòu shuǐ. : The kitchen tap is leaking.
+别忘了锁门。 : Bié wàng le suǒ mén. : Don't forget to lock the door.
+阳台上有两盆花。 : Yángtái shàng yǒu liǎng pén huā. : There are two pots of flowers on the balcony.
+这张桌子不太稳。 : Zhè zhāng zhuōzi bú tài wěn. : This table is a bit wobbly.
+我把旧报纸扔掉了。 : Wǒ bǎ jiù bàozhǐ rēngdiào le. : I threw away the old newspapers.
+冰箱里只剩一点牛奶。 : Bīngxiāng lǐ zhǐ shèng yìdiǎn niúnǎi. : There's only a little milk left in the fridge.
+饭还没做好。 : Fàn hái méi zuò hǎo. : The meal isn't ready yet.
+请给我一双筷子。 : Qǐng gěi wǒ yì shuāng kuàizi. : Could I have a pair of chopsticks, please?
+汤已经凉了。 : Tāng yǐjīng liáng le. : The soup has gone cold.
+这块蛋糕太甜了。 : Zhè kuài dàngāo tài tián le. : This slice of cake is too sweet.
+我不吃生鱼。 : Wǒ bù chī shēng yú. : I don't eat raw fish.
+米饭有点硬。 : Mǐfàn yǒudiǎn yìng. : The rice is a little hard.
+你想再来点茶吗？ : Nǐ xiǎng zài lái diǎn chá ma? : Would you like some more tea?
+这家餐馆要提前订位。 : Zhè jiā cānguǎn yào tíqián dìngwèi. : You need to book ahead at this restaurant.
+服务员拿错了菜单。 : Fúwùyuán ná cuò le càidān. : The waiter brought the wrong menu.
+我们各付各的吧。 : Wǒmen gè fù gè de ba. : Let's each pay for our own meal.
+今天的鱼很新鲜。 : Jīntiān de yú hěn xīnxiān. : The fish is very fresh today.
+这瓶水还没开封。 : Zhè píng shuǐ hái méi kāifēng. : This bottle of water hasn't been opened yet.
+外面起雾了。 : Wàimiàn qǐ wù le. : It's getting foggy outside.
+天气预报说明天有雨。 : Tiānqì yùbào shuō míngtiān yǒu yǔ. : The forecast says it'll rain tomorrow.
+早晨的空气很清新。 : Zǎochén de kōngqì hěn qīngxīn. : The morning air is fresh.
+太阳快落山了。 : Tàiyáng kuài luòshān le. : The sun is about to set.
+山顶还覆盖着积雪。 : Shāndǐng hái fùgài zhe jīxuě. : The summit is still covered in snow.
+这条河夏天经常干涸。 : Zhè tiáo hé xiàtiān jīngcháng gānhé. : This river often dries up in summer.
+树叶开始变黄了。 : Shùyè kāishǐ biàn huáng le. : The leaves are starting to turn yellow.
+那只鸟停在屋顶上。 : Nà zhī niǎo tíng zài wūdǐng shàng. : That bird is perched on the roof.
+小狗一直跟着我们。 : Xiǎogǒu yìzhí gēn zhe wǒmen. : The puppy kept following us.
+这朵花闻起来很香。 : Zhè duǒ huā wén qǐlái hěn xiāng. : This flower smells lovely.
+我们沿着海岸走了很远。 : Wǒmen yánzhe hǎi'àn zǒu le hěn yuǎn. : We walked a long way along the coast.
+这座桥已经有两百年历史了。 : Zhè zuò qiáo yǐjīng yǒu liǎng bǎi nián lìshǐ le. : This bridge is already two hundred years old.
+我想把这段话改短一点。 : Wǒ xiǎng bǎ zhè duàn huà gǎi duǎn yìdiǎn. : I'd like to shorten this passage.
+这个词在口语中更常见。 : Zhège cí zài kǒuyǔ zhōng gèng chángjiàn. : This word is more common in spoken language.
+请注意句子的语序。 : Qǐng zhùyì jùzi de yǔxù. : Pay attention to the word order.
+这两个字读音相同。 : Zhè liǎng ge zì dúyīn xiāngtóng. : These two characters are pronounced alike.
+他的发音带一点口音。 : Tā de fāyīn dài yìdiǎn kǒuyīn. : He speaks with a slight accent.
+我查了好几本词典。 : Wǒ chá le hǎo jǐ běn cídiǎn. : I consulted several dictionaries.
+这句话听起来不太自然。 : Zhè jù huà tīng qǐlái bú tài zìrán. : This sentence doesn't sound very natural.
+请把生词写在旁边。 : Qǐng bǎ shēngcí xiě zài pángbiān. : Write the unfamiliar words in the margin, please.
+这个成语不能直译。 : Zhège chéngyǔ bù néng zhíyì. : This idiom can't be translated literally.
+我把声调标错了。 : Wǒ bǎ shēngdiào biāo cuò le. : I marked the tone incorrectly.
+她说话很有条理。 : Tā shuōhuà hěn yǒu tiáolǐ. : She expresses herself very clearly.
+这个例子很容易记住。 : Zhège lìzi hěn róngyì jìzhù. : This example is easy to remember.
+我只记得故事的开头。 : Wǒ zhǐ jìde gùshi de kāitóu. : I only remember the beginning of the story.
+作者没有解释这个术语。 : Zuòzhě méiyǒu jiěshì zhège shùyǔ. : The author hasn't explained this term.
+这篇文章写得很生动。 : Zhè piān wénzhāng xiě de hěn shēngdòng. : This article is very vividly written.
+这个结论需要额外的假设。 : Zhège jiélùn xūyào éwài de jiǎshè. : This conclusion requires an additional assumption.
+图上的两条直线平行。 : Tú shàng de liǎng tiáo zhíxiàn píngxíng. : The two lines in the diagram are parallel.
+这里的符号有两种含义。 : Zhèlǐ de fúhào yǒu liǎng zhǒng hányì. : The symbol has two meanings here.
+请把结果保留三位小数。 : Qǐng bǎ jiéguǒ bǎoliú sān wèi xiǎoshù. : Please give the result to three decimal places.
+这个算法占用太多内存。 : Zhège suànfǎ zhànyòng tài duō nèicún. : This algorithm uses too much memory.
+程序运行得比预期慢。 : Chéngxù yùnxíng de bǐ yùqī màn. : The program runs more slowly than expected.
+文件名里有一个空格。 : Wénjiànmíng lǐ yǒu yí ge kònggé. : There's a space in the filename.
+我忘了保存修改。 : Wǒ wàng le bǎocún xiūgǎi. : I forgot to save my changes.
+这台电脑需要重新启动。 : Zhè tái diànnǎo xūyào chóngxīn qǐdòng. : This computer needs to be restarted.
+网络连接突然断了。 : Wǎngluò liánjiē tūrán duàn le. : The network connection suddenly dropped.
+屏幕上的字太小了。 : Píngmù shàng de zì tài xiǎo le. : The text on the screen is too small.
+这个按钮没有反应。 : Zhège ànniǔ méiyǒu fǎnyìng. : This button isn't responding.
+请先备份重要文件。 : Qǐng xiān bèifèn zhòngyào wénjiàn. : Back up important files first.
+我找不到刚才下载的东西。 : Wǒ zhǎo bú dào gāngcái xiàzài de dōngxi. : I can't find what I just downloaded.
+这个版本修复了几个错误。 : Zhège bǎnběn xiūfù le jǐ ge cuòwù. : This version fixes several bugs.
+请不要关闭这个窗口。 : Qǐng bú yào guānbì zhège chuāngkǒu. : Please don't close this window.
+照片拍得有点模糊。 : Zhàopiàn pāi de yǒudiǎn móhu. : The photograph is a little blurry.
+把相机拿稳一点。 : Bǎ xiàngjī ná wěn yìdiǎn. : Hold the camera a little steadier.
+光线从左边照进来。 : Guāngxiàn cóng zuǒbian zhào jìnlái. : The light comes in from the left.
+画面里少了一个人。 : Huàmiàn lǐ shǎo le yí ge rén. : One person is missing from the picture.
+这张照片的颜色很柔和。 : Zhè zhāng zhàopiàn de yánsè hěn róuhé. : The colours in this photograph are very soft.
+请把镜头对准窗外。 : Qǐng bǎ jìngtóu duìzhǔn chuāngwài. : Please point the lens towards the window.
+远处的山几乎看不见。 : Yuǎnchù de shān jīhū kàn bú jiàn. : The distant mountains are barely visible.
+这幅画挂得有点歪。 : Zhè fú huà guà de yǒudiǎn wāi. : This painting is hanging a little crooked.
+音乐会七点半开始。 : Yīnyuèhuì qī diǎn bàn kāishǐ. : The concert starts at half past seven.
+她弹钢琴弹得很好。 : Tā tán gāngqín tán de hěn hǎo. : She plays the piano very well.
+这个节奏不太容易跟上。 : Zhège jiézòu bú tài róngyì gēn shàng. : This rhythm isn't easy to keep up with.
+指挥让乐队再试一次。 : Zhǐhuī ràng yuèduì zài shì yí cì. : The conductor asked the orchestra to try again.
+这首歌的歌词很有趣。 : Zhè shǒu gē de gēcí hěn yǒuqù. : The lyrics of this song are amusing.
+他唱得太快，跟不上伴奏。 : Tā chàng de tài kuài, gēn bú shàng bànzòu. : He's singing too fast to stay with the accompaniment.
+我们坐在剧院的后排。 : Wǒmen zuò zài jùyuàn de hòupái. : We sat in the back row of the theatre.
+演出结束后，大家都鼓掌了。 : Yǎnchū jiéshù hòu, dàjiā dōu gǔzhǎng le. : Everyone applauded when the performance ended.
+我以前听过这首曲子。 : Wǒ yǐqián tīng guò zhè shǒu qǔzi. : I've heard this piece before.
+他把会议推迟到星期五。 : Tā bǎ huìyì tuīchí dào xīngqīwǔ. : He postponed the meeting until Friday.
+我们还需要一份复印件。 : Wǒmen hái xūyào yí fèn fùyìnjiàn. : We still need another photocopy.
+我把日期写错了。 : Wǒ bǎ rìqī xiě cuò le. : I wrote the wrong date.
+这封邮件还没发出去。 : Zhè fēng yóujiàn hái méi fā chūqù. : This email hasn't been sent yet.
+你能把地址发给我吗？ : Nǐ néng bǎ dìzhǐ fā gěi wǒ ma? : Could you send me the address?
+我明天下午有空。 : Wǒ míngtiān xiàwǔ yǒu kòng. : I'm free tomorrow afternoon.
+我们约在门口见吧。 : Wǒmen yuē zài ménkǒu jiàn ba. : Let's arrange to meet at the entrance.
+他临时取消了约会。 : Tā línshí qǔxiāo le yuēhuì. : He cancelled the appointment at the last minute.
+我没收到你的消息。 : Wǒ méi shōudào nǐ de xiāoxi. : I didn't get your message.
+请提前告诉我一声。 : Qǐng tíqián gàosu wǒ yì shēng. : Please let me know in advance.
+这件事明天再谈。 : Zhè jiàn shì míngtiān zài tán. : Let's discuss this tomorrow.
+我刚好路过这里。 : Wǒ gānghǎo lùguò zhèlǐ. : I just happened to be passing by.
+我们已经很久没见面了。 : Wǒmen yǐjīng hěn jiǔ méi jiànmiàn le. : We haven't seen each other for a long time.
+你看起来精神不错。 : Nǐ kàn qǐlái jīngshén búcuò. : You're looking well.
+我昨晚睡得很香。 : Wǒ zuówǎn shuì de hěn xiāng. : I slept very soundly last night.
+他一整天都没休息。 : Tā yì zhěng tiān dōu méi xiūxi. : He didn't take a break all day.
+我今天有点头疼。 : Wǒ jīntiān yǒudiǎn tóuténg. : I've got a bit of a headache today.
+这几天我一直很忙。 : Zhè jǐ tiān wǒ yìzhí hěn máng. : I've been busy these past few days.
+别把自己累坏了。 : Bié bǎ zìjǐ lèi huài le. : Don't wear yourself out.
+我得出去透透气。 : Wǒ děi chūqù tòu tou qì. : I need to go outside for some fresh air.
+他把伞忘在车上了。 : Tā bǎ sǎn wàng zài chē shàng le. : He left his umbrella in the car.
+我们差一点就迟到了。 : Wǒmen chà yìdiǎn jiù chídào le. : We were nearly late.
+没想到这么快就结束了。 : Méi xiǎngdào zhème kuài jiù jiéshù le. : I didn't expect it to finish so soon.
+这个办法值得一试。 : Zhège bànfǎ zhíde yí shì. : This approach is worth trying.
+别急着回答。 : Bié jí zhe huídá. : Don't rush to answer.
+这完全出乎我的意料。 : Zhè wánquán chūhū wǒ de yìliào. : This was completely unexpected.
+我们不妨换一种方法。 : Wǒmen bùfáng huàn yì zhǒng fāngfǎ. : We might as well try a different approach.
