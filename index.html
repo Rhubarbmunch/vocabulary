@@ -21,7 +21,7 @@ button,input { font-size:14px; margin-right:8px; }
 #resetRow { padding:8px 18px 0; text-align:right; }
 #audioControls { padding:0 7vw 8px; min-height:42px; }
 #audioControls button { min-height:38px; font-size:17px; }
-#audioControls[hidden] { display:none; }
+#audioControls[hidden], #audioRepeatButton[hidden] { display:none; }
 
 #confirmOverlay {
   display:none; position:fixed; inset:0; background:rgba(0,0,0,0.25);
@@ -117,11 +117,13 @@ button,input { font-size:14px; margin-right:8px; }
   <option value="">-- choose --</option>
 </select>
 <label><input id="inverseBox" type="checkbox"> Inverse (-i)</label>
+<label><input id="audioModeBox" type="checkbox"> Audio mode</label>
 <button id="saveButton" disabled>Save</button>
 <div id="status">Choose the directory containing files such as chinese_0.txt ... chinese_3.txt.</div>
 </div>
 <div id="card"></div>
 <div id="audioControls" hidden>
+  <button id="audioRepeatButton" hidden>🔁 Repeat</button>
   <button id="audioNormalButton">🔊 Normal speed</button>
   <button id="audioHalfButton">🔊 Half speed</button>
 </div>
@@ -173,6 +175,8 @@ const audioControls=document.getElementById("audioControls");
 const audioNormalButton=document.getElementById("audioNormalButton");
 const audioHalfButton=document.getElementById("audioHalfButton");
 const inverseBox=document.getElementById("inverseBox");
+const audioModeBox=document.getElementById("audioModeBox");
+const audioRepeatButton=document.getElementById("audioRepeatButton");
 const importButton=document.getElementById("importButton"), exportButton=document.getElementById("exportButton"), phoneFileInput=document.getElementById("phoneFileInput"), wrongButton=document.getElementById("wrongButton"), revealButton=document.getElementById("revealButton"), rightButton=document.getElementById("rightButton");
 const catalogueOpenButton=document.getElementById("catalogueOpenButton");
 const catalogueOverlay=document.getElementById("catalogueOverlay");
@@ -389,6 +393,8 @@ function chooseWord() {
   current = {list:l, pos:p, word:lists[l][p]};
   revealLevel=0;
   showCard();
+  if(audioModeBox.checked && (words[current.word].audio || canSpeakChinese(words[current.word])))
+    playCurrentAudio(1.0);
 }
 function showCard() {
   if(!current) {
@@ -397,8 +403,19 @@ function showCard() {
   }
   const w=words[current.word];
   audioControls.hidden=!(w.audio || canSpeakChinese(w));
+  const audioMode=audioModeBox.checked;
+  audioRepeatButton.hidden=!audioMode;
   const inverse=inverseBox.checked;
   let s;
+  if(audioMode) {
+    // The initial card is deliberately blank: listen before revealing.
+    s="";
+    if(revealLevel>=1) s=w.front;
+    if(revealLevel>=2) s+=" : "+(w.middle!==null ? w.middle : w.back);
+    if(revealLevel>=3 && w.middle!==null) s+=" : "+w.back;
+    card.textContent=s;
+    return;
+  }
 
   if(!inverse) {
     /* Normal direction:
@@ -600,8 +617,8 @@ function updateLists() {
 let dirHandle = null;
 
 function phoneDB(){return new Promise((ok,no)=>{const r=indexedDB.open("vocab-phone",1);r.onupgradeneeded=()=>{if(!r.result.objectStoreNames.contains("states"))r.result.createObjectStore("states")};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
-async function savePhoneState(){if(!phoneMode||!currentLanguage||!words.length)return;try{const db=await phoneDB(),tx=db.transaction("states","readwrite");tx.objectStore("states").put({words,lists,inverse:inverseBox.checked,numRight,numWrong,initialProgress,audioBase:currentAudioBase},currentLanguage);await new Promise((a,b)=>{tx.oncomplete=a;tx.onerror=()=>b(tx.error)});db.close();localStorage.setItem("vocab-phone-last",currentLanguage)}catch(e){}}
-async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=Array.from({length:NLISTS},()=>[]);for(let i=0;i<d.lists.length;i++)lists[Math.min(i,NLISTS-1)].push(...d.lists[i]);currentLanguage=name;currentAudioBase=d.audioBase!==undefined?d.audioBase:currentAudioBase;inverseBox.checked=!!d.inverse;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=d.numRight||0;numWrong=d.numWrong||0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";await cacheVocabularyAudio();return true}catch(e){return false}}
+async function savePhoneState(){if(!phoneMode||!currentLanguage||!words.length)return;try{const db=await phoneDB(),tx=db.transaction("states","readwrite");tx.objectStore("states").put({words,lists,inverse:inverseBox.checked,audioMode:audioModeBox.checked,numRight,numWrong,initialProgress,audioBase:currentAudioBase},currentLanguage);await new Promise((a,b)=>{tx.oncomplete=a;tx.onerror=()=>b(tx.error)});db.close();localStorage.setItem("vocab-phone-last",currentLanguage)}catch(e){}}
+async function loadPhoneState(name){try{const db=await phoneDB(),tx=db.transaction("states","readonly"),r=tx.objectStore("states").get(name);const d=await new Promise((a,b)=>{r.onsuccess=()=>a(r.result);r.onerror=()=>b(r.error)});db.close();if(!d)return false;words=d.words;lists=Array.from({length:NLISTS},()=>[]);for(let i=0;i<d.lists.length;i++)lists[Math.min(i,NLISTS-1)].push(...d.lists[i]);currentLanguage=name;currentAudioBase=d.audioBase!==undefined?d.audioBase:currentAudioBase;inverseBox.checked=!!d.inverse;audioModeBox.checked=!!d.audioMode; if(audioModeBox.checked)inverseBox.checked=false;current=null;revealLevel=0;chooseWord();initialProgress=progressScore();numRight=d.numRight||0;numWrong=d.numWrong||0;setDirty(false);updateLists();exportButton.disabled=resetButton.disabled=false;status.textContent="Restored "+name+" from phone storage.";await cacheVocabularyAudio();return true}catch(e){return false}}
 function downloadText(n,t){const u=URL.createObjectURL(new Blob([t],{type:"text/plain;charset=utf-8"})),a=document.createElement("a");a.href=u;a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
 async function exportPhoneVocabulary(){for(let l=0;l<NLISTS;l++){const a=[];for(const wi of lists[l]){const w=words[wi];a.push(formatWord(w))}downloadText(currentLanguage+"_"+l+".txt",a.join("\n")+(a.length?"\n":""));await new Promise(r=>setTimeout(r,150))}feedback.textContent="<files exported>";setTimeout(()=>feedback.textContent="",2500)}
 
@@ -1045,9 +1062,22 @@ saveButton.addEventListener("click", async ()=>{
 
 
 inverseBox.addEventListener("change", ()=>{
+  if(inverseBox.checked) audioModeBox.checked=false;
+  localStorage.setItem("vocab-audio-mode",audioModeBox.checked?"1":"0");
   localStorage.setItem("vocab-inverse", inverseBox.checked ? "1" : "0");
   revealLevel=0;
   showCard();
+});
+
+audioModeBox.addEventListener("change", ()=>{
+  if(audioModeBox.checked) inverseBox.checked=false;
+  localStorage.setItem("vocab-audio-mode",audioModeBox.checked?"1":"0");
+  localStorage.setItem("vocab-inverse",inverseBox.checked?"1":"0");
+  stopAudio();
+  revealLevel=0;
+  showCard();
+  if(audioModeBox.checked && current) playCurrentAudio(1.0);
+  savePhoneState();
 });
 
 resetButton.addEventListener("click", async ()=>{
@@ -1084,6 +1114,7 @@ resetButton.addEventListener("click", async ()=>{
 });
 
 wrongButton.onclick=()=>moveWord(-1); revealButton.onclick=reveal; rightButton.onclick=()=>moveWord(1);
+audioRepeatButton.onclick=()=>playCurrentAudio(1.0);
 audioNormalButton.onclick=()=>playCurrentAudio(1.0);
 audioHalfButton.onclick=()=>playCurrentAudio(0.5);
 importButton.onclick=()=>phoneFileInput.click(); exportButton.onclick=exportPhoneVocabulary;
@@ -1096,6 +1127,7 @@ document.addEventListener("keydown",e=>{
   else if(e.key==="ArrowLeft"){e.preventDefault();moveWord(-1);}
   else if(e.key.toLowerCase()==="p"){e.preventDefault();playCurrentAudio(1.0);}
   else if(e.key.toLowerCase()==="h"){e.preventDefault();playCurrentAudio(0.5);}
+  else if(e.key.toLowerCase()==="r" && audioModeBox.checked){e.preventDefault();playCurrentAudio(1.0);}
   else if(e.key===" "){e.preventDefault();chooseWord();}
 });
 window.addEventListener("beforeunload", e=>{
@@ -1106,6 +1138,8 @@ window.addEventListener("beforeunload", e=>{
 });
 
 inverseBox.checked=(localStorage.getItem("vocab-inverse")==="1");
+audioModeBox.checked=(localStorage.getItem("vocab-audio-mode")==="1");
+if(audioModeBox.checked) inverseBox.checked=false;
 if(phoneMode){
   loadCatalogue();
   const last=localStorage.getItem("vocab-phone-last");
@@ -1122,6 +1156,6 @@ if ("serviceWorker" in navigator) {
 </script>
 <div id="help">↓ reveal &nbsp; ↑ hide &nbsp; → promote &nbsp;
 ← demote &nbsp; Space = next word &nbsp; P = normal sound &nbsp;
-H = half-speed sound</div>
+H = half-speed sound &nbsp; Audio mode: R = repeat</div>
 </body>
 </html>
