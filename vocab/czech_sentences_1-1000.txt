@@ -1,0 +1,1000 @@
+Dobrý den. : Hello.
+Potřebuji knihu. : I need a book.
+Jsem v knihovně. : I am at the library.
+Chci číst. : I want to read.
+Nemám s sebou dost peněz. : I don't have enough money with me.
+Potřebuji noviny. : I need a newspaper.
+Jsem v restauraci. : I am at the restaurant.
+Ahoj! : Hi!
+Potřebuji časopis. : I need a magazine.
+Chci psát. : I want to write.
+Jsem v kavárně. : I am at the café.
+Potřebuji mapu. : I need a map.
+Zaplatím to zítra. : I'll pay for it tomorrow.
+Dobré ráno. : Good morning.
+Jsem v obchodě. : I am at the shop.
+Hledám jízdenku. : I'm looking for a ticket.
+Chci studovat. : I want to study.
+Dobrý večer. : Good evening.
+Jsem v supermarketu. : I am at the supermarket.
+Hledám letenku. : I'm looking for a plane ticket.
+Hledám fotografii. : I'm looking for a photograph.
+Jsem v lékárně. : I am at the pharmacy.
+Chci pracovat. : I want to work.
+Můžeme se rozdělit o účet? : Can we split the bill?
+Dobrou noc. : Good night.
+Hledám zprávu. : I'm looking for a message.
+Jsem v nemocnici. : I am at the hospital.
+Na shledanou. : Goodbye.
+Hledám pohlednici. : I'm looking for a postcard.
+Chci odpočívat. : I want to rest.
+Jsem ve škole. : I am at school.
+Hledám obálku. : I'm looking for an envelope.
+Dáte mi prosím účtenku? : Could you give me a receipt, please?
+Uvidíme se zítra. : See you tomorrow.
+Jsem v práci. : I am at work.
+Hledám tužku. : I'm looking for a pencil.
+Chci cvičit. : I want to exercise.
+Jak se máš? : How are you?
+Jsem v kanceláři. : I am at the office.
+Hledám propisku. : I'm looking for a pen.
+Hledám tašku. : I'm looking for a bag.
+Jsem v hotelu. : I am at the hotel.
+Chci vařit. : I want to cook.
+Tato velikost mi nesedí. : This size doesn't fit me.
+Jak se máte? : How are you? (formal)
+Hledám kabelku. : I'm looking for a handbag.
+Jsem v muzeu. : I am at the museum.
+Mám se dobře. : I'm doing well.
+Hledám láhev vody. : I'm looking for a bottle of water.
+Chci uklízet. : I want to clean.
+Jsem v divadle. : I am at the theatre.
+Hledám šálek čaje. : I'm looking for a cup of tea.
+Mohu si to vyzkoušet? : May I try it on?
+Děkuji. : Thank you.
+Jsem v kině. : I am at the cinema.
+Hledám hrnek kávy. : I'm looking for a mug of coffee.
+Chci nakupovat. : I want to shop.
+Hledám sklenici vody. : I'm looking for a glass of water.
+Jsem v parku. : I am in the park.
+Děkuji mnohokrát. : Thank you very much.
+Hledám chleba. : I'm looking for bread.
+Jsem v zahradě. : I am in the garden.
+Chci cestovat. : I want to travel.
+Kde jsou zkušební kabinky? : Where are the fitting rooms?
+Prosím. : Please.
+Hledám sýr. : I'm looking for cheese.
+Jsem v kuchyni. : I am in the kitchen.
+Hledám máslo. : I'm looking for butter.
+Není zač. : You're welcome.
+Chci plavat. : I want to swim.
+Jsem v ložnici. : I am in the bedroom.
+Hledám mléko. : I'm looking for milk.
+Máte to v jiné barvě? : Do you have it in another colour?
+Promiň. : Sorry.
+Jsem v koupelně. : I am in the bathroom.
+Hledám jablko. : I'm looking for an apple.
+Chci běhat. : I want to run.
+Hledám banán. : I'm looking for a banana.
+Jsem v obývacím pokoji. : I am in the living room.
+Promiňte. : Excuse me.
+Hledám pomeranč. : I'm looking for an orange.
+Jsem na nádraží. : I am at the station.
+Chci zpívat. : I want to sing.
+Je to ve slevě? : Is it on sale?
+To nevadí. : It doesn't matter.
+Hledám rajče. : I'm looking for a tomato.
+Jsem na letišti. : I am at the airport.
+Hledám okurku. : I'm looking for a cucumber.
+Chci tančit. : I want to dance.
+Ano, samozřejmě. : Yes, of course.
+Jsem na poště. : I am at the post office.
+Hledám mrkev. : I'm looking for a carrot.
+Chtěl bych to vrátit. : I'd like to return it. (male speaker)
+Bohužel ne. : Unfortunately not.
+Jsem na trhu. : I am at the market.
+Hledám cibuli. : I'm looking for an onion.
+Chci malovat. : I want to paint.
+Hledám brambory. : I'm looking for potatoes.
+Jsem na náměstí. : I am in the square.
+Možná později. : Maybe later.
+Hledám rýži. : I'm looking for rice.
+Jsem na pláži. : I am on the beach.
+Chci fotografovat. : I want to take photographs.
+Chtěla bych to vyměnit. : I'd like to exchange it. (female speaker)
+Hledám těstoviny. : I'm looking for pasta.
+Nevím. : I don't know.
+Jsem na univerzitě. : I am at the university.
+Hledám polévku. : I'm looking for soup.
+Chci telefonovat. : I want to make phone calls.
+Nerozumím. : I don't understand.
+Jsem na zastávce. : I am at the stop.
+Hledám salát. : I'm looking for a salad.
+Otevíráte i v neděli? : Are you open on Sundays too?
+Hledám koláč. : I'm looking for a cake.
+Jsem v Praze. : I am in Prague.
+Rozumím vám. : I understand you.
+Chci spát. : I want to sleep.
+Hledám čokoládu. : I'm looking for chocolate.
+Jsem v Brně. : I am in Brno.
+Mluvíte anglicky? : Do you speak English?
+Hledám zmrzlinu. : I'm looking for ice cream.
+Jsem v Ostravě. : I am in Ostrava.
+Chci jíst. : I want to eat.
+Kdy zavíráte? : When do you close?
+Hledám květinu. : I'm looking for a flower.
+Mluvím trochu česky. : I speak a little Czech.
+Jsem v Olomouci. : I am in Olomouc.
+Hledám kytici. : I'm looking for a bouquet.
+Chci pít. : I want to drink.
+Učím se česky. : I'm learning Czech.
+Jsem v Plzni. : I am in Plzeň.
+Hledám svíčku. : I'm looking for a candle.
+Otevíráme v devět. : We open at nine.
+Hledám dárek. : I'm looking for a present.
+Jsem v Českých Budějovicích. : I am in České Budějovice.
+Můžete to zopakovat? : Can you repeat that?
+Chci hrát šachy. : I want to play chess.
+Hledám hodinky. : I'm looking for a watch.
+Jsem v Londýně. : I am in London.
+Mluvte prosím pomaleji. : Please speak more slowly.
+Hledám telefon. : I'm looking for a phone.
+Jsem v Paříži. : I am in Paris.
+Chci hrát na klavír. : I want to play the piano.
+Zavíráme v šest. : We close at six.
+Hledám počítač. : I'm looking for a computer.
+Jak se to řekne česky? : How do you say that in Czech?
+Jsem ve Vídni. : I am in Vienna.
+Hledám notebook. : I'm looking for a laptop.
+Chci učit se. : I want to learn.
+Co to znamená? : What does that mean?
+Jsem v Berlíně. : I am in Berlin.
+Hledám nabíječku. : I'm looking for a charger.
+Obchod je dnes zavřený. : The shop is closed today.
+Hledám klíč. : I'm looking for a key.
+Jsem v Římě. : I am in Rome.
+Jak se jmenujete? : What is your name? (formal)
+Chci chodit pěšky. : I want to walk.
+Hledám deštník. : I'm looking for an umbrella.
+Jsem v Sydney. : I am in Sydney.
+Hledám kabát. : I'm looking for a coat.
+Jmenuji se Petr. : My name is Petr.
+Jsem v Canbeře. : I am in Canberra.
+Chci jezdit na kole. : I want to cycle.
+Nenechávejte zavazadla bez dozoru. : Do not leave luggage unattended.
+Hledám svetr. : I'm looking for a sweater.
+Odkud jste? : Where are you from? (formal)
+Byli jsme v knihovně. : We were at the library.
+Hledám košili. : I'm looking for a shirt.
+Chci poslouchat hudbu. : I want to listen to music.
+Hledám šálu. : I'm looking for a scarf.
+Byli jsme v restauraci. : We were at the restaurant.
+Jsem z Austrálie. : I'm from Australia.
+Vstup je zdarma. : Admission is free.
+Hledám čepici. : I'm looking for a hat.
+Byli jsme v kavárně. : We were at the café.
+Chci sledovat filmy. : I want to watch films.
+Bydlím v Praze. : I live in Prague.
+Hledám boty. : I'm looking for shoes.
+Byli jsme v obchodě. : We were at the shop.
+Hledám ponožky. : I'm looking for socks.
+Těší mě. : Nice to meet you.
+Byli jsme v supermarketu. : We were at the supermarket.
+Chci číst noviny. : I want to read newspapers.
+Fotografování je zakázáno. : Photography is prohibited.
+Hledám brýle. : I'm looking for glasses.
+Kolik je hodin? : What time is it?
+Byli jsme v lékárně. : We were at the pharmacy.
+Hledám batoh. : I'm looking for a backpack.
+Chci péct. : I want to bake.
+Hledám kufr. : I'm looking for a suitcase.
+Byli jsme v nemocnici. : We were at the hospital.
+Je jedna hodina. : It's one o'clock.
+Zákaz kouření. : No smoking.
+Hledám ručník. : I'm looking for a towel.
+Byli jsme ve škole. : We were at school.
+Chci zahradničit. : I want to garden.
+Jsou dvě hodiny. : It's two o'clock.
+Hledám mýdlo. : I'm looking for soap.
+Byli jsme v práci. : We were at work.
+Hledám zubní kartáček. : I'm looking for a toothbrush.
+Je půl třetí. : It's half past two.
+Byli jsme v kanceláři. : We were at the office.
+Potřebuji číst. : I need to read.
+Pozor na schod! : Watch the step!
+Hledám hřeben. : I'm looking for a comb.
+Hledám lístek. : I'm looking for a ticket.
+Byli jsme v hotelu. : We were at the hotel.
+Je čtvrt na čtyři. : It's quarter past three.
+Potřebuji psát. : I need to write.
+Hledám vstupenku. : I'm looking for an admission ticket.
+Byli jsme v muzeu. : We were at the museum.
+Je tři čtvrtě na pět. : It's quarter to five.
+Pozor, kluzká podlaha! : Caution, slippery floor!
+Hledám program. : I'm looking for a programme.
+Byli jsme v divadle. : We were at the theatre.
+Potřebuji studovat. : I need to study.
+Hledám slovník. : I'm looking for a dictionary.
+Dnes je pondělí. : Today is Monday.
+Byli jsme v kině. : We were at the cinema.
+Hledám učebnici. : I'm looking for a textbook.
+Zítra je úterý. : Tomorrow is Tuesday.
+Byli jsme v parku. : We were in the park.
+Potřebuji pracovat. : I need to work.
+Tudy se jde k východu. : This way leads to the exit.
+Hledám sešit. : I'm looking for a notebook.
+Hledám recept. : I'm looking for a recipe.
+Byli jsme v zahradě. : We were in the garden.
+Včera byla neděle. : Yesterday was Sunday.
+Potřebuji odpočívat. : I need to rest.
+Hledám jídelní lístek. : I'm looking for a menu.
+Byli jsme v kuchyni. : We were in the kitchen.
+Jaké je dnes datum? : What's today's date?
+Vchod je na druhé straně. : The entrance is on the other side.
+Hledám účtenku. : I'm looking for a receipt.
+Byli jsme v ložnici. : We were in the bedroom.
+Potřebuji cvičit. : I need to exercise.
+Hledám fakturu. : I'm looking for an invoice.
+Dnes je prvního května. : Today is the first of May.
+Byli jsme v koupelně. : We were in the bathroom.
+Hledám adresu. : I'm looking for an address.
+V kolik hodin odjíždí vlak? : What time does the train leave?
+Byli jsme v obývacím pokoji. : We were in the living room.
+Potřebuji vařit. : I need to cook.
+Výtah je mimo provoz. : The lift is out of order.
+Hledám telefonní číslo. : I'm looking for a phone number.
+Hledám heslo. : I'm looking for a password.
+Byli jsme na nádraží. : We were at the station.
+Kde je nádraží? : Where is the railway station?
+Potřebuji uklízet. : I need to clean.
+Hledám odpověď. : I'm looking for an answer.
+Byli jsme na letišti. : We were at the airport.
+Kde je autobusová zastávka? : Where is the bus stop?
+Hledám otázku. : I'm looking for a question.
+Použijte prosím schody. : Please use the stairs.
+Byli jsme na poště. : We were at the post office.
+Hledám příběh. : I'm looking for a story.
+Potřebuji nakupovat. : I need to shop.
+Jak se dostanu do centra? : How do I get to the city centre?
+Byli jsme na trhu. : We were at the market.
+Hledám báseň. : I'm looking for a poem.
+Hledám píseň. : I'm looking for a song.
+Byli jsme na náměstí. : We were in the square.
+Potřebuji cestovat. : I need to travel.
+Bydlím ve třetím patře. : I live on the third floor.
+Je to daleko? : Is it far?
+Hledám film. : I'm looking for a film.
+Byli jsme na pláži. : We were on the beach.
+Je to blízko. : It's nearby.
+Hledám obraz. : I'm looking for a painting.
+Potřebuji plavat. : I need to swim.
+Byli jsme na univerzitě. : We were at the university.
+Hledám hodiny. : I'm looking for a clock.
+Výtah je hned vedle schodiště. : The lift is right next to the staircase.
+Jděte rovně. : Go straight ahead.
+Byli jsme na zastávce. : We were at the stop.
+Hledám kalendář. : I'm looking for a calendar.
+Potřebuji běhat. : I need to run.
+Odbočte doleva. : Turn left.
+Byli jsme v Praze. : We were in Prague.
+Hledám novou baterii. : I'm looking for a new battery.
+Hledám starou fotografii. : I'm looking for an old photograph.
+Byli jsme v Brně. : We were in Brno.
+Potřebuji zpívat. : I need to sing.
+Z okna je krásný výhled. : There's a beautiful view from the window.
+Odbočte doprava. : Turn right.
+Hledám čistou košili. : I'm looking for a clean shirt.
+Byli jsme v Ostravě. : We were in Ostrava.
+Přejděte ulici. : Cross the street.
+Hledám teplou bundu. : I'm looking for a warm jacket.
+Potřebuji tančit. : I need to dance.
+Byli jsme v Olomouci. : We were in Olomouc.
+Hledám malý dárek. : I'm looking for a small present.
+Otevřel jsem okno, protože bylo horko. : I opened the window because it was hot. (male speaker)
+Je to za rohem. : It's around the corner.
+Byli jsme v Plzni. : We were in Plzeň.
+Hledám velký kufr. : I'm looking for a large suitcase.
+Potřebuji malovat. : I need to paint.
+Potřebuji jízdenku. : I need a ticket.
+Byli jsme v Českých Budějovicích. : We were in České Budějovice.
+Hledám čerstvý chléb. : I'm looking for fresh bread.
+Hledám studenou vodu. : I'm looking for cold water.
+Byli jsme v Londýně. : We were in London.
+Potřebuji fotografovat. : I need to take photographs.
+Zavřela jsem dveře, aby nebyl průvan. : I closed the door to stop the draught. (female speaker)
+Jednu jízdenku do Brna, prosím. : One ticket to Brno, please.
+Hledám horký čaj. : I'm looking for hot tea.
+Byli jsme v Paříži. : We were in Paris.
+Hledám černou kávu. : I'm looking for black coffee.
+Kolik stojí jízdenka? : How much does the ticket cost?
+Potřebuji telefonovat. : I need to make phone calls.
+Byli jsme ve Vídni. : We were in Vienna.
+Hledám zelený čaj. : I'm looking for green tea.
+Přestože pršelo, šli jsme ven. : Although it was raining, we went outside.
+Kdy přijede autobus? : When will the bus arrive?
+Byli jsme v Berlíně. : We were in Berlin.
+Hledám bílé víno. : I'm looking for white wine.
+Potřebuji spát. : I need to sleep.
+Hledám červené víno. : I'm looking for red wine.
+Byli jsme v Římě. : We were in Rome.
+Vlak má zpoždění. : The train is delayed.
+Hledám čerstvé ovoce. : I'm looking for fresh fruit.
+Byli jsme v Sydney. : We were in Sydney.
+Potřebuji jíst. : I need to eat.
+Kdyby bylo hezky, šli bychom na výlet. : If the weather were nice, we'd go on a trip.
+Zmeškal jsem vlak. : I missed the train. (male speaker)
+Hledám zeleninu. : I'm looking for vegetables.
+Byli jsme v Canbeře. : We were in Canberra.
+Hledám čokoládový dort. : I'm looking for a chocolate cake.
+Zmeškala jsem vlak. : I missed the train. (female speaker)
+Potřebuji pít. : I need to drink.
+Sešli jsme se v knihovně. : We met at the library.
+Hledám knihu. : I'm looking for a book.
+Jestli bude pršet, zůstaneme doma. : If it rains, we'll stay at home.
+Musím přestoupit? : Do I have to change trains?
+Sešli jsme se v restauraci. : We met at the restaurant.
+Hledám noviny. : I'm looking for a newspaper.
+Potřebuji hrát šachy. : I need to play chess.
+Hledám časopis. : I'm looking for a magazine.
+Sešli jsme se v kavárně. : We met at the café.
+Na kterém nástupišti? : At which platform?
+Hledám mapu. : I'm looking for a map.
+Sešli jsme se v obchodě. : We met at the shop.
+Potřebuji hrát na klavír. : I need to play the piano.
+Nevím, jestli přijde včas. : I don't know whether he'll arrive on time.
+Mám rezervaci. : I have a reservation.
+Kde mohu koupit jízdenku? : Where can I buy a ticket?
+Sešli jsme se v supermarketu. : We met at the supermarket.
+Kde mohu koupit letenku? : Where can I buy a plane ticket?
+Potřebuji učit se. : I need to learn.
+Chtěl bych pokoj na jednu noc. : I'd like a room for one night. (male speaker)
+Sešli jsme se v lékárně. : We met at the pharmacy.
+Kde mohu koupit fotografii? : Where can I buy a photograph?
+Doufám, že se brzy uzdravíš. : I hope you get well soon.
+Kde mohu koupit zprávu? : Where can I buy a message?
+Sešli jsme se v nemocnici. : We met at the hospital.
+Chtěla bych pokoj na jednu noc. : I'd like a room for one night. (female speaker)
+Potřebuji chodit pěšky. : I need to walk.
+Kde mohu koupit pohlednici? : Where can I buy a postcard?
+Sešli jsme se ve škole. : We met at school.
+Máte volný pokoj? : Do you have a room available?
+Kde mohu koupit obálku? : Where can I buy an envelope?
+Sešli jsme se v práci. : We met at work.
+Potřebuji jezdit na kole. : I need to cycle.
+Řekl mi, že přijde později. : He told me that he would come later.
+Kde mohu koupit tužku? : Where can I buy a pencil?
+Kde je recepce? : Where is reception?
+Sešli jsme se v kanceláři. : We met at the office.
+Kde mohu koupit propisku? : Where can I buy a pen?
+Potřebuji poslouchat hudbu. : I need to listen to music.
+Mohu dostat klíč? : May I have the key?
+Sešli jsme se v hotelu. : We met at the hotel.
+Kde mohu koupit tašku? : Where can I buy a bag?
+Myslela jsem, že už jsi odešel. : I thought you had already left. (female speaker)
+Kde mohu koupit kabelku? : Where can I buy a handbag?
+Sešli jsme se v muzeu. : We met at the museum.
+V kolik hodin je snídaně? : What time is breakfast?
+Potřebuji sledovat filmy. : I need to watch films.
+Kde mohu koupit láhev vody? : Where can I buy a bottle of water?
+Sešli jsme se v divadle. : We met at the theatre.
+Účet, prosím. : The bill, please.
+Kde mohu koupit šálek čaje? : Where can I buy a cup of tea?
+Sešli jsme se v kině. : We met at the cinema.
+Potřebuji číst noviny. : I need to read newspapers.
+Vypadá to, že bude sněžit. : It looks as though it's going to snow.
+Kde mohu koupit hrnek kávy? : Where can I buy a mug of coffee?
+Mohu platit kartou? : Can I pay by card?
+Sešli jsme se v parku. : We met in the park.
+Kde mohu koupit sklenici vody? : Where can I buy a glass of water?
+Potřebuji péct. : I need to bake.
+Mohu platit hotově? : Can I pay in cash?
+Sešli jsme se v zahradě. : We met in the garden.
+Kde mohu koupit chleba? : Where can I buy bread?
+Když jsem byl malý, bydleli jsme na venkově. : When I was little, we lived in the countryside. (male speaker)
+Kde mohu koupit sýr? : Where can I buy cheese?
+Sešli jsme se v kuchyni. : We met in the kitchen.
+To je příliš drahé. : That's too expensive.
+Potřebuji zahradničit. : I need to garden.
+Kde mohu koupit máslo? : Where can I buy butter?
+Sešli jsme se v ložnici. : We met in the bedroom.
+Máte něco levnějšího? : Do you have something cheaper?
+Kde mohu koupit mléko? : Where can I buy milk?
+Sešli jsme se v koupelně. : We met in the bathroom.
+Nemám čas číst. : I don't have time to read.
+Když jsem byla malá, hrála jsem na housle. : When I was little, I played the violin. (female speaker)
+Kde mohu koupit jablko? : Where can I buy an apple?
+Kolik to stojí? : How much does it cost?
+Sešli jsme se v obývacím pokoji. : We met in the living room.
+Kde mohu koupit banán? : Where can I buy a banana?
+Nemám čas psát. : I don't have time to write.
+Kde mohu koupit pomeranč? : Where can I buy an orange?
+Sešli jsme se na nádraží. : We met at the station.
+Chtěl bych kávu. : I'd like a coffee. (male speaker)
+Než odejdeš, zavři prosím okno. : Before you leave, please close the window.
+Kde mohu koupit rajče? : Where can I buy a tomato?
+Sešli jsme se na letišti. : We met at the airport.
+Chtěla bych čaj. : I'd like a tea. (female speaker)
+Nemám čas studovat. : I don't have time to study.
+Kde mohu koupit okurku? : Where can I buy a cucumber?
+Sešli jsme se na poště. : We met at the post office.
+Kde mohu koupit mrkev? : Where can I buy a carrot?
+Dám si vodu. : I'll have water.
+Sešli jsme se na trhu. : We met at the market.
+Nemám čas pracovat. : I don't have time to work.
+Až skončíš, dej mi vědět. : Let me know when you've finished.
+Kde mohu koupit cibuli? : Where can I buy an onion?
+Bez cukru, prosím. : Without sugar, please.
+Sešli jsme se na náměstí. : We met in the square.
+Kde mohu koupit brambory? : Where can I buy potatoes?
+Nemám čas odpočívat. : I don't have time to rest.
+Kde mohu koupit rýži? : Where can I buy rice?
+Sešli jsme se na pláži. : We met on the beach.
+S mlékem, prosím. : With milk, please.
+Zatímco jsem vařil, děti si hrály. : While I was cooking, the children were playing. (male speaker)
+Kde mohu koupit těstoviny? : Where can I buy pasta?
+Sešli jsme se na univerzitě. : We met at the university.
+Nemám čas cvičit. : I don't have time to exercise.
+Jsem vegetarián. : I'm a vegetarian. (male speaker)
+Kde mohu koupit polévku? : Where can I buy soup?
+Sešli jsme se na zastávce. : We met at the stop.
+Kde mohu koupit salát? : Where can I buy a salad?
+Jsem vegetariánka. : I'm a vegetarian. (female speaker)
+Sešli jsme se v Praze. : We met in Prague.
+Nemám čas vařit. : I don't have time to cook.
+Jakmile dorazíme, zavolám ti. : I'll call you as soon as we arrive.
+Kde mohu koupit koláč? : Where can I buy a cake?
+Mám alergii na ořechy. : I'm allergic to nuts.
+Sešli jsme se v Brně. : We met in Brno.
+Kde mohu koupit čokoládu? : Where can I buy chocolate?
+Nemám čas uklízet. : I don't have time to clean.
+Kde mohu koupit zmrzlinu? : Where can I buy ice cream?
+Sešli jsme se v Ostravě. : We met in Ostrava.
+Je to pálivé? : Is it spicy?
+Čím déle čekáme, tím je chladněji. : The longer we wait, the colder it gets.
+Kde mohu koupit květinu? : Where can I buy a flower?
+Sešli jsme se v Olomouci. : We met in Olomouc.
+Nemám čas nakupovat. : I don't have time to shop.
+Kde mohu koupit kytici? : Where can I buy a bouquet?
+To je výborné. : That's delicious.
+Sešli jsme se v Plzni. : We met in Plzeň.
+Kde mohu koupit svíčku? : Where can I buy a candle?
+Mám hlad. : I'm hungry.
+Sešli jsme se v Českých Budějovicích. : We met in České Budějovice.
+Nemám čas cestovat. : I don't have time to travel.
+Přestože byl unavený, pokračoval v práci. : Although he was tired, he kept working.
+Kde mohu koupit dárek? : Where can I buy a present?
+Kde mohu koupit hodinky? : Where can I buy a watch?
+Sešli jsme se v Londýně. : We met in London.
+Mám žízeň. : I'm thirsty.
+Nemám čas plavat. : I don't have time to swim.
+Kde mohu koupit telefon? : Where can I buy a phone?
+Sešli jsme se v Paříži. : We met in Paris.
+Už jsem jedl. : I've already eaten. (male speaker)
+Kdybych měl více času, naučil bych se italsky. : If I had more time, I'd learn Italian. (male speaker)
+Kde mohu koupit počítač? : Where can I buy a computer?
+Sešli jsme se ve Vídni. : We met in Vienna.
+Nemám čas běhat. : I don't have time to run.
+Kde mohu koupit notebook? : Where can I buy a laptop?
+Už jsem jedla. : I've already eaten. (female speaker)
+Sešli jsme se v Berlíně. : We met in Berlin.
+Kde mohu koupit nabíječku? : Where can I buy a charger?
+Co bude k večeři? : What's for dinner?
+Sešli jsme se v Římě. : We met in Rome.
+Nemám čas zpívat. : I don't have time to sing.
+Kdybych měla více peněz, cestovala bych častěji. : If I had more money, I'd travel more often. (female speaker)
+Kde mohu koupit klíč? : Where can I buy a key?
+Kde mohu koupit deštník? : Where can I buy an umbrella?
+Sešli jsme se v Sydney. : We met in Sydney.
+Dobrou chuť! : Enjoy your meal!
+Nemám čas tančit. : I don't have time to dance.
+Kde mohu koupit kabát? : Where can I buy a coat?
+Sešli jsme se v Canbeře. : We met in Canberra.
+Na zdraví! : Cheers!
+Nemusíš spěchat, máme dost času. : You don't need to hurry; we have plenty of time.
+Kde mohu koupit svetr? : Where can I buy a sweater?
+Zítra půjdu do knihovny. : I will go to the library tomorrow.
+Nemám čas malovat. : I don't have time to paint.
+Kde mohu koupit košili? : Where can I buy a shirt?
+Kde jsou toalety? : Where are the toilets?
+Zítra půjdu do restaurace. : I will go to the restaurant tomorrow.
+Kde mohu koupit šálu? : Where can I buy a scarf?
+Potřebuji pomoc. : I need help.
+Kde mohu koupit čepici? : Where can I buy a hat?
+Zítra půjdu do kavárny. : I will go to the café tomorrow.
+Nemám čas fotografovat. : I don't have time to take photographs.
+Měl bys víc odpočívat. : You should rest more. (to a man)
+Kde mohu koupit boty? : Where can I buy shoes?
+Zítra půjdu do obchodu. : I will go to the shop tomorrow.
+Zavolejte lékaře. : Call a doctor.
+Kde mohu koupit ponožky? : Where can I buy socks?
+Nemám čas telefonovat. : I don't have time to make phone calls.
+Zítra půjdu do supermarketu. : I will go to the supermarket tomorrow.
+Kde mohu koupit brýle? : Where can I buy glasses?
+Měla bys víc odpočívat. : You should rest more. (to a woman)
+Zavolejte policii. : Call the police.
+Zítra půjdu do lékárny. : I will go to the pharmacy tomorrow.
+Kde mohu koupit batoh? : Where can I buy a backpack?
+Nemám čas spát. : I don't have time to sleep.
+Ztratil jsem peněženku. : I've lost my wallet. (male speaker)
+Zítra půjdu do nemocnice. : I will go to the hospital tomorrow.
+Kde mohu koupit kufr? : Where can I buy a suitcase?
+Kde mohu koupit ručník? : Where can I buy a towel?
+Zítra půjdu do školy. : I will go to school tomorrow.
+Nemám čas jíst. : I don't have time to eat.
+Raději bych zůstal doma. : I'd rather stay at home. (male speaker)
+Ztratila jsem telefon. : I've lost my phone. (female speaker)
+Kde mohu koupit mýdlo? : Where can I buy soap?
+Zítra půjdu do práce. : I will go to work tomorrow.
+Bolí mě hlava. : I have a headache.
+Kde mohu koupit zubní kartáček? : Where can I buy a toothbrush?
+Nemám čas pít. : I don't have time to drink.
+Zítra půjdu do kanceláře. : I will go to the office tomorrow.
+Kde mohu koupit hřeben? : Where can I buy a comb?
+Raději bych zůstala doma. : I'd rather stay at home. (female speaker)
+Bolí mě v krku. : I have a sore throat.
+Zítra půjdu do hotelu. : I will go to the hotel tomorrow.
+Kde mohu koupit lístek? : Where can I buy a ticket?
+Nemám čas hrát šachy. : I don't have time to play chess.
+Necítím se dobře. : I don't feel well.
+Zítra půjdu do muzea. : I will go to the museum tomorrow.
+Kde mohu koupit vstupenku? : Where can I buy an admission ticket?
+Kde mohu koupit program? : Where can I buy a programme?
+Zítra půjdu do divadla. : I will go to the theatre tomorrow.
+Nemám čas hrát na klavír. : I don't have time to play the piano.
+Nemůžu si vzpomenout na jeho jméno. : I can't remember his name.
+Kde je lékárna? : Where is the pharmacy?
+Kde mohu koupit slovník? : Where can I buy a dictionary?
+Zítra půjdu do kina. : I will go to the cinema tomorrow.
+Můžete mi pomoci? : Can you help me?
+Kde mohu koupit učebnici? : Where can I buy a textbook?
+Nemám čas učit se. : I don't have time to learn.
+Zítra půjdu do parku. : I will go to the park tomorrow.
+Kde mohu koupit sešit? : Where can I buy a notebook?
+Už si na to vzpomínám. : Now I remember.
+Potřebuji si odpočinout. : I need to rest.
+Zítra půjdu do zahrady. : I will go to the garden tomorrow.
+Kde mohu koupit recept? : Where can I buy a recipe?
+Nemám čas chodit pěšky. : I don't have time to walk.
+Kde mohu koupit jídelní lístek? : Where can I buy a menu?
+Zítra půjdu do kuchyně. : I will go to the kitchen tomorrow.
+Dnes nemám čas. : I don't have time today.
+Kde mohu koupit účtenku? : Where can I buy a receipt?
+Zítra půjdu do ložnice. : I will go to the bedroom tomorrow.
+Nemám čas jezdit na kole. : I don't have time to cycle.
+To mi připomíná naše poslední setkání. : That reminds me of our last meeting.
+Zítra mám volno. : I'm free tomorrow.
+Kde mohu koupit fakturu? : Where can I buy an invoice?
+Zítra půjdu do koupelny. : I will go to the bathroom tomorrow.
+Kde mohu koupit adresu? : Where can I buy an address?
+Mám hodně práce. : I have a lot of work.
+Nemám čas poslouchat hudbu. : I don't have time to listen to music.
+Zítra půjdu do obývacího pokoje. : I will go to the living room tomorrow.
+Kde mohu koupit telefonní číslo? : Where can I buy a phone number?
+Pochybuji, že je to správně. : I doubt that's correct.
+Pracuji z domova. : I work from home.
+Zítra půjdu na nádraží. : I will go to the station tomorrow.
+Kde mohu koupit heslo? : Where can I buy a password?
+Nemám čas sledovat filmy. : I don't have time to watch films.
+Kde mohu koupit odpověď? : Where can I buy an answer?
+Zítra půjdu na letiště. : I will go to the airport tomorrow.
+Právě čtu knihu. : I'm reading a book right now.
+Kde mohu koupit otázku? : Where can I buy a question?
+Zítra půjdu na poštu. : I will go to the post office tomorrow.
+Nemám čas číst noviny. : I don't have time to read newspapers.
+Jsem si jistý, že máš pravdu. : I'm sure you're right. (male speaker)
+Poslouchám hudbu. : I'm listening to music.
+Kde mohu koupit příběh? : Where can I buy a story?
+Zítra půjdu na trh. : I will go to the market tomorrow.
+Kde mohu koupit báseň? : Where can I buy a poem?
+Nemám čas péct. : I don't have time to bake.
+Rád chodím na procházky. : I like going for walks. (male speaker)
+Zítra půjdu na náměstí. : I will go to the square tomorrow.
+Kde mohu koupit píseň? : Where can I buy a song?
+Jsem si jistá, že máš pravdu. : I'm sure you're right. (female speaker)
+Ráda chodím na procházky. : I like going for walks. (female speaker)
+Zítra půjdu na pláž. : I will go to the beach tomorrow.
+Kde mohu koupit film? : Where can I buy a film?
+Nemám čas zahradničit. : I don't have time to garden.
+Kde mohu koupit obraz? : Where can I buy a painting?
+Zítra půjdu na univerzitu. : I will go to the university tomorrow.
+Rád vařím. : I like cooking. (male speaker)
+Kde mohu koupit hodiny? : Where can I buy a clock?
+Zítra půjdu na zastávku. : I will go to the stop tomorrow.
+Mohu tady číst? : Can I read here?
+Nemám ponětí, co se stalo. : I have no idea what happened.
+Kde mohu koupit kalendář? : Where can I buy a calendar?
+Ráda vařím. : I like cooking. (female speaker)
+Zítra půjdu do Prahy. : I will go to Prague tomorrow.
+Kde mohu koupit novou baterii? : Where can I buy a new battery?
+Mohu tady psát? : Can I write here?
+Dnes je krásné počasí. : The weather is lovely today.
+Zítra půjdu do Brna. : I will go to Brno tomorrow.
+Kde mohu koupit starou fotografii? : Where can I buy an old photograph?
+Není to tak jednoduché, jak to vypadá. : It's not as simple as it looks.
+Kde mohu koupit čistou košili? : Where can I buy a clean shirt?
+Zítra půjdu do Ostravy. : I will go to Ostrava tomorrow.
+Prší. : It's raining.
+Mohu tady studovat? : Can I study here?
+Kde mohu koupit teplou bundu? : Where can I buy a warm jacket?
+Zítra půjdu do Olomouce. : I will go to Olomouc tomorrow.
+Sněží. : It's snowing.
+Kde mohu koupit malý dárek? : Where can I buy a small present?
+Zítra půjdu do Plzně. : I will go to Plzeň tomorrow.
+Mohu tady pracovat? : Can I work here?
+Na jednu stranu máš pravdu. : On the one hand, you're right.
+Kde mohu koupit velký kufr? : Where can I buy a large suitcase?
+Fouká silný vítr. : A strong wind is blowing.
+Zítra půjdu do Českých Budějovic. : I will go to České Budějovice tomorrow.
+Kde mohu koupit čerstvý chléb? : Where can I buy fresh bread?
+Mohu tady odpočívat? : Can I rest here?
+Je horko. : It's hot.
+Zítra půjdu do Londýna. : I will go to London tomorrow.
+Kde mohu koupit studenou vodu? : Where can I buy cold water?
+Na druhou stranu je to drahé. : On the other hand, it's expensive.
+Kde mohu koupit horký čaj? : Where can I buy hot tea?
+Zítra půjdu do Paříže. : I will go to Paris tomorrow.
+Je zima. : It's cold.
+Mohu tady cvičit? : Can I exercise here?
+Kde mohu koupit černou kávu? : Where can I buy black coffee?
+Zítra půjdu do Vídně. : I will go to Vienna tomorrow.
+Je zataženo. : It's overcast.
+Kde mohu koupit zelený čaj? : Where can I buy green tea?
+Zítra půjdu do Berlína. : I will go to Berlin tomorrow.
+Mohu tady vařit? : Can I cook here?
+Podle mého názoru je to dobré řešení. : In my opinion, it's a good solution.
+Kde mohu koupit bílé víno? : Where can I buy white wine?
+Svítí slunce. : The sun is shining.
+Zítra půjdu do Říma. : I will go to Rome tomorrow.
+Kde mohu koupit červené víno? : Where can I buy red wine?
+Mohu tady uklízet? : Can I clean here?
+Vezmi si deštník. : Take an umbrella.
+Zítra půjdu do Sydney. : I will go to Sydney tomorrow.
+Kde mohu koupit čerstvé ovoce? : Where can I buy fresh fruit?
+Můžeš mi vysvětlit, jak to funguje? : Can you explain how it works?
+Kde mohu koupit zeleninu? : Where can I buy vegetables?
+Zítra půjdu do Canberry. : I will go to Canberra tomorrow.
+Na horách je sníh. : There is snow in the mountains.
+Mohu tady nakupovat? : Can I shop here?
+Kde mohu koupit čokoládový dort? : Where can I buy a chocolate cake?
+Musím jít do knihovny. : I have to go to the library.
+Kde mohu koupit knihu? : Where can I buy a book?
+Jaká je předpověď počasí? : What's the weather forecast?
+Musím jít do restaurace. : I have to go to the restaurant.
+Mohu tady cestovat? : Can I travel here?
+Nejprve si přečti návod. : First, read the instructions.
+Kde mohu koupit noviny? : Where can I buy a newspaper?
+Nemůžu najít klíče. : I can't find the keys.
+Musím jít do kavárny. : I have to go to the café.
+Kde mohu koupit časopis? : Where can I buy a magazine?
+Mohu tady plavat? : Can I swim here?
+Kde mohu koupit mapu? : Where can I buy a map?
+Musím jít do obchodu. : I have to go to the shop.
+Zapomněl jsem heslo. : I forgot the password. (male speaker)
+Pak stiskni zelené tlačítko. : Then press the green button.
+Chci si koupit jízdenku. : I want to buy a ticket.
+Musím jít do supermarketu. : I have to go to the supermarket.
+Mohu tady běhat? : Can I run here?
+Zapomněla jsem heslo. : I forgot the password. (female speaker)
+Chci si koupit letenku. : I want to buy a plane ticket.
+Musím jít do lékárny. : I have to go to the pharmacy.
+Chci si koupit fotografii. : I want to buy a photograph.
+Počítač nefunguje. : The computer isn't working.
+Musím jít do nemocnice. : I have to go to the hospital.
+Mohu tady zpívat? : Can I sing here?
+Nakonec ulož změny. : Finally, save the changes.
+Chci si koupit zprávu. : I want to buy a message.
+Telefon je vybitý. : The phone's battery is dead.
+Musím jít do školy. : I have to go to school.
+Chci si koupit pohlednici. : I want to buy a postcard.
+Mohu tady tančit? : Can I dance here?
+Chci si koupit obálku. : I want to buy an envelope.
+Musím jít do práce. : I have to go to work.
+Internet je pomalý. : The internet is slow.
+Soubor se nepodařilo otevřít. : The file could not be opened.
+Chci si koupit tužku. : I want to buy a pencil.
+Musím jít do kanceláře. : I have to go to the office.
+Mohu tady malovat? : Can I paint here?
+Pošlu vám e-mail. : I'll send you an email.
+Chci si koupit propisku. : I want to buy a pen.
+Musím jít do hotelu. : I have to go to the hotel.
+Chci si koupit tašku. : I want to buy a bag.
+Mohu si půjčit nabíječku? : May I borrow a charger?
+Musím jít do muzea. : I have to go to the museum.
+Mohu tady fotografovat? : Can I take photographs here?
+Zapomněl jsem uložit dokument. : I forgot to save the document. (male speaker)
+Chci si koupit kabelku. : I want to buy a handbag.
+Chci si koupit láhev vody. : I want to buy a bottle of water.
+Musím jít do divadla. : I have to go to the theatre.
+Kde je zásuvka? : Where is the power socket?
+Mohu tady telefonovat? : Can I make phone calls here?
+Chci si koupit šálek čaje. : I want to buy a cup of tea.
+Musím jít do kina. : I have to go to the cinema.
+Zavřete prosím dveře. : Please close the door.
+Musíme aktualizovat program. : We need to update the programme.
+Chci si koupit hrnek kávy. : I want to buy a mug of coffee.
+Musím jít do parku. : I have to go to the park.
+Mohu tady spát? : Can I sleep here?
+Chci si koupit sklenici vody. : I want to buy a glass of water.
+Otevřete prosím okno. : Please open the window.
+Musím jít do zahrady. : I have to go to the garden.
+Chci si koupit chleba. : I want to buy bread.
+Rozsviť světlo. : Turn on the light.
+Musím jít do kuchyně. : I have to go to the kitchen.
+Mohu tady jíst? : Can I eat here?
+Tato aplikace funguje i bez internetu. : This app also works without internet access.
+Chci si koupit sýr. : I want to buy cheese.
+Chci si koupit máslo. : I want to buy butter.
+Musím jít do ložnice. : I have to go to the bedroom.
+Zhasni světlo. : Turn off the light.
+Mohu tady pít? : Can I drink here?
+Chci si koupit mléko. : I want to buy milk.
+Musím jít do koupelny. : I have to go to the bathroom.
+Můžeš chvíli počkat? : Can you wait a moment?
+Připojení bylo přerušeno. : The connection was interrupted.
+Chci si koupit jablko. : I want to buy an apple.
+Musím jít do obývacího pokoje. : I have to go to the living room.
+Mohu tady hrát šachy? : Can I play chess here?
+Chci si koupit banán. : I want to buy a banana.
+Hned se vrátím. : I'll be right back.
+Musím jít na nádraží. : I have to go to the station.
+Chci si koupit pomeranč. : I want to buy an orange.
+Už musím jít. : I have to go now.
+Musím jít na letiště. : I have to go to the airport.
+Mohu tady hrát na klavír? : Can I play the piano here?
+Zkuste to prosím znovu. : Please try again.
+Chci si koupit rajče. : I want to buy a tomato.
+Chci si koupit okurku. : I want to buy a cucumber.
+Musím jít na poštu. : I have to go to the post office.
+To je dobrý nápad. : That's a good idea.
+Mohu tady učit se? : Can I learn here?
+Chci si koupit mrkev. : I want to buy a carrot.
+Musím jít na trh. : I have to go to the market.
+To není pravda. : That's not true.
+Chci si koupit cibuli. : I want to buy an onion.
+Zadejte své heslo. : Enter your password.
+Musím jít na náměstí. : I have to go to the square.
+Chci si koupit brambory. : I want to buy potatoes.
+Mohu tady chodit pěšky? : Can I walk here?
+Máš pravdu. : You're right.
+Musím jít na pláž. : I have to go to the beach.
+Chci si koupit rýži. : I want to buy rice.
+Chci si koupit těstoviny. : I want to buy pasta.
+Musím jít na univerzitu. : I have to go to the university.
+Mohu tady jezdit na kole? : Can I cycle here?
+Heslo musí obsahovat alespoň osm znaků. : The password must contain at least eight characters.
+Nesouhlasím. : I disagree.
+Chci si koupit polévku. : I want to buy soup.
+Musím jít na zastávku. : I have to go to the stop.
+Souhlasím s tebou. : I agree with you.
+Chci si koupit salát. : I want to buy a salad.
+Mohu tady poslouchat hudbu? : Can I listen to music here?
+Musím jít do Prahy. : I have to go to Prague.
+Chci si koupit koláč. : I want to buy a cake.
+Odeslal jsem zprávu omylem. : I sent the message by mistake. (male speaker)
+Co si o tom myslíš? : What do you think about it?
+Musím jít do Brna. : I have to go to Brno.
+Chci si koupit čokoládu. : I want to buy chocolate.
+Mohu tady sledovat filmy? : Can I watch films here?
+To záleží na okolnostech. : It depends on the circumstances.
+Musím jít do Ostravy. : I have to go to Ostrava.
+Chci si koupit zmrzlinu. : I want to buy ice cream.
+Chci si koupit květinu. : I want to buy a flower.
+Musím jít do Olomouce. : I have to go to Olomouc.
+Mohu tady číst noviny? : Can I read newspapers here?
+Odpovím, až budu mít čas. : I'll reply when I have time.
+Ještě jsem se nerozhodl. : I haven't decided yet. (male speaker)
+Chci si koupit kytici. : I want to buy a bouquet.
+Musím jít do Plzně. : I have to go to Plzeň.
+Ještě jsem se nerozhodla. : I haven't decided yet. (female speaker)
+Chci si koupit svíčku. : I want to buy a candle.
+Mohu tady péct? : Can I bake here?
+Musím jít do Českých Budějovic. : I have to go to České Budějovice.
+Chci si koupit dárek. : I want to buy a present.
+Pošli mi prosím odkaz. : Please send me the link.
+Přemýšlím o tom. : I'm thinking about it.
+Musím jít do Londýna. : I have to go to London.
+Chci si koupit hodinky. : I want to buy a watch.
+Mohu tady zahradničit? : Can I garden here?
+Můžeme začít? : Can we start?
+Musím jít do Paříže. : I have to go to Paris.
+Chci si koupit telefon. : I want to buy a phone.
+Chci si koupit počítač. : I want to buy a computer.
+Musím jít do Vídně. : I have to go to Vienna.
+Zítra budu číst. : I will read tomorrow.
+Našel jsem zajímavý článek. : I found an interesting article. (male speaker)
+Už jsme skončili. : We've already finished.
+Chci si koupit notebook. : I want to buy a laptop.
+Musím jít do Berlína. : I have to go to Berlin.
+Chci si koupit nabíječku. : I want to buy a charger.
+Není kam spěchat. : There's no hurry.
+Zítra budu psát. : I will write tomorrow.
+Musím jít do Říma. : I have to go to Rome.
+Chci si koupit klíč. : I want to buy a key.
+Včera jsme byli na koncertě. : We went to a concert yesterday.
+Čím dřív, tím líp. : The sooner, the better.
+Musím jít do Sydney. : I have to go to Sydney.
+Chci si koupit deštník. : I want to buy an umbrella.
+Zítra budu studovat. : I will study tomorrow.
+Chci si koupit kabát. : I want to buy a coat.
+Musím jít do Canberry. : I have to go to Canberra.
+To je poprvé. : This is the first time.
+Chci si koupit svetr. : I want to buy a sweater.
+Jak se dostanu do knihovny? : How do I get to the library?
+Zítra budu pracovat. : I will work tomorrow.
+Představení začíná v sedm. : The performance starts at seven.
+Stává se to často. : It happens often.
+Chci si koupit košili. : I want to buy a shirt.
+Jak se dostanu do restaurace? : How do I get to the restaurant?
+Chci si koupit šálu. : I want to buy a scarf.
+Nikdy jsem tam nebyl. : I've never been there. (male speaker)
+Zítra budu odpočívat. : I will rest tomorrow.
+Jak se dostanu do kavárny? : How do I get to the café?
+Chci si koupit čepici. : I want to buy a hat.
+Lístky jsou už vyprodané. : The tickets are already sold out.
+Nikdy jsem tam nebyla. : I've never been there. (female speaker)
+Jak se dostanu do obchodu? : How do I get to the shop?
+Chci si koupit boty. : I want to buy shoes.
+Zítra budu cvičit. : I will exercise tomorrow.
+Chci si koupit ponožky. : I want to buy socks.
+Jak se dostanu do supermarketu? : How do I get to the supermarket?
+Byl jsem tam minulý rok. : I was there last year. (male speaker)
+Chci si koupit brýle. : I want to buy glasses.
+Jak se dostanu do lékárny? : How do I get to the pharmacy?
+Zítra budu vařit. : I will cook tomorrow.
+Hudba byla příliš hlasitá. : The music was too loud.
+Byla jsem tam minulý rok. : I was there last year. (female speaker)
+Chci si koupit batoh. : I want to buy a backpack.
+Jak se dostanu do nemocnice? : How do I get to the hospital?
+Chci si koupit kufr. : I want to buy a suitcase.
+Zítra budu uklízet. : I will clean tomorrow.
+Chtěl bych se něco zeptat. : I'd like to ask something. (male speaker)
+Jak se dostanu do školy? : How do I get to school?
+Chci si koupit ručník. : I want to buy a towel.
+Zpěvačka měla krásný hlas. : The singer had a beautiful voice.
+Chci si koupit mýdlo. : I want to buy soap.
+Jak se dostanu do práce? : How do I get to work?
+Chtěla bych se něco zeptat. : I'd like to ask something. (female speaker)
+Zítra budu nakupovat. : I will shop tomorrow.
+Chci si koupit zubní kartáček. : I want to buy a toothbrush.
+Jak se dostanu do kanceláře? : How do I get to the office?
+Nespěchej. : Don't hurry.
+Chci si koupit hřeben. : I want to buy a comb.
+Jak se dostanu do hotelu? : How do I get to the hotel?
+Zítra budu cestovat. : I will travel tomorrow.
+Orchestr hrál výborně. : The orchestra played excellently.
+Chci si koupit lístek. : I want to buy a ticket.
+Buď opatrný. : Be careful. (to a man)
+Jak se dostanu do muzea? : How do I get to the museum?
+Chci si koupit vstupenku. : I want to buy an admission ticket.
+Zítra budu plavat. : I will swim tomorrow.
+Buď opatrná. : Be careful. (to a woman)
+Jak se dostanu do divadla? : How do I get to the theatre?
+Chci si koupit program. : I want to buy a programme.
+Tato melodie mi připadá povědomá. : This melody sounds familiar to me.
+Chci si koupit slovník. : I want to buy a dictionary.
+Jak se dostanu do kina? : How do I get to the cinema?
+To se mi líbí. : I like that.
+Zítra budu běhat. : I will run tomorrow.
+Chci si koupit učebnici. : I want to buy a textbook.
+Jak se dostanu do parku? : How do I get to the park?
+To se mi nelíbí. : I don't like that.
+Chci si koupit sešit. : I want to buy a notebook.
+Jak se dostanu do zahrady? : How do I get to the garden?
+Zítra budu zpívat. : I will sing tomorrow.
+Nikdy jsem tu skladbu neslyšel. : I've never heard that piece. (male speaker)
+Chci si koupit recept. : I want to buy a recipe.
+To je zajímavé. : That's interesting.
+Jak se dostanu do kuchyně? : How do I get to the kitchen?
+Chci si koupit jídelní lístek. : I want to buy a menu.
+Zítra budu tančit. : I will dance tomorrow.
+To je překvapivé. : That's surprising.
+Jak se dostanu do ložnice? : How do I get to the bedroom?
+Chci si koupit účtenku. : I want to buy a receipt.
+Rád poslouchám klasickou hudbu. : I enjoy listening to classical music. (male speaker)
+Chci si koupit fakturu. : I want to buy an invoice.
+Jak se dostanu do koupelny? : How do I get to the bathroom?
+To je zvláštní. : That's strange.
+Zítra budu malovat. : I will paint tomorrow.
+Chci si koupit adresu. : I want to buy an address.
+Jak se dostanu do obývacího pokoje? : How do I get to the living room?
+To dává smysl. : That makes sense.
+Chci si koupit telefonní číslo. : I want to buy a phone number.
+Jak se dostanu na nádraží? : How do I get to the station?
+Zítra budu fotografovat. : I will take photographs tomorrow.
+Včera jsem četla zajímavou knihu. : I read an interesting book yesterday. (female speaker)
+Chci si koupit heslo. : I want to buy a password.
+To nedává smysl. : That doesn't make sense.
+Jak se dostanu na letiště? : How do I get to the airport?
+Chci si koupit odpověď. : I want to buy an answer.
+Zítra budu telefonovat. : I will make phone calls tomorrow.
+Chci si koupit otázku. : I want to buy a question.
+Jak se dostanu na poštu? : How do I get to the post office?
+To je škoda. : That's a pity.
+Kdo je autorem této knihy? : Who is the author of this book?
+Chci si koupit příběh. : I want to buy a story.
+Jak se dostanu na trh? : How do I get to the market?
+Mám radost. : I'm happy.
+Zítra budu spát. : I will sleep tomorrow.
+Chci si koupit báseň. : I want to buy a poem.
+Jak se dostanu na náměstí? : How do I get to the square?
+Chci si koupit píseň. : I want to buy a song.
+Mám strach. : I'm afraid.
+Jak se dostanu na pláž? : How do I get to the beach?
+Zítra budu jíst. : I will eat tomorrow.
+Tento román byl přeložen do češtiny. : This novel was translated into Czech.
+Chci si koupit film. : I want to buy a film.
+Jsem unavený. : I'm tired. (male speaker)
+Jak se dostanu na univerzitu? : How do I get to the university?
+Chci si koupit obraz. : I want to buy a painting.
+Zítra budu pít. : I will drink tomorrow.
+Chci si koupit hodiny. : I want to buy a clock.
+Jak se dostanu na zastávku? : How do I get to the stop?
+Jsem unavená. : I'm tired. (female speaker)
+Jak se ti líbil ten film? : How did you like the film?
+Chci si koupit kalendář. : I want to buy a calendar.
+Jak se dostanu do Prahy? : How do I get to Prague?
+Zítra budu hrát šachy. : I will play chess tomorrow.
+Jsem připravený. : I'm ready. (male speaker)
+Chci si koupit novou baterii. : I want to buy a new battery.
+Jak se dostanu do Brna? : How do I get to Brno?
+Chci si koupit starou fotografii. : I want to buy an old photograph.
+Jsem připravená. : I'm ready. (female speaker)
+Jak se dostanu do Ostravy? : How do I get to Ostrava?
+Zítra budu hrát na klavír. : I will play the piano tomorrow.
+Konec filmu mě překvapil. : The ending of the film surprised me.
+Chci si koupit čistou košili. : I want to buy a clean shirt.
+Dnes mám narozeniny. : It's my birthday today.
+Jak se dostanu do Olomouce? : How do I get to Olomouc?
+Chci si koupit teplou bundu. : I want to buy a warm jacket.
+Zítra budu učit se. : I will learn tomorrow.
+Chci si koupit malý dárek. : I want to buy a small present.
+Jak se dostanu do Plzně? : How do I get to Plzeň?
+Všechno nejlepší! : Happy birthday!
+Na ten výlet nikdy nezapomenu. : I'll never forget that trip.
+Chci si koupit velký kufr. : I want to buy a large suitcase.
+Jak se dostanu do Českých Budějovic? : How do I get to České Budějovice?
+Zítra budu chodit pěšky. : I will walk tomorrow.
+Chci si koupit čerstvý chléb. : I want to buy fresh bread.
+Šťastný nový rok! : Happy New Year!
+Jak se dostanu do Londýna? : How do I get to London?
+Chci si koupit studenou vodu. : I want to buy cold water.
+Veselé Vánoce! : Merry Christmas!
+Jak se dostanu do Paříže? : How do I get to Paris?
+Zítra budu jezdit na kole. : I will cycle tomorrow.
+Ráno jsme vyrazili velmi brzy. : We set off very early in the morning.
+Chci si koupit horký čaj. : I want to buy hot tea.
+Chci si koupit černou kávu. : I want to buy black coffee.
+Jak se dostanu do Vídně? : How do I get to Vienna?
+Hodně štěstí! : Good luck!
+Zítra budu poslouchat hudbu. : I will listen to music tomorrow.
+Chci si koupit zelený čaj. : I want to buy green tea.
+Jak se dostanu do Berlína? : How do I get to Berlin?
+Gratuluji! : Congratulations!
+Cesta trvala skoro tři hodiny. : The journey took almost three hours.
+Chci si koupit bílé víno. : I want to buy white wine.
+Jak se dostanu do Říma? : How do I get to Rome?
+Zítra budu sledovat filmy. : I will watch films tomorrow.
+Chci si koupit červené víno. : I want to buy red wine.
+To mě mrzí. : I'm sorry to hear that.
+Jak se dostanu do Sydney? : How do I get to Sydney?
+Chci si koupit čerstvé ovoce. : I want to buy fresh fruit.
+Rád tě vidím. : I'm glad to see you. (male speaker)
+Jak se dostanu do Canberry? : How do I get to Canberra?
+Zítra budu číst noviny. : I will read newspapers tomorrow.
+Ztratili jsme cestu v lese. : We lost our way in the forest.
+Chci si koupit zeleninu. : I want to buy vegetables.
+Chci si koupit čokoládový dort. : I want to buy a chocolate cake.
+Kdy pojedeme do knihovny? : When are we going to the library?
+Ráda tě vidím. : I'm glad to see you. (female speaker)
+Zítra budu péct. : I will bake tomorrow.
+Chci si koupit knihu. : I want to buy a book.
+Kdy pojedeme do restaurace? : When are we going to the restaurant?
+Chybíš mi. : I miss you.
+Naštěstí jsme měli mapu. : Fortunately, we had a map.
+Chci si koupit noviny. : I want to buy a newspaper.
+Kdy pojedeme do kavárny? : When are we going to the café?
+Zítra budu zahradničit. : I will garden tomorrow.
+Chci si koupit časopis. : I want to buy a magazine.
+Měj se hezky. : Take care.
+Kdy pojedeme do obchodu? : When are we going to the shop?
+Chci si koupit mapu. : I want to buy a map.

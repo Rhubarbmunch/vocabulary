@@ -1,0 +1,1000 @@
+Čekám na tebe na nádraží. : I am waiting for you at the station.
+Sejdeme se na nádraží v šest. : We will meet at the station at six.
+Zítra budu pracovat na nádraží. : Tomorrow I will work at the station.
+Včera jsem strávil celé odpoledne na nádraží. : Yesterday I spent the whole afternoon at the station.
+Můžeme si promluvit na nádraží? : Can we talk at the station?
+Ztratil jsem peněženku na nádraží. : I lost my wallet at the station.
+Je tu někde toaleta na nádraží? : Is there a toilet somewhere at the station?
+Někoho jsem potkal na nádraží. : I met someone at the station.
+Právě teď jsem na nádraží. : I am at the station right now.
+Uvidíme se znovu na nádraží. : We will see each other again at the station.
+Čekám na tebe na letišti. : I am waiting for you at the airport.
+Sejdeme se na letišti v šest. : We will meet at the airport at six.
+Zítra budu pracovat na letišti. : Tomorrow I will work at the airport.
+Včera jsem strávil celé odpoledne na letišti. : Yesterday I spent the whole afternoon at the airport.
+Můžeme si promluvit na letišti? : Can we talk at the airport?
+Ztratil jsem peněženku na letišti. : I lost my wallet at the airport.
+Je tu někde toaleta na letišti? : Is there a toilet somewhere at the airport?
+Někoho jsem potkal na letišti. : I met someone at the airport.
+Právě teď jsem na letišti. : I am at the airport right now.
+Uvidíme se znovu na letišti. : We will see each other again at the airport.
+Čekám na tebe v knihovně. : I am waiting for you at the library.
+Sejdeme se v knihovně v šest. : We will meet at the library at six.
+Zítra budu pracovat v knihovně. : Tomorrow I will work at the library.
+Včera jsem strávil celé odpoledne v knihovně. : Yesterday I spent the whole afternoon at the library.
+Můžeme si promluvit v knihovně? : Can we talk at the library?
+Ztratil jsem peněženku v knihovně. : I lost my wallet at the library.
+Je tu někde toaleta v knihovně? : Is there a toilet somewhere at the library?
+Někoho jsem potkal v knihovně. : I met someone at the library.
+Právě teď jsem v knihovně. : I am at the library right now.
+Uvidíme se znovu v knihovně. : We will see each other again at the library.
+Čekám na tebe v muzeu. : I am waiting for you at the museum.
+Sejdeme se v muzeu v šest. : We will meet at the museum at six.
+Zítra budu pracovat v muzeu. : Tomorrow I will work at the museum.
+Včera jsem strávil celé odpoledne v muzeu. : Yesterday I spent the whole afternoon at the museum.
+Můžeme si promluvit v muzeu? : Can we talk at the museum?
+Ztratil jsem peněženku v muzeu. : I lost my wallet at the museum.
+Je tu někde toaleta v muzeu? : Is there a toilet somewhere at the museum?
+Někoho jsem potkal v muzeu. : I met someone at the museum.
+Právě teď jsem v muzeu. : I am at the museum right now.
+Uvidíme se znovu v muzeu. : We will see each other again at the museum.
+Čekám na tebe v nemocnici. : I am waiting for you at the hospital.
+Sejdeme se v nemocnici v šest. : We will meet at the hospital at six.
+Zítra budu pracovat v nemocnici. : Tomorrow I will work at the hospital.
+Včera jsem strávil celé odpoledne v nemocnici. : Yesterday I spent the whole afternoon at the hospital.
+Můžeme si promluvit v nemocnici? : Can we talk at the hospital?
+Ztratil jsem peněženku v nemocnici. : I lost my wallet at the hospital.
+Je tu někde toaleta v nemocnici? : Is there a toilet somewhere at the hospital?
+Někoho jsem potkal v nemocnici. : I met someone at the hospital.
+Právě teď jsem v nemocnici. : I am at the hospital right now.
+Uvidíme se znovu v nemocnici. : We will see each other again at the hospital.
+Čekám na tebe na poště. : I am waiting for you at the post office.
+Sejdeme se na poště v šest. : We will meet at the post office at six.
+Zítra budu pracovat na poště. : Tomorrow I will work at the post office.
+Včera jsem strávil celé odpoledne na poště. : Yesterday I spent the whole afternoon at the post office.
+Můžeme si promluvit na poště? : Can we talk at the post office?
+Ztratil jsem peněženku na poště. : I lost my wallet at the post office.
+Je tu někde toaleta na poště? : Is there a toilet somewhere at the post office?
+Někoho jsem potkal na poště. : I met someone at the post office.
+Právě teď jsem na poště. : I am at the post office right now.
+Uvidíme se znovu na poště. : We will see each other again at the post office.
+Čekám na tebe v lékárně. : I am waiting for you at the pharmacy.
+Sejdeme se v lékárně v šest. : We will meet at the pharmacy at six.
+Zítra budu pracovat v lékárně. : Tomorrow I will work at the pharmacy.
+Včera jsem strávil celé odpoledne v lékárně. : Yesterday I spent the whole afternoon at the pharmacy.
+Můžeme si promluvit v lékárně? : Can we talk at the pharmacy?
+Ztratil jsem peněženku v lékárně. : I lost my wallet at the pharmacy.
+Je tu někde toaleta v lékárně? : Is there a toilet somewhere at the pharmacy?
+Někoho jsem potkal v lékárně. : I met someone at the pharmacy.
+Právě teď jsem v lékárně. : I am at the pharmacy right now.
+Uvidíme se znovu v lékárně. : We will see each other again at the pharmacy.
+Čekám na tebe v divadle. : I am waiting for you at the theatre.
+Sejdeme se v divadle v šest. : We will meet at the theatre at six.
+Zítra budu pracovat v divadle. : Tomorrow I will work at the theatre.
+Včera jsem strávil celé odpoledne v divadle. : Yesterday I spent the whole afternoon at the theatre.
+Můžeme si promluvit v divadle? : Can we talk at the theatre?
+Ztratil jsem peněženku v divadle. : I lost my wallet at the theatre.
+Je tu někde toaleta v divadle? : Is there a toilet somewhere at the theatre?
+Někoho jsem potkal v divadle. : I met someone at the theatre.
+Právě teď jsem v divadle. : I am at the theatre right now.
+Uvidíme se znovu v divadle. : We will see each other again at the theatre.
+Čekám na tebe na univerzitě. : I am waiting for you at the university.
+Sejdeme se na univerzitě v šest. : We will meet at the university at six.
+Zítra budu pracovat na univerzitě. : Tomorrow I will work at the university.
+Včera jsem strávil celé odpoledne na univerzitě. : Yesterday I spent the whole afternoon at the university.
+Můžeme si promluvit na univerzitě? : Can we talk at the university?
+Ztratil jsem peněženku na univerzitě. : I lost my wallet at the university.
+Je tu někde toaleta na univerzitě? : Is there a toilet somewhere at the university?
+Někoho jsem potkal na univerzitě. : I met someone at the university.
+Právě teď jsem na univerzitě. : I am at the university right now.
+Uvidíme se znovu na univerzitě. : We will see each other again at the university.
+Čekám na tebe v hotelu. : I am waiting for you at the hotel.
+Sejdeme se v hotelu v šest. : We will meet at the hotel at six.
+Zítra budu pracovat v hotelu. : Tomorrow I will work at the hotel.
+Včera jsem strávil celé odpoledne v hotelu. : Yesterday I spent the whole afternoon at the hotel.
+Můžeme si promluvit v hotelu? : Can we talk at the hotel?
+Ztratil jsem peněženku v hotelu. : I lost my wallet at the hotel.
+Je tu někde toaleta v hotelu? : Is there a toilet somewhere at the hotel?
+Někoho jsem potkal v hotelu. : I met someone at the hotel.
+Právě teď jsem v hotelu. : I am at the hotel right now.
+Uvidíme se znovu v hotelu. : We will see each other again at the hotel.
+Dám si čerstvý chléb. : I will have fresh bread.
+Objednal jsem si čerstvý chléb. : I ordered fresh bread.
+Můžete mi přinést čerstvý chléb? : Could you bring me fresh bread?
+Raději bych si dal čerstvý chléb. : I would rather have fresh bread.
+Dnes připravuji čerstvý chléb. : Today I am preparing fresh bread.
+Prosím, řekni mi toto: kde mohu koupit čerstvý chléb? : Please tell me this: where can I buy fresh bread?
+Máte také čerstvý chléb? : Do you also have fresh bread?
+Mám chuť na čerstvý chléb. : I feel like having fresh bread.
+Včera jsme jedli čerstvý chléb. : Yesterday we ate fresh bread.
+Na stole jsem našel čerstvý chléb. : I found fresh bread on the table.
+Dám si horkou polévku. : I will have hot soup.
+Objednal jsem si horkou polévku. : I ordered hot soup.
+Můžete mi přinést horkou polévku? : Could you bring me hot soup?
+Raději bych si dal horkou polévku. : I would rather have hot soup.
+Dnes připravuji horkou polévku. : Today I am preparing hot soup.
+Kde mohu koupit horkou polévku? : Where can I buy hot soup?
+Máte také horkou polévku? : Do you also have hot soup?
+Mám chuť na horkou polévku. : I feel like having hot soup.
+Včera jsme jedli horkou polévku. : Yesterday we ate hot soup.
+Na stole jsem našel horkou polévku. : I found hot soup on the table.
+Dám si zeleninový salát. : I will have a vegetable salad.
+Objednal jsem si zeleninový salát. : I ordered a vegetable salad.
+Můžete mi přinést zeleninový salát? : Could you bring me a vegetable salad?
+Raději bych si dal zeleninový salát. : I would rather have a vegetable salad.
+Dnes připravuji zeleninový salát. : Today I am preparing a vegetable salad.
+Kde mohu koupit zeleninový salát? : Where can I buy a vegetable salad?
+Máte také zeleninový salát? : Do you also have a vegetable salad?
+Mám chuť na zeleninový salát. : I feel like having a vegetable salad.
+Včera jsme jedli zeleninový salát. : Yesterday we ate a vegetable salad.
+Na stole jsem našel zeleninový salát. : I found a vegetable salad on the table.
+Dám si vařenou rýži. : I will have cooked rice.
+Objednal jsem si vařenou rýži. : I ordered cooked rice.
+Můžete mi přinést vařenou rýži? : Could you bring me cooked rice?
+Raději bych si dal vařenou rýži. : I would rather have cooked rice.
+Dnes připravuji vařenou rýži. : Today I am preparing cooked rice.
+Kde mohu koupit vařenou rýži? : Where can I buy cooked rice?
+Máte také vařenou rýži? : Do you also have cooked rice?
+Mám chuť na vařenou rýži. : I feel like having cooked rice.
+Včera jsme jedli vařenou rýži. : Yesterday we ate cooked rice.
+Na stole jsem našel vařenou rýži. : I found cooked rice on the table.
+Dám si černou kávu. : I will have black coffee.
+Objednal jsem si černou kávu. : I ordered black coffee.
+Můžete mi přinést černou kávu? : Could you bring me black coffee?
+Raději bych si dal černou kávu. : I would rather have black coffee.
+Dnes připravuji černou kávu. : Today I am preparing black coffee.
+Prosím, řekni mi toto: kde mohu koupit černou kávu? : Please tell me this: where can I buy black coffee?
+Máte také černou kávu? : Do you also have black coffee?
+Mám chuť na černou kávu. : I feel like having black coffee.
+Včera jsme jedli černou kávu. : Yesterday we ate black coffee.
+Na stole jsem našel černou kávu. : I found black coffee on the table.
+Dám si bylinkový čaj. : I will have herbal tea.
+Objednal jsem si bylinkový čaj. : I ordered herbal tea.
+Můžete mi přinést bylinkový čaj? : Could you bring me herbal tea?
+Raději bych si dal bylinkový čaj. : I would rather have herbal tea.
+Dnes připravuji bylinkový čaj. : Today I am preparing herbal tea.
+Kde mohu koupit bylinkový čaj? : Where can I buy herbal tea?
+Máte také bylinkový čaj? : Do you also have herbal tea?
+Mám chuť na bylinkový čaj. : I feel like having herbal tea.
+Včera jsme jedli bylinkový čaj. : Yesterday we ate herbal tea.
+Na stole jsem našel bylinkový čaj. : I found herbal tea on the table.
+Dám si jablečný koláč. : I will have apple pie.
+Objednal jsem si jablečný koláč. : I ordered apple pie.
+Můžete mi přinést jablečný koláč? : Could you bring me apple pie?
+Raději bych si dal jablečný koláč. : I would rather have apple pie.
+Dnes připravuji jablečný koláč. : Today I am preparing apple pie.
+Kde mohu koupit jablečný koláč? : Where can I buy apple pie?
+Máte také jablečný koláč? : Do you also have apple pie?
+Mám chuť na jablečný koláč. : I feel like having apple pie.
+Včera jsme jedli jablečný koláč. : Yesterday we ate apple pie.
+Na stole jsem našel jablečný koláč. : I found apple pie on the table.
+Dám si čerstvou rybu. : I will have fresh fish.
+Objednal jsem si čerstvou rybu. : I ordered fresh fish.
+Můžete mi přinést čerstvou rybu? : Could you bring me fresh fish?
+Raději bych si dal čerstvou rybu. : I would rather have fresh fish.
+Dnes připravuji čerstvou rybu. : Today I am preparing fresh fish.
+Kde mohu koupit čerstvou rybu? : Where can I buy fresh fish?
+Máte také čerstvou rybu? : Do you also have fresh fish?
+Mám chuť na čerstvou rybu. : I feel like having fresh fish.
+Včera jsme jedli čerstvou rybu. : Yesterday we ate fresh fish.
+Na stole jsem našel čerstvou rybu. : I found fresh fish on the table.
+Dám si ovocný džus. : I will have fruit juice.
+Objednal jsem si ovocný džus. : I ordered fruit juice.
+Můžete mi přinést ovocný džus? : Could you bring me fruit juice?
+Raději bych si dal ovocný džus. : I would rather have fruit juice.
+Dnes připravuji ovocný džus. : Today I am preparing fruit juice.
+Kde mohu koupit ovocný džus? : Where can I buy fruit juice?
+Máte také ovocný džus? : Do you also have fruit juice?
+Mám chuť na ovocný džus. : I feel like having fruit juice.
+Včera jsme jedli ovocný džus. : Yesterday we ate fruit juice.
+Na stole jsem našel ovocný džus. : I found fruit juice on the table.
+Dám si pečené brambory. : I will have roast potatoes.
+Objednal jsem si pečené brambory. : I ordered roast potatoes.
+Můžete mi přinést pečené brambory? : Could you bring me roast potatoes?
+Raději bych si dal pečené brambory. : I would rather have roast potatoes.
+Dnes připravuji pečené brambory. : Today I am preparing roast potatoes.
+Kde mohu koupit pečené brambory? : Where can I buy roast potatoes?
+Máte také pečené brambory? : Do you also have roast potatoes?
+Mám chuť na pečené brambory. : I feel like having roast potatoes.
+Včera jsme jedli pečené brambory. : Yesterday we ate roast potatoes.
+Na stole jsem našel pečené brambory. : I found roast potatoes on the table.
+Potřebuji modrý deštník. : I need a blue umbrella.
+Zapomněl jsem modrý deštník doma. : I forgot a blue umbrella at home.
+Našel jsem modrý deštník pod stolem. : I found a blue umbrella under the table.
+Mohu si půjčit modrý deštník? : May I borrow a blue umbrella?
+Koupil jsem si modrý deštník. : I bought a blue umbrella.
+Vezmi si s sebou modrý deštník. : Take a blue umbrella with you.
+Hledám modrý deštník. : I am looking for a blue umbrella.
+Měl jsem s sebou modrý deštník. : I had a blue umbrella with me.
+Ukaž mi prosím modrý deštník. : Please show me a blue umbrella.
+Nechci ztratit modrý deštník. : I do not want to lose a blue umbrella.
+Potřebuji nový telefon. : I need a new phone.
+Zapomněl jsem nový telefon doma. : I forgot a new phone at home.
+Našel jsem nový telefon pod stolem. : I found a new phone under the table.
+Mohu si půjčit nový telefon? : May I borrow a new phone?
+Koupil jsem si nový telefon. : I bought a new phone.
+Vezmi si s sebou nový telefon. : Take a new phone with you.
+Hledám nový telefon. : I am looking for a new phone.
+Měl jsem s sebou nový telefon. : I had a new phone with me.
+Ukaž mi prosím nový telefon. : Please show me a new phone.
+Nechci ztratit nový telefon. : I do not want to lose a new phone.
+Potřebuji starý fotoaparát. : I need an old camera.
+Zapomněl jsem starý fotoaparát doma. : I forgot an old camera at home.
+Našel jsem starý fotoaparát pod stolem. : I found an old camera under the table.
+Mohu si půjčit starý fotoaparát? : May I borrow an old camera?
+Koupil jsem si starý fotoaparát. : I bought an old camera.
+Vezmi si s sebou starý fotoaparát. : Take an old camera with you.
+Hledám starý fotoaparát. : I am looking for an old camera.
+Měl jsem s sebou starý fotoaparát. : I had an old camera with me.
+Ukaž mi prosím starý fotoaparát. : Please show me an old camera.
+Nechci ztratit starý fotoaparát. : I do not want to lose an old camera.
+Potřebuji černý batoh. : I need a black backpack.
+Zapomněl jsem černý batoh doma. : I forgot a black backpack at home.
+Našel jsem černý batoh pod stolem. : I found a black backpack under the table.
+Mohu si půjčit černý batoh? : May I borrow a black backpack?
+Koupil jsem si černý batoh. : I bought a black backpack.
+Vezmi si s sebou černý batoh. : Take a black backpack with you.
+Hledám černý batoh. : I am looking for a black backpack.
+Měl jsem s sebou černý batoh. : I had a black backpack with me.
+Ukaž mi prosím černý batoh. : Please show me a black backpack.
+Nechci ztratit černý batoh. : I do not want to lose a black backpack.
+Potřebuji platnou jízdenku. : I need a valid ticket.
+Zapomněl jsem platnou jízdenku doma. : I forgot a valid ticket at home.
+Našel jsem platnou jízdenku pod stolem. : I found a valid ticket under the table.
+Mohu si půjčit platnou jízdenku? : May I borrow a valid ticket?
+Koupil jsem si platnou jízdenku. : I bought a valid ticket.
+Vezmi si s sebou platnou jízdenku. : Take a valid ticket with you.
+Hledám platnou jízdenku. : I am looking for a valid ticket.
+Měl jsem s sebou platnou jízdenku. : I had a valid ticket with me.
+Ukaž mi prosím platnou jízdenku. : Please show me a valid ticket.
+Nechci ztratit platnou jízdenku. : I do not want to lose a valid ticket.
+Potřebuji papírovou mapu. : I need a paper map.
+Zapomněl jsem papírovou mapu doma. : I forgot a paper map at home.
+Našel jsem papírovou mapu pod stolem. : I found a paper map under the table.
+Mohu si půjčit papírovou mapu? : May I borrow a paper map?
+Koupil jsem si papírovou mapu. : I bought a paper map.
+Vezmi si s sebou papírovou mapu. : Take a paper map with you.
+Hledám papírovou mapu. : I am looking for a paper map.
+Měl jsem s sebou papírovou mapu. : I had a paper map with me.
+Ukaž mi prosím papírovou mapu. : Please show me a paper map.
+Nechci ztratit papírovou mapu. : I do not want to lose a paper map.
+Potřebuji malou baterku. : I need a small flashlight.
+Zapomněl jsem malou baterku doma. : I forgot a small flashlight at home.
+Našel jsem malou baterku pod stolem. : I found a small flashlight under the table.
+Mohu si půjčit malou baterku? : May I borrow a small flashlight?
+Koupil jsem si malou baterku. : I bought a small flashlight.
+Vezmi si s sebou malou baterku. : Take a small flashlight with you.
+Hledám malou baterku. : I am looking for a small flashlight.
+Měl jsem s sebou malou baterku. : I had a small flashlight with me.
+Ukaž mi prosím malou baterku. : Please show me a small flashlight.
+Nechci ztratit malou baterku. : I do not want to lose a small flashlight.
+Potřebuji náhradní klíč. : I need a spare key.
+Zapomněl jsem náhradní klíč doma. : I forgot a spare key at home.
+Našel jsem náhradní klíč pod stolem. : I found a spare key under the table.
+Mohu si půjčit náhradní klíč? : May I borrow a spare key?
+Koupil jsem si náhradní klíč. : I bought a spare key.
+Vezmi si s sebou náhradní klíč. : Take a spare key with you.
+Hledám náhradní klíč. : I am looking for a spare key.
+Měl jsem s sebou náhradní klíč. : I had a spare key with me.
+Ukaž mi prosím náhradní klíč. : Please show me a spare key.
+Nechci ztratit náhradní klíč. : I do not want to lose a spare key.
+Potřebuji červenou složku. : I need a red folder.
+Zapomněl jsem červenou složku doma. : I forgot a red folder at home.
+Našel jsem červenou složku pod stolem. : I found a red folder under the table.
+Mohu si půjčit červenou složku? : May I borrow a red folder?
+Koupil jsem si červenou složku. : I bought a red folder.
+Vezmi si s sebou červenou složku. : Take a red folder with you.
+Hledám červenou složku. : I am looking for a red folder.
+Měl jsem s sebou červenou složku. : I had a red folder with me.
+Ukaž mi prosím červenou složku. : Please show me a red folder.
+Nechci ztratit červenou složku. : I do not want to lose a red folder.
+Potřebuji důležitý dokument. : I need an important document.
+Zapomněl jsem důležitý dokument doma. : I forgot an important document at home.
+Našel jsem důležitý dokument pod stolem. : I found an important document under the table.
+Mohu si půjčit důležitý dokument? : May I borrow an important document?
+Koupil jsem si důležitý dokument. : I bought an important document.
+Vezmi si s sebou důležitý dokument. : Take an important document with you.
+Hledám důležitý dokument. : I am looking for an important document.
+Měl jsem s sebou důležitý dokument. : I had an important document with me.
+Ukaž mi prosím důležitý dokument. : Please show me an important document.
+Nechci ztratit důležitý dokument. : I do not want to lose an important document.
+Chci se naučit plavat. : I want to learn to swim.
+Mám dnes čas plavat. : I have time to swim today.
+Nemusíš plavat každý den. : You do not have to swim every day.
+Rád bych začal plavat. : I would like to start to swim.
+Je těžké plavat bez přípravy. : It is difficult to swim without preparation.
+Měli bychom plavat častěji. : We should swim more often.
+Nemohu plavat tak dlouho. : I cannot swim for so long.
+Zkusím plavat zítra. : I will try to swim tomorrow.
+Není nutné plavat hned. : There is no need to swim immediately.
+Kdy ses naučil plavat? : When did you learn to swim?
+Chci se naučit tančit. : I want to learn to dance.
+Mám dnes čas tančit. : I have time to dance today.
+Nemusíš tančit každý den. : You do not have to dance every day.
+Rád bych začal tančit. : I would like to start to dance.
+Je těžké tančit bez přípravy. : It is difficult to dance without preparation.
+Měli bychom tančit častěji. : We should dance more often.
+Nemohu tančit tak dlouho. : I cannot dance for so long.
+Zkusím tančit zítra. : I will try to dance tomorrow.
+Není nutné tančit hned. : There is no need to dance immediately.
+Kdy ses naučil tančit? : When did you learn to dance?
+Chci se naučit vařit. : I want to learn to cook.
+Mám dnes čas vařit. : I have time to cook today.
+Nemusíš vařit každý den. : You do not have to cook every day.
+Rád bych začal vařit. : I would like to start to cook.
+Je těžké vařit bez přípravy. : It is difficult to cook without preparation.
+Měli bychom vařit častěji. : We should cook more often.
+Nemohu vařit tak dlouho. : I cannot cook for so long.
+Zkusím vařit zítra. : I will try to cook tomorrow.
+Není nutné vařit hned. : There is no need to cook immediately.
+Kdy ses naučil vařit? : When did you learn to cook?
+Chci se naučit kreslit. : I want to learn to draw.
+Mám dnes čas kreslit. : I have time to draw today.
+Nemusíš kreslit každý den. : You do not have to draw every day.
+Rád bych začal kreslit. : I would like to start to draw.
+Je těžké kreslit bez přípravy. : It is difficult to draw without preparation.
+Měli bychom kreslit častěji. : We should draw more often.
+Nemohu kreslit tak dlouho. : I cannot draw for so long.
+Zkusím kreslit zítra. : I will try to draw tomorrow.
+Není nutné kreslit hned. : There is no need to draw immediately.
+Kdy ses naučil kreslit? : When did you learn to draw?
+Chci se naučit cestovat. : I want to learn to travel.
+Mám dnes čas cestovat. : I have time to travel today.
+Nemusíš cestovat každý den. : You do not have to travel every day.
+Rád bych začal cestovat. : I would like to start to travel.
+Je těžké cestovat bez přípravy. : It is difficult to travel without preparation.
+Měli bychom cestovat častěji. : We should travel more often.
+Nemohu cestovat tak dlouho. : I cannot travel for so long.
+Zkusím cestovat zítra. : I will try to travel tomorrow.
+Není nutné cestovat hned. : There is no need to travel immediately.
+Kdy ses naučil cestovat? : When did you learn to travel?
+Chci se naučit fotografovat. : I want to learn to take photographs.
+Mám dnes čas fotografovat. : I have time to take photographs today.
+Nemusíš fotografovat každý den. : You do not have to take photographs every day.
+Rád bych začal fotografovat. : I would like to start to take photographs.
+Je těžké fotografovat bez přípravy. : It is difficult to take photographs without preparation.
+Měli bychom fotografovat častěji. : We should take photographs more often.
+Nemohu fotografovat tak dlouho. : I cannot take photographs for so long.
+Zkusím fotografovat zítra. : I will try to take photographs tomorrow.
+Není nutné fotografovat hned. : There is no need to take photographs immediately.
+Kdy ses naučil fotografovat? : When did you learn to take photographs?
+Chci se naučit odpočívat. : I want to learn to rest.
+Mám dnes čas odpočívat. : I have time to rest today.
+Nemusíš odpočívat každý den. : You do not have to rest every day.
+Rád bych začal odpočívat. : I would like to start to rest.
+Je těžké odpočívat bez přípravy. : It is difficult to rest without preparation.
+Měli bychom odpočívat častěji. : We should rest more often.
+Nemohu odpočívat tak dlouho. : I cannot rest for so long.
+Zkusím odpočívat zítra. : I will try to rest tomorrow.
+Není nutné odpočívat hned. : There is no need to rest immediately.
+Kdy ses naučil odpočívat? : When did you learn to rest?
+Chci se naučit zpívat. : I want to learn to sing.
+Mám dnes čas zpívat. : I have time to sing today.
+Nemusíš zpívat každý den. : You do not have to sing every day.
+Rád bych začal zpívat. : I would like to start to sing.
+Je těžké zpívat bez přípravy. : It is difficult to sing without preparation.
+Měli bychom zpívat častěji. : We should sing more often.
+Nemohu zpívat tak dlouho. : I cannot sing for so long.
+Zkusím zpívat zítra. : I will try to sing tomorrow.
+Není nutné zpívat hned. : There is no need to sing immediately.
+Kdy ses naučil zpívat? : When did you learn to sing?
+Chci se naučit studovat. : I want to learn to study.
+Mám dnes čas studovat. : I have time to study today.
+Nemusíš studovat každý den. : You do not have to study every day.
+Rád bych začal studovat. : I would like to start to study.
+Je těžké studovat bez přípravy. : It is difficult to study without preparation.
+Měli bychom studovat častěji. : We should study more often.
+Nemohu studovat tak dlouho. : I cannot study for so long.
+Zkusím studovat zítra. : I will try to study tomorrow.
+Není nutné studovat hned. : There is no need to study immediately.
+Kdy ses naučil studovat? : When did you learn to study?
+Chci se naučit běhat. : I want to learn to run.
+Mám dnes čas běhat. : I have time to run today.
+Nemusíš běhat každý den. : You do not have to run every day.
+Rád bych začal běhat. : I would like to start to run.
+Je těžké běhat bez přípravy. : It is difficult to run without preparation.
+Měli bychom běhat častěji. : We should run more often.
+Nemohu běhat tak dlouho. : I cannot run for so long.
+Zkusím běhat zítra. : I will try to run tomorrow.
+Není nutné běhat hned. : There is no need to run immediately.
+Kdy ses naučil běhat? : When did you learn to run?
+Zítra pojedu do Prahy. : Tomorrow I will go to Prague.
+Jak dlouho trvá cesta do Prahy? : How long does the journey to Prague take?
+Rád bych se podíval do Prahy. : I would like to visit to Prague.
+Přímý vlak do Prahy dnes nejede. : There is no direct train to Prague today.
+Potřebuji jízdenku do Prahy. : I need a ticket to Prague.
+Letos se chystáme do Prahy. : We are planning to go to Prague this year.
+Kdy dorazíme do Prahy? : When will we arrive to Prague?
+Minulý týden jsme cestovali do Prahy. : Last week we travelled to Prague.
+Autobus do Prahy odjíždí za deset minut. : The bus to Prague leaves in ten minutes.
+Můj přítel se přestěhoval do Prahy. : My friend moved to Prague.
+Zítra pojedu do Brna. : Tomorrow I will go to Brno.
+Jak dlouho trvá cesta do Brna? : How long does the journey to Brno take?
+Rád bych se podíval do Brna. : I would like to visit to Brno.
+Přímý vlak do Brna dnes nejede. : There is no direct train to Brno today.
+Potřebuji jízdenku do Brna. : I need a ticket to Brno.
+Letos se chystáme do Brna. : We are planning to go to Brno this year.
+Kdy dorazíme do Brna? : When will we arrive to Brno?
+Minulý týden jsme cestovali do Brna. : Last week we travelled to Brno.
+Autobus do Brna odjíždí za deset minut. : The bus to Brno leaves in ten minutes.
+Můj přítel se přestěhoval do Brna. : My friend moved to Brno.
+Zítra pojedu do Ostravy. : Tomorrow I will go to Ostrava.
+Jak dlouho trvá cesta do Ostravy? : How long does the journey to Ostrava take?
+Rád bych se podíval do Ostravy. : I would like to visit to Ostrava.
+Přímý vlak do Ostravy dnes nejede. : There is no direct train to Ostrava today.
+Potřebuji jízdenku do Ostravy. : I need a ticket to Ostrava.
+Letos se chystáme do Ostravy. : We are planning to go to Ostrava this year.
+Kdy dorazíme do Ostravy? : When will we arrive to Ostrava?
+Minulý týden jsme cestovali do Ostravy. : Last week we travelled to Ostrava.
+Autobus do Ostravy odjíždí za deset minut. : The bus to Ostrava leaves in ten minutes.
+Můj přítel se přestěhoval do Ostravy. : My friend moved to Ostrava.
+Zítra pojedu do Olomouce. : Tomorrow I will go to Olomouc.
+Jak dlouho trvá cesta do Olomouce? : How long does the journey to Olomouc take?
+Rád bych se podíval do Olomouce. : I would like to visit to Olomouc.
+Přímý vlak do Olomouce dnes nejede. : There is no direct train to Olomouc today.
+Potřebuji jízdenku do Olomouce. : I need a ticket to Olomouc.
+Letos se chystáme do Olomouce. : We are planning to go to Olomouc this year.
+Kdy dorazíme do Olomouce? : When will we arrive to Olomouc?
+Minulý týden jsme cestovali do Olomouce. : Last week we travelled to Olomouc.
+Autobus do Olomouce odjíždí za deset minut. : The bus to Olomouc leaves in ten minutes.
+Můj přítel se přestěhoval do Olomouce. : My friend moved to Olomouc.
+Zítra pojedu do Plzně. : Tomorrow I will go to Plzeň.
+Jak dlouho trvá cesta do Plzně? : How long does the journey to Plzeň take?
+Rád bych se podíval do Plzně. : I would like to visit to Plzeň.
+Přímý vlak do Plzně dnes nejede. : There is no direct train to Plzeň today.
+Potřebuji jízdenku do Plzně. : I need a ticket to Plzeň.
+Letos se chystáme do Plzně. : We are planning to go to Plzeň this year.
+Kdy dorazíme do Plzně? : When will we arrive to Plzeň?
+Minulý týden jsme cestovali do Plzně. : Last week we travelled to Plzeň.
+Autobus do Plzně odjíždí za deset minut. : The bus to Plzeň leaves in ten minutes.
+Můj přítel se přestěhoval do Plzně. : My friend moved to Plzeň.
+Zítra pojedu do Vídně. : Tomorrow I will go to Vienna.
+Jak dlouho trvá cesta do Vídně? : How long does the journey to Vienna take?
+Rád bych se podíval do Vídně. : I would like to visit to Vienna.
+Přímý vlak do Vídně dnes nejede. : There is no direct train to Vienna today.
+Potřebuji jízdenku do Vídně. : I need a ticket to Vienna.
+Letos se chystáme do Vídně. : We are planning to go to Vienna this year.
+Kdy dorazíme do Vídně? : When will we arrive to Vienna?
+Minulý týden jsme cestovali do Vídně. : Last week we travelled to Vienna.
+Autobus do Vídně odjíždí za deset minut. : The bus to Vienna leaves in ten minutes.
+Můj přítel se přestěhoval do Vídně. : My friend moved to Vienna.
+Zítra pojedu do Berlína. : Tomorrow I will go to Berlin.
+Jak dlouho trvá cesta do Berlína? : How long does the journey to Berlin take?
+Rád bych se podíval do Berlína. : I would like to visit to Berlin.
+Přímý vlak do Berlína dnes nejede. : There is no direct train to Berlin today.
+Potřebuji jízdenku do Berlína. : I need a ticket to Berlin.
+Letos se chystáme do Berlína. : We are planning to go to Berlin this year.
+Kdy dorazíme do Berlína? : When will we arrive to Berlin?
+Minulý týden jsme cestovali do Berlína. : Last week we travelled to Berlin.
+Autobus do Berlína odjíždí za deset minut. : The bus to Berlin leaves in ten minutes.
+Můj přítel se přestěhoval do Berlína. : My friend moved to Berlin.
+Zítra pojedu do Londýna. : Tomorrow I will go to London.
+Jak dlouho trvá cesta do Londýna? : How long does the journey to London take?
+Rád bych se podíval do Londýna. : I would like to visit to London.
+Přímý vlak do Londýna dnes nejede. : There is no direct train to London today.
+Potřebuji jízdenku do Londýna. : I need a ticket to London.
+Letos se chystáme do Londýna. : We are planning to go to London this year.
+Kdy dorazíme do Londýna? : When will we arrive to London?
+Minulý týden jsme cestovali do Londýna. : Last week we travelled to London.
+Autobus do Londýna odjíždí za deset minut. : The bus to London leaves in ten minutes.
+Můj přítel se přestěhoval do Londýna. : My friend moved to London.
+Zítra pojedu do Říma. : Tomorrow I will go to Rome.
+Jak dlouho trvá cesta do Říma? : How long does the journey to Rome take?
+Rád bych se podíval do Říma. : I would like to visit to Rome.
+Přímý vlak do Říma dnes nejede. : There is no direct train to Rome today.
+Potřebuji jízdenku do Říma. : I need a ticket to Rome.
+Letos se chystáme do Říma. : We are planning to go to Rome this year.
+Kdy dorazíme do Říma? : When will we arrive to Rome?
+Minulý týden jsme cestovali do Říma. : Last week we travelled to Rome.
+Autobus do Říma odjíždí za deset minut. : The bus to Rome leaves in ten minutes.
+Můj přítel se přestěhoval do Říma. : My friend moved to Rome.
+Zítra pojedu do Paříže. : Tomorrow I will go to Paris.
+Jak dlouho trvá cesta do Paříže? : How long does the journey to Paris take?
+Rád bych se podíval do Paříže. : I would like to visit to Paris.
+Přímý vlak do Paříže dnes nejede. : There is no direct train to Paris today.
+Potřebuji jízdenku do Paříže. : I need a ticket to Paris.
+Letos se chystáme do Paříže. : We are planning to go to Paris this year.
+Kdy dorazíme do Paříže? : When will we arrive to Paris?
+Minulý týden jsme cestovali do Paříže. : Last week we travelled to Paris.
+Autobus do Paříže odjíždí za deset minut. : The bus to Paris leaves in ten minutes.
+Můj přítel se přestěhoval do Paříže. : My friend moved to Paris.
+Je to opravdu snadné? : Is it really easy?
+Proč je to tak snadné? : Why is it so easy?
+Myslíš, že je to snadné? : Do you think it is easy?
+Někdy je to docela snadné. : Sometimes it is quite easy.
+Včera to bylo snadné. : Yesterday it was easy.
+Pro mě je to snadné. : For me it is easy.
+Nemyslel jsem si, že to bude snadné. : I did not think it would be easy.
+Může to být snadné. : It can be easy.
+Vysvětli mi, proč je to snadné. : Explain to me why it is easy.
+Připadá ti to snadné? : Does it seem easy to you?
+Je to opravdu obtížné? : Is it really difficult?
+Proč je to tak obtížné? : Why is it so difficult?
+Myslíš, že je to obtížné? : Do you think it is difficult?
+Někdy je to docela obtížné. : Sometimes it is quite difficult.
+Včera to bylo obtížné. : Yesterday it was difficult.
+Pro mě je to obtížné. : For me it is difficult.
+Nemyslel jsem si, že to bude obtížné. : I did not think it would be difficult.
+Může to být obtížné. : It can be difficult.
+Vysvětli mi, proč je to obtížné. : Explain to me why it is difficult.
+Připadá ti to obtížné? : Does it seem difficult to you?
+Je to opravdu nebezpečné? : Is it really dangerous?
+Proč je to tak nebezpečné? : Why is it so dangerous?
+Myslíš, že je to nebezpečné? : Do you think it is dangerous?
+Někdy je to docela nebezpečné. : Sometimes it is quite dangerous.
+Včera to bylo nebezpečné. : Yesterday it was dangerous.
+Pro mě je to nebezpečné. : For me it is dangerous.
+Nemyslel jsem si, že to bude nebezpečné. : I did not think it would be dangerous.
+Může to být nebezpečné. : It can be dangerous.
+Vysvětli mi, proč je to nebezpečné. : Explain to me why it is dangerous.
+Připadá ti to nebezpečné? : Does it seem dangerous to you?
+Je to opravdu důležité? : Is it really important?
+Proč je to tak důležité? : Why is it so important?
+Myslíš, že je to důležité? : Do you think it is important?
+Někdy je to docela důležité. : Sometimes it is quite important.
+Včera to bylo důležité. : Yesterday it was important.
+Pro mě je to důležité. : For me it is important.
+Nemyslel jsem si, že to bude důležité. : I did not think it would be important.
+Může to být důležité. : It can be important.
+Vysvětli mi, proč je to důležité. : Explain to me why it is important.
+Připadá ti to důležité? : Does it seem important to you?
+Je to opravdu nutné? : Is it really necessary?
+Proč je to tak nutné? : Why is it so necessary?
+Myslíš, že je to nutné? : Do you think it is necessary?
+Někdy je to docela nutné. : Sometimes it is quite necessary.
+Včera to bylo nutné. : Yesterday it was necessary.
+Pro mě je to nutné. : For me it is necessary.
+Nemyslel jsem si, že to bude nutné. : I did not think it would be necessary.
+Může to být nutné. : It can be necessary.
+Vysvětli mi, proč je to nutné. : Explain to me why it is necessary.
+Připadá ti to nutné? : Does it seem necessary to you?
+Je to opravdu možné? : Is it really possible?
+Proč je to tak možné? : Why is it so possible?
+Myslíš, že je to možné? : Do you think it is possible?
+Někdy je to docela možné. : Sometimes it is quite possible.
+Včera to bylo možné. : Yesterday it was possible.
+Pro mě je to možné. : For me it is possible.
+Nemyslel jsem si, že to bude možné. : I did not think it would be possible.
+Může to být možné. : It can be possible.
+Vysvětli mi, proč je to možné. : Explain to me why it is possible.
+Připadá ti to možné? : Does it seem possible to you?
+Je to opravdu rozumné? : Is it really sensible?
+Proč je to tak rozumné? : Why is it so sensible?
+Myslíš, že je to rozumné? : Do you think it is sensible?
+Někdy je to docela rozumné. : Sometimes it is quite sensible.
+Včera to bylo rozumné. : Yesterday it was sensible.
+Pro mě je to rozumné. : For me it is sensible.
+Nemyslel jsem si, že to bude rozumné. : I did not think it would be sensible.
+Může to být rozumné. : It can be sensible.
+Vysvětli mi, proč je to rozumné. : Explain to me why it is sensible.
+Připadá ti to rozumné? : Does it seem sensible to you?
+Je to opravdu příjemné? : Is it really pleasant?
+Proč je to tak příjemné? : Why is it so pleasant?
+Myslíš, že je to příjemné? : Do you think it is pleasant?
+Někdy je to docela příjemné. : Sometimes it is quite pleasant.
+Včera to bylo příjemné. : Yesterday it was pleasant.
+Pro mě je to příjemné. : For me it is pleasant.
+Nemyslel jsem si, že to bude příjemné. : I did not think it would be pleasant.
+Může to být příjemné. : It can be pleasant.
+Vysvětli mi, proč je to příjemné. : Explain to me why it is pleasant.
+Připadá ti to příjemné? : Does it seem pleasant to you?
+Je to opravdu zajímavé? : Is it really interesting?
+Proč je to tak zajímavé? : Why is it so interesting?
+Myslíš, že je to zajímavé? : Do you think it is interesting?
+Někdy je to docela zajímavé. : Sometimes it is quite interesting.
+Včera to bylo zajímavé. : Yesterday it was interesting.
+Pro mě je to zajímavé. : For me it is interesting.
+Nemyslel jsem si, že to bude zajímavé. : I did not think it would be interesting.
+Může to být zajímavé. : It can be interesting.
+Vysvětli mi, proč je to zajímavé. : Explain to me why it is interesting.
+Připadá ti to zajímavé? : Does it seem interesting to you?
+Je to opravdu užitečné? : Is it really useful?
+Proč je to tak užitečné? : Why is it so useful?
+Myslíš, že je to užitečné? : Do you think it is useful?
+Někdy je to docela užitečné. : Sometimes it is quite useful.
+Včera to bylo užitečné. : Yesterday it was useful.
+Pro mě je to užitečné. : For me it is useful.
+Nemyslel jsem si, že to bude užitečné. : I did not think it would be useful.
+Může to být užitečné. : It can be useful.
+Vysvětli mi, proč je to užitečné. : Explain to me why it is useful.
+Připadá ti to užitečné? : Does it seem useful to you?
+Mám volno v pondělí. : I am free on Monday.
+Pracuji obvykle v pondělí. : I usually work on Monday.
+Můžeme se sejít v pondělí? : Can we meet on Monday?
+Vracím se domů v pondělí. : I return home on Monday.
+Nemám čas v pondělí. : I have no time on Monday.
+Zavolej mi v pondělí. : Call me on Monday.
+Nejraději čtu v pondělí. : I prefer reading on Monday.
+Často chodím na procházku v pondělí. : I often go for a walk on Monday.
+Děti mají trénink v pondělí. : The children have practice on Monday.
+Přijď prosím v pondělí. : Please come on Monday.
+Mám volno v úterý. : I am free on Tuesday.
+Pracuji obvykle v úterý. : I usually work on Tuesday.
+Můžeme se sejít v úterý? : Can we meet on Tuesday?
+Vracím se domů v úterý. : I return home on Tuesday.
+Nemám čas v úterý. : I have no time on Tuesday.
+Zavolej mi v úterý. : Call me on Tuesday.
+Nejraději čtu v úterý. : I prefer reading on Tuesday.
+Často chodím na procházku v úterý. : I often go for a walk on Tuesday.
+Děti mají trénink v úterý. : The children have practice on Tuesday.
+Přijď prosím v úterý. : Please come on Tuesday.
+Mám volno ve středu. : I am free on Wednesday.
+Pracuji obvykle ve středu. : I usually work on Wednesday.
+Můžeme se sejít ve středu? : Can we meet on Wednesday?
+Vracím se domů ve středu. : I return home on Wednesday.
+Nemám čas ve středu. : I have no time on Wednesday.
+Zavolej mi ve středu. : Call me on Wednesday.
+Nejraději čtu ve středu. : I prefer reading on Wednesday.
+Často chodím na procházku ve středu. : I often go for a walk on Wednesday.
+Děti mají trénink ve středu. : The children have practice on Wednesday.
+Přijď prosím ve středu. : Please come on Wednesday.
+Mám volno ve čtvrtek. : I am free on Thursday.
+Pracuji obvykle ve čtvrtek. : I usually work on Thursday.
+Můžeme se sejít ve čtvrtek? : Can we meet on Thursday?
+Vracím se domů ve čtvrtek. : I return home on Thursday.
+Nemám čas ve čtvrtek. : I have no time on Thursday.
+Zavolej mi ve čtvrtek. : Call me on Thursday.
+Nejraději čtu ve čtvrtek. : I prefer reading on Thursday.
+Často chodím na procházku ve čtvrtek. : I often go for a walk on Thursday.
+Děti mají trénink ve čtvrtek. : The children have practice on Thursday.
+Přijď prosím ve čtvrtek. : Please come on Thursday.
+Mám volno v pátek. : I am free on Friday.
+Pracuji obvykle v pátek. : I usually work on Friday.
+Můžeme se sejít v pátek? : Can we meet on Friday?
+Vracím se domů v pátek. : I return home on Friday.
+Nemám čas v pátek. : I have no time on Friday.
+Zavolej mi v pátek. : Call me on Friday.
+Nejraději čtu v pátek. : I prefer reading on Friday.
+Často chodím na procházku v pátek. : I often go for a walk on Friday.
+Děti mají trénink v pátek. : The children have practice on Friday.
+Přijď prosím v pátek. : Please come on Friday.
+Mám volno v sobotu. : I am free on Saturday.
+Pracuji obvykle v sobotu. : I usually work on Saturday.
+Můžeme se sejít v sobotu? : Can we meet on Saturday?
+Vracím se domů v sobotu. : I return home on Saturday.
+Nemám čas v sobotu. : I have no time on Saturday.
+Zavolej mi v sobotu. : Call me on Saturday.
+Nejraději čtu v sobotu. : I prefer reading on Saturday.
+Často chodím na procházku v sobotu. : I often go for a walk on Saturday.
+Děti mají trénink v sobotu. : The children have practice on Saturday.
+Přijď prosím v sobotu. : Please come on Saturday.
+Mám volno v neděli. : I am free on Sunday.
+Pracuji obvykle v neděli. : I usually work on Sunday.
+Můžeme se sejít v neděli? : Can we meet on Sunday?
+Vracím se domů v neděli. : I return home on Sunday.
+Nemám čas v neděli. : I have no time on Sunday.
+Zavolej mi v neděli. : Call me on Sunday.
+Nejraději čtu v neděli. : I prefer reading on Sunday.
+Často chodím na procházku v neděli. : I often go for a walk on Sunday.
+Děti mají trénink v neděli. : The children have practice on Sunday.
+Přijď prosím v neděli. : Please come on Sunday.
+Mám volno ráno. : I am free in the morning.
+Pracuji obvykle ráno. : I usually work in the morning.
+Můžeme se sejít ráno? : Can we meet in the morning?
+Vracím se domů ráno. : I return home in the morning.
+Nemám čas ráno. : I have no time in the morning.
+Zavolej mi ráno. : Call me in the morning.
+Nejraději čtu ráno. : I prefer reading in the morning.
+Často chodím na procházku ráno. : I often go for a walk in the morning.
+Děti mají trénink ráno. : The children have practice in the morning.
+Přijď prosím ráno. : Please come in the morning.
+Mám volno odpoledne. : I am free in the afternoon.
+Pracuji obvykle odpoledne. : I usually work in the afternoon.
+Můžeme se sejít odpoledne? : Can we meet in the afternoon?
+Vracím se domů odpoledne. : I return home in the afternoon.
+Nemám čas odpoledne. : I have no time in the afternoon.
+Zavolej mi odpoledne. : Call me in the afternoon.
+Nejraději čtu odpoledne. : I prefer reading in the afternoon.
+Často chodím na procházku odpoledne. : I often go for a walk in the afternoon.
+Děti mají trénink odpoledne. : The children have practice in the afternoon.
+Přijď prosím odpoledne. : Please come in the afternoon.
+Mám volno večer. : I am free in the evening.
+Pracuji obvykle večer. : I usually work in the evening.
+Můžeme se sejít večer? : Can we meet in the evening?
+Vracím se domů večer. : I return home in the evening.
+Nemám čas večer. : I have no time in the evening.
+Zavolej mi večer. : Call me in the evening.
+Nejraději čtu večer. : I prefer reading in the evening.
+Často chodím na procházku večer. : I often go for a walk in the evening.
+Děti mají trénink večer. : The children have practice in the evening.
+Přijď prosím večer. : Please come in the evening.
+Dnes jsem trochu unavený. : Today I am a little tired.
+Včera jsem byl velmi unavený. : Yesterday I was very tired.
+Proč jsi tak unavený? : Why are you so tired?
+Po cestě jsem byl unavený. : After the journey I was tired.
+Vypadáš unavený. : You look tired.
+Nechci být unavený. : I do not want to be tired.
+Někdy bývám unavený. : Sometimes I am tired.
+Můj bratr byl unavený. : My brother was tired.
+Cítil jsem se unavený. : I felt tired.
+Doufám, že nebudeš unavený. : I hope you will not be tired.
+Dnes jsem trochu spokojený. : Today I am a little satisfied.
+Včera jsem byl velmi spokojený. : Yesterday I was very satisfied.
+Proč jsi tak spokojený? : Why are you so satisfied?
+Po cestě jsem byl spokojený. : After the journey I was satisfied.
+Vypadáš spokojený. : You look satisfied.
+Nechci být spokojený. : I do not want to be satisfied.
+Někdy bývám spokojený. : Sometimes I am satisfied.
+Můj bratr byl spokojený. : My brother was satisfied.
+Cítil jsem se spokojený. : I felt satisfied.
+Doufám, že nebudeš spokojený. : I hope you will not be satisfied.
+Dnes jsem trochu nervózní. : Today I am a little nervous.
+Včera jsem byl velmi nervózní. : Yesterday I was very nervous.
+Proč jsi tak nervózní? : Why are you so nervous?
+Po cestě jsem byl nervózní. : After the journey I was nervous.
+Vypadáš nervózní. : You look nervous.
+Nechci být nervózní. : I do not want to be nervous.
+Někdy bývám nervózní. : Sometimes I am nervous.
+Můj bratr byl nervózní. : My brother was nervous.
+Cítil jsem se nervózní. : I felt nervous.
+Doufám, že nebudeš nervózní. : I hope you will not be nervous.
+Dnes jsem trochu překvapený. : Today I am a little surprised.
+Včera jsem byl velmi překvapený. : Yesterday I was very surprised.
+Proč jsi tak překvapený? : Why are you so surprised?
+Po cestě jsem byl překvapený. : After the journey I was surprised.
+Vypadáš překvapený. : You look surprised.
+Nechci být překvapený. : I do not want to be surprised.
+Někdy bývám překvapený. : Sometimes I am surprised.
+Můj bratr byl překvapený. : My brother was surprised.
+Cítil jsem se překvapený. : I felt surprised.
+Doufám, že nebudeš překvapený. : I hope you will not be surprised.
+Dnes jsem trochu zklamaný. : Today I am a little disappointed.
+Včera jsem byl velmi zklamaný. : Yesterday I was very disappointed.
+Proč jsi tak zklamaný? : Why are you so disappointed?
+Po cestě jsem byl zklamaný. : After the journey I was disappointed.
+Vypadáš zklamaný. : You look disappointed.
+Nechci být zklamaný. : I do not want to be disappointed.
+Někdy bývám zklamaný. : Sometimes I am disappointed.
+Můj bratr byl zklamaný. : My brother was disappointed.
+Cítil jsem se zklamaný. : I felt disappointed.
+Doufám, že nebudeš zklamaný. : I hope you will not be disappointed.
+Dnes jsem trochu nadšený. : Today I am a little excited.
+Včera jsem byl velmi nadšený. : Yesterday I was very excited.
+Proč jsi tak nadšený? : Why are you so excited?
+Po cestě jsem byl nadšený. : After the journey I was excited.
+Vypadáš nadšený. : You look excited.
+Nechci být nadšený. : I do not want to be excited.
+Někdy bývám nadšený. : Sometimes I am excited.
+Můj bratr byl nadšený. : My brother was excited.
+Cítil jsem se nadšený. : I felt excited.
+Doufám, že nebudeš nadšený. : I hope you will not be excited.
+Dnes jsem trochu zvědavý. : Today I am a little curious.
+Včera jsem byl velmi zvědavý. : Yesterday I was very curious.
+Proč jsi tak zvědavý? : Why are you so curious?
+Po cestě jsem byl zvědavý. : After the journey I was curious.
+Vypadáš zvědavý. : You look curious.
+Nechci být zvědavý. : I do not want to be curious.
+Někdy bývám zvědavý. : Sometimes I am curious.
+Můj bratr byl zvědavý. : My brother was curious.
+Cítil jsem se zvědavý. : I felt curious.
+Doufám, že nebudeš zvědavý. : I hope you will not be curious.
+Dnes jsem trochu klidný. : Today I am a little calm.
+Včera jsem byl velmi klidný. : Yesterday I was very calm.
+Proč jsi tak klidný? : Why are you so calm?
+Po cestě jsem byl klidný. : After the journey I was calm.
+Vypadáš klidný. : You look calm.
+Nechci být klidný. : I do not want to be calm.
+Někdy bývám klidný. : Sometimes I am calm.
+Můj bratr byl klidný. : My brother was calm.
+Cítil jsem se klidný. : I felt calm.
+Doufám, že nebudeš klidný. : I hope you will not be calm.
+Dnes jsem trochu osamělý. : Today I am a little lonely.
+Včera jsem byl velmi osamělý. : Yesterday I was very lonely.
+Proč jsi tak osamělý? : Why are you so lonely?
+Po cestě jsem byl osamělý. : After the journey I was lonely.
+Vypadáš osamělý. : You look lonely.
+Nechci být osamělý. : I do not want to be lonely.
+Někdy bývám osamělý. : Sometimes I am lonely.
+Můj bratr byl osamělý. : My brother was lonely.
+Cítil jsem se osamělý. : I felt lonely.
+Doufám, že nebudeš osamělý. : I hope you will not be lonely.
+Dnes jsem trochu netrpělivý. : Today I am a little impatient.
+Včera jsem byl velmi netrpělivý. : Yesterday I was very impatient.
+Proč jsi tak netrpělivý? : Why are you so impatient?
+Po cestě jsem byl netrpělivý. : After the journey I was impatient.
+Vypadáš netrpělivý. : You look impatient.
+Nechci být netrpělivý. : I do not want to be impatient.
+Někdy bývám netrpělivý. : Sometimes I am impatient.
+Můj bratr byl netrpělivý. : My brother was impatient.
+Cítil jsem se netrpělivý. : I felt impatient.
+Doufám, že nebudeš netrpělivý. : I hope you will not be impatient.
+Světlo svítí v kuchyni. : The light is on in the kitchen.
+Někdo na mě čeká v kuchyni. : Someone is waiting for me in the kitchen.
+Nechal jsem si brýle v kuchyni. : I left my glasses in the kitchen.
+Děti si hrají v kuchyni. : The children are playing in the kitchen.
+Musíme uklidit v kuchyni. : We need to tidy up in the kitchen.
+Je tam příliš hlučno v kuchyni. : It is too noisy in the kitchen.
+Seděl jsem celé ráno v kuchyni. : I sat in the kitchen all morning.
+Telefon jsem našel v kuchyni. : I found the phone in the kitchen.
+V zimě bývá chladno v kuchyni. : In winter it is cold in the kitchen.
+Pojďme si promluvit v kuchyni. : Let us talk in the kitchen.
+Světlo svítí v obývacím pokoji. : The light is on in the living room.
+Někdo na mě čeká v obývacím pokoji. : Someone is waiting for me in the living room.
+Nechal jsem si brýle v obývacím pokoji. : I left my glasses in the living room.
+Děti si hrají v obývacím pokoji. : The children are playing in the living room.
+Musíme uklidit v obývacím pokoji. : We need to tidy up in the living room.
+Je tam příliš hlučno v obývacím pokoji. : It is too noisy in the living room.
+Seděl jsem celé ráno v obývacím pokoji. : I sat in the living room all morning.
+Telefon jsem našel v obývacím pokoji. : I found the phone in the living room.
+V zimě bývá chladno v obývacím pokoji. : In winter it is cold in the living room.
+Pojďme si promluvit v obývacím pokoji. : Let us talk in the living room.
+Světlo svítí v ložnici. : The light is on in the bedroom.
+Někdo na mě čeká v ložnici. : Someone is waiting for me in the bedroom.
+Nechal jsem si brýle v ložnici. : I left my glasses in the bedroom.
+Děti si hrají v ložnici. : The children are playing in the bedroom.
+Musíme uklidit v ložnici. : We need to tidy up in the bedroom.
+Je tam příliš hlučno v ložnici. : It is too noisy in the bedroom.
+Seděl jsem celé ráno v ložnici. : I sat in the bedroom all morning.
+Telefon jsem našel v ložnici. : I found the phone in the bedroom.
+V zimě bývá chladno v ložnici. : In winter it is cold in the bedroom.
+Pojďme si promluvit v ložnici. : Let us talk in the bedroom.
+Světlo svítí v koupelně. : The light is on in the bathroom.
+Někdo na mě čeká v koupelně. : Someone is waiting for me in the bathroom.
+Nechal jsem si brýle v koupelně. : I left my glasses in the bathroom.
+Děti si hrají v koupelně. : The children are playing in the bathroom.
+Musíme uklidit v koupelně. : We need to tidy up in the bathroom.
+Je tam příliš hlučno v koupelně. : It is too noisy in the bathroom.
+Seděl jsem celé ráno v koupelně. : I sat in the bathroom all morning.
+Telefon jsem našel v koupelně. : I found the phone in the bathroom.
+V zimě bývá chladno v koupelně. : In winter it is cold in the bathroom.
+Pojďme si promluvit v koupelně. : Let us talk in the bathroom.
+Světlo svítí na balkoně. : The light is on on the balcony.
+Někdo na mě čeká na balkoně. : Someone is waiting for me on the balcony.
+Nechal jsem si brýle na balkoně. : I left my glasses on the balcony.
+Děti si hrají na balkoně. : The children are playing on the balcony.
+Musíme uklidit na balkoně. : We need to tidy up on the balcony.
+Je tam příliš hlučno na balkoně. : It is too noisy on the balcony.
+Seděl jsem celé ráno na balkoně. : I sat on the balcony all morning.
+Telefon jsem našel na balkoně. : I found the phone on the balcony.
+V zimě bývá chladno na balkoně. : In winter it is cold on the balcony.
+Pojďme si promluvit na balkoně. : Let us talk on the balcony.
+Světlo svítí na zahradě. : The light is on in the garden.
+Někdo na mě čeká na zahradě. : Someone is waiting for me in the garden.
+Nechal jsem si brýle na zahradě. : I left my glasses in the garden.
+Děti si hrají na zahradě. : The children are playing in the garden.
+Musíme uklidit na zahradě. : We need to tidy up in the garden.
+Je tam příliš hlučno na zahradě. : It is too noisy in the garden.
+Seděl jsem celé ráno na zahradě. : I sat in the garden all morning.
+Telefon jsem našel na zahradě. : I found the phone in the garden.
+V zimě bývá chladno na zahradě. : In winter it is cold in the garden.
+Pojďme si promluvit na zahradě. : Let us talk in the garden.
+Světlo svítí ve sklepě. : The light is on in the cellar.
+Někdo na mě čeká ve sklepě. : Someone is waiting for me in the cellar.
+Nechal jsem si brýle ve sklepě. : I left my glasses in the cellar.
+Děti si hrají ve sklepě. : The children are playing in the cellar.
+Musíme uklidit ve sklepě. : We need to tidy up in the cellar.
+Je tam příliš hlučno ve sklepě. : It is too noisy in the cellar.
+Seděl jsem celé ráno ve sklepě. : I sat in the cellar all morning.
+Telefon jsem našel ve sklepě. : I found the phone in the cellar.
+V zimě bývá chladno ve sklepě. : In winter it is cold in the cellar.
+Pojďme si promluvit ve sklepě. : Let us talk in the cellar.
+Světlo svítí v garáži. : The light is on in the garage.
+Někdo na mě čeká v garáži. : Someone is waiting for me in the garage.
+Nechal jsem si brýle v garáži. : I left my glasses in the garage.
+Děti si hrají v garáži. : The children are playing in the garage.
+Musíme uklidit v garáži. : We need to tidy up in the garage.
+Je tam příliš hlučno v garáži. : It is too noisy in the garage.
+Seděl jsem celé ráno v garáži. : I sat in the garage all morning.
+Telefon jsem našel v garáži. : I found the phone in the garage.
+V zimě bývá chladno v garáži. : In winter it is cold in the garage.
+Pojďme si promluvit v garáži. : Let us talk in the garage.
+Světlo svítí na chodbě. : The light is on in the hallway.
+Někdo na mě čeká na chodbě. : Someone is waiting for me in the hallway.
+Nechal jsem si brýle na chodbě. : I left my glasses in the hallway.
+Děti si hrají na chodbě. : The children are playing in the hallway.
+Musíme uklidit na chodbě. : We need to tidy up in the hallway.
+Je tam příliš hlučno na chodbě. : It is too noisy in the hallway.
+Seděl jsem celé ráno na chodbě. : I sat in the hallway all morning.
+Telefon jsem našel na chodbě. : I found the phone in the hallway.
+V zimě bývá chladno na chodbě. : In winter it is cold in the hallway.
+Pojďme si promluvit na chodbě. : Let us talk in the hallway.
+Světlo svítí v pracovně. : The light is on in the study.
+Někdo na mě čeká v pracovně. : Someone is waiting for me in the study.
+Nechal jsem si brýle v pracovně. : I left my glasses in the study.
+Děti si hrají v pracovně. : The children are playing in the study.
+Musíme uklidit v pracovně. : We need to tidy up in the study.
+Je tam příliš hlučno v pracovně. : It is too noisy in the study.
+Seděl jsem celé ráno v pracovně. : I sat in the study all morning.
+Telefon jsem našel v pracovně. : I found the phone in the study.
+V zimě bývá chladno v pracovně. : In winter it is cold in the study.
+Pojďme si promluvit v pracovně. : Let us talk in the study.
+Dnes nás překvapil jev zvaný déšť. : Today we were surprised by a phenomenon called rain.
+Předpověď počasí zmiňuje déšť. : The weather forecast mentions rain.
+Včera jsme mluvili o počasí a o jevu zvaném déšť. : Yesterday we talked about the weather and a phenomenon called rain.
+V televizi vysvětlovali, co znamená déšť. : On television they explained what rain means.
+Na výletě jsme zažili nepříjemné počasí, zejména déšť. : On our trip we experienced unpleasant weather, especially rain.
+Lidé se připravují na nepříznivé počasí, například déšť. : People are preparing for bad weather, such as rain.
+Meteorologové sledují jev označovaný jako déšť. : Meteorologists are monitoring a phenomenon described as rain.
+Může déšť ovlivnit dopravu? : Can rain affect transport?
+Jak dlouho může trvat déšť? : How long can rain last?
+Děti se ve škole učily, co je déšť. : The children learned at school what rain is.
+Dnes nás překvapil jev zvaný sníh. : Today we were surprised by a phenomenon called snow.
+Předpověď počasí zmiňuje sníh. : The weather forecast mentions snow.
+Včera jsme mluvili o počasí a o jevu zvaném sníh. : Yesterday we talked about the weather and a phenomenon called snow.
+V televizi vysvětlovali, co znamená sníh. : On television they explained what snow means.
+Na výletě jsme zažili nepříjemné počasí, zejména sníh. : On our trip we experienced unpleasant weather, especially snow.
+Lidé se připravují na nepříznivé počasí, například sníh. : People are preparing for bad weather, such as snow.
+Meteorologové sledují jev označovaný jako sníh. : Meteorologists are monitoring a phenomenon described as snow.
+Může sníh ovlivnit dopravu? : Can snow affect transport?
+Jak dlouho může trvat sníh? : How long can snow last?
+Děti se ve škole učily, co je sníh. : The children learned at school what snow is.
+Dnes nás překvapil jev zvaný vítr. : Today we were surprised by a phenomenon called wind.
+Předpověď počasí zmiňuje vítr. : The weather forecast mentions wind.
+Včera jsme mluvili o počasí a o jevu zvaném vítr. : Yesterday we talked about the weather and a phenomenon called wind.
+V televizi vysvětlovali, co znamená vítr. : On television they explained what wind means.
+Na výletě jsme zažili nepříjemné počasí, zejména vítr. : On our trip we experienced unpleasant weather, especially wind.
+Lidé se připravují na nepříznivé počasí, například vítr. : People are preparing for bad weather, such as wind.
+Meteorologové sledují jev označovaný jako vítr. : Meteorologists are monitoring a phenomenon described as wind.
+Může vítr ovlivnit dopravu? : Can wind affect transport?
+Jak dlouho může trvat vítr? : How long can wind last?
+Děti se ve škole učily, co je vítr. : The children learned at school what wind is.
+Dnes nás překvapil jev zvaný bouřka. : Today we were surprised by a phenomenon called a storm.
+Předpověď počasí zmiňuje bouřka. : The weather forecast mentions a storm.
+Včera jsme mluvili o počasí a o jevu zvaném bouřka. : Yesterday we talked about the weather and a phenomenon called a storm.
+V televizi vysvětlovali, co znamená bouřka. : On television they explained what a storm means.
+Na výletě jsme zažili nepříjemné počasí, zejména bouřka. : On our trip we experienced unpleasant weather, especially a storm.
+Lidé se připravují na nepříznivé počasí, například bouřka. : People are preparing for bad weather, such as a storm.
+Meteorologové sledují jev označovaný jako bouřka. : Meteorologists are monitoring a phenomenon described as a storm.
+Může bouřka ovlivnit dopravu? : Can a storm affect transport?
+Jak dlouho může trvat bouřka? : How long can a storm last?
+Děti se ve škole učily, co je bouřka. : The children learned at school what a storm is.
+Dnes nás překvapil jev zvaný mlha. : Today we were surprised by a phenomenon called fog.
+Předpověď počasí zmiňuje mlha. : The weather forecast mentions fog.
+Včera jsme mluvili o počasí a o jevu zvaném mlha. : Yesterday we talked about the weather and a phenomenon called fog.
+V televizi vysvětlovali, co znamená mlha. : On television they explained what fog means.
+Na výletě jsme zažili nepříjemné počasí, zejména mlha. : On our trip we experienced unpleasant weather, especially fog.
+Lidé se připravují na nepříznivé počasí, například mlha. : People are preparing for bad weather, such as fog.
+Meteorologové sledují jev označovaný jako mlha. : Meteorologists are monitoring a phenomenon described as fog.
+Může mlha ovlivnit dopravu? : Can fog affect transport?
+Jak dlouho může trvat mlha? : How long can fog last?
+Děti se ve škole učily, co je mlha. : The children learned at school what fog is.
+Dnes nás překvapil jev zvaný mráz. : Today we were surprised by a phenomenon called frost.
+Předpověď počasí zmiňuje mráz. : The weather forecast mentions frost.
+Včera jsme mluvili o počasí a o jevu zvaném mráz. : Yesterday we talked about the weather and a phenomenon called frost.
+V televizi vysvětlovali, co znamená mráz. : On television they explained what frost means.
+Na výletě jsme zažili nepříjemné počasí, zejména mráz. : On our trip we experienced unpleasant weather, especially frost.
+Lidé se připravují na nepříznivé počasí, například mráz. : People are preparing for bad weather, such as frost.
+Meteorologové sledují jev označovaný jako mráz. : Meteorologists are monitoring a phenomenon described as frost.
+Může mráz ovlivnit dopravu? : Can frost affect transport?
+Jak dlouho může trvat mráz? : How long can frost last?
+Děti se ve škole učily, co je mráz. : The children learned at school what frost is.
+Dnes nás překvapil jev zvaný vedra. : Today we were surprised by a phenomenon called hot weather.
+Předpověď počasí zmiňuje vedra. : The weather forecast mentions hot weather.
+Včera jsme mluvili o počasí a o jevu zvaném vedra. : Yesterday we talked about the weather and a phenomenon called hot weather.
+V televizi vysvětlovali, co znamená vedra. : On television they explained what hot weather means.
+Na výletě jsme zažili nepříjemné počasí, zejména vedra. : On our trip we experienced unpleasant weather, especially hot weather.
+Lidé se připravují na nepříznivé počasí, například vedra. : People are preparing for bad weather, such as hot weather.
+Meteorologové sledují jev označovaný jako vedra. : Meteorologists are monitoring a phenomenon described as hot weather.
+Může vedra ovlivnit dopravu? : Can hot weather affect transport?
+Jak dlouho může trvat vedra? : How long can hot weather last?
+Děti se ve škole učily, co je vedra. : The children learned at school what hot weather is.
+Dnes nás překvapil jev zvaný sucho. : Today we were surprised by a phenomenon called drought.
+Předpověď počasí zmiňuje sucho. : The weather forecast mentions drought.
+Včera jsme mluvili o počasí a o jevu zvaném sucho. : Yesterday we talked about the weather and a phenomenon called drought.
+V televizi vysvětlovali, co znamená sucho. : On television they explained what drought means.
+Na výletě jsme zažili nepříjemné počasí, zejména sucho. : On our trip we experienced unpleasant weather, especially drought.
+Lidé se připravují na nepříznivé počasí, například sucho. : People are preparing for bad weather, such as drought.
+Meteorologové sledují jev označovaný jako sucho. : Meteorologists are monitoring a phenomenon described as drought.
+Může sucho ovlivnit dopravu? : Can drought affect transport?
+Jak dlouho může trvat sucho? : How long can drought last?
+Děti se ve škole učily, co je sucho. : The children learned at school what drought is.
+Dnes nás překvapil jev zvaný povodeň. : Today we were surprised by a phenomenon called a flood.
+Předpověď počasí zmiňuje povodeň. : The weather forecast mentions a flood.
+Včera jsme mluvili o počasí a o jevu zvaném povodeň. : Yesterday we talked about the weather and a phenomenon called a flood.
+V televizi vysvětlovali, co znamená povodeň. : On television they explained what a flood means.
+Na výletě jsme zažili nepříjemné počasí, zejména povodeň. : On our trip we experienced unpleasant weather, especially a flood.
+Lidé se připravují na nepříznivé počasí, například povodeň. : People are preparing for bad weather, such as a flood.
+Meteorologové sledují jev označovaný jako povodeň. : Meteorologists are monitoring a phenomenon described as a flood.
+Může povodeň ovlivnit dopravu? : Can a flood affect transport?
+Jak dlouho může trvat povodeň? : How long can a flood last?
+Děti se ve škole učily, co je povodeň. : The children learned at school what a flood is.
+Dnes nás překvapil jev zvaný námraza. : Today we were surprised by a phenomenon called ice on the roads.
+Předpověď počasí zmiňuje námraza. : The weather forecast mentions ice on the roads.
+Včera jsme mluvili o počasí a o jevu zvaném námraza. : Yesterday we talked about the weather and a phenomenon called ice on the roads.
+V televizi vysvětlovali, co znamená námraza. : On television they explained what ice on the roads means.
+Na výletě jsme zažili nepříjemné počasí, zejména námraza. : On our trip we experienced unpleasant weather, especially ice on the roads.
+Lidé se připravují na nepříznivé počasí, například námraza. : People are preparing for bad weather, such as ice on the roads.
+Meteorologové sledují jev označovaný jako námraza. : Meteorologists are monitoring a phenomenon described as ice on the roads.
+Může námraza ovlivnit dopravu? : Can ice on the roads affect transport?
+Jak dlouho může trvat námraza? : How long can ice on the roads last?
+Děti se ve škole učily, co je námraza. : The children learned at school what ice on the roads is.

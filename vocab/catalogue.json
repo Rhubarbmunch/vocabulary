@@ -77,6 +77,48 @@
     "description": "900 less common Czech words"
  },
  {
+    "id": "czech_sentences_1",
+    "name": "czech_sentences_1",
+    "language": "Czech",
+    "file": "czech_sentences_1-1000.txt",
+    "description": "First list of 1000 Czech phrases"
+ },
+ {
+    "id": "czech_sentences_2",
+    "name": "czech_sentences_2",
+    "language": "Czech",
+    "file": "czech_sentences_1001-2000.txt",
+    "description": "Second list of 1000 Czech phrases"
+ },
+ {
+    "id": "czech_sentences_3",
+    "name": "czech_sentences_3",
+    "language": "Czech",
+    "file": "czech_sentences_2001-3000.txt",
+    "description": "Third list of 1000 Czech phrases"
+ },
+ {
+    "id": "danish_sentences_1",
+    "name": "danish_sentences_1",
+    "language": "Danish",
+    "file": "danish_sentences_1-1000.txt",
+    "description": "First list of 1000 Danish phrases"
+ },
+ {
+    "id": "danish_sentences_2",
+    "name": "danish_sentences_2",
+    "language": "Danish",
+    "file": "danish_sentences_1001-2000.txt",
+    "description": "Second list of 1000 Danish phrases"
+ },
+ {
+    "id": "danish_sentences_3",
+    "name": "danish_sentences_3",
+    "language": "Danish",
+    "file": "danish_sentences_2001-3000.txt",
+    "description": "Third list of 1000 Danish phrases"
+ },
+ {
     "id": "french",
     "name": "french",
     "language": "French",
