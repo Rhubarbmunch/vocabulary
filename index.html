@@ -161,6 +161,7 @@ let current = null,
 let dirty = false;
 let rememberedHandle = null;
 let currentLanguage = "";
+let currentSpeechLanguage = null;
 const card = document.getElementById("card");
 const status = document.getElementById("status");
 const listDisplay = document.getElementById("lists");
@@ -434,7 +435,7 @@ function chooseWord() {
   };
   revealLevel = 0;
   showCard();
-  if (audioModeBox.checked && (words[current.word].audio || canSpeakChinese(words[current.word])))
+  if (audioModeBox.checked && (words[current.word].audio || canSpeakWord(words[current.word])))
     playCurrentAudio(1.0);
 }
 
@@ -444,7 +445,7 @@ function showCard() {
     return;
   }
   const w = words[current.word];
-  audioControls.hidden = !(w.audio || canSpeakChinese(w));
+  audioControls.hidden = !(w.audio || canSpeakWord(w));
   const audioMode = audioModeBox.checked;
   const inverse = inverseBox.checked;
   let s;
@@ -490,11 +491,41 @@ function showCard() {
 
   card.textContent = s;
 }
-// Chinese text can be spoken without a recorded sound file.
-// Use the Chinese characters, not the Pinyin or English translation.
+// Latin-alphabet languages need the vocabulary name or catalogue language.
+// Keep this table in one place so more languages can be added easily.
 
-function canSpeakChinese(w) {
-  return !!(w && /[\u3400-\u9fff]/u.test(w.front) &&
+function speechLanguageFromName(name) {
+  const text = String(name || "").toLowerCase().normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+  const languages = [
+    ["zh-CN", /chinese|mandarin|中文|汉语|(?:^|[^a-z])zh(?:$|[^a-z])/],
+    ["ru-RU", /russian|русск|(?:^|[^a-z])ru(?:$|[^a-z])/],
+    ["es-ES", /spanish|espanol|castellano|(?:^|[^a-z])es(?:$|[^a-z])/],
+    ["fr-FR", /french|francais|(?:^|[^a-z])fr(?:$|[^a-z])/],
+    ["de-DE", /german|deutsch|(?:^|[^a-z])de(?:$|[^a-z])/],
+    ["it-IT", /italian|italiano|(?:^|[^a-z])it(?:$|[^a-z])/],
+    ["pt-PT", /portuguese|portugues|(?:^|[^a-z])pt(?:$|[^a-z])/],
+    ["sl-SI", /slovenian|slovene|slovens|(?:^|[^a-z])sl(?:$|[^a-z])/],
+    ["da-DK", /danish|dansk|(?:^|[^a-z])da(?:$|[^a-z])/],
+    ["ta-IN", /tamil|தமிழ்|(?:^|[^a-z])ta(?:$|[^a-z])/],
+    ["ja-JP", /japanese|日本語|(?:^|[^a-z])ja(?:$|[^a-z])/]
+  ];
+  const match = languages.find(([, pattern]) => pattern.test(text));
+  return match ? match[0] : null;
+}
+
+function speechLanguage(word) {
+  if (!word) return null;
+  // Prefer explicit vocabulary information over guesses from its alphabet.
+  const language = currentSpeechLanguage || speechLanguageFromName(currentLanguage);
+  if (language) return language;
+  if (/[\u3400-\u9fff]/u.test(word.front)) return "zh-CN";
+  if (/[А-Яа-яЁё]/u.test(word.front)) return "ru-RU";
+  return null;
+}
+
+function canSpeakWord(w) {
+  return !!(speechLanguage(w) &&
     "speechSynthesis" in window &&
     "SpeechSynthesisUtterance" in window);
 }
@@ -509,19 +540,23 @@ function stopAudio() {
   if ("speechSynthesis" in window) speechSynthesis.cancel();
 }
 
-function speakChinese(text, speed) {
+function speakWord(word, speed) {
+  const language = speechLanguage(word);
+  if (!language) return false;
   if (!("speechSynthesis" in window) ||
     !("SpeechSynthesisUtterance" in window)) return false;
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "zh-CN";
+  const utterance = new SpeechSynthesisUtterance(word.front);
+  utterance.lang = language;
   utterance.rate = speed;
   const voices = speechSynthesis.getVoices();
-  const voice = voices.find(v => v.lang.toLowerCase() === "zh-cn") ||
-    voices.find(v => v.lang.toLowerCase().startsWith("zh"));
+  const voiceLanguage = language.toLowerCase();
+  const languagePrefix = voiceLanguage.split("-")[0];
+  const voice = voices.find(v => v.lang.toLowerCase().replace(/_/g, "-") === voiceLanguage) ||
+    voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === languagePrefix);
   if (voice) utterance.voice = voice;
   utterance.onerror = e => {
     if (e.error !== "canceled" && e.error !== "interrupted")
-      feedback.textContent = "<Mandarin speech unavailable; check installed voices>";
+      feedback.textContent = "<Speech unavailable (" + language + "); check installed voices>";
   };
   speechSynthesis.speak(utterance);
   return true;
@@ -567,8 +602,8 @@ async function playCurrentAudio(speed = 1.0) {
       audio.onended = cleanup;
       audio.onerror = () => {
         cleanup();
-        if (request === audioRequest && canSpeakChinese(w))
-          speakChinese(w.front, speed);
+        if (request === audioRequest && canSpeakWord(w))
+          speakWord(w, speed);
         else if (request === audioRequest)
           feedback.textContent = "<sound file not found: " + w.audio + ">";
       };
@@ -577,14 +612,14 @@ async function playCurrentAudio(speed = 1.0) {
     } catch (e) {
       if (objectURL) URL.revokeObjectURL(source);
       if (request !== audioRequest) return;
-      if (!canSpeakChinese(w)) {
+      if (!canSpeakWord(w)) {
         feedback.textContent = "<could not play: " + w.audio + ">";
         return;
       }
     }
   }
-  if (request === audioRequest && canSpeakChinese(w))
-    speakChinese(w.front, speed);
+  if (request === audioRequest && canSpeakWord(w))
+    speakWord(w, speed);
 }
 
 function reveal() {
@@ -699,7 +734,8 @@ async function savePhoneState() {
       numRight,
       numWrong,
       initialProgress,
-      audioBase: currentAudioBase
+      audioBase: currentAudioBase,
+      speechLanguage: currentSpeechLanguage
     }, currentLanguage);
     await new Promise((a, b) => {
       tx.oncomplete = a;
@@ -710,7 +746,7 @@ async function savePhoneState() {
   } catch (e) {}
 }
 
-async function loadPhoneState(name) {
+async function loadPhoneState(name, languageHint = null) {
   try {
     const db = await phoneDB(),
       tx = db.transaction("states", "readonly"),
@@ -727,6 +763,7 @@ async function loadPhoneState(name) {
     }, () => []);
     for (let i = 0; i < d.lists.length; i++) lists[Math.min(i, NLISTS - 1)].push(...d.lists[i]);
     currentLanguage = name;
+    currentSpeechLanguage = languageHint || d.speechLanguage || speechLanguageFromName(name);
     currentAudioBase = d.audioBase !== undefined ? d.audioBase : currentAudioBase;
     inverseBox.checked = !!d.inverse;
     audioModeBox.checked = !!d.audioMode;
@@ -834,7 +871,10 @@ async function loadCatalogueEntry(entry) {
   saveButton.disabled = true;
   languageSelect.value = "";
   currentAudioBase = "./vocab/";
-  if (await loadPhoneState(entry.id)) {
+  const languageHint = speechLanguageFromName(entry.language) ||
+    speechLanguageFromName(entry.id) || speechLanguageFromName(entry.name) ||
+    speechLanguageFromName(entry.file);
+  if (await loadPhoneState(entry.id, languageHint)) {
     status.textContent = "Restored " + entry.name + " from phone storage.";
     return;
   }
@@ -846,6 +886,7 @@ async function loadCatalogueEntry(entry) {
     const text = await response.text();
 
     currentLanguage = entry.id;
+    currentSpeechLanguage = languageHint;
     currentAudioBase = "./vocab/";
     words = text.split(/\r?\n/).map(parseLine).filter(Boolean);
     lists = Array.from({
@@ -1007,6 +1048,7 @@ async function loadLanguage(language) {
   }
 
   currentLanguage = language;
+  currentSpeechLanguage = speechLanguageFromName(language);
   currentAudioBase = "";
   localStorage.setItem("vocab-language", language);
 
@@ -1318,6 +1360,7 @@ phoneFileInput.onchange = async () => {
   saveButton.disabled = true;
   languageSelect.value = "";
   currentLanguage = f.name.replace(/\.txt$/i, "").replace(/_[0-5]$/, "") || "vocabulary";
+  currentSpeechLanguage = speechLanguageFromName(currentLanguage);
   currentAudioBase = "";
   words = text.split(/\r?\n/).map(parseLine).filter(Boolean);
   lists = Array.from({
