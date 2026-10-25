@@ -1,0 +1,1000 @@
+我明天去图书馆 : wǒ míngtiān qù túshūguǎn : I am going to the library tomorrow.
+我明天去博物馆 : wǒ míngtiān qù bówùguǎn : I am going to the museum tomorrow.
+我明天去公园 : wǒ míngtiān qù gōngyuán : I am going to the park tomorrow.
+我明天去学校 : wǒ míngtiān qù xuéxiào : I am going to the school tomorrow.
+我明天去大学 : wǒ míngtiān qù dàxué : I am going to the university tomorrow.
+我明天去医院 : wǒ míngtiān qù yīyuàn : I am going to the hospital tomorrow.
+我明天去银行 : wǒ míngtiān qù yínháng : I am going to the bank tomorrow.
+我明天去邮局 : wǒ míngtiān qù yóujú : I am going to the post office tomorrow.
+我明天去书店 : wǒ míngtiān qù shūdiàn : I am going to the bookshop tomorrow.
+我明天去商店 : wǒ míngtiān qù shāngdiàn : I am going to the shop tomorrow.
+你知道图书馆在哪里吗 : nǐ zhīdào túshūguǎn zài nǎlǐ ma : Do you know where the library is?
+你知道博物馆在哪里吗 : nǐ zhīdào bówùguǎn zài nǎlǐ ma : Do you know where the museum is?
+你知道公园在哪里吗 : nǐ zhīdào gōngyuán zài nǎlǐ ma : Do you know where the park is?
+你知道学校在哪里吗 : nǐ zhīdào xuéxiào zài nǎlǐ ma : Do you know where the school is?
+你知道大学在哪里吗 : nǐ zhīdào dàxué zài nǎlǐ ma : Do you know where the university is?
+你知道医院在哪里吗 : nǐ zhīdào yīyuàn zài nǎlǐ ma : Do you know where the hospital is?
+你知道银行在哪里吗 : nǐ zhīdào yínháng zài nǎlǐ ma : Do you know where the bank is?
+你知道邮局在哪里吗 : nǐ zhīdào yóujú zài nǎlǐ ma : Do you know where the post office is?
+你知道书店在哪里吗 : nǐ zhīdào shūdiàn zài nǎlǐ ma : Do you know where the bookshop is?
+你知道商店在哪里吗 : nǐ zhīdào shāngdiàn zài nǎlǐ ma : Do you know where the shop is?
+图书馆离这里远吗 : túshūguǎn lí zhèlǐ yuǎn ma : Is the library far from here?
+博物馆离这里远吗 : bówùguǎn lí zhèlǐ yuǎn ma : Is the museum far from here?
+公园离这里远吗 : gōngyuán lí zhèlǐ yuǎn ma : Is the park far from here?
+学校离这里远吗 : xuéxiào lí zhèlǐ yuǎn ma : Is the school far from here?
+大学离这里远吗 : dàxué lí zhèlǐ yuǎn ma : Is the university far from here?
+医院离这里远吗 : yīyuàn lí zhèlǐ yuǎn ma : Is the hospital far from here?
+银行离这里远吗 : yínháng lí zhèlǐ yuǎn ma : Is the bank far from here?
+邮局离这里远吗 : yóujú lí zhèlǐ yuǎn ma : Is the post office far from here?
+书店离这里远吗 : shūdiàn lí zhèlǐ yuǎn ma : Is the bookshop far from here?
+商店离这里远吗 : shāngdiàn lí zhèlǐ yuǎn ma : Is the shop far from here?
+我们在图书馆见面吧 : wǒmen zài túshūguǎn jiànmiàn ba : Let's meet at the library.
+我们在博物馆见面吧 : wǒmen zài bówùguǎn jiànmiàn ba : Let's meet at the museum.
+我们在公园见面吧 : wǒmen zài gōngyuán jiànmiàn ba : Let's meet at the park.
+我们在学校见面吧 : wǒmen zài xuéxiào jiànmiàn ba : Let's meet at the school.
+我们在大学见面吧 : wǒmen zài dàxué jiànmiàn ba : Let's meet at the university.
+我们在医院见面吧 : wǒmen zài yīyuàn jiànmiàn ba : Let's meet at the hospital.
+我们在银行见面吧 : wǒmen zài yínháng jiànmiàn ba : Let's meet at the bank.
+我们在邮局见面吧 : wǒmen zài yóujú jiànmiàn ba : Let's meet at the post office.
+我们在书店见面吧 : wǒmen zài shūdiàn jiànmiàn ba : Let's meet at the bookshop.
+我们在商店见面吧 : wǒmen zài shāngdiàn jiànmiàn ba : Let's meet at the shop.
+他刚才从图书馆回来 : tā gāngcái cóng túshūguǎn huílai : He has just returned from the library.
+他刚才从博物馆回来 : tā gāngcái cóng bówùguǎn huílai : He has just returned from the museum.
+他刚才从公园回来 : tā gāngcái cóng gōngyuán huílai : He has just returned from the park.
+他刚才从学校回来 : tā gāngcái cóng xuéxiào huílai : He has just returned from the school.
+他刚才从大学回来 : tā gāngcái cóng dàxué huílai : He has just returned from the university.
+他刚才从医院回来 : tā gāngcái cóng yīyuàn huílai : He has just returned from the hospital.
+他刚才从银行回来 : tā gāngcái cóng yínháng huílai : He has just returned from the bank.
+他刚才从邮局回来 : tā gāngcái cóng yóujú huílai : He has just returned from the post office.
+他刚才从书店回来 : tā gāngcái cóng shūdiàn huílai : He has just returned from the bookshop.
+他刚才从商店回来 : tā gāngcái cóng shāngdiàn huílai : He has just returned from the shop.
+我想问图书馆怎么走 : wǒ xiǎng wèn túshūguǎn zěnme zǒu : I'd like to ask how to get to the library.
+我想问博物馆怎么走 : wǒ xiǎng wèn bówùguǎn zěnme zǒu : I'd like to ask how to get to the museum.
+我想问公园怎么走 : wǒ xiǎng wèn gōngyuán zěnme zǒu : I'd like to ask how to get to the park.
+我想问学校怎么走 : wǒ xiǎng wèn xuéxiào zěnme zǒu : I'd like to ask how to get to the school.
+我想问大学怎么走 : wǒ xiǎng wèn dàxué zěnme zǒu : I'd like to ask how to get to the university.
+我想问医院怎么走 : wǒ xiǎng wèn yīyuàn zěnme zǒu : I'd like to ask how to get to the hospital.
+我想问银行怎么走 : wǒ xiǎng wèn yínháng zěnme zǒu : I'd like to ask how to get to the bank.
+我想问邮局怎么走 : wǒ xiǎng wèn yóujú zěnme zǒu : I'd like to ask how to get to the post office.
+我想问书店怎么走 : wǒ xiǎng wèn shūdiàn zěnme zǒu : I'd like to ask how to get to the bookshop.
+我想问商店怎么走 : wǒ xiǎng wèn shāngdiàn zěnme zǒu : I'd like to ask how to get to the shop.
+图书馆今天开门吗 : túshūguǎn jīntiān kāimén ma : Is the library open today?
+博物馆今天开门吗 : bówùguǎn jīntiān kāimén ma : Is the museum open today?
+公园今天开门吗 : gōngyuán jīntiān kāimén ma : Is the park open today?
+学校今天开门吗 : xuéxiào jīntiān kāimén ma : Is the school open today?
+大学今天开门吗 : dàxué jīntiān kāimén ma : Is the university open today?
+医院今天开门吗 : yīyuàn jīntiān kāimén ma : Is the hospital open today?
+银行今天开门吗 : yínháng jīntiān kāimén ma : Is the bank open today?
+邮局今天开门吗 : yóujú jīntiān kāimén ma : Is the post office open today?
+书店今天开门吗 : shūdiàn jīntiān kāimén ma : Is the bookshop open today?
+商店今天开门吗 : shāngdiàn jīntiān kāimén ma : Is the shop open today?
+这附近有图书馆吗 : zhè fùjìn yǒu túshūguǎn ma : Is there a library nearby?
+这附近有博物馆吗 : zhè fùjìn yǒu bówùguǎn ma : Is there a museum nearby?
+这附近有公园吗 : zhè fùjìn yǒu gōngyuán ma : Is there a park nearby?
+这附近有学校吗 : zhè fùjìn yǒu xuéxiào ma : Is there a school nearby?
+这附近有大学吗 : zhè fùjìn yǒu dàxué ma : Is there a university nearby?
+这附近有医院吗 : zhè fùjìn yǒu yīyuàn ma : Is there a hospital nearby?
+这附近有银行吗 : zhè fùjìn yǒu yínháng ma : Is there a bank nearby?
+这附近有邮局吗 : zhè fùjìn yǒu yóujú ma : Is there a post office nearby?
+这附近有书店吗 : zhè fùjìn yǒu shūdiàn ma : Is there a bookshop nearby?
+这附近有商店吗 : zhè fùjìn yǒu shāngdiàn ma : Is there a shop nearby?
+我们周末想参观博物馆 : wǒmen zhōumò xiǎng cānguān bówùguǎn : We'd like to visit the museum this weekend.
+我们周末想参观故宫 : wǒmen zhōumò xiǎng cānguān Gùgōng : We'd like to visit the Forbidden City this weekend.
+我们周末想参观颐和园 : wǒmen zhōumò xiǎng cānguān Yíhéyuán : We'd like to visit the Summer Palace this weekend.
+我们周末想参观长城 : wǒmen zhōumò xiǎng cānguān Chángchéng : We'd like to visit the Great Wall this weekend.
+我们周末想参观公园 : wǒmen zhōumò xiǎng cānguān gōngyuán : We'd like to visit the park this weekend.
+我们周末想参观大学 : wǒmen zhōumò xiǎng cānguān dàxué : We'd like to visit the university this weekend.
+我们周末想参观教堂 : wǒmen zhōumò xiǎng cānguān jiàotáng : We'd like to visit the church this weekend.
+我们周末想参观美术馆 : wǒmen zhōumò xiǎng cānguān měishùguǎn : We'd like to visit the art gallery this weekend.
+我们周末想参观展览 : wǒmen zhōumò xiǎng cānguān zhǎnlǎn : We'd like to visit the exhibition this weekend.
+我们周末想参观动物园 : wǒmen zhōumò xiǎng cānguān dòngwùyuán : We'd like to visit the zoo this weekend.
+你参观过博物馆吗 : nǐ cānguān guò bówùguǎn ma : Have you visited the museum?
+你参观过故宫吗 : nǐ cānguān guò Gùgōng ma : Have you visited the Forbidden City?
+你参观过颐和园吗 : nǐ cānguān guò Yíhéyuán ma : Have you visited the Summer Palace?
+你参观过长城吗 : nǐ cānguān guò Chángchéng ma : Have you visited the Great Wall?
+你参观过公园吗 : nǐ cānguān guò gōngyuán ma : Have you visited the park?
+你参观过大学吗 : nǐ cānguān guò dàxué ma : Have you visited the university?
+你参观过教堂吗 : nǐ cānguān guò jiàotáng ma : Have you visited the church?
+你参观过美术馆吗 : nǐ cānguān guò měishùguǎn ma : Have you visited the art gallery?
+你参观过展览吗 : nǐ cānguān guò zhǎnlǎn ma : Have you visited the exhibition?
+你参观过动物园吗 : nǐ cānguān guò dòngwùyuán ma : Have you visited the zoo?
+我以前没参观过博物馆 : wǒ yǐqián méi cānguān guò bówùguǎn : I had not visited the museum before.
+我以前没参观过故宫 : wǒ yǐqián méi cānguān guò Gùgōng : I had not visited the Forbidden City before.
+我以前没参观过颐和园 : wǒ yǐqián méi cānguān guò Yíhéyuán : I had not visited the Summer Palace before.
+我以前没参观过长城 : wǒ yǐqián méi cānguān guò Chángchéng : I had not visited the Great Wall before.
+我以前没参观过公园 : wǒ yǐqián méi cānguān guò gōngyuán : I had not visited the park before.
+我以前没参观过大学 : wǒ yǐqián méi cānguān guò dàxué : I had not visited the university before.
+我以前没参观过教堂 : wǒ yǐqián méi cānguān guò jiàotáng : I had not visited the church before.
+我以前没参观过美术馆 : wǒ yǐqián méi cānguān guò měishùguǎn : I had not visited the art gallery before.
+我以前没参观过展览 : wǒ yǐqián méi cānguān guò zhǎnlǎn : I had not visited the exhibition before.
+我以前没参观过动物园 : wǒ yǐqián méi cānguān guò dòngwùyuán : I had not visited the zoo before.
+去博物馆需要多长时间 : qù bówùguǎn xūyào duō cháng shíjiān : How long does it take to get to the museum?
+去故宫需要多长时间 : qù Gùgōng xūyào duō cháng shíjiān : How long does it take to get to the Forbidden City?
+去颐和园需要多长时间 : qù Yíhéyuán xūyào duō cháng shíjiān : How long does it take to get to the Summer Palace?
+去长城需要多长时间 : qù Chángchéng xūyào duō cháng shíjiān : How long does it take to get to the Great Wall?
+去公园需要多长时间 : qù gōngyuán xūyào duō cháng shíjiān : How long does it take to get to the park?
+去大学需要多长时间 : qù dàxué xūyào duō cháng shíjiān : How long does it take to get to the university?
+去教堂需要多长时间 : qù jiàotáng xūyào duō cháng shíjiān : How long does it take to get to the church?
+去美术馆需要多长时间 : qù měishùguǎn xūyào duō cháng shíjiān : How long does it take to get to the art gallery?
+去展览需要多长时间 : qù zhǎnlǎn xūyào duō cháng shíjiān : How long does it take to get to the exhibition?
+去动物园需要多长时间 : qù dòngwùyuán xūyào duō cháng shíjiān : How long does it take to get to the zoo?
+我喜欢吃饺子 : wǒ xǐhuan chī jiǎozi : I like eating dumplings.
+我喜欢吃面条 : wǒ xǐhuan chī miàntiáo : I like eating noodles.
+我喜欢吃米饭 : wǒ xǐhuan chī mǐfàn : I like eating rice.
+我喜欢吃豆腐 : wǒ xǐhuan chī dòufǔ : I like eating tofu.
+我喜欢吃鸡蛋 : wǒ xǐhuan chī jīdàn : I like eating eggs.
+我喜欢吃烤鸭 : wǒ xǐhuan chī kǎoyā : I like eating roast duck.
+我喜欢吃沙拉 : wǒ xǐhuan chī shālā : I like eating salad.
+我喜欢吃蔬菜 : wǒ xǐhuan chī shūcài : I like eating vegetables.
+我喜欢吃蛋糕 : wǒ xǐhuan chī dàngāo : I like eating cake.
+我喜欢吃面包 : wǒ xǐhuan chī miànbāo : I like eating bread.
+你想吃饺子吗 : nǐ xiǎng chī jiǎozi ma : Would you like some dumplings?
+你想吃面条吗 : nǐ xiǎng chī miàntiáo ma : Would you like some noodles?
+你想吃米饭吗 : nǐ xiǎng chī mǐfàn ma : Would you like some rice?
+你想吃豆腐吗 : nǐ xiǎng chī dòufǔ ma : Would you like some tofu?
+你想吃鸡蛋吗 : nǐ xiǎng chī jīdàn ma : Would you like some eggs?
+你想吃烤鸭吗 : nǐ xiǎng chī kǎoyā ma : Would you like some roast duck?
+你想吃沙拉吗 : nǐ xiǎng chī shālā ma : Would you like some salad?
+你想吃蔬菜吗 : nǐ xiǎng chī shūcài ma : Would you like some vegetables?
+你想吃蛋糕吗 : nǐ xiǎng chī dàngāo ma : Would you like some cake?
+你想吃面包吗 : nǐ xiǎng chī miànbāo ma : Would you like some bread?
+今天晚饭我们吃饺子吧 : jīntiān wǎnfàn wǒmen chī jiǎozi ba : Let's have dumplings for dinner tonight.
+今天晚饭我们吃面条吧 : jīntiān wǎnfàn wǒmen chī miàntiáo ba : Let's have noodles for dinner tonight.
+今天晚饭我们吃米饭吧 : jīntiān wǎnfàn wǒmen chī mǐfàn ba : Let's have rice for dinner tonight.
+今天晚饭我们吃豆腐吧 : jīntiān wǎnfàn wǒmen chī dòufǔ ba : Let's have tofu for dinner tonight.
+今天晚饭我们吃鸡蛋吧 : jīntiān wǎnfàn wǒmen chī jīdàn ba : Let's have eggs for dinner tonight.
+今天晚饭我们吃烤鸭吧 : jīntiān wǎnfàn wǒmen chī kǎoyā ba : Let's have roast duck for dinner tonight.
+今天晚饭我们吃沙拉吧 : jīntiān wǎnfàn wǒmen chī shālā ba : Let's have salad for dinner tonight.
+今天晚饭我们吃蔬菜吧 : jīntiān wǎnfàn wǒmen chī shūcài ba : Let's have vegetables for dinner tonight.
+今天晚饭我们吃蛋糕吧 : jīntiān wǎnfàn wǒmen chī dàngāo ba : Let's have cake for dinner tonight.
+今天晚饭我们吃面包吧 : jīntiān wǎnfàn wǒmen chī miànbāo ba : Let's have bread for dinner tonight.
+这家饭馆的饺子很好吃 : zhè jiā fànguǎn de jiǎozi hěn hǎochī : The dumplings at this restaurant is delicious.
+这家饭馆的面条很好吃 : zhè jiā fànguǎn de miàntiáo hěn hǎochī : The noodles at this restaurant is delicious.
+这家饭馆的米饭很好吃 : zhè jiā fànguǎn de mǐfàn hěn hǎochī : The rice at this restaurant is delicious.
+这家饭馆的豆腐很好吃 : zhè jiā fànguǎn de dòufǔ hěn hǎochī : The tofu at this restaurant is delicious.
+这家饭馆的鸡蛋很好吃 : zhè jiā fànguǎn de jīdàn hěn hǎochī : The eggs at this restaurant is delicious.
+这家饭馆的烤鸭很好吃 : zhè jiā fànguǎn de kǎoyā hěn hǎochī : The roast duck at this restaurant is delicious.
+这家饭馆的沙拉很好吃 : zhè jiā fànguǎn de shālā hěn hǎochī : The salad at this restaurant is delicious.
+这家饭馆的蔬菜很好吃 : zhè jiā fànguǎn de shūcài hěn hǎochī : The vegetables at this restaurant is delicious.
+这家饭馆的蛋糕很好吃 : zhè jiā fànguǎn de dàngāo hěn hǎochī : The cake at this restaurant is delicious.
+这家饭馆的面包很好吃 : zhè jiā fànguǎn de miànbāo hěn hǎochī : The bread at this restaurant is delicious.
+我还没吃过这里的饺子 : wǒ hái méi chī guò zhèlǐ de jiǎozi : I haven't tried the dumplings here yet.
+我还没吃过这里的面条 : wǒ hái méi chī guò zhèlǐ de miàntiáo : I haven't tried the noodles here yet.
+我还没吃过这里的米饭 : wǒ hái méi chī guò zhèlǐ de mǐfàn : I haven't tried the rice here yet.
+我还没吃过这里的豆腐 : wǒ hái méi chī guò zhèlǐ de dòufǔ : I haven't tried the tofu here yet.
+我还没吃过这里的鸡蛋 : wǒ hái méi chī guò zhèlǐ de jīdàn : I haven't tried the eggs here yet.
+我还没吃过这里的烤鸭 : wǒ hái méi chī guò zhèlǐ de kǎoyā : I haven't tried the roast duck here yet.
+我还没吃过这里的沙拉 : wǒ hái méi chī guò zhèlǐ de shālā : I haven't tried the salad here yet.
+我还没吃过这里的蔬菜 : wǒ hái méi chī guò zhèlǐ de shūcài : I haven't tried the vegetables here yet.
+我还没吃过这里的蛋糕 : wǒ hái méi chī guò zhèlǐ de dàngāo : I haven't tried the cake here yet.
+我还没吃过这里的面包 : wǒ hái méi chī guò zhèlǐ de miànbāo : I haven't tried the bread here yet.
+请给我一些饺子 : qǐng gěi wǒ yìxiē jiǎozi : Please give me some dumplings.
+请给我一些面条 : qǐng gěi wǒ yìxiē miàntiáo : Please give me some noodles.
+请给我一些米饭 : qǐng gěi wǒ yìxiē mǐfàn : Please give me some rice.
+请给我一些豆腐 : qǐng gěi wǒ yìxiē dòufǔ : Please give me some tofu.
+请给我一些鸡蛋 : qǐng gěi wǒ yìxiē jīdàn : Please give me some eggs.
+请给我一些烤鸭 : qǐng gěi wǒ yìxiē kǎoyā : Please give me some roast duck.
+请给我一些沙拉 : qǐng gěi wǒ yìxiē shālā : Please give me some salad.
+请给我一些蔬菜 : qǐng gěi wǒ yìxiē shūcài : Please give me some vegetables.
+请给我一些蛋糕 : qǐng gěi wǒ yìxiē dàngāo : Please give me some cake.
+请给我一些面包 : qǐng gěi wǒ yìxiē miànbāo : Please give me some bread.
+我想喝茶 : wǒ xiǎng hē chá : I'd like some tea.
+我想喝咖啡 : wǒ xiǎng hē kāfēi : I'd like some coffee.
+我想喝水 : wǒ xiǎng hē shuǐ : I'd like some water.
+我想喝牛奶 : wǒ xiǎng hē niúnǎi : I'd like some milk.
+我想喝桔子水 : wǒ xiǎng hē júzishuǐ : I'd like some orange juice.
+我想喝啤酒 : wǒ xiǎng hē píjiǔ : I'd like some beer.
+我想喝葡萄酒 : wǒ xiǎng hē pútáojiǔ : I'd like some wine.
+我想喝汤 : wǒ xiǎng hē tāng : I'd like some soup.
+我想喝可口可乐 : wǒ xiǎng hē kěkǒukělè : I'd like some cola.
+我想喝热水 : wǒ xiǎng hē rèshuǐ : I'd like some hot water.
+你要喝茶还是水 : nǐ yào hē chá háishì shuǐ : Would you like tea or water?
+你要喝咖啡还是水 : nǐ yào hē kāfēi háishì shuǐ : Would you like coffee or water?
+你要喝水还是水 : nǐ yào hē shuǐ háishì shuǐ : Would you like water or water?
+你要喝牛奶还是水 : nǐ yào hē niúnǎi háishì shuǐ : Would you like milk or water?
+你要喝桔子水还是水 : nǐ yào hē júzishuǐ háishì shuǐ : Would you like orange juice or water?
+你要喝啤酒还是水 : nǐ yào hē píjiǔ háishì shuǐ : Would you like beer or water?
+你要喝葡萄酒还是水 : nǐ yào hē pútáojiǔ háishì shuǐ : Would you like wine or water?
+你要喝汤还是水 : nǐ yào hē tāng háishì shuǐ : Would you like soup or water?
+你要喝可口可乐还是水 : nǐ yào hē kěkǒukělè háishì shuǐ : Would you like cola or water?
+你要喝热水还是水 : nǐ yào hē rèshuǐ háishì shuǐ : Would you like hot water or water?
+这里有茶吗 : zhèlǐ yǒu chá ma : Do you have tea here?
+这里有咖啡吗 : zhèlǐ yǒu kāfēi ma : Do you have coffee here?
+这里有水吗 : zhèlǐ yǒu shuǐ ma : Do you have water here?
+这里有牛奶吗 : zhèlǐ yǒu niúnǎi ma : Do you have milk here?
+这里有桔子水吗 : zhèlǐ yǒu júzishuǐ ma : Do you have orange juice here?
+这里有啤酒吗 : zhèlǐ yǒu píjiǔ ma : Do you have beer here?
+这里有葡萄酒吗 : zhèlǐ yǒu pútáojiǔ ma : Do you have wine here?
+这里有汤吗 : zhèlǐ yǒu tāng ma : Do you have soup here?
+这里有可口可乐吗 : zhèlǐ yǒu kěkǒukělè ma : Do you have cola here?
+这里有热水吗 : zhèlǐ yǒu rèshuǐ ma : Do you have hot water here?
+请给我一杯茶 : qǐng gěi wǒ yì bēi chá : Please give me a cup of tea.
+请给我一杯咖啡 : qǐng gěi wǒ yì bēi kāfēi : Please give me a cup of coffee.
+请给我一杯水 : qǐng gěi wǒ yì bēi shuǐ : Please give me a cup of water.
+请给我一杯牛奶 : qǐng gěi wǒ yì bēi niúnǎi : Please give me a cup of milk.
+请给我一杯桔子水 : qǐng gěi wǒ yì bēi júzishuǐ : Please give me a cup of orange juice.
+请给我一杯啤酒 : qǐng gěi wǒ yì bēi píjiǔ : Please give me a cup of beer.
+请给我一杯葡萄酒 : qǐng gěi wǒ yì bēi pútáojiǔ : Please give me a cup of wine.
+请给我一杯汤 : qǐng gěi wǒ yì bēi tāng : Please give me a cup of soup.
+请给我一杯可口可乐 : qǐng gěi wǒ yì bēi kěkǒukělè : Please give me a cup of cola.
+请给我一杯热水 : qǐng gěi wǒ yì bēi rèshuǐ : Please give me a cup of hot water.
+我在找我的书 : wǒ zài zhǎo wǒ de shū : I'm looking for my book.
+我在找我的词典 : wǒ zài zhǎo wǒ de cídiǎn : I'm looking for my dictionary.
+我在找我的杂志 : wǒ zài zhǎo wǒ de zázhì : I'm looking for my magazine.
+我在找我的报纸 : wǒ zài zhǎo wǒ de bàozhǐ : I'm looking for my newspaper.
+我在找我的照片 : wǒ zài zhǎo wǒ de zhàopiàn : I'm looking for my photograph.
+我在找我的地图 : wǒ zài zhǎo wǒ de dìtú : I'm looking for my map.
+我在找我的手机 : wǒ zài zhǎo wǒ de shǒujī : I'm looking for my mobile phone.
+我在找我的手表 : wǒ zài zhǎo wǒ de shǒubiǎo : I'm looking for my watch.
+我在找我的笔 : wǒ zài zhǎo wǒ de bǐ : I'm looking for my pen.
+我在找我的本子 : wǒ zài zhǎo wǒ de běnzi : I'm looking for my notebook.
+你看到我的书了吗 : nǐ kàndào wǒ de shū le ma : Have you seen my book?
+你看到我的词典了吗 : nǐ kàndào wǒ de cídiǎn le ma : Have you seen my dictionary?
+你看到我的杂志了吗 : nǐ kàndào wǒ de zázhì le ma : Have you seen my magazine?
+你看到我的报纸了吗 : nǐ kàndào wǒ de bàozhǐ le ma : Have you seen my newspaper?
+你看到我的照片了吗 : nǐ kàndào wǒ de zhàopiàn le ma : Have you seen my photograph?
+你看到我的地图了吗 : nǐ kàndào wǒ de dìtú le ma : Have you seen my map?
+你看到我的手机了吗 : nǐ kàndào wǒ de shǒujī le ma : Have you seen my mobile phone?
+你看到我的手表了吗 : nǐ kàndào wǒ de shǒubiǎo le ma : Have you seen my watch?
+你看到我的笔了吗 : nǐ kàndào wǒ de bǐ le ma : Have you seen my pen?
+你看到我的本子了吗 : nǐ kàndào wǒ de běnzi le ma : Have you seen my notebook?
+这个书是谁的 : zhège shū shì shéi de : Whose book is this?
+这个词典是谁的 : zhège cídiǎn shì shéi de : Whose dictionary is this?
+这个杂志是谁的 : zhège zázhì shì shéi de : Whose magazine is this?
+这个报纸是谁的 : zhège bàozhǐ shì shéi de : Whose newspaper is this?
+这个照片是谁的 : zhège zhàopiàn shì shéi de : Whose photograph is this?
+这个地图是谁的 : zhège dìtú shì shéi de : Whose map is this?
+这个手机是谁的 : zhège shǒujī shì shéi de : Whose mobile phone is this?
+这个手表是谁的 : zhège shǒubiǎo shì shéi de : Whose watch is this?
+这个笔是谁的 : zhège bǐ shì shéi de : Whose pen is this?
+这个本子是谁的 : zhège běnzi shì shéi de : Whose notebook is this?
+我把书放在桌子上了 : wǒ bǎ shū fàng zài zhuōzi shàng le : I put the book on the table.
+我把词典放在桌子上了 : wǒ bǎ cídiǎn fàng zài zhuōzi shàng le : I put the dictionary on the table.
+我把杂志放在桌子上了 : wǒ bǎ zázhì fàng zài zhuōzi shàng le : I put the magazine on the table.
+我把报纸放在桌子上了 : wǒ bǎ bàozhǐ fàng zài zhuōzi shàng le : I put the newspaper on the table.
+我把照片放在桌子上了 : wǒ bǎ zhàopiàn fàng zài zhuōzi shàng le : I put the photograph on the table.
+我把地图放在桌子上了 : wǒ bǎ dìtú fàng zài zhuōzi shàng le : I put the map on the table.
+我把手机放在桌子上了 : wǒ bǎ shǒujī fàng zài zhuōzi shàng le : I put the mobile phone on the table.
+我把手表放在桌子上了 : wǒ bǎ shǒubiǎo fàng zài zhuōzi shàng le : I put the watch on the table.
+我把笔放在桌子上了 : wǒ bǎ bǐ fàng zài zhuōzi shàng le : I put the pen on the table.
+我把本子放在桌子上了 : wǒ bǎ běnzi fàng zài zhuōzi shàng le : I put the notebook on the table.
+我昨天买了新的书 : wǒ zuótiān mǎi le xīn de shū : I bought a new book yesterday.
+我昨天买了新的词典 : wǒ zuótiān mǎi le xīn de cídiǎn : I bought a new dictionary yesterday.
+我昨天买了新的杂志 : wǒ zuótiān mǎi le xīn de zázhì : I bought a new magazine yesterday.
+我昨天买了新的报纸 : wǒ zuótiān mǎi le xīn de bàozhǐ : I bought a new newspaper yesterday.
+我昨天买了新的照片 : wǒ zuótiān mǎi le xīn de zhàopiàn : I bought a new photograph yesterday.
+我昨天买了新的地图 : wǒ zuótiān mǎi le xīn de dìtú : I bought a new map yesterday.
+我昨天买了新的手机 : wǒ zuótiān mǎi le xīn de shǒujī : I bought a new mobile phone yesterday.
+我昨天买了新的手表 : wǒ zuótiān mǎi le xīn de shǒubiǎo : I bought a new watch yesterday.
+我昨天买了新的笔 : wǒ zuótiān mǎi le xīn de bǐ : I bought a new pen yesterday.
+我昨天买了新的本子 : wǒ zuótiān mǎi le xīn de běnzi : I bought a new notebook yesterday.
+请把书给我 : qǐng bǎ shū gěi wǒ : Please give me the book.
+请把词典给我 : qǐng bǎ cídiǎn gěi wǒ : Please give me the dictionary.
+请把杂志给我 : qǐng bǎ zázhì gěi wǒ : Please give me the magazine.
+请把报纸给我 : qǐng bǎ bàozhǐ gěi wǒ : Please give me the newspaper.
+请把照片给我 : qǐng bǎ zhàopiàn gěi wǒ : Please give me the photograph.
+请把地图给我 : qǐng bǎ dìtú gěi wǒ : Please give me the map.
+请把手机给我 : qǐng bǎ shǒujī gěi wǒ : Please give me the mobile phone.
+请把手表给我 : qǐng bǎ shǒubiǎo gěi wǒ : Please give me the watch.
+请把笔给我 : qǐng bǎ bǐ gěi wǒ : Please give me the pen.
+请把本子给我 : qǐng bǎ běnzi gěi wǒ : Please give me the notebook.
+这些衬衫很漂亮 : zhèxiē chènshān hěn piàoliàng : These shirt are very attractive.
+这些毛衣很漂亮 : zhèxiē máoyī hěn piàoliàng : These jumper are very attractive.
+这些夹克衫很漂亮 : zhèxiē jiākèshān hěn piàoliàng : These jacket are very attractive.
+这些裤子很漂亮 : zhèxiē kùzi hěn piàoliàng : These trousers are very attractive.
+这些牛仔裤很漂亮 : zhèxiē niúzǐkù hěn piàoliàng : These jeans are very attractive.
+这些裙子很漂亮 : zhèxiē qúnzi hěn piàoliàng : These skirt are very attractive.
+这些帽子很漂亮 : zhèxiē màozi hěn piàoliàng : These hat are very attractive.
+这些皮鞋很漂亮 : zhèxiē píxié hěn piàoliàng : These leather shoes are very attractive.
+这些布鞋很漂亮 : zhèxiē bùxié hěn piàoliàng : These cloth shoes are very attractive.
+这些袜子很漂亮 : zhèxiē wàzi hěn piàoliàng : These socks are very attractive.
+我想买衬衫 : wǒ xiǎng mǎi chènshān : I want to buy shirt.
+我想买毛衣 : wǒ xiǎng mǎi máoyī : I want to buy jumper.
+我想买夹克衫 : wǒ xiǎng mǎi jiākèshān : I want to buy jacket.
+我想买裤子 : wǒ xiǎng mǎi kùzi : I want to buy trousers.
+我想买牛仔裤 : wǒ xiǎng mǎi niúzǐkù : I want to buy jeans.
+我想买裙子 : wǒ xiǎng mǎi qúnzi : I want to buy skirt.
+我想买帽子 : wǒ xiǎng mǎi màozi : I want to buy hat.
+我想买皮鞋 : wǒ xiǎng mǎi píxié : I want to buy leather shoes.
+我想买布鞋 : wǒ xiǎng mǎi bùxié : I want to buy cloth shoes.
+我想买袜子 : wǒ xiǎng mǎi wàzi : I want to buy socks.
+你的衬衫是新的吗 : nǐ de chènshān shì xīn de ma : Is your shirt new?
+你的毛衣是新的吗 : nǐ de máoyī shì xīn de ma : Is your jumper new?
+你的夹克衫是新的吗 : nǐ de jiākèshān shì xīn de ma : Is your jacket new?
+你的裤子是新的吗 : nǐ de kùzi shì xīn de ma : Is your trousers new?
+你的牛仔裤是新的吗 : nǐ de niúzǐkù shì xīn de ma : Is your jeans new?
+你的裙子是新的吗 : nǐ de qúnzi shì xīn de ma : Is your skirt new?
+你的帽子是新的吗 : nǐ de màozi shì xīn de ma : Is your hat new?
+你的皮鞋是新的吗 : nǐ de píxié shì xīn de ma : Is your leather shoes new?
+你的布鞋是新的吗 : nǐ de bùxié shì xīn de ma : Is your cloth shoes new?
+你的袜子是新的吗 : nǐ de wàzi shì xīn de ma : Is your socks new?
+今天穿衬衫合适吗 : jīntiān chuān chènshān héshì ma : Is it suitable to wear shirt today?
+今天穿毛衣合适吗 : jīntiān chuān máoyī héshì ma : Is it suitable to wear jumper today?
+今天穿夹克衫合适吗 : jīntiān chuān jiākèshān héshì ma : Is it suitable to wear jacket today?
+今天穿裤子合适吗 : jīntiān chuān kùzi héshì ma : Is it suitable to wear trousers today?
+今天穿牛仔裤合适吗 : jīntiān chuān niúzǐkù héshì ma : Is it suitable to wear jeans today?
+今天穿裙子合适吗 : jīntiān chuān qúnzi héshì ma : Is it suitable to wear skirt today?
+今天穿帽子合适吗 : jīntiān chuān màozi héshì ma : Is it suitable to wear hat today?
+今天穿皮鞋合适吗 : jīntiān chuān píxié héshì ma : Is it suitable to wear leather shoes today?
+今天穿布鞋合适吗 : jīntiān chuān bùxié héshì ma : Is it suitable to wear cloth shoes today?
+今天穿袜子合适吗 : jīntiān chuān wàzi héshì ma : Is it suitable to wear socks today?
+那位老师很热情 : nà wèi lǎoshī hěn rèqíng : That teacher is very friendly.
+那位教授很热情 : nà wèi jiàoshòu hěn rèqíng : That professor is very friendly.
+那位医生很热情 : nà wèi yīshēng hěn rèqíng : That doctor is very friendly.
+那位护士很热情 : nà wèi hùshì hěn rèqíng : That nurse is very friendly.
+那位工程师很热情 : nà wèi gōngchéngshī hěn rèqíng : That engineer is very friendly.
+那位记者很热情 : nà wèi jìzhě hěn rèqíng : That journalist is very friendly.
+那位律师很热情 : nà wèi lǜshī hěn rèqíng : That lawyer is very friendly.
+那位经理很热情 : nà wèi jīnglǐ hěn rèqíng : That manager is very friendly.
+那位学生很热情 : nà wèi xuésheng hěn rèqíng : That student is very friendly.
+那位服务员很热情 : nà wèi fúwùyuán hěn rèqíng : That waiter is very friendly.
+我想跟老师谈一谈 : wǒ xiǎng gēn lǎoshī tán yì tán : I'd like to have a talk with the teacher.
+我想跟教授谈一谈 : wǒ xiǎng gēn jiàoshòu tán yì tán : I'd like to have a talk with the professor.
+我想跟医生谈一谈 : wǒ xiǎng gēn yīshēng tán yì tán : I'd like to have a talk with the doctor.
+我想跟护士谈一谈 : wǒ xiǎng gēn hùshì tán yì tán : I'd like to have a talk with the nurse.
+我想跟工程师谈一谈 : wǒ xiǎng gēn gōngchéngshī tán yì tán : I'd like to have a talk with the engineer.
+我想跟记者谈一谈 : wǒ xiǎng gēn jìzhě tán yì tán : I'd like to have a talk with the journalist.
+我想跟律师谈一谈 : wǒ xiǎng gēn lǜshī tán yì tán : I'd like to have a talk with the lawyer.
+我想跟经理谈一谈 : wǒ xiǎng gēn jīnglǐ tán yì tán : I'd like to have a talk with the manager.
+我想跟学生谈一谈 : wǒ xiǎng gēn xuésheng tán yì tán : I'd like to have a talk with the student.
+我想跟服务员谈一谈 : wǒ xiǎng gēn fúwùyuán tán yì tán : I'd like to have a talk with the waiter.
+老师现在很忙 : lǎoshī xiànzài hěn máng : The teacher is very busy now.
+教授现在很忙 : jiàoshòu xiànzài hěn máng : The professor is very busy now.
+医生现在很忙 : yīshēng xiànzài hěn máng : The doctor is very busy now.
+护士现在很忙 : hùshì xiànzài hěn máng : The nurse is very busy now.
+工程师现在很忙 : gōngchéngshī xiànzài hěn máng : The engineer is very busy now.
+记者现在很忙 : jìzhě xiànzài hěn máng : The journalist is very busy now.
+律师现在很忙 : lǜshī xiànzài hěn máng : The lawyer is very busy now.
+经理现在很忙 : jīnglǐ xiànzài hěn máng : The manager is very busy now.
+学生现在很忙 : xuésheng xiànzài hěn máng : The student is very busy now.
+服务员现在很忙 : fúwùyuán xiànzài hěn máng : The waiter is very busy now.
+你认识那位老师吗 : nǐ rènshi nà wèi lǎoshī ma : Do you know that teacher?
+你认识那位教授吗 : nǐ rènshi nà wèi jiàoshòu ma : Do you know that professor?
+你认识那位医生吗 : nǐ rènshi nà wèi yīshēng ma : Do you know that doctor?
+你认识那位护士吗 : nǐ rènshi nà wèi hùshì ma : Do you know that nurse?
+你认识那位工程师吗 : nǐ rènshi nà wèi gōngchéngshī ma : Do you know that engineer?
+你认识那位记者吗 : nǐ rènshi nà wèi jìzhě ma : Do you know that journalist?
+你认识那位律师吗 : nǐ rènshi nà wèi lǜshī ma : Do you know that lawyer?
+你认识那位经理吗 : nǐ rènshi nà wèi jīnglǐ ma : Do you know that manager?
+你认识那位学生吗 : nǐ rènshi nà wèi xuésheng ma : Do you know that student?
+你认识那位服务员吗 : nǐ rènshi nà wèi fúwùyuán ma : Do you know that waiter?
+我周末喜欢游泳 : wǒ zhōumò xǐhuan yóuyǒng : I enjoy swimming at weekends.
+我周末喜欢散步 : wǒ zhōumò xǐhuan sànbù : I enjoy walking at weekends.
+我周末喜欢旅行 : wǒ zhōumò xǐhuan lǚxíng : I enjoy travelling at weekends.
+我周末喜欢滑冰 : wǒ zhōumò xǐhuan huábīng : I enjoy ice skating at weekends.
+我周末喜欢跳舞 : wǒ zhōumò xǐhuan tiàowǔ : I enjoy dancing at weekends.
+我周末喜欢唱歌 : wǒ zhōumò xǐhuan chànggē : I enjoy singing at weekends.
+我周末喜欢打篮球 : wǒ zhōumò xǐhuan dǎ lánqiú : I enjoy playing basketball at weekends.
+我周末喜欢打网球 : wǒ zhōumò xǐhuan dǎ wǎngqiú : I enjoy playing tennis at weekends.
+我周末喜欢读书 : wǒ zhōumò xǐhuan dúshū : I enjoy reading at weekends.
+我周末喜欢听音乐 : wǒ zhōumò xǐhuan tīng yīnyuè : I enjoy listening to music at weekends.
+她从小就喜欢游泳 : tā cóng xiǎo jiù xǐhuan yóuyǒng : She has enjoyed swimming since childhood.
+她从小就喜欢散步 : tā cóng xiǎo jiù xǐhuan sànbù : She has enjoyed walking since childhood.
+她从小就喜欢旅行 : tā cóng xiǎo jiù xǐhuan lǚxíng : She has enjoyed travelling since childhood.
+她从小就喜欢滑冰 : tā cóng xiǎo jiù xǐhuan huábīng : She has enjoyed ice skating since childhood.
+她从小就喜欢跳舞 : tā cóng xiǎo jiù xǐhuan tiàowǔ : She has enjoyed dancing since childhood.
+她从小就喜欢唱歌 : tā cóng xiǎo jiù xǐhuan chànggē : She has enjoyed singing since childhood.
+她从小就喜欢打篮球 : tā cóng xiǎo jiù xǐhuan dǎ lánqiú : She has enjoyed playing basketball since childhood.
+她从小就喜欢打网球 : tā cóng xiǎo jiù xǐhuan dǎ wǎngqiú : She has enjoyed playing tennis since childhood.
+她从小就喜欢读书 : tā cóng xiǎo jiù xǐhuan dúshū : She has enjoyed reading since childhood.
+她从小就喜欢听音乐 : tā cóng xiǎo jiù xǐhuan tīng yīnyuè : She has enjoyed listening to music since childhood.
+我们明天一起去游泳吧 : wǒmen míngtiān yìqǐ qù yóuyǒng ba : Let's go swimming together tomorrow.
+我们明天一起去散步吧 : wǒmen míngtiān yìqǐ qù sànbù ba : Let's go walking together tomorrow.
+我们明天一起去旅行吧 : wǒmen míngtiān yìqǐ qù lǚxíng ba : Let's go travelling together tomorrow.
+我们明天一起去滑冰吧 : wǒmen míngtiān yìqǐ qù huábīng ba : Let's go ice skating together tomorrow.
+我们明天一起去跳舞吧 : wǒmen míngtiān yìqǐ qù tiàowǔ ba : Let's go dancing together tomorrow.
+我们明天一起去唱歌吧 : wǒmen míngtiān yìqǐ qù chànggē ba : Let's go singing together tomorrow.
+我们明天一起去打篮球吧 : wǒmen míngtiān yìqǐ qù dǎ lánqiú ba : Let's go playing basketball together tomorrow.
+我们明天一起去打网球吧 : wǒmen míngtiān yìqǐ qù dǎ wǎngqiú ba : Let's go playing tennis together tomorrow.
+我们明天一起去读书吧 : wǒmen míngtiān yìqǐ qù dúshū ba : Let's go reading together tomorrow.
+我们明天一起去听音乐吧 : wǒmen míngtiān yìqǐ qù tīng yīnyuè ba : Let's go listening to music together tomorrow.
+游泳对身体有好处 : yóuyǒng duì shēntǐ yǒu hǎochu : swimming is good for your health.
+散步对身体有好处 : sànbù duì shēntǐ yǒu hǎochu : walking is good for your health.
+旅行对身体有好处 : lǚxíng duì shēntǐ yǒu hǎochu : travelling is good for your health.
+滑冰对身体有好处 : huábīng duì shēntǐ yǒu hǎochu : ice skating is good for your health.
+跳舞对身体有好处 : tiàowǔ duì shēntǐ yǒu hǎochu : dancing is good for your health.
+唱歌对身体有好处 : chànggē duì shēntǐ yǒu hǎochu : singing is good for your health.
+打篮球对身体有好处 : dǎ lánqiú duì shēntǐ yǒu hǎochu : playing basketball is good for your health.
+打网球对身体有好处 : dǎ wǎngqiú duì shēntǐ yǒu hǎochu : playing tennis is good for your health.
+读书对身体有好处 : dúshū duì shēntǐ yǒu hǎochu : reading is good for your health.
+听音乐对身体有好处 : tīng yīnyuè duì shēntǐ yǒu hǎochu : listening to music is good for your health.
+我正在学习中文 : wǒ zhèngzài xuéxí Zhōngwén : I am studying Chinese.
+我正在学习英语 : wǒ zhèngzài xuéxí Yīngyǔ : I am studying English.
+我正在学习数学 : wǒ zhèngzài xuéxí shùxué : I am studying mathematics.
+我正在学习物理 : wǒ zhèngzài xuéxí wùlǐ : I am studying physics.
+我正在学习化学 : wǒ zhèngzài xuéxí huàxué : I am studying chemistry.
+我正在学习历史 : wǒ zhèngzài xuéxí lìshǐ : I am studying history.
+我正在学习地理 : wǒ zhèngzài xuéxí dìlǐ : I am studying geography.
+我正在学习语法 : wǒ zhèngzài xuéxí yǔfǎ : I am studying grammar.
+我正在学习科学 : wǒ zhèngzài xuéxí kēxué : I am studying science.
+我正在学习艺术 : wǒ zhèngzài xuéxí yìshù : I am studying art.
+你对中文有兴趣吗 : nǐ duì Zhōngwén yǒu xìngqù ma : Are you interested in Chinese?
+你对英语有兴趣吗 : nǐ duì Yīngyǔ yǒu xìngqù ma : Are you interested in English?
+你对数学有兴趣吗 : nǐ duì shùxué yǒu xìngqù ma : Are you interested in mathematics?
+你对物理有兴趣吗 : nǐ duì wùlǐ yǒu xìngqù ma : Are you interested in physics?
+你对化学有兴趣吗 : nǐ duì huàxué yǒu xìngqù ma : Are you interested in chemistry?
+你对历史有兴趣吗 : nǐ duì lìshǐ yǒu xìngqù ma : Are you interested in history?
+你对地理有兴趣吗 : nǐ duì dìlǐ yǒu xìngqù ma : Are you interested in geography?
+你对语法有兴趣吗 : nǐ duì yǔfǎ yǒu xìngqù ma : Are you interested in grammar?
+你对科学有兴趣吗 : nǐ duì kēxué yǒu xìngqù ma : Are you interested in science?
+你对艺术有兴趣吗 : nǐ duì yìshù yǒu xìngqù ma : Are you interested in art?
+我觉得中文很有趣 : wǒ juédé Zhōngwén hěn yǒuqù : I find Chinese interesting.
+我觉得英语很有趣 : wǒ juédé Yīngyǔ hěn yǒuqù : I find English interesting.
+我觉得数学很有趣 : wǒ juédé shùxué hěn yǒuqù : I find mathematics interesting.
+我觉得物理很有趣 : wǒ juédé wùlǐ hěn yǒuqù : I find physics interesting.
+我觉得化学很有趣 : wǒ juédé huàxué hěn yǒuqù : I find chemistry interesting.
+我觉得历史很有趣 : wǒ juédé lìshǐ hěn yǒuqù : I find history interesting.
+我觉得地理很有趣 : wǒ juédé dìlǐ hěn yǒuqù : I find geography interesting.
+我觉得语法很有趣 : wǒ juédé yǔfǎ hěn yǒuqù : I find grammar interesting.
+我觉得科学很有趣 : wǒ juédé kēxué hěn yǒuqù : I find science interesting.
+我觉得艺术很有趣 : wǒ juédé yìshù hěn yǒuqù : I find art interesting.
+中文比我想的难 : Zhōngwén bǐ wǒ xiǎng de nán : Chinese is harder than I expected.
+英语比我想的难 : Yīngyǔ bǐ wǒ xiǎng de nán : English is harder than I expected.
+数学比我想的难 : shùxué bǐ wǒ xiǎng de nán : mathematics is harder than I expected.
+物理比我想的难 : wùlǐ bǐ wǒ xiǎng de nán : physics is harder than I expected.
+化学比我想的难 : huàxué bǐ wǒ xiǎng de nán : chemistry is harder than I expected.
+历史比我想的难 : lìshǐ bǐ wǒ xiǎng de nán : history is harder than I expected.
+地理比我想的难 : dìlǐ bǐ wǒ xiǎng de nán : geography is harder than I expected.
+语法比我想的难 : yǔfǎ bǐ wǒ xiǎng de nán : grammar is harder than I expected.
+科学比我想的难 : kēxué bǐ wǒ xiǎng de nán : science is harder than I expected.
+艺术比我想的难 : yìshù bǐ wǒ xiǎng de nán : art is harder than I expected.
+他在大学教中文 : tā zài dàxué jiāo Zhōngwén : He teaches Chinese at university.
+他在大学教英语 : tā zài dàxué jiāo Yīngyǔ : He teaches English at university.
+他在大学教数学 : tā zài dàxué jiāo shùxué : He teaches mathematics at university.
+他在大学教物理 : tā zài dàxué jiāo wùlǐ : He teaches physics at university.
+他在大学教化学 : tā zài dàxué jiāo huàxué : He teaches chemistry at university.
+他在大学教历史 : tā zài dàxué jiāo lìshǐ : He teaches history at university.
+他在大学教地理 : tā zài dàxué jiāo dìlǐ : He teaches geography at university.
+他在大学教语法 : tā zài dàxué jiāo yǔfǎ : He teaches grammar at university.
+他在大学教科学 : tā zài dàxué jiāo kēxué : He teaches science at university.
+他在大学教艺术 : tā zài dàxué jiāo yìshù : He teaches art at university.
+你参加了昨天的比赛吗 : nǐ cānjiā le zuótiān de bǐsài ma : Did you attend yesterday's match?
+你参加了昨天的考试吗 : nǐ cānjiā le zuótiān de kǎoshì ma : Did you attend yesterday's examination?
+你参加了昨天的会议吗 : nǐ cānjiā le zuótiān de huìyì ma : Did you attend yesterday's meeting?
+你参加了昨天的讲座吗 : nǐ cānjiā le zuótiān de jiǎngzuò ma : Did you attend yesterday's lecture?
+你参加了昨天的晚会吗 : nǐ cānjiā le zuótiān de wǎnhuì ma : Did you attend yesterday's evening party?
+你参加了昨天的婚礼吗 : nǐ cānjiā le zuótiān de hūnlǐ ma : Did you attend yesterday's wedding?
+你参加了昨天的展览吗 : nǐ cānjiā le zuótiān de zhǎnlǎn ma : Did you attend yesterday's exhibition?
+你参加了昨天的演出吗 : nǐ cānjiā le zuótiān de yǎnchū ma : Did you attend yesterday's performance?
+你参加了昨天的活动吗 : nǐ cānjiā le zuótiān de huódòng ma : Did you attend yesterday's event?
+你参加了昨天的面试吗 : nǐ cānjiā le zuótiān de miànshì ma : Did you attend yesterday's interview?
+比赛什么时候开始 : bǐsài shénme shíhou kāishǐ : When does the match start?
+考试什么时候开始 : kǎoshì shénme shíhou kāishǐ : When does the examination start?
+会议什么时候开始 : huìyì shénme shíhou kāishǐ : When does the meeting start?
+讲座什么时候开始 : jiǎngzuò shénme shíhou kāishǐ : When does the lecture start?
+晚会什么时候开始 : wǎnhuì shénme shíhou kāishǐ : When does the evening party start?
+婚礼什么时候开始 : hūnlǐ shénme shíhou kāishǐ : When does the wedding start?
+展览什么时候开始 : zhǎnlǎn shénme shíhou kāishǐ : When does the exhibition start?
+演出什么时候开始 : yǎnchū shénme shíhou kāishǐ : When does the performance start?
+活动什么时候开始 : huódòng shénme shíhou kāishǐ : When does the event start?
+面试什么时候开始 : miànshì shénme shíhou kāishǐ : When does the interview start?
+这次比赛很重要 : zhè cì bǐsài hěn zhòngyào : This match is very important.
+这次考试很重要 : zhè cì kǎoshì hěn zhòngyào : This examination is very important.
+这次会议很重要 : zhè cì huìyì hěn zhòngyào : This meeting is very important.
+这次讲座很重要 : zhè cì jiǎngzuò hěn zhòngyào : This lecture is very important.
+这次晚会很重要 : zhè cì wǎnhuì hěn zhòngyào : This evening party is very important.
+这次婚礼很重要 : zhè cì hūnlǐ hěn zhòngyào : This wedding is very important.
+这次展览很重要 : zhè cì zhǎnlǎn hěn zhòngyào : This exhibition is very important.
+这次演出很重要 : zhè cì yǎnchū hěn zhòngyào : This performance is very important.
+这次活动很重要 : zhè cì huódòng hěn zhòngyào : This event is very important.
+这次面试很重要 : zhè cì miànshì hěn zhòngyào : This interview is very important.
+他们正在准备比赛 : tāmen zhèngzài zhǔnbèi bǐsài : They are preparing for the match.
+他们正在准备考试 : tāmen zhèngzài zhǔnbèi kǎoshì : They are preparing for the examination.
+他们正在准备会议 : tāmen zhèngzài zhǔnbèi huìyì : They are preparing for the meeting.
+他们正在准备讲座 : tāmen zhèngzài zhǔnbèi jiǎngzuò : They are preparing for the lecture.
+他们正在准备晚会 : tāmen zhèngzài zhǔnbèi wǎnhuì : They are preparing for the evening party.
+他们正在准备婚礼 : tāmen zhèngzài zhǔnbèi hūnlǐ : They are preparing for the wedding.
+他们正在准备展览 : tāmen zhèngzài zhǔnbèi zhǎnlǎn : They are preparing for the exhibition.
+他们正在准备演出 : tāmen zhèngzài zhǔnbèi yǎnchū : They are preparing for the performance.
+他们正在准备活动 : tāmen zhèngzài zhǔnbèi huódòng : They are preparing for the event.
+他们正在准备面试 : tāmen zhèngzài zhǔnbèi miànshì : They are preparing for the interview.
+这个问题很重要 : zhège wèntí hěn zhòngyào : This problem is very important.
+这个办法很重要 : zhège bànfǎ hěn zhòngyào : This method is very important.
+这个计划很重要 : zhège jìhuà hěn zhòngyào : This plan is very important.
+这个决定很重要 : zhège juédìng hěn zhòngyào : This decision is very important.
+这个结果很重要 : zhège jiéguǒ hěn zhòngyào : This result is very important.
+这个原因很重要 : zhège yuányīn hěn zhòngyào : This reason is very important.
+这个想法很重要 : zhège xiǎngfǎ hěn zhòngyào : This idea is very important.
+这个建议很重要 : zhège jiànyì hěn zhòngyào : This suggestion is very important.
+这个意见很重要 : zhège yìjiàn hěn zhòngyào : This opinion is very important.
+这个解释很重要 : zhège jiěshì hěn zhòngyào : This explanation is very important.
+我还不太清楚这个问题 : wǒ hái bù tài qīngchǔ zhège wèntí : I'm still not quite clear about this problem.
+我还不太清楚这个办法 : wǒ hái bù tài qīngchǔ zhège bànfǎ : I'm still not quite clear about this method.
+我还不太清楚这个计划 : wǒ hái bù tài qīngchǔ zhège jìhuà : I'm still not quite clear about this plan.
+我还不太清楚这个决定 : wǒ hái bù tài qīngchǔ zhège juédìng : I'm still not quite clear about this decision.
+我还不太清楚这个结果 : wǒ hái bù tài qīngchǔ zhège jiéguǒ : I'm still not quite clear about this result.
+我还不太清楚这个原因 : wǒ hái bù tài qīngchǔ zhège yuányīn : I'm still not quite clear about this reason.
+我还不太清楚这个想法 : wǒ hái bù tài qīngchǔ zhège xiǎngfǎ : I'm still not quite clear about this idea.
+我还不太清楚这个建议 : wǒ hái bù tài qīngchǔ zhège jiànyì : I'm still not quite clear about this suggestion.
+我还不太清楚这个意见 : wǒ hái bù tài qīngchǔ zhège yìjiàn : I'm still not quite clear about this opinion.
+我还不太清楚这个解释 : wǒ hái bù tài qīngchǔ zhège jiěshì : I'm still not quite clear about this explanation.
+我们应该讨论这个问题 : wǒmen yīnggāi tǎolùn zhège wèntí : We should discuss this problem.
+我们应该讨论这个办法 : wǒmen yīnggāi tǎolùn zhège bànfǎ : We should discuss this method.
+我们应该讨论这个计划 : wǒmen yīnggāi tǎolùn zhège jìhuà : We should discuss this plan.
+我们应该讨论这个决定 : wǒmen yīnggāi tǎolùn zhège juédìng : We should discuss this decision.
+我们应该讨论这个结果 : wǒmen yīnggāi tǎolùn zhège jiéguǒ : We should discuss this result.
+我们应该讨论这个原因 : wǒmen yīnggāi tǎolùn zhège yuányīn : We should discuss this reason.
+我们应该讨论这个想法 : wǒmen yīnggāi tǎolùn zhège xiǎngfǎ : We should discuss this idea.
+我们应该讨论这个建议 : wǒmen yīnggāi tǎolùn zhège jiànyì : We should discuss this suggestion.
+我们应该讨论这个意见 : wǒmen yīnggāi tǎolùn zhège yìjiàn : We should discuss this opinion.
+我们应该讨论这个解释 : wǒmen yīnggāi tǎolùn zhège jiěshì : We should discuss this explanation.
+你对这个问题有什么看法 : nǐ duì zhège wèntí yǒu shénme kànfǎ : What do you think of this problem?
+你对这个办法有什么看法 : nǐ duì zhège bànfǎ yǒu shénme kànfǎ : What do you think of this method?
+你对这个计划有什么看法 : nǐ duì zhège jìhuà yǒu shénme kànfǎ : What do you think of this plan?
+你对这个决定有什么看法 : nǐ duì zhège juédìng yǒu shénme kànfǎ : What do you think of this decision?
+你对这个结果有什么看法 : nǐ duì zhège jiéguǒ yǒu shénme kànfǎ : What do you think of this result?
+你对这个原因有什么看法 : nǐ duì zhège yuányīn yǒu shénme kànfǎ : What do you think of this reason?
+你对这个想法有什么看法 : nǐ duì zhège xiǎngfǎ yǒu shénme kànfǎ : What do you think of this idea?
+你对这个建议有什么看法 : nǐ duì zhège jiànyì yǒu shénme kànfǎ : What do you think of this suggestion?
+你对这个意见有什么看法 : nǐ duì zhège yìjiàn yǒu shénme kànfǎ : What do you think of this opinion?
+你对这个解释有什么看法 : nǐ duì zhège jiěshì yǒu shénme kànfǎ : What do you think of this explanation?
+我想再考虑一下这个问题 : wǒ xiǎng zài kǎolǜ yíxià zhège wèntí : I'd like to think about this problem a little more.
+我想再考虑一下这个办法 : wǒ xiǎng zài kǎolǜ yíxià zhège bànfǎ : I'd like to think about this method a little more.
+我想再考虑一下这个计划 : wǒ xiǎng zài kǎolǜ yíxià zhège jìhuà : I'd like to think about this plan a little more.
+我想再考虑一下这个决定 : wǒ xiǎng zài kǎolǜ yíxià zhège juédìng : I'd like to think about this decision a little more.
+我想再考虑一下这个结果 : wǒ xiǎng zài kǎolǜ yíxià zhège jiéguǒ : I'd like to think about this result a little more.
+我想再考虑一下这个原因 : wǒ xiǎng zài kǎolǜ yíxià zhège yuányīn : I'd like to think about this reason a little more.
+我想再考虑一下这个想法 : wǒ xiǎng zài kǎolǜ yíxià zhège xiǎngfǎ : I'd like to think about this idea a little more.
+我想再考虑一下这个建议 : wǒ xiǎng zài kǎolǜ yíxià zhège jiànyì : I'd like to think about this suggestion a little more.
+我想再考虑一下这个意见 : wǒ xiǎng zài kǎolǜ yíxià zhège yìjiàn : I'd like to think about this opinion a little more.
+我想再考虑一下这个解释 : wǒ xiǎng zài kǎolǜ yíxià zhège jiěshì : I'd like to think about this explanation a little more.
+我的父亲住在这里 : wǒ de fùqīn zhù zài zhèlǐ : My father lives here.
+我的母亲住在这里 : wǒ de mǔqīn zhù zài zhèlǐ : My mother lives here.
+我的哥哥住在这里 : wǒ de gēge zhù zài zhèlǐ : My older brother lives here.
+我的姐姐住在这里 : wǒ de jiějie zhù zài zhèlǐ : My older sister lives here.
+我的弟弟住在这里 : wǒ de dìdi zhù zài zhèlǐ : My younger brother lives here.
+我的妹妹住在这里 : wǒ de mèimei zhù zài zhèlǐ : My younger sister lives here.
+我的爷爷住在这里 : wǒ de yéye zhù zài zhèlǐ : My grandfather lives here.
+我的奶奶住在这里 : wǒ de nǎinǎi zhù zài zhèlǐ : My grandmother lives here.
+我的舅舅住在这里 : wǒ de jiùjiu zhù zài zhèlǐ : My uncle lives here.
+我的姨住在这里 : wǒ de yí zhù zài zhèlǐ : My aunt lives here.
+我很久没见我的父亲了 : wǒ hěn jiǔ méi jiàn wǒ de fùqīn le : I haven't seen my father for a long time.
+我很久没见我的母亲了 : wǒ hěn jiǔ méi jiàn wǒ de mǔqīn le : I haven't seen my mother for a long time.
+我很久没见我的哥哥了 : wǒ hěn jiǔ méi jiàn wǒ de gēge le : I haven't seen my older brother for a long time.
+我很久没见我的姐姐了 : wǒ hěn jiǔ méi jiàn wǒ de jiějie le : I haven't seen my older sister for a long time.
+我很久没见我的弟弟了 : wǒ hěn jiǔ méi jiàn wǒ de dìdi le : I haven't seen my younger brother for a long time.
+我很久没见我的妹妹了 : wǒ hěn jiǔ méi jiàn wǒ de mèimei le : I haven't seen my younger sister for a long time.
+我很久没见我的爷爷了 : wǒ hěn jiǔ méi jiàn wǒ de yéye le : I haven't seen my grandfather for a long time.
+我很久没见我的奶奶了 : wǒ hěn jiǔ méi jiàn wǒ de nǎinǎi le : I haven't seen my grandmother for a long time.
+我很久没见我的舅舅了 : wǒ hěn jiǔ méi jiàn wǒ de jiùjiu le : I haven't seen my uncle for a long time.
+我很久没见我的姨了 : wǒ hěn jiǔ méi jiàn wǒ de yí le : I haven't seen my aunt for a long time.
+我的父亲喜欢旅行 : wǒ de fùqīn xǐhuan lǚxíng : My father likes travelling.
+我的母亲喜欢旅行 : wǒ de mǔqīn xǐhuan lǚxíng : My mother likes travelling.
+我的哥哥喜欢旅行 : wǒ de gēge xǐhuan lǚxíng : My older brother likes travelling.
+我的姐姐喜欢旅行 : wǒ de jiějie xǐhuan lǚxíng : My older sister likes travelling.
+我的弟弟喜欢旅行 : wǒ de dìdi xǐhuan lǚxíng : My younger brother likes travelling.
+我的妹妹喜欢旅行 : wǒ de mèimei xǐhuan lǚxíng : My younger sister likes travelling.
+我的爷爷喜欢旅行 : wǒ de yéye xǐhuan lǚxíng : My grandfather likes travelling.
+我的奶奶喜欢旅行 : wǒ de nǎinǎi xǐhuan lǚxíng : My grandmother likes travelling.
+我的舅舅喜欢旅行 : wǒ de jiùjiu xǐhuan lǚxíng : My uncle likes travelling.
+我的姨喜欢旅行 : wǒ de yí xǐhuan lǚxíng : My aunt likes travelling.
+你的父亲身体好吗 : nǐ de fùqīn shēntǐ hǎo ma : Is your father in good health?
+你的母亲身体好吗 : nǐ de mǔqīn shēntǐ hǎo ma : Is your mother in good health?
+你的哥哥身体好吗 : nǐ de gēge shēntǐ hǎo ma : Is your older brother in good health?
+你的姐姐身体好吗 : nǐ de jiějie shēntǐ hǎo ma : Is your older sister in good health?
+你的弟弟身体好吗 : nǐ de dìdi shēntǐ hǎo ma : Is your younger brother in good health?
+你的妹妹身体好吗 : nǐ de mèimei shēntǐ hǎo ma : Is your younger sister in good health?
+你的爷爷身体好吗 : nǐ de yéye shēntǐ hǎo ma : Is your grandfather in good health?
+你的奶奶身体好吗 : nǐ de nǎinǎi shēntǐ hǎo ma : Is your grandmother in good health?
+你的舅舅身体好吗 : nǐ de jiùjiu shēntǐ hǎo ma : Is your uncle in good health?
+你的姨身体好吗 : nǐ de yí shēntǐ hǎo ma : Is your aunt in good health?
+桌子在哪里 : zhuōzi zài nǎlǐ : Where is the table?
+椅子在哪里 : yǐzi zài nǎlǐ : Where is the chair?
+沙发在哪里 : shāfā zài nǎlǐ : Where is the sofa?
+床在哪里 : chuáng zài nǎlǐ : Where is the bed?
+书架在哪里 : shūjià zài nǎlǐ : Where is the bookshelf?
+冰箱在哪里 : bīngxiāng zài nǎlǐ : Where is the fridge?
+衣柜在哪里 : yīguì zài nǎlǐ : Where is the wardrobe?
+灯在哪里 : dēng zài nǎlǐ : Where is the lamp?
+窗户在哪里 : chuānghù zài nǎlǐ : Where is the window?
+门在哪里 : mén zài nǎlǐ : Where is the door?
+这个桌子是新的 : zhège zhuōzi shì xīn de : This table is new.
+这个椅子是新的 : zhège yǐzi shì xīn de : This chair is new.
+这个沙发是新的 : zhège shāfā shì xīn de : This sofa is new.
+这个床是新的 : zhège chuáng shì xīn de : This bed is new.
+这个书架是新的 : zhège shūjià shì xīn de : This bookshelf is new.
+这个冰箱是新的 : zhège bīngxiāng shì xīn de : This fridge is new.
+这个衣柜是新的 : zhège yīguì shì xīn de : This wardrobe is new.
+这个灯是新的 : zhège dēng shì xīn de : This lamp is new.
+这个窗户是新的 : zhège chuānghù shì xīn de : This window is new.
+这个门是新的 : zhège mén shì xīn de : This door is new.
+请不要动那个桌子 : qǐng bú yào dòng nàge zhuōzi : Please don't move that table.
+请不要动那个椅子 : qǐng bú yào dòng nàge yǐzi : Please don't move that chair.
+请不要动那个沙发 : qǐng bú yào dòng nàge shāfā : Please don't move that sofa.
+请不要动那个床 : qǐng bú yào dòng nàge chuáng : Please don't move that bed.
+请不要动那个书架 : qǐng bú yào dòng nàge shūjià : Please don't move that bookshelf.
+请不要动那个冰箱 : qǐng bú yào dòng nàge bīngxiāng : Please don't move that fridge.
+请不要动那个衣柜 : qǐng bú yào dòng nàge yīguì : Please don't move that wardrobe.
+请不要动那个灯 : qǐng bú yào dòng nàge dēng : Please don't move that lamp.
+请不要动那个窗户 : qǐng bú yào dòng nàge chuānghù : Please don't move that window.
+请不要动那个门 : qǐng bú yào dòng nàge mén : Please don't move that door.
+这个桌子太旧了 : zhège zhuōzi tài jiù le : This table is too old.
+这个椅子太旧了 : zhège yǐzi tài jiù le : This chair is too old.
+这个沙发太旧了 : zhège shāfā tài jiù le : This sofa is too old.
+这个床太旧了 : zhège chuáng tài jiù le : This bed is too old.
+这个书架太旧了 : zhège shūjià tài jiù le : This bookshelf is too old.
+这个冰箱太旧了 : zhège bīngxiāng tài jiù le : This fridge is too old.
+这个衣柜太旧了 : zhège yīguì tài jiù le : This wardrobe is too old.
+这个灯太旧了 : zhège dēng tài jiù le : This lamp is too old.
+这个窗户太旧了 : zhège chuānghù tài jiù le : This window is too old.
+这个门太旧了 : zhège mén tài jiù le : This door is too old.
+我从来没养过猫 : wǒ cónglái méi yǎng guo māo : I've never kept a cat.
+我从来没养过狗 : wǒ cónglái méi yǎng guo gǒu : I've never kept a dog.
+我从来没养过鸟 : wǒ cónglái méi yǎng guo niǎo : I've never kept a bird.
+我从来没养过鱼 : wǒ cónglái méi yǎng guo yú : I've never kept a fish.
+我从来没养过马 : wǒ cónglái méi yǎng guo mǎ : I've never kept a horse.
+我从来没养过羊 : wǒ cónglái méi yǎng guo yáng : I've never kept a sheep.
+我从来没养过兔子 : wǒ cónglái méi yǎng guo tùzi : I've never kept a rabbit.
+我从来没养过猴子 : wǒ cónglái méi yǎng guo hóuzi : I've never kept a monkey.
+我从来没养过老虎 : wǒ cónglái méi yǎng guo lǎohǔ : I've never kept a tiger.
+我从来没养过熊 : wǒ cónglái méi yǎng guo xióng : I've never kept a bear.
+孩子们很喜欢猫 : háizimen hěn xǐhuan māo : Children are very fond of cats.
+孩子们很喜欢狗 : háizimen hěn xǐhuan gǒu : Children are very fond of dogs.
+孩子们很喜欢鸟 : háizimen hěn xǐhuan niǎo : Children are very fond of birds.
+孩子们很喜欢鱼 : háizimen hěn xǐhuan yú : Children are very fond of fishs.
+孩子们很喜欢马 : háizimen hěn xǐhuan mǎ : Children are very fond of horses.
+孩子们很喜欢羊 : háizimen hěn xǐhuan yáng : Children are very fond of sheeps.
+孩子们很喜欢兔子 : háizimen hěn xǐhuan tùzi : Children are very fond of rabbits.
+孩子们很喜欢猴子 : háizimen hěn xǐhuan hóuzi : Children are very fond of monkeys.
+孩子们很喜欢老虎 : háizimen hěn xǐhuan lǎohǔ : Children are very fond of tigers.
+孩子们很喜欢熊 : háizimen hěn xǐhuan xióng : Children are very fond of bears.
+你在动物园见过猫吗 : nǐ zài dòngwùyuán jiàn guo māo ma : Have you seen a cat at the zoo?
+你在动物园见过狗吗 : nǐ zài dòngwùyuán jiàn guo gǒu ma : Have you seen a dog at the zoo?
+你在动物园见过鸟吗 : nǐ zài dòngwùyuán jiàn guo niǎo ma : Have you seen a bird at the zoo?
+你在动物园见过鱼吗 : nǐ zài dòngwùyuán jiàn guo yú ma : Have you seen a fish at the zoo?
+你在动物园见过马吗 : nǐ zài dòngwùyuán jiàn guo mǎ ma : Have you seen a horse at the zoo?
+你在动物园见过羊吗 : nǐ zài dòngwùyuán jiàn guo yáng ma : Have you seen a sheep at the zoo?
+你在动物园见过兔子吗 : nǐ zài dòngwùyuán jiàn guo tùzi ma : Have you seen a rabbit at the zoo?
+你在动物园见过猴子吗 : nǐ zài dòngwùyuán jiàn guo hóuzi ma : Have you seen a monkey at the zoo?
+你在动物园见过老虎吗 : nǐ zài dòngwùyuán jiàn guo lǎohǔ ma : Have you seen a tiger at the zoo?
+你在动物园见过熊吗 : nǐ zài dòngwùyuán jiàn guo xióng ma : Have you seen a bear at the zoo?
+这只猫看起来很健康 : zhè zhī māo kàn qǐlái hěn jiànkāng : This cat looks healthy.
+这只狗看起来很健康 : zhè zhī gǒu kàn qǐlái hěn jiànkāng : This dog looks healthy.
+这只鸟看起来很健康 : zhè zhī niǎo kàn qǐlái hěn jiànkāng : This bird looks healthy.
+这只鱼看起来很健康 : zhè zhī yú kàn qǐlái hěn jiànkāng : This fish looks healthy.
+这只马看起来很健康 : zhè zhī mǎ kàn qǐlái hěn jiànkāng : This horse looks healthy.
+这只羊看起来很健康 : zhè zhī yáng kàn qǐlái hěn jiànkāng : This sheep looks healthy.
+这只兔子看起来很健康 : zhè zhī tùzi kàn qǐlái hěn jiànkāng : This rabbit looks healthy.
+这只猴子看起来很健康 : zhè zhī hóuzi kàn qǐlái hěn jiànkāng : This monkey looks healthy.
+这只老虎看起来很健康 : zhè zhī lǎohǔ kàn qǐlái hěn jiànkāng : This tiger looks healthy.
+这只熊看起来很健康 : zhè zhī xióng kàn qǐlái hěn jiànkāng : This bear looks healthy.
+听到这个消息我很高兴 : tīngdào zhège xiāoxi wǒ hěn gāoxìng : I felt happy on hearing the news.
+听到这个消息我很难过 : tīngdào zhège xiāoxi wǒ hěn nánguò : I felt sad on hearing the news.
+听到这个消息我很紧张 : tīngdào zhège xiāoxi wǒ hěn jǐnzhāng : I felt nervous on hearing the news.
+听到这个消息我很担心 : tīngdào zhège xiāoxi wǒ hěn dānxīn : I felt worried on hearing the news.
+听到这个消息我很累 : tīngdào zhège xiāoxi wǒ hěn lèi : I felt tired on hearing the news.
+听到这个消息我很饿 : tīngdào zhège xiāoxi wǒ hěn è : I felt hungry on hearing the news.
+听到这个消息我很渴 : tīngdào zhège xiāoxi wǒ hěn kě : I felt thirsty on hearing the news.
+听到这个消息我很失望 : tīngdào zhège xiāoxi wǒ hěn shīwàng : I felt disappointed on hearing the news.
+听到这个消息我很生气 : tīngdào zhège xiāoxi wǒ hěn shēngqì : I felt angry on hearing the news.
+听到这个消息我很害怕 : tīngdào zhège xiāoxi wǒ hěn hàipà : I felt afraid on hearing the news.
+你为什么这么高兴 : nǐ wèishénme zhème gāoxìng : Why are you so happy?
+你为什么这么难过 : nǐ wèishénme zhème nánguò : Why are you so sad?
+你为什么这么紧张 : nǐ wèishénme zhème jǐnzhāng : Why are you so nervous?
+你为什么这么担心 : nǐ wèishénme zhème dānxīn : Why are you so worried?
+你为什么这么累 : nǐ wèishénme zhème lèi : Why are you so tired?
+你为什么这么饿 : nǐ wèishénme zhème è : Why are you so hungry?
+你为什么这么渴 : nǐ wèishénme zhème kě : Why are you so thirsty?
+你为什么这么失望 : nǐ wèishénme zhème shīwàng : Why are you so disappointed?
+你为什么这么生气 : nǐ wèishénme zhème shēngqì : Why are you so angry?
+你为什么这么害怕 : nǐ wèishénme zhème hàipà : Why are you so afraid?
+他今天看起来有点高兴 : tā jīntiān kàn qǐlái yǒudiǎn gāoxìng : He looks a little happy today.
+他今天看起来有点难过 : tā jīntiān kàn qǐlái yǒudiǎn nánguò : He looks a little sad today.
+他今天看起来有点紧张 : tā jīntiān kàn qǐlái yǒudiǎn jǐnzhāng : He looks a little nervous today.
+他今天看起来有点担心 : tā jīntiān kàn qǐlái yǒudiǎn dānxīn : He looks a little worried today.
+他今天看起来有点累 : tā jīntiān kàn qǐlái yǒudiǎn lèi : He looks a little tired today.
+他今天看起来有点饿 : tā jīntiān kàn qǐlái yǒudiǎn è : He looks a little hungry today.
+他今天看起来有点渴 : tā jīntiān kàn qǐlái yǒudiǎn kě : He looks a little thirsty today.
+他今天看起来有点失望 : tā jīntiān kàn qǐlái yǒudiǎn shīwàng : He looks a little disappointed today.
+他今天看起来有点生气 : tā jīntiān kàn qǐlái yǒudiǎn shēngqì : He looks a little angry today.
+他今天看起来有点害怕 : tā jīntiān kàn qǐlái yǒudiǎn hàipà : He looks a little afraid today.
+我不想让你高兴 : wǒ bù xiǎng ràng nǐ gāoxìng : I don't want you to feel happy.
+我不想让你难过 : wǒ bù xiǎng ràng nǐ nánguò : I don't want you to feel sad.
+我不想让你紧张 : wǒ bù xiǎng ràng nǐ jǐnzhāng : I don't want you to feel nervous.
+我不想让你担心 : wǒ bù xiǎng ràng nǐ dānxīn : I don't want you to feel worried.
+我不想让你累 : wǒ bù xiǎng ràng nǐ lèi : I don't want you to feel tired.
+我不想让你饿 : wǒ bù xiǎng ràng nǐ è : I don't want you to feel hungry.
+我不想让你渴 : wǒ bù xiǎng ràng nǐ kě : I don't want you to feel thirsty.
+我不想让你失望 : wǒ bù xiǎng ràng nǐ shīwàng : I don't want you to feel disappointed.
+我不想让你生气 : wǒ bù xiǎng ràng nǐ shēngqì : I don't want you to feel angry.
+我不想让你害怕 : wǒ bù xiǎng ràng nǐ hàipà : I don't want you to feel afraid.
+这件事情很重要 : zhè jiàn shìqíng hěn zhòngyào : This matter is very important.
+这件事情很简单 : zhè jiàn shìqíng hěn jiǎndān : This matter is very simple.
+这件事情很复杂 : zhè jiàn shìqíng hěn fùzá : This matter is very complicated.
+这件事情很有趣 : zhè jiàn shìqíng hěn yǒuqù : This matter is very interesting.
+这件事情很困难 : zhè jiàn shìqíng hěn kùnnán : This matter is very difficult.
+这件事情很清楚 : zhè jiàn shìqíng hěn qīngchǔ : This matter is very clear.
+这件事情很正确 : zhè jiàn shìqíng hěn zhèngquè : This matter is very correct.
+这件事情很特别 : zhè jiàn shìqíng hěn tèbié : This matter is very special.
+这件事情很方便 : zhè jiàn shìqíng hěn fāngbiàn : This matter is very convenient.
+这件事情很安全 : zhè jiàn shìqíng hěn ānquán : This matter is very safe.
+你觉得这个办法重要吗 : nǐ juédé zhège bànfǎ zhòngyào ma : Do you think this method is important?
+你觉得这个办法简单吗 : nǐ juédé zhège bànfǎ jiǎndān ma : Do you think this method is simple?
+你觉得这个办法复杂吗 : nǐ juédé zhège bànfǎ fùzá ma : Do you think this method is complicated?
+你觉得这个办法有趣吗 : nǐ juédé zhège bànfǎ yǒuqù ma : Do you think this method is interesting?
+你觉得这个办法困难吗 : nǐ juédé zhège bànfǎ kùnnán ma : Do you think this method is difficult?
+你觉得这个办法清楚吗 : nǐ juédé zhège bànfǎ qīngchǔ ma : Do you think this method is clear?
+你觉得这个办法正确吗 : nǐ juédé zhège bànfǎ zhèngquè ma : Do you think this method is correct?
+你觉得这个办法特别吗 : nǐ juédé zhège bànfǎ tèbié ma : Do you think this method is special?
+你觉得这个办法方便吗 : nǐ juédé zhège bànfǎ fāngbiàn ma : Do you think this method is convenient?
+你觉得这个办法安全吗 : nǐ juédé zhège bànfǎ ānquán ma : Do you think this method is safe?
+这个问题没有那么重要 : zhège wèntí méiyǒu nàme zhòngyào : This problem isn't quite so important.
+这个问题没有那么简单 : zhège wèntí méiyǒu nàme jiǎndān : This problem isn't quite so simple.
+这个问题没有那么复杂 : zhège wèntí méiyǒu nàme fùzá : This problem isn't quite so complicated.
+这个问题没有那么有趣 : zhège wèntí méiyǒu nàme yǒuqù : This problem isn't quite so interesting.
+这个问题没有那么困难 : zhège wèntí méiyǒu nàme kùnnán : This problem isn't quite so difficult.
+这个问题没有那么清楚 : zhège wèntí méiyǒu nàme qīngchǔ : This problem isn't quite so clear.
+这个问题没有那么正确 : zhège wèntí méiyǒu nàme zhèngquè : This problem isn't quite so correct.
+这个问题没有那么特别 : zhège wèntí méiyǒu nàme tèbié : This problem isn't quite so special.
+这个问题没有那么方便 : zhège wèntí méiyǒu nàme fāngbiàn : This problem isn't quite so convenient.
+这个问题没有那么安全 : zhège wèntí méiyǒu nàme ānquán : This problem isn't quite so safe.
+她的朋友是教师 : tā de péngyou shì jiàoshī : Her friend is a teacher.
+她的朋友是医生 : tā de péngyou shì yīshēng : Her friend is a doctor.
+她的朋友是护士 : tā de péngyou shì hùshì : Her friend is a nurse.
+她的朋友是律师 : tā de péngyou shì lǜshī : Her friend is a lawyer.
+她的朋友是工程师 : tā de péngyou shì gōngchéngshī : Her friend is a engineer.
+她的朋友是记者 : tā de péngyou shì jìzhě : Her friend is a reporter.
+她的朋友是经理 : tā de péngyou shì jīnglǐ : Her friend is a manager.
+她的朋友是教授 : tā de péngyou shì jiàoshòu : Her friend is a professor.
+她的朋友是会计 : tā de péngyou shì kuàijì : Her friend is a accountant.
+她的朋友是翻译 : tā de péngyou shì fānyì : Her friend is a translator.
+我的哥哥想当教师 : wǒ de gēge xiǎng dāng jiàoshī : My older brother wants to become a teacher.
+我的哥哥想当医生 : wǒ de gēge xiǎng dāng yīshēng : My older brother wants to become a doctor.
+我的哥哥想当护士 : wǒ de gēge xiǎng dāng hùshì : My older brother wants to become a nurse.
+我的哥哥想当律师 : wǒ de gēge xiǎng dāng lǜshī : My older brother wants to become a lawyer.
+我的哥哥想当工程师 : wǒ de gēge xiǎng dāng gōngchéngshī : My older brother wants to become a engineer.
+我的哥哥想当记者 : wǒ de gēge xiǎng dāng jìzhě : My older brother wants to become a reporter.
+我的哥哥想当经理 : wǒ de gēge xiǎng dāng jīnglǐ : My older brother wants to become a manager.
+我的哥哥想当教授 : wǒ de gēge xiǎng dāng jiàoshòu : My older brother wants to become a professor.
+我的哥哥想当会计 : wǒ de gēge xiǎng dāng kuàijì : My older brother wants to become a accountant.
+我的哥哥想当翻译 : wǒ de gēge xiǎng dāng fānyì : My older brother wants to become a translator.
+当教师需要学习很久 : dāng jiàoshī xūyào xuéxí hěn jiǔ : Becoming a teacher requires a lot of study.
+当医生需要学习很久 : dāng yīshēng xūyào xuéxí hěn jiǔ : Becoming a doctor requires a lot of study.
+当护士需要学习很久 : dāng hùshì xūyào xuéxí hěn jiǔ : Becoming a nurse requires a lot of study.
+当律师需要学习很久 : dāng lǜshī xūyào xuéxí hěn jiǔ : Becoming a lawyer requires a lot of study.
+当工程师需要学习很久 : dāng gōngchéngshī xūyào xuéxí hěn jiǔ : Becoming a engineer requires a lot of study.
+当记者需要学习很久 : dāng jìzhě xūyào xuéxí hěn jiǔ : Becoming a reporter requires a lot of study.
+当经理需要学习很久 : dāng jīnglǐ xūyào xuéxí hěn jiǔ : Becoming a manager requires a lot of study.
+当教授需要学习很久 : dāng jiàoshòu xūyào xuéxí hěn jiǔ : Becoming a professor requires a lot of study.
+当会计需要学习很久 : dāng kuàijì xūyào xuéxí hěn jiǔ : Becoming a accountant requires a lot of study.
+当翻译需要学习很久 : dāng fānyì xūyào xuéxí hěn jiǔ : Becoming a translator requires a lot of study.
+我买了一些苹果 : wǒ mǎi le yìxiē píngguǒ : I bought some apple.
+我买了一些香蕉 : wǒ mǎi le yìxiē xiāngjiāo : I bought some banana.
+我买了一些桔子 : wǒ mǎi le yìxiē júzi : I bought some orange.
+我买了一些葡萄 : wǒ mǎi le yìxiē pútao : I bought some grape.
+我买了一些西红柿 : wǒ mǎi le yìxiē xīhóngshì : I bought some tomato.
+我买了一些梨 : wǒ mǎi le yìxiē lí : I bought some pear.
+我买了一些桃子 : wǒ mǎi le yìxiē táozi : I bought some peach.
+我买了一些草莓 : wǒ mǎi le yìxiē cǎoméi : I bought some strawberry.
+我买了一些西瓜 : wǒ mǎi le yìxiē xīguā : I bought some watermelon.
+我买了一些柠檬 : wǒ mǎi le yìxiē níngméng : I bought some lemon.
+这些苹果新鲜吗 : zhèxiē píngguǒ xīnxiān ma : Are these apple fresh?
+这些香蕉新鲜吗 : zhèxiē xiāngjiāo xīnxiān ma : Are these banana fresh?
+这些桔子新鲜吗 : zhèxiē júzi xīnxiān ma : Are these orange fresh?
+这些葡萄新鲜吗 : zhèxiē pútao xīnxiān ma : Are these grape fresh?
+这些西红柿新鲜吗 : zhèxiē xīhóngshì xīnxiān ma : Are these tomato fresh?
+这些梨新鲜吗 : zhèxiē lí xīnxiān ma : Are these pear fresh?
+这些桃子新鲜吗 : zhèxiē táozi xīnxiān ma : Are these peach fresh?
+这些草莓新鲜吗 : zhèxiē cǎoméi xīnxiān ma : Are these strawberry fresh?
+这些西瓜新鲜吗 : zhèxiē xīguā xīnxiān ma : Are these watermelon fresh?
+这些柠檬新鲜吗 : zhèxiē níngméng xīnxiān ma : Are these lemon fresh?
+你喜欢吃苹果吗 : nǐ xǐhuan chī píngguǒ ma : Do you like eating apple?
+你喜欢吃香蕉吗 : nǐ xǐhuan chī xiāngjiāo ma : Do you like eating banana?
+你喜欢吃桔子吗 : nǐ xǐhuan chī júzi ma : Do you like eating orange?
+你喜欢吃葡萄吗 : nǐ xǐhuan chī pútao ma : Do you like eating grape?
+你喜欢吃西红柿吗 : nǐ xǐhuan chī xīhóngshì ma : Do you like eating tomato?
+你喜欢吃梨吗 : nǐ xǐhuan chī lí ma : Do you like eating pear?
+你喜欢吃桃子吗 : nǐ xǐhuan chī táozi ma : Do you like eating peach?
+你喜欢吃草莓吗 : nǐ xǐhuan chī cǎoméi ma : Do you like eating strawberry?
+你喜欢吃西瓜吗 : nǐ xǐhuan chī xīguā ma : Do you like eating watermelon?
+你喜欢吃柠檬吗 : nǐ xǐhuan chī níngméng ma : Do you like eating lemon?
+她在厨房等我 : tā zài chúfáng děng wǒ : She is waiting for me in the kitchen.
+她在卧室等我 : tā zài wòshì děng wǒ : She is waiting for me in the bedroom.
+她在客厅等我 : tā zài kètīng děng wǒ : She is waiting for me in the living room.
+她在教室等我 : tā zài jiàoshì děng wǒ : She is waiting for me in the classroom.
+她在办公室等我 : tā zài bàngōngshì děng wǒ : She is waiting for me in the office.
+她在阅览室等我 : tā zài yuèlǎnshì děng wǒ : She is waiting for me in the reading room.
+她在食堂等我 : tā zài shítáng děng wǒ : She is waiting for me in the canteen.
+她在体育馆等我 : tā zài tǐyùguǎn děng wǒ : She is waiting for me in the sports hall.
+她在咖啡厅等我 : tā zài kāfēitīng děng wǒ : She is waiting for me in the café.
+她在饭馆等我 : tā zài fànguǎn děng wǒ : She is waiting for me in the restaurant.
+我们去厨房看看吧 : wǒmen qù chúfáng kànkan ba : Let's go and have a look at the kitchen.
+我们去卧室看看吧 : wǒmen qù wòshì kànkan ba : Let's go and have a look at the bedroom.
+我们去客厅看看吧 : wǒmen qù kètīng kànkan ba : Let's go and have a look at the living room.
+我们去教室看看吧 : wǒmen qù jiàoshì kànkan ba : Let's go and have a look at the classroom.
+我们去办公室看看吧 : wǒmen qù bàngōngshì kànkan ba : Let's go and have a look at the office.
+我们去阅览室看看吧 : wǒmen qù yuèlǎnshì kànkan ba : Let's go and have a look at the reading room.
+我们去食堂看看吧 : wǒmen qù shítáng kànkan ba : Let's go and have a look at the canteen.
+我们去体育馆看看吧 : wǒmen qù tǐyùguǎn kànkan ba : Let's go and have a look at the sports hall.
+我们去咖啡厅看看吧 : wǒmen qù kāfēitīng kànkan ba : Let's go and have a look at the café.
+我们去饭馆看看吧 : wǒmen qù fànguǎn kànkan ba : Let's go and have a look at the restaurant.
+厨房里没有人 : chúfáng lǐ méiyǒu rén : There is nobody in the kitchen.
+卧室里没有人 : wòshì lǐ méiyǒu rén : There is nobody in the bedroom.
+客厅里没有人 : kètīng lǐ méiyǒu rén : There is nobody in the living room.
+教室里没有人 : jiàoshì lǐ méiyǒu rén : There is nobody in the classroom.
+办公室里没有人 : bàngōngshì lǐ méiyǒu rén : There is nobody in the office.
+阅览室里没有人 : yuèlǎnshì lǐ méiyǒu rén : There is nobody in the reading room.
+食堂里没有人 : shítáng lǐ méiyǒu rén : There is nobody in the canteen.
+体育馆里没有人 : tǐyùguǎn lǐ méiyǒu rén : There is nobody in the sports hall.
+咖啡厅里没有人 : kāfēitīng lǐ méiyǒu rén : There is nobody in the café.
+饭馆里没有人 : fànguǎn lǐ méiyǒu rén : There is nobody in the restaurant.
+我每天都学习 : wǒ měitiān dōu xuéxí : I study every day.
+我每天都工作 : wǒ měitiān dōu gōngzuò : I work every day.
+我每天都休息 : wǒ měitiān dōu xiūxi : I rest every day.
+我每天都旅行 : wǒ měitiān dōu lǚxíng : I travel every day.
+我每天都练习 : wǒ měitiān dōu liànxí : I practise every day.
+我每天都锻炼 : wǒ měitiān dōu duànliàn : I exercise every day.
+我每天都读书 : wǒ měitiān dōu dúshū : I read every day.
+我每天都写字 : wǒ měitiān dōu xiězì : I write every day.
+我每天都唱歌 : wǒ měitiān dōu chànggē : I sing every day.
+我每天都跳舞 : wǒ měitiān dōu tiàowǔ : I dance every day.
+他今天不想学习 : tā jīntiān bù xiǎng xuéxí : He doesn't want to study today.
+他今天不想工作 : tā jīntiān bù xiǎng gōngzuò : He doesn't want to work today.
+他今天不想休息 : tā jīntiān bù xiǎng xiūxi : He doesn't want to rest today.
+他今天不想旅行 : tā jīntiān bù xiǎng lǚxíng : He doesn't want to travel today.
+他今天不想练习 : tā jīntiān bù xiǎng liànxí : He doesn't want to practise today.
+他今天不想锻炼 : tā jīntiān bù xiǎng duànliàn : He doesn't want to exercise today.
+他今天不想读书 : tā jīntiān bù xiǎng dúshū : He doesn't want to read today.
+他今天不想写字 : tā jīntiān bù xiǎng xiězì : He doesn't want to write today.
+他今天不想唱歌 : tā jīntiān bù xiǎng chànggē : He doesn't want to sing today.
+他今天不想跳舞 : tā jīntiān bù xiǎng tiàowǔ : He doesn't want to dance today.
+你为什么不继续学习 : nǐ wèishénme bù jìxù xuéxí : Why don't you continue to study?
+你为什么不继续工作 : nǐ wèishénme bù jìxù gōngzuò : Why don't you continue to work?
+你为什么不继续休息 : nǐ wèishénme bù jìxù xiūxi : Why don't you continue to rest?
+你为什么不继续旅行 : nǐ wèishénme bù jìxù lǚxíng : Why don't you continue to travel?
+你为什么不继续练习 : nǐ wèishénme bù jìxù liànxí : Why don't you continue to practise?
+你为什么不继续锻炼 : nǐ wèishénme bù jìxù duànliàn : Why don't you continue to exercise?
+你为什么不继续读书 : nǐ wèishénme bù jìxù dúshū : Why don't you continue to read?
+你为什么不继续写字 : nǐ wèishénme bù jìxù xiězì : Why don't you continue to write?
+你为什么不继续唱歌 : nǐ wèishénme bù jìxù chànggē : Why don't you continue to sing?
+你为什么不继续跳舞 : nǐ wèishénme bù jìxù tiàowǔ : Why don't you continue to dance?
+我们正在讨论交通问题 : wǒmen zhèngzài tǎolùn jiāotōng wèntí : We are discussing problems concerning traffic.
+我们正在讨论房租问题 : wǒmen zhèngzài tǎolùn fángzū wèntí : We are discussing problems concerning rent.
+我们正在讨论天气问题 : wǒmen zhèngzài tǎolùn tiānqì wèntí : We are discussing problems concerning weather.
+我们正在讨论工作问题 : wǒmen zhèngzài tǎolùn gōngzuò wèntí : We are discussing problems concerning work.
+我们正在讨论学习问题 : wǒmen zhèngzài tǎolùn xuéxí wèntí : We are discussing problems concerning studies.
+我们正在讨论健康问题 : wǒmen zhèngzài tǎolùn jiànkāng wèntí : We are discussing problems concerning health.
+我们正在讨论经济问题 : wǒmen zhèngzài tǎolùn jīngjì wèntí : We are discussing problems concerning economy.
+我们正在讨论环境问题 : wǒmen zhèngzài tǎolùn huánjìng wèntí : We are discussing problems concerning environment.
+我们正在讨论时间问题 : wǒmen zhèngzài tǎolùn shíjiān wèntí : We are discussing problems concerning time.
+我们正在讨论考试问题 : wǒmen zhèngzài tǎolùn kǎoshì wèntí : We are discussing problems concerning examinations.
+交通对我们很重要 : jiāotōng duì wǒmen hěn zhòngyào : traffic is very important to us.
+房租对我们很重要 : fángzū duì wǒmen hěn zhòngyào : rent is very important to us.
+天气对我们很重要 : tiānqì duì wǒmen hěn zhòngyào : weather is very important to us.
+工作对我们很重要 : gōngzuò duì wǒmen hěn zhòngyào : work is very important to us.
+学习对我们很重要 : xuéxí duì wǒmen hěn zhòngyào : studies is very important to us.
+健康对我们很重要 : jiànkāng duì wǒmen hěn zhòngyào : health is very important to us.
+经济对我们很重要 : jīngjì duì wǒmen hěn zhòngyào : economy is very important to us.
+环境对我们很重要 : huánjìng duì wǒmen hěn zhòngyào : environment is very important to us.
+时间对我们很重要 : shíjiān duì wǒmen hěn zhòngyào : time is very important to us.
+考试对我们很重要 : kǎoshì duì wǒmen hěn zhòngyào : examinations is very important to us.
+他对交通很关心 : tā duì jiāotōng hěn guānxīn : He is very concerned about traffic.
+他对房租很关心 : tā duì fángzū hěn guānxīn : He is very concerned about rent.
+他对天气很关心 : tā duì tiānqì hěn guānxīn : He is very concerned about weather.
+他对工作很关心 : tā duì gōngzuò hěn guānxīn : He is very concerned about work.
+他对学习很关心 : tā duì xuéxí hěn guānxīn : He is very concerned about studies.
+他对健康很关心 : tā duì jiànkāng hěn guānxīn : He is very concerned about health.
+他对经济很关心 : tā duì jīngjì hěn guānxīn : He is very concerned about economy.
+他对环境很关心 : tā duì huánjìng hěn guānxīn : He is very concerned about environment.
+他对时间很关心 : tā duì shíjiān hěn guānxīn : He is very concerned about time.
+他对考试很关心 : tā duì kǎoshì hěn guānxīn : He is very concerned about examinations.
+我喜欢红色的衣服 : wǒ xǐhuan hóngsè de yīfu : I like red clothes.
+我喜欢蓝色的衣服 : wǒ xǐhuan lánsè de yīfu : I like blue clothes.
+我喜欢绿色的衣服 : wǒ xǐhuan lǜsè de yīfu : I like green clothes.
+我喜欢黄色的衣服 : wǒ xǐhuan huángsè de yīfu : I like yellow clothes.
+我喜欢白色的衣服 : wǒ xǐhuan báisè de yīfu : I like white clothes.
+我喜欢黑色的衣服 : wǒ xǐhuan hēisè de yīfu : I like black clothes.
+我喜欢红的衣服 : wǒ xǐhuan hóng de yīfu : I like red clothes.
+我喜欢蓝的衣服 : wǒ xǐhuan lán de yīfu : I like blue clothes.
+我喜欢黄的衣服 : wǒ xǐhuan huáng de yīfu : I like yellow clothes.
+我喜欢黑的衣服 : wǒ xǐhuan hēi de yīfu : I like black clothes.
+你有红色的衬衫吗 : nǐ yǒu hóngsè de chènshān ma : Do you have a red shirt?
+你有蓝色的衬衫吗 : nǐ yǒu lánsè de chènshān ma : Do you have a blue shirt?
+你有绿色的衬衫吗 : nǐ yǒu lǜsè de chènshān ma : Do you have a green shirt?
+你有黄色的衬衫吗 : nǐ yǒu huángsè de chènshān ma : Do you have a yellow shirt?
+你有白色的衬衫吗 : nǐ yǒu báisè de chènshān ma : Do you have a white shirt?
+你有黑色的衬衫吗 : nǐ yǒu hēisè de chènshān ma : Do you have a black shirt?
+你有红的衬衫吗 : nǐ yǒu hóng de chènshān ma : Do you have a red shirt?
+你有蓝的衬衫吗 : nǐ yǒu lán de chènshān ma : Do you have a blue shirt?
+你有黄的衬衫吗 : nǐ yǒu huáng de chènshān ma : Do you have a yellow shirt?
+你有黑的衬衫吗 : nǐ yǒu hēi de chènshān ma : Do you have a black shirt?
+这件毛衣是红色的 : zhè jiàn máoyī shì hóngsè de : This jumper is red.
+这件毛衣是蓝色的 : zhè jiàn máoyī shì lánsè de : This jumper is blue.
+这件毛衣是绿色的 : zhè jiàn máoyī shì lǜsè de : This jumper is green.
+这件毛衣是黄色的 : zhè jiàn máoyī shì huángsè de : This jumper is yellow.
+这件毛衣是白色的 : zhè jiàn máoyī shì báisè de : This jumper is white.
+这件毛衣是黑色的 : zhè jiàn máoyī shì hēisè de : This jumper is black.
+这件毛衣是红的 : zhè jiàn máoyī shì hóng de : This jumper is red.
+这件毛衣是蓝的 : zhè jiàn máoyī shì lán de : This jumper is blue.
+这件毛衣是黄的 : zhè jiàn máoyī shì huáng de : This jumper is yellow.
+这件毛衣是黑的 : zhè jiàn máoyī shì hēi de : This jumper is black.
+我以前没去过图书馆 : wǒ yǐqián méi qù guo túshūguǎn : I had never been to the library before.
+我以前没去过博物馆 : wǒ yǐqián méi qù guo bówùguǎn : I had never been to the museum before.
+我以前没去过公园 : wǒ yǐqián méi qù guo gōngyuán : I had never been to the park before.
+我以前没去过学校 : wǒ yǐqián méi qù guo xuéxiào : I had never been to the school before.
+我以前没去过大学 : wǒ yǐqián méi qù guo dàxué : I had never been to the university before.
+我以前没去过医院 : wǒ yǐqián méi qù guo yīyuàn : I had never been to the hospital before.
+我以前没去过银行 : wǒ yǐqián méi qù guo yínháng : I had never been to the bank before.
+我以前没去过邮局 : wǒ yǐqián méi qù guo yóujú : I had never been to the post office before.
+我以前没去过书店 : wǒ yǐqián méi qù guo shūdiàn : I had never been to the bookshop before.
+我以前没去过商店 : wǒ yǐqián méi qù guo shāngdiàn : I had never been to the shop before.
+他不喜欢吃饺子 : tā bù xǐhuan chī jiǎozi : He doesn't like eating dumplings.
+他不喜欢吃面条 : tā bù xǐhuan chī miàntiáo : He doesn't like eating noodles.
+他不喜欢吃米饭 : tā bù xǐhuan chī mǐfàn : He doesn't like eating rice.
+他不喜欢吃豆腐 : tā bù xǐhuan chī dòufǔ : He doesn't like eating tofu.
+他不喜欢吃鸡蛋 : tā bù xǐhuan chī jīdàn : He doesn't like eating eggs.
+他不喜欢吃烤鸭 : tā bù xǐhuan chī kǎoyā : He doesn't like eating roast duck.
+他不喜欢吃沙拉 : tā bù xǐhuan chī shālā : He doesn't like eating salad.
+他不喜欢吃蔬菜 : tā bù xǐhuan chī shūcài : He doesn't like eating vegetables.
+他不喜欢吃蛋糕 : tā bù xǐhuan chī dàngāo : He doesn't like eating cake.
+他不喜欢吃面包 : tā bù xǐhuan chī miànbāo : He doesn't like eating bread.
+她每天早上喝茶 : tā měitiān zǎoshang hē chá : She drinks tea every morning.
+她每天早上喝咖啡 : tā měitiān zǎoshang hē kāfēi : She drinks coffee every morning.
+她每天早上喝水 : tā měitiān zǎoshang hē shuǐ : She drinks water every morning.
+她每天早上喝牛奶 : tā měitiān zǎoshang hē niúnǎi : She drinks milk every morning.
+她每天早上喝桔子水 : tā měitiān zǎoshang hē júzishuǐ : She drinks orange juice every morning.
+她每天早上喝啤酒 : tā měitiān zǎoshang hē píjiǔ : She drinks beer every morning.
+她每天早上喝葡萄酒 : tā měitiān zǎoshang hē pútáojiǔ : She drinks wine every morning.
+她每天早上喝汤 : tā měitiān zǎoshang hē tāng : She drinks soup every morning.
+她每天早上喝可口可乐 : tā měitiān zǎoshang hē kěkǒukělè : She drinks cola every morning.
+她每天早上喝热水 : tā měitiān zǎoshang hē rèshuǐ : She drinks hot water every morning.
+这个书很有用 : zhège shū hěn yǒu yòng : This book is very useful.
+这个词典很有用 : zhège cídiǎn hěn yǒu yòng : This dictionary is very useful.
+这个杂志很有用 : zhège zázhì hěn yǒu yòng : This magazine is very useful.
+这个报纸很有用 : zhège bàozhǐ hěn yǒu yòng : This newspaper is very useful.
+这个照片很有用 : zhège zhàopiàn hěn yǒu yòng : This photograph is very useful.
+这个地图很有用 : zhège dìtú hěn yǒu yòng : This map is very useful.
+这个手机很有用 : zhège shǒujī hěn yǒu yòng : This mobile phone is very useful.
+这个手表很有用 : zhège shǒubiǎo hěn yǒu yòng : This watch is very useful.
+这个笔很有用 : zhège bǐ hěn yǒu yòng : This pen is very useful.
+这个本子很有用 : zhège běnzi hěn yǒu yòng : This notebook is very useful.
+我不知道哪里可以买衬衫 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi chènshān : I don't know where I can buy shirt.
+我不知道哪里可以买毛衣 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi máoyī : I don't know where I can buy jumper.
+我不知道哪里可以买夹克衫 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi jiākèshān : I don't know where I can buy jacket.
+我不知道哪里可以买裤子 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi kùzi : I don't know where I can buy trousers.
+我不知道哪里可以买牛仔裤 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi niúzǐkù : I don't know where I can buy jeans.
+我不知道哪里可以买裙子 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi qúnzi : I don't know where I can buy skirt.
+我不知道哪里可以买帽子 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi màozi : I don't know where I can buy hat.
+我不知道哪里可以买皮鞋 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi píxié : I don't know where I can buy leather shoes.
+我不知道哪里可以买布鞋 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi bùxié : I don't know where I can buy cloth shoes.
+我不知道哪里可以买袜子 : wǒ bù zhīdào nǎlǐ kěyǐ mǎi wàzi : I don't know where I can buy socks.
+请问那位老师叫什么名字 : qǐng wèn nà wèi lǎoshī jiào shénme míngzi : Please ask what that teacher is called.
+请问那位教授叫什么名字 : qǐng wèn nà wèi jiàoshòu jiào shénme míngzi : Please ask what that professor is called.
+请问那位医生叫什么名字 : qǐng wèn nà wèi yīshēng jiào shénme míngzi : Please ask what that doctor is called.
+请问那位护士叫什么名字 : qǐng wèn nà wèi hùshì jiào shénme míngzi : Please ask what that nurse is called.
+请问那位工程师叫什么名字 : qǐng wèn nà wèi gōngchéngshī jiào shénme míngzi : Please ask what that engineer is called.
+请问那位记者叫什么名字 : qǐng wèn nà wèi jìzhě jiào shénme míngzi : Please ask what that journalist is called.
+请问那位律师叫什么名字 : qǐng wèn nà wèi lǜshī jiào shénme míngzi : Please ask what that lawyer is called.
+请问那位经理叫什么名字 : qǐng wèn nà wèi jīnglǐ jiào shénme míngzi : Please ask what that manager is called.
+请问那位学生叫什么名字 : qǐng wèn nà wèi xuésheng jiào shénme míngzi : Please ask what that student is called.
+请问那位服务员叫什么名字 : qǐng wèn nà wèi fúwùyuán jiào shénme míngzi : Please ask what that waiter is called.
+学习中文需要时间 : xuéxí Zhōngwén xūyào shíjiān : Studying Chinese takes time.
+学习英语需要时间 : xuéxí Yīngyǔ xūyào shíjiān : Studying English takes time.
+学习数学需要时间 : xuéxí shùxué xūyào shíjiān : Studying mathematics takes time.
+学习物理需要时间 : xuéxí wùlǐ xūyào shíjiān : Studying physics takes time.
+学习化学需要时间 : xuéxí huàxué xūyào shíjiān : Studying chemistry takes time.
+学习历史需要时间 : xuéxí lìshǐ xūyào shíjiān : Studying history takes time.
+学习地理需要时间 : xuéxí dìlǐ xūyào shíjiān : Studying geography takes time.
+学习语法需要时间 : xuéxí yǔfǎ xūyào shíjiān : Studying grammar takes time.
+学习科学需要时间 : xuéxí kēxué xūyào shíjiān : Studying science takes time.
+学习艺术需要时间 : xuéxí yìshù xūyào shíjiān : Studying art takes time.
+我不同意这个问题 : wǒ bù tóngyì zhège wèntí : I don't agree with this problem.
+我不同意这个办法 : wǒ bù tóngyì zhège bànfǎ : I don't agree with this method.
+我不同意这个计划 : wǒ bù tóngyì zhège jìhuà : I don't agree with this plan.
+我不同意这个决定 : wǒ bù tóngyì zhège juédìng : I don't agree with this decision.
+我不同意这个结果 : wǒ bù tóngyì zhège jiéguǒ : I don't agree with this result.
+我不同意这个原因 : wǒ bù tóngyì zhège yuányīn : I don't agree with this reason.
+我不同意这个想法 : wǒ bù tóngyì zhège xiǎngfǎ : I don't agree with this idea.
+我不同意这个建议 : wǒ bù tóngyì zhège jiànyì : I don't agree with this suggestion.
+我不同意这个意见 : wǒ bù tóngyì zhège yìjiàn : I don't agree with this opinion.
+我不同意这个解释 : wǒ bù tóngyì zhège jiěshì : I don't agree with this explanation.
+我昨天给我的父亲打电话了 : wǒ zuótiān gěi wǒ de fùqīn dǎdiànhuà le : I phoned my father yesterday.
+我昨天给我的母亲打电话了 : wǒ zuótiān gěi wǒ de mǔqīn dǎdiànhuà le : I phoned my mother yesterday.
+我昨天给我的哥哥打电话了 : wǒ zuótiān gěi wǒ de gēge dǎdiànhuà le : I phoned my older brother yesterday.
+我昨天给我的姐姐打电话了 : wǒ zuótiān gěi wǒ de jiějie dǎdiànhuà le : I phoned my older sister yesterday.
+我昨天给我的弟弟打电话了 : wǒ zuótiān gěi wǒ de dìdi dǎdiànhuà le : I phoned my younger brother yesterday.
+我昨天给我的妹妹打电话了 : wǒ zuótiān gěi wǒ de mèimei dǎdiànhuà le : I phoned my younger sister yesterday.
+我昨天给我的爷爷打电话了 : wǒ zuótiān gěi wǒ de yéye dǎdiànhuà le : I phoned my grandfather yesterday.
+我昨天给我的奶奶打电话了 : wǒ zuótiān gěi wǒ de nǎinǎi dǎdiànhuà le : I phoned my grandmother yesterday.
+我昨天给我的舅舅打电话了 : wǒ zuótiān gěi wǒ de jiùjiu dǎdiànhuà le : I phoned my uncle yesterday.
+我昨天给我的姨打电话了 : wǒ zuótiān gěi wǒ de yí dǎdiànhuà le : I phoned my aunt yesterday.

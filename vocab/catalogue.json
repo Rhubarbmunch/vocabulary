@@ -28,6 +28,41 @@
     "description": "Vocabulary (1326 words) from Chinese Course Book 1"
  },
  {
+    "id": "chinese_phrases_1",
+    "name": "Chinese_phrases_1",
+    "language": "Chinese",
+    "file": "chinese_phrases_1-1000.txt",
+    "description": "First 1000 Chinese phrases"
+ },
+ {
+    "id": "chinese_phrases_2",
+    "name": "Chinese_phrases_2",
+    "language": "Chinese",
+    "file": "chinese_phrases_2001-3015.txt",
+    "description": "Second 1000 Chinese phrases"
+ },
+ {
+    "id": "chinese_sentences_1",
+    "name": "chinese_sentences_1",
+    "language": "Chinese",
+    "file": "chinese_sentences_2001-3015.txt",
+    "description": "First 1000 Chinese sentences"
+ },
+ {
+    "id": "chinese_sentences_2",
+    "name": "chinese_sentences_2",
+    "language": "Chinese",
+    "file": "chinese_sentences_3016-3349.txt",
+    "description": "300 Chinese sentences"
+ },
+ {
+    "id": "chinese_sentences_3",
+    "name": "chinese_sentences_3",
+    "language": "Chinese",
+    "file": "chinese_sentences_3350-3681.txt",
+    "description": "300 more Chinese sentences"
+ },
+ {
     "id": "czech_350",
     "name": "czech_350",
     "language": "Czech",
